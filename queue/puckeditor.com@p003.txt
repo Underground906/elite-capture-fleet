@@ -1,0 +1,12 @@
+37	https://puckeditor.com/blog/puck-ai-closed-beta
+38	https://puckeditor.com/blog/revolutionizing-drag-and-drop-in-react-introducing-puck-018
+39	https://puckeditor.com/blog/top-5-ai-tools-for-ui-generation
+40	https://puckeditor.com/blog/top-5-drag-and-drop-libraries-for-react
+41	https://puckeditor.com/blog/top-8-ai-libraries-for-react
+42	https://puckeditor.com/blog/upgrading-to-puck-019
+43	https://puckeditor.com/blog/upgrading-to-puck-020
+44	https://puckeditor.com/blog/upgrading-to-puck-021
+45	https://puckeditor.com/blog/upgrading-to-puck-022
+46	https://puckeditor.com/blog/upgrading-to-puck-023
+47	https://puckeditor.com/blog/upgrading-to-puck-024
+48	https://puckeditor.com/blog/using-css-variables-to-create-dynamic-themes-in-puck

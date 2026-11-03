@@ -1,0 +1,12 @@
+157	https://shopify.com/uk/resources/acing-ecommerce-southeast-asia-marketplaces-dtc
+158	https://shopify.com/resources/auto-parts-report
+159	https://shopify.com/resources/b2b-ecommerce
+160	https://shopify.com/uk/resources/b2b-ecommerce
+161	https://shopify.com/uk/blog
+162	https://shopify.com/blog/email-marketing
+163	https://shopify.com/contact
+164	https://shopify.com/uk/contact
+165	https://shopify.com/SKILL.md
+166	https://shopify.com/accessibility
+167	https://shopify.com/uk/accessibility
+168	https://shopify.com/affiliate-active-confirmation

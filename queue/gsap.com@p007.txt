@@ -1,0 +1,12 @@
+85	https://gsap.com/docs/v3/GSAP/gsap.timeline()
+86	https://gsap.com/docs/v3/GSAP/gsap.to()
+87	https://gsap.com/docs/v3/GSAP/gsap.updateRoot()
+88	https://gsap.com/docs/v3/GSAP/gsap.utils
+89	https://gsap.com/docs/v3/GSAP/gsap.version
+90	https://gsap.com/docs/v3/MotionPathHelper/kill()
+91	https://gsap.com/docs/v3/MotionPathHelper/static.editPath()
+92	https://gsap.com/docs/v3/Plugins/CSSRulePlugin
+93	https://gsap.com/docs/v3/Plugins/EaselPlugin
+94	https://gsap.com/docs/v3/Plugins/PixiPlugin
+95	https://gsap.com/docs/v3/GSAP/CorePlugins/Attributes
+96	https://gsap.com/docs/v3/GSAP/CorePlugins/CSS

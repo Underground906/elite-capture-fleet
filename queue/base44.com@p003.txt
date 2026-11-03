@@ -1,0 +1,12 @@
+37	https://base44.com/ai-agent-builder
+38	https://base44.com/ai-game-maker
+39	https://base44.com/ai-website-builder
+40	https://base44.com/base-code
+41	https://base44.com/community
+42	https://base44.com/guides
+43	https://base44.com/students
+44	https://base44.com/templates
+45	https://base44.com/vibe-coding-platform
+46	https://base44.com/community/events
+47	https://base44.com/guides/app-monetization-ideas
+48	https://base44.com/guides/build-a-project-management-app

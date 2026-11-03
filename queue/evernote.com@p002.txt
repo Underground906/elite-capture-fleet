@@ -1,0 +1,12 @@
+25	https://evernote.com/client/web
+26	https://evernote.com/en-us/download
+27	https://evernote.com/en-us/blog
+28	https://evernote.com/en-us/contact
+29	https://evernote.com/en-us/integrations
+30	https://evernote.com/release-notes
+31	https://evernote.com/en-us/security
+32	https://evernote.com/sitemap
+33	https://evernote.com/templates
+34	https://evernote.com/en-us/unidays
+35	https://evernote.com/en-us/resources/find-an-expert
+36	https://evernote.com/features

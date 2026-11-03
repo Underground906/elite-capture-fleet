@@ -1,0 +1,9 @@
+193	https://shopify.com/partners/blog
+194	https://shopify.com/uk/partners/blog
+195	https://shopify.com/sitemap/case-studies
+196	https://shopify.com/uk/sitemap/case-studies
+197	https://shopify.com/sitemap/core-blog
+198	https://shopify.com/uk/sitemap/core-blog
+199	https://shopify.com/sitemap/enterprise-blog
+200	https://shopify.com/webinar/ai-seo-agentic-commerce
+201	https://shopify.com/compare/tco/webinar

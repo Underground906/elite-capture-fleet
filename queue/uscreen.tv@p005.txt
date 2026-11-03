@@ -1,0 +1,12 @@
+61	https://uscreen.tv/resources/copy-sells-video-content
+62	https://uscreen.tv/case-studies/abundance-plus
+63	https://uscreen.tv/case-studies/backbody-project
+64	https://uscreen.tv/case-studies/big-picture-skiing
+65	https://uscreen.tv/case-studies/body-by-barre
+66	https://uscreen.tv/apple-watch-fitness-tracker
+67	https://uscreen.tv/arketa-migration-guide
+68	https://uscreen.tv/built-for-this-livestream
+69	https://uscreen.tv/kajabi-migration-guide
+70	https://uscreen.tv/launch-education-membership
+71	https://uscreen.tv/launch-fitness-app
+72	https://uscreen.tv/launch-membership

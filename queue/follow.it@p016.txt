@@ -1,0 +1,12 @@
+193	https://follow.it/docs/publishers/account-management/how-can-i-cancel-my-premium-membership
+194	https://follow.it/docs/publishers/account-management/how-can-i-change-my-email-address
+195	https://follow.it/docs/publishers/account-management/how-can-i-change-my-username
+196	https://follow.it/docs/publishers/account-management/how-can-i-change-the-name-of-my-feed
+197	https://follow.it/docs/publishers/account-management/how-can-i-delete-a-feed
+198	https://follow.it/docs/publishers/account-management/how-can-i-delete-my-user-account
+199	https://follow.it/docs/publishers/account-management/i-cannot-login-to-my-account-d-why
+200	https://follow.it/docs/publishers/account-management/i-forgot-my-password-what-shall-i-do
+201	https://follow.it/docs/publishers/account-management/i-removed-the-follow-it-option-from-my-website-but-my-followers-still-receive-messages-from-follow-it-why
+202	https://follow.it/docs/publishers/account-management/in-which-languages-do-you-provide-support
+203	https://follow.it/docs/publishers/account-management/why-is-there-the-same-feed-twice-once-with-a-1-or-2-at-the-end-of-the-feed-name
+204	https://follow.it/docs/publishers/getting-followers/can-i-make-my-feed-show-up-in-the-follow-it-directory

@@ -1,0 +1,12 @@
+49	https://yoodli.ai/partners/become-a-partner
+50	https://yoodli.ai/coach-directory/adeseye-omole
+51	https://yoodli.ai/coach-directory/akshat-shrivastava
+52	https://yoodli.ai/coach-directory/aleksandra-szczepaniak
+53	https://yoodli.ai/coach-directory/alex-fairlie
+54	https://yoodli.ai/coach-directory/andrew-churchill
+55	https://yoodli.ai/glossary/category/ai-roleplay-and-coaching
+56	https://yoodli.ai/glossary/category/communication-skills
+57	https://yoodli.ai/glossary/category/customer-support
+58	https://yoodli.ai/glossary/category/fde-and-post-sale
+59	https://yoodli.ai/feature-announcements/from-release-to-rep-ready-how-we-built-enablement-that-moves-at-the-speed-of-your-product
+60	https://yoodli.ai/feature-announcements/from-your-calls-to-your-practice-how-post-call-coaching-turns-your-gong-calls-into-a-personal-ai-coach

@@ -1,0 +1,12 @@
+301	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.stringToRawPath
+302	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.arrayToRawPath()
+303	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.convertCoordinates()
+304	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.convertToPath()
+305	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getAlignMatrix()
+306	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getGlobalMatrix()
+307	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getLength()
+308	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getPositionOnPath()
+309	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getRawPath()
+310	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.getRelativePosition()
+311	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.rawPathToString()
+312	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.sliceRawPath()

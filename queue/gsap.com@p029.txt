@@ -1,0 +1,12 @@
+349	https://gsap.com/docs/v3/Plugins/ScrollSmoother/vars
+350	https://gsap.com/docs/v3/Plugins/ScrollSmoother/wrapper()
+351	https://gsap.com/docs/v3/Plugins/ScrollToPlugin/config()
+352	https://gsap.com/docs/v3/Plugins/ScrollTrigger/animation
+353	https://gsap.com/docs/v3/Plugins/ScrollTrigger/direction
+354	https://gsap.com/docs/v3/Plugins/ScrollTrigger/disable()
+355	https://gsap.com/docs/v3/Plugins/ScrollTrigger/enable()
+356	https://gsap.com/docs/v3/Plugins/ScrollTrigger/end
+357	https://gsap.com/docs/v3/Plugins/ScrollTrigger/getTween()
+358	https://gsap.com/docs/v3/Plugins/ScrollTrigger/getVelocity()
+359	https://gsap.com/docs/v3/Plugins/ScrollTrigger/isActive
+360	https://gsap.com/docs/v3/Plugins/ScrollTrigger/kill()

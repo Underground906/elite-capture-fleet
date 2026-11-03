@@ -1,0 +1,12 @@
+13	https://shopify.com/catalog
+14	https://shopify.com/pos
+15	https://shopify.com/shop
+16	https://shopify.com/channels
+17	https://shopify.com/international
+18	https://shopify.com/solutions/b2b/enterprise
+19	https://shopify.com/markets
+20	https://shopify.com/marketing
+21	https://shopify.com/marketing-automation-tools
+22	https://shopify.com/discounts
+23	https://shopify.com/analytics
+24	https://shopify.com/test-and-launch

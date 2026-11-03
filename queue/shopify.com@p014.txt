@@ -1,0 +1,12 @@
+169	https://shopify.com/uk/affiliates
+170	https://shopify.com/agentic-plan
+171	https://shopify.com/uk/climate
+172	https://shopify.com/uk/compare
+173	https://shopify.com/uk/partners
+174	https://shopify.com/uk/sitemap
+175	https://shopify.com/webinar
+176	https://shopify.com/webinars
+177	https://shopify.com/climate/sustainability-fund
+178	https://shopify.com/uk/climate/sustainability-fund
+179	https://shopify.com/compare/bigcommerce-vs-salesforce-vs-shopify
+180	https://shopify.com/uk/compare/bigcommerce-vs-salesforce-vs-shopify

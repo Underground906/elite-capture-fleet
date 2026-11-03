@@ -1,0 +1,12 @@
+1	https://uscreen.tv/
+2	https://uscreen.tv/request-demo
+3	https://uscreen.tv/app-builder
+4	https://uscreen.tv/live-streaming-platform
+5	https://uscreen.tv/video-experience
+6	https://uscreen.tv/community-features
+7	https://uscreen.tv/membership-tools
+8	https://uscreen.tv/video-monetization
+9	https://uscreen.tv/on-demand-demo
+10	https://uscreen.tv/examples
+11	https://uscreen.tv/examples/elearning
+12	https://uscreen.tv/examples/entertainment

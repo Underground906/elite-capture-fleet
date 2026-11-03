@@ -1,0 +1,12 @@
+313	https://gsap.com/docs/v3/Plugins/MotionPathPlugin/static.stringToRawPath()
+314	https://gsap.com/docs/v3/Plugins/Observer/deltaX
+315	https://gsap.com/docs/v3/Plugins/Observer/deltaY
+316	https://gsap.com/docs/v3/Plugins/Observer/disable()
+317	https://gsap.com/docs/v3/Plugins/Observer/enable()
+318	https://gsap.com/docs/v3/Plugins/Observer/event
+319	https://gsap.com/docs/v3/Plugins/Observer/isDragging
+320	https://gsap.com/docs/v3/Plugins/Observer/isEnabled
+321	https://gsap.com/docs/v3/Plugins/Observer/isPressed
+322	https://gsap.com/docs/v3/Plugins/Observer/kill()
+323	https://gsap.com/docs/v3/Plugins/Observer/startX
+324	https://gsap.com/docs/v3/Plugins/Observer/startY

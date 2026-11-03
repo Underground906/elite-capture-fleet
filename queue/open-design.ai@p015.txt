@@ -1,0 +1,12 @@
+181	https://open-design.ai/showcase/product-launch-motion-video-design
+182	https://open-design.ai/showcase/product-presentation-design
+183	https://open-design.ai/showcase/product-promo-motion-design
+184	https://open-design.ai/showcase/product-waitlist-website-design
+185	https://open-design.ai/showcase/quarterly-financial-report-design
+186	https://open-design.ai/showcase/quarterly-okr-dashboard-design
+187	https://open-design.ai/showcase/quote-sharing-card-design
+188	https://open-design.ai/showcase/raymarched-sculpture-shader-design
+189	https://open-design.ai/showcase/relationship-analytics-dashboard-design
+190	https://open-design.ai/showcase/repository-metrics-dashboard-design
+191	https://open-design.ai/showcase/restaurant-reservation-website-design
+192	https://open-design.ai/showcase/resume-website-design

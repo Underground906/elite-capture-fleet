@@ -1,0 +1,12 @@
+133	https://puckeditor.com/docs/api-reference/fields/richtext
+134	https://puckeditor.com/docs/api-reference/fields/select
+135	https://puckeditor.com/docs/api-reference/fields/slot
+136	https://puckeditor.com/docs/api-reference/fields/text
+137	https://puckeditor.com/docs/api-reference/fields/textarea
+138	https://puckeditor.com/docs/api-reference/functions/migrate
+139	https://puckeditor.com/docs/api-reference/functions/register-overlay-portal
+140	https://puckeditor.com/docs/api-reference/functions/resolve-all-data
+141	https://puckeditor.com/docs/api-reference/functions/set-deep
+142	https://puckeditor.com/docs/api-reference/functions/transform-props
+143	https://puckeditor.com/docs/api-reference/functions/use-get-puck
+144	https://puckeditor.com/docs/api-reference/functions/use-puck

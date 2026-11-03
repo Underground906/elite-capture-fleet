@@ -1,0 +1,12 @@
+85	https://coachhub.com/en/demo-request-thank-you
+86	https://coachhub.com/demo-request-thank-you
+87	https://coachhub.com/en/diversity-equity-and-inclusion
+88	https://coachhub.com/en/education
+89	https://coachhub.com/en/employee-retention-programme
+90	https://coachhub.com/en/financial-services-coaching
+91	https://coachhub.com/en/forrester-study
+92	https://coachhub.com/forrester-study
+93	https://coachhub.com/en/healthcare-social-work
+94	https://coachhub.com/en/hubspot-thank-you-page
+95	https://coachhub.com/hubspot-thank-you-page
+96	https://coachhub.com/en/impact-of-coaching

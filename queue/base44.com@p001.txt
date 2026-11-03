@@ -1,0 +1,12 @@
+13	https://docs.base44.com/changelog/product
+14	https://base44.com/use-cases
+15	https://base44.com/developers
+16	https://base44.com/ai-app-builder
+17	https://base44.com/website-builder
+18	https://base44.com/highered
+19	https://base44.com/blog
+20	https://base44.com/hire-a-partner
+21	https://base44.com/integrations/connectors/discord
+22	https://base44.com/integrations/connectors/gmail
+23	https://base44.com/use-cases/categories/business-intelligence-and-analytics
+24	https://base44.com/use-cases/categories/crm

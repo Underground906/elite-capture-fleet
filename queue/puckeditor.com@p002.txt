@@ -1,0 +1,12 @@
+25	https://puckeditor.com/blog/puck-020
+26	https://puckeditor.com/blog/puck-021
+27	https://puckeditor.com/blog/puck-022
+28	https://puckeditor.com/blog/puck-023
+29	https://puckeditor.com/blog/puck-024
+30	https://puckeditor.com/blog/puck-ai
+31	https://puckeditor.com/blog/puck-ai-03
+32	https://puckeditor.com/blog/puck-ai-04
+33	https://puckeditor.com/blog/puck-ai-05
+34	https://puckeditor.com/blog/puck-ai-06
+35	https://puckeditor.com/blog/puck-ai-07
+36	https://puckeditor.com/blog/puck-ai-08

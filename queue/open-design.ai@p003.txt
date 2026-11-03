@@ -1,0 +1,12 @@
+37	https://open-design.ai/alternatives/base44
+38	https://open-design.ai/alternatives/bolt
+39	https://open-design.ai/alternatives/canva
+40	https://open-design.ai/alternatives/claude-design
+41	https://open-design.ai/alternatives/cursor
+42	https://open-design.ai/solutions/ai-landing-page-generator
+43	https://open-design.ai/solutions/ai-prototype-generator
+44	https://open-design.ai/solutions/ai-ui-generator
+45	https://open-design.ai/solutions/ai-website-builder
+46	https://open-design.ai/solutions/ai-wireframe-generator
+47	https://open-design.ai/solutions/ai-website-builder/affiliate-marketing
+48	https://open-design.ai/solutions/ai-website-builder/agencies

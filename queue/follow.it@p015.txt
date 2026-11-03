@@ -1,0 +1,12 @@
+181	https://follow.it/publishers/features-and-pricing
+182	https://follow.it/readers/features-and-pricing
+183	https://follow.it/docs/publishers/account-management
+184	https://follow.it/docs/publishers/getting-followers
+185	https://follow.it/docs/publishers/getting-started
+186	https://follow.it/docs/publishers/introduction
+187	https://follow.it/docs/publishers/sending-messages
+188	https://follow.it/docs/readers/account-management
+189	https://follow.it/docs/readers/following-feeds
+190	https://follow.it/docs/readers/intro
+191	https://follow.it/docs/readers/receiving-messages
+192	https://follow.it/docs/publishers/account-management/how-can-i-access-my-followers-emails

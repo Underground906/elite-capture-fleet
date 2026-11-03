@@ -1,0 +1,12 @@
+1	https://yoodli.ai/
+2	https://yoodli.ai/talk-to-sales
+3	https://yoodli.ai/platform/coach
+4	https://yoodli.ai/platform/create
+5	https://yoodli.ai/platform/measure
+6	https://yoodli.ai/platform/personas
+7	https://yoodli.ai/platform/roleplays
+8	https://yoodli.ai/for-business/corporate-communications
+9	https://yoodli.ai/for-business/engineering
+10	https://yoodli.ai/for-business/leadership
+11	https://yoodli.ai/for-business/learning-and-development
+12	https://yoodli.ai/for-business/revenue-teams

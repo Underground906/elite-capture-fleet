@@ -1,0 +1,12 @@
+301	https://follow.it/docs/readers/following-feeds/what-does-quickfollow-mean
+302	https://follow.it/docs/readers/following-feeds/where-do-i-find-a-website-s-rss-feed
+303	https://follow.it/docs/readers/following-feeds/which-feeds-shall-i-follow
+304	https://follow.it/docs/readers/intro/do-my-contact-details-stay-safe
+305	https://follow.it/docs/readers/intro/how-does-it-work
+306	https://follow.it/docs/readers/intro/how-many-messages-will-i-receive
+307	https://follow.it/docs/readers/intro/what-does-it-cost
+308	https://follow.it/docs/readers/intro/what-is-a-feed-on-follow-it
+309	https://follow.it/docs/readers/intro/what-is-follow-it-and-why-shall-i-use-it
+310	https://follow.it/docs/readers/intro/what-is-rss
+311	https://follow.it/docs/readers/receiving-messages/how-can-i-receive-messages-delivery-channels
+312	https://follow.it/docs/readers/receiving-messages/how-can-i-remove-the-suggested-reading-section-from-the-emails

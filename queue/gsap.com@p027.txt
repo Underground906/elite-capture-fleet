@@ -1,0 +1,12 @@
+325	https://gsap.com/docs/v3/Plugins/Observer/static.create()
+326	https://gsap.com/docs/v3/Plugins/Observer/static.getAll()
+327	https://gsap.com/docs/v3/Plugins/Observer/static.getById()
+328	https://gsap.com/docs/v3/Plugins/Observer/static.isTouch
+329	https://gsap.com/docs/v3/Plugins/Observer/target
+330	https://gsap.com/docs/v3/Plugins/Observer/vars
+331	https://gsap.com/docs/v3/Plugins/Observer/velocityX
+332	https://gsap.com/docs/v3/Plugins/Observer/velocityY
+333	https://gsap.com/docs/v3/Plugins/Observer/x
+334	https://gsap.com/docs/v3/Plugins/Observer/y
+335	https://gsap.com/docs/v3/Plugins/PixiPlugin/static.registerPIXI()
+336	https://gsap.com/docs/v3/Plugins/ScrollSmoother/content()

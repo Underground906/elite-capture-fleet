@@ -1,0 +1,12 @@
+61	https://gsap.com/docs/v3/GSAP/gsap.config()
+62	https://gsap.com/docs/v3/GSAP/gsap.context()
+63	https://gsap.com/docs/v3/GSAP/gsap.defaults()
+64	https://gsap.com/docs/v3/GSAP/gsap.delayedCall()
+65	https://gsap.com/docs/v3/GSAP/gsap.effects
+66	https://gsap.com/docs/v3/GSAP/gsap.exportRoot()
+67	https://gsap.com/docs/v3/GSAP/gsap.from()
+68	https://gsap.com/docs/v3/GSAP/gsap.fromTo()
+69	https://gsap.com/docs/v3/GSAP/gsap.getById()
+70	https://gsap.com/docs/v3/GSAP/gsap.getProperty()
+71	https://gsap.com/docs/v3/GSAP/gsap.getTweensOf()
+72	https://gsap.com/docs/v3/GSAP/gsap.globalTimeline

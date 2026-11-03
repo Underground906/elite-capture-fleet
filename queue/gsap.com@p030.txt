@@ -1,0 +1,12 @@
+361	https://gsap.com/docs/v3/Plugins/ScrollTrigger/labelToScroll()
+362	https://gsap.com/docs/v3/Plugins/ScrollTrigger/next()
+363	https://gsap.com/docs/v3/Plugins/ScrollTrigger/pin
+364	https://gsap.com/docs/v3/Plugins/ScrollTrigger/previous()
+365	https://gsap.com/docs/v3/Plugins/ScrollTrigger/progress
+366	https://gsap.com/docs/v3/Plugins/ScrollTrigger/refresh()
+367	https://gsap.com/docs/v3/Plugins/ScrollTrigger/scroll()
+368	https://gsap.com/docs/v3/Plugins/ScrollTrigger/scroller
+369	https://gsap.com/docs/v3/Plugins/ScrollTrigger/start
+370	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.addEventListener()
+371	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.batch()
+372	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.clearMatchMedia()

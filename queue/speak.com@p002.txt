@@ -1,0 +1,12 @@
+25	https://speak.com/archived/affiliate-archived
+26	https://speak.com/blog-hk/hk-english-learning-apps
+27	https://speak.com/blog-hk/hk-learn-english-with-ai
+28	https://speak.com/blog-hk/hk-speak-reviews
+29	https://speak.com/blog-tw/best-english-speaking-apps-comparison
+30	https://speak.com/blog-tw/business-english-speaking-guide
+31	https://speak.com/blog-tw/computex-2026-english-speaking
+32	https://speak.com/blog-tw/english-job-interview-guide
+33	https://speak.com/blog-tw/english-meeting-presentation-guide
+34	https://speak.com/cn/gift
+35	https://speak.com/conversation-lists/01-meeting-people
+36	https://speak.com/conversation-lists/02-travel-begins

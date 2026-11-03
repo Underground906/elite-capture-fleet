@@ -1,0 +1,12 @@
+109	https://open-design.ai/craft/accessibility-baseline
+110	https://open-design.ai/craft/animation-discipline
+111	https://open-design.ai/craft/anti-ai-slop
+112	https://open-design.ai/craft/color
+113	https://open-design.ai/craft/form-validation
+114	https://open-design.ai/opendesign-hackathon/showcase/courrier-110-interactive-3d
+115	https://open-design.ai/opendesign-hackathon/showcase/gomovie-festival-companion
+116	https://open-design.ai/opendesign-hackathon/showcase/kelvin-muse-spark-artwork
+117	https://open-design.ai/showcase/art-history-logo-motion-video-design
+118	https://open-design.ai/showcase/aurora-field-shader-design
+119	https://open-design.ai/showcase/aurora-veil-shader-design
+120	https://open-design.ai/showcase/authentication-product-specification-design

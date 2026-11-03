@@ -1,0 +1,12 @@
+13	https://gsap.com/docs/v3
+14	https://gsap.com/docs/v3/Installation
+15	https://gsap.com/docs/v3/Plugins
+16	https://gsap.com/docs/v3/Plugins/Draggable
+17	https://gsap.com/docs/v3/Plugins/DrawSVGPlugin
+18	https://gsap.com/docs/v3/Plugins/Flip
+19	https://gsap.com/docs/v3/Plugins/GSDevTools
+20	https://gsap.com/docs/v3/Plugins/InertiaPlugin
+21	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin
+22	https://gsap.com/docs/v3/Plugins/MotionPathHelper
+23	https://gsap.com/docs/v3/Plugins/MotionPathPlugin
+24	https://gsap.com/docs/v3/Plugins/Observer

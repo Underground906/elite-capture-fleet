@@ -1,0 +1,12 @@
+433	https://gsap.com/resources/react-basics
+434	https://gsap.com/resources/st-mistakes
+435	https://gsap.com/resources/svg
+436	https://gsap.com/resources/getting-started/Easing
+437	https://gsap.com/resources/getting-started/Staggers
+438	https://gsap.com/resources/getting-started/control
+439	https://gsap.com/resources/getting-started/timelines
+440	https://gsap.com/blog/3-1
+441	https://gsap.com/blog/3-10
+442	https://gsap.com/blog/3-11
+443	https://gsap.com/blog/3-12
+444	https://gsap.com/blog/3-13

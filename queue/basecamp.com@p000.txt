@@ -1,0 +1,12 @@
+1	https://basecamp.com/
+2	https://basecamp.com/pricing
+3	https://basecamp.com/5
+4	https://basecamp.com/features
+5	https://basecamp.com/paths
+6	https://basecamp.com/agents
+7	https://basecamp.com/reliable
+8	https://basecamp.com/live
+9	https://basecamp.com/about
+10	https://basecamp.com/accessibility
+11	https://basecamp.com/apps
+12	https://basecamp.com/before-and-after

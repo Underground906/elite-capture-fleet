@@ -1,0 +1,12 @@
+25	https://coachhub.com/resources/webinars
+26	https://coachhub.com/blogs
+27	https://resources.coachhub.com/en-us/research-report
+28	https://coachhub.com/about-us
+29	https://coachhub.com/news-press
+30	https://coachhub.com/esg
+31	https://coachhub.com/coachhub4good
+32	https://coachhub.com/career
+33	https://coachhub.com/for-coaches
+34	https://coachhub.com/en
+35	https://coachhub.com/education
+36	https://coachhub.com/employee-retention-program

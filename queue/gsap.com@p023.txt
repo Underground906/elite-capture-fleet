@@ -1,0 +1,12 @@
+277	https://gsap.com/docs/v3/Plugins/Draggable/x
+278	https://gsap.com/docs/v3/Plugins/Draggable/y
+279	https://gsap.com/docs/v3/Plugins/Draggable/zIndex
+280	https://gsap.com/docs/v3/Plugins/DrawSVGPlugin/static.getLength()
+281	https://gsap.com/docs/v3/Plugins/DrawSVGPlugin/static.getPosition()
+282	https://gsap.com/docs/v3/Plugins/Flip/static.batch()
+283	https://gsap.com/docs/v3/Plugins/Flip/static.fit()
+284	https://gsap.com/docs/v3/Plugins/Flip/static.from()
+285	https://gsap.com/docs/v3/Plugins/Flip/static.getState()
+286	https://gsap.com/docs/v3/Plugins/Flip/static.isFlipping()
+287	https://gsap.com/docs/v3/Plugins/Flip/static.killFlipsOf()
+288	https://gsap.com/docs/v3/Plugins/Flip/static.makeAbsolute()

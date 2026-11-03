@@ -1,0 +1,12 @@
+1	https://evernote.com/
+2	https://evernote.com/en-us
+3	https://evernote.com/en-us/features/ai-features
+4	https://evernote.com/en-us/features/calendar
+5	https://evernote.com/en-us/features/collaboration
+6	https://evernote.com/en-us/features/document-scanning
+7	https://evernote.com/en-us/features/home
+8	https://evernote.com/en-us/why-evernote
+9	https://evernote.com/en-us/personal
+10	https://evernote.com/en-us/professional
+11	https://evernote.com/en-us/whats-new
+12	https://evernote.com/ai-transcribe

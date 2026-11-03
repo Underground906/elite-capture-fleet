@@ -1,0 +1,12 @@
+13	https://basecamp.com/books
+14	https://basecamp.com/bootstrapped
+15	https://basecamp.com/breakfast
+16	https://basecamp.com/classes
+17	https://basecamp.com/cloud-exit
+18	https://basecamp.com/community
+19	https://basecamp.com/customers
+20	https://basecamp.com/discounts
+21	https://basecamp.com/gettingreal
+22	https://basecamp.com/handbook
+23	https://basecamp.com/help
+24	https://basecamp.com/hill-charts

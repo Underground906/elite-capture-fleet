@@ -1,0 +1,12 @@
+169	https://puckeditor.com/docs/api-reference/theming/fields
+170	https://puckeditor.com/docs/api-reference/theming/global
+171	https://puckeditor.com/docs/api-reference/theming/header
+172	https://puckeditor.com/docs/api-reference/theming/icon-button
+173	https://puckeditor.com/docs/api-reference/theming/outline
+174	https://puckeditor.com/docs/api-reference/theming/plugin-bar
+175	https://puckeditor.com/docs/api-reference/theming/sidebar
+176	https://puckeditor.com/docs/api-reference/theming/slot
+177	https://puckeditor.com/docs/guides/migrations/dropzones-to-slots
+178	https://puckeditor.com/docs/api-reference/ai/ai-plugin/create-ai-plugin
+179	https://puckeditor.com/docs/api-reference/ai/ai-plugin/installation
+180	https://puckeditor.com/docs/api-reference/ai/ai-plugin/with-dynamic-config

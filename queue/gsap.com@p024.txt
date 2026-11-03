@@ -1,0 +1,12 @@
+289	https://gsap.com/docs/v3/Plugins/Flip/static.to()
+290	https://gsap.com/docs/v3/Plugins/GSDevTools/static.create()
+291	https://gsap.com/docs/v3/Plugins/InertiaPlugin/VelocityTracker
+292	https://gsap.com/docs/v3/Plugins/InertiaPlugin/static.getVelocity()
+293	https://gsap.com/docs/v3/Plugins/InertiaPlugin/static.isTracking()
+294	https://gsap.com/docs/v3/Plugins/InertiaPlugin/static.track()
+295	https://gsap.com/docs/v3/Plugins/InertiaPlugin/static.untrack()
+296	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.convertToPath
+297	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.defaultRender
+298	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.defaultType
+299	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.defaultUpdateTarget
+300	https://gsap.com/docs/v3/Plugins/MorphSVGPlugin/static.rawPathToString

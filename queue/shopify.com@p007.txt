@@ -1,0 +1,12 @@
+85	https://shopify.com/uk/pos/resources/apparel-pos-buyers-guide
+86	https://shopify.com/pos/resources/home-and-garden-guide
+87	https://shopify.com/uk/pos/resources/home-and-garden-guide
+88	https://shopify.com/pos/resources/pos-market-report
+89	https://shopify.com/uk/shop
+90	https://shopify.com/uk/channels
+91	https://shopify.com/international/managed
+92	https://shopify.com/uk/international/managed
+93	https://shopify.com/international/pricing
+94	https://shopify.com/uk/international/pricing
+95	https://shopify.com/international/managed/ey-report/download
+96	https://shopify.com/uk/international/managed/ey-report/download

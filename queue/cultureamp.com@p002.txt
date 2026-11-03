@@ -1,0 +1,12 @@
+25	https://cultureamp.com/podcast
+26	https://cultureamp.com/events
+27	https://cultureamp.com/case-studies
+28	https://cultureamp.com/company
+29	https://cultureamp.com/company/careers
+30	https://cultureamp.com/company/contact-us
+31	https://cultureamp.com/company/foundation
+32	https://cultureamp.com/company/media-kit
+33	https://cultureamp.com/company/newsroom
+34	https://cultureamp.com/community
+35	https://cultureamp.com/partners
+36	https://cultureamp.com/partnership-programs

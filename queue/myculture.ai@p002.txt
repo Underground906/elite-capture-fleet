@@ -1,0 +1,12 @@
+25	https://myculture.ai/assessments/ai-readiness
+26	https://myculture.ai/assessments/big-five-personality
+27	https://myculture.ai/assessments/culture-profile
+28	https://myculture.ai/assessments/custom-survey
+29	https://myculture.ai/hire-for/account-executive
+30	https://myculture.ai/hire-for/customer-success-manager
+31	https://myculture.ai/hire-for/customer-support-lead
+32	https://myculture.ai/hire-for/data-scientist
+33	https://myculture.ai/hire-for/devops-engineer
+34	https://myculture.ai/industries/enterprise-hr
+35	https://myculture.ai/industries/financial-services
+36	https://myculture.ai/compare/criteria-corp

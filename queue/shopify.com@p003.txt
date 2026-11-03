@@ -1,0 +1,12 @@
+37	https://shopify.com/affiliates
+38	https://shopify.com/blog
+39	https://shopify.com/careers
+40	https://shopify.com/climate
+41	https://shopify.com/compare
+42	https://shopify.com/editions
+43	https://shopify.com/investors
+44	https://shopify.com/news
+45	https://shopify.com/partners
+46	https://shopify.com/sitemap
+47	https://shopify.com/tools
+48	https://shopify.com/blog/what-is-shopify

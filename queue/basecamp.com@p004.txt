@@ -1,0 +1,12 @@
+49	https://basecamp.com/gettingreal/02.2-whats-your-problem
+50	https://basecamp.com/gettingreal/02.3-fund-yourself
+51	https://basecamp.com/handbook/benefits-and-perks
+52	https://basecamp.com/handbook/code-of-conduct
+53	https://basecamp.com/handbook/getting-started
+54	https://basecamp.com/handbook/how-we-work
+55	https://basecamp.com/handbook/making-a-career
+56	https://basecamp.com/managers/1-1s
+57	https://basecamp.com/managers/boundaries
+58	https://basecamp.com/managers/coaching
+59	https://basecamp.com/managers/conclusion
+60	https://basecamp.com/managers/fundamental-resources

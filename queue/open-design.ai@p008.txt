@@ -1,0 +1,12 @@
+97	https://open-design.ai/showcase/ai-design-studio-website-design
+98	https://open-design.ai/showcase/ai-infrastructure-website-design
+99	https://open-design.ai/showcase/ai-workflow-editorial-poster-design
+100	https://open-design.ai/showcase/ai-workflow-social-carousel-design
+101	https://open-design.ai/showcase/analytics-dashboard-wireframe-design
+102	https://open-design.ai/community
+103	https://open-design.ai/community/moderators
+104	https://open-design.ai/craft
+105	https://open-design.ai/enterprise
+106	https://open-design.ai/official
+107	https://open-design.ai/opendesign-hackathon
+108	https://open-design.ai/updates

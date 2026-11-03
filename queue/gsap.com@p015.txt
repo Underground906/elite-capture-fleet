@@ -1,0 +1,12 @@
+181	https://gsap.com/docs/v3/GSAP/Tween/scrollTrigger
+182	https://gsap.com/docs/v3/GSAP/Tween/seek()
+183	https://gsap.com/docs/v3/GSAP/Tween/startTime()
+184	https://gsap.com/docs/v3/GSAP/Tween/targets()
+185	https://gsap.com/docs/v3/GSAP/Tween/then()
+186	https://gsap.com/docs/v3/GSAP/Tween/time()
+187	https://gsap.com/docs/v3/GSAP/Tween/timeScale()
+188	https://gsap.com/docs/v3/GSAP/Tween/totalDuration()
+189	https://gsap.com/docs/v3/GSAP/Tween/totalProgress()
+190	https://gsap.com/docs/v3/GSAP/Tween/totalTime()
+191	https://gsap.com/docs/v3/GSAP/Tween/vars
+192	https://gsap.com/docs/v3/GSAP/Tween/yoyo()

@@ -1,0 +1,12 @@
+97	https://coachhub.com/impact-of-coaching
+98	https://coachhub.com/en/industry-advisory-board
+99	https://coachhub.com/en/leadership-development-programme
+100	https://coachhub.com/en/logistics
+101	https://coachhub.com/en/manufacturing
+102	https://coachhub.com/en/partnership
+103	https://coachhub.com/partnership
+104	https://coachhub.com/en/podcast
+105	https://coachhub.com/podcast
+106	https://coachhub.com/en/press-archive
+107	https://coachhub.com/press-archive
+108	https://coachhub.com/en/request-demo

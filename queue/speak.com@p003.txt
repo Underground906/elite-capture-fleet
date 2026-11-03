@@ -1,0 +1,12 @@
+37	https://speak.com/conversation-lists/03-food-drinks
+38	https://speak.com/conversation-lists/04-socializing
+39	https://speak.com/conversation-lists/05-enjoy-your-travel
+40	https://speak.com/course-categories/01-beginner
+41	https://speak.com/course-categories/02-basic
+42	https://speak.com/course-categories/03-intermediate
+43	https://speak.com/course-categories/04-advanced
+44	https://speak.com/course-categories/05-special-course
+45	https://speak.com/course-day-list/001-basics-0-day-0
+46	https://speak.com/course-day-list/002-basics-0-day-1
+47	https://speak.com/course-day-list/003-basics-0-day-2
+48	https://speak.com/course-day-list/004-basics-0-day-3

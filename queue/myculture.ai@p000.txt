@@ -1,0 +1,12 @@
+1	https://myculture.ai/
+2	https://myculture.ai/assessments
+3	https://myculture.ai/hire-for
+4	https://myculture.ai/industries
+5	https://myculture.ai/industries/recruitment-agencies
+6	https://myculture.ai/industries/rpo-providers
+7	https://myculture.ai/industries/staffing-firms
+8	https://myculture.ai/compare
+9	https://myculture.ai/pricing
+10	https://myculture.ai/guides
+11	https://myculture.ai/alternatives
+12	https://myculture.ai/blog

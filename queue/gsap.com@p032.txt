@@ -1,0 +1,12 @@
+385	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.normalizeScroll()
+386	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.observe()
+387	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.positionInViewport()
+388	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.refresh()
+389	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.removeEventListener()
+390	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.saveStyles()
+391	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.scrollerProxy()
+392	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.snapDirectional()
+393	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.sort()
+394	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.update()
+395	https://gsap.com/docs/v3/Plugins/ScrollTrigger/trigger
+396	https://gsap.com/docs/v3/Plugins/ScrollTrigger/vars

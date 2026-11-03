@@ -1,0 +1,12 @@
+1	https://open-design.ai/
+2	https://open-design.ai/showcase/personal-dashboard-design/
+3	https://open-design.ai/motion
+4	https://open-design.ai/agents
+5	https://open-design.ai/solutions
+6	https://open-design.ai/codex-plugin
+7	https://open-design.ai/compare
+8	https://corouter.open-design.ai/
+9	https://open-design.ai/llm-arena-for-design
+10	https://open-design.ai/pricing
+11	https://open-design.ai/plugins/templates
+12	https://open-design.ai/design-system

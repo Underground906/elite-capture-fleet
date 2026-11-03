@@ -1,0 +1,12 @@
+373	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.clearScrollMemory()
+374	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.config()
+375	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.create()
+376	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.defaults()
+377	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.getAll()
+378	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.getById()
+379	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.isInViewport()
+380	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.isScrolling()
+381	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.isTouch
+382	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.killAll()
+383	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.matchMedia()
+384	https://gsap.com/docs/v3/Plugins/ScrollTrigger/static.maxScroll()

@@ -1,0 +1,12 @@
+25	https://shopify.com/orders
+26	https://shopify.com/shipping
+27	https://shopify.com/finance
+28	https://shopify.com/flow
+29	https://shopify.com/mobile
+30	https://shopify.com/payments
+31	https://shopify.com/tax
+32	https://shopify.com/editions/fall2026
+33	https://shopify.com/pricing
+34	https://admin.shopify.com/signup
+35	https://shopify.com/au
+36	https://shopify.com/ca

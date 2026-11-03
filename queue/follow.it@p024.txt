@@ -1,0 +1,12 @@
+289	https://follow.it/docs/readers/account-management/where-can-i-set-my-account-language
+290	https://follow.it/docs/readers/following-feeds/a-feed-i-want-to-follow-is-no-longer-active-what-shall-i-do
+291	https://follow.it/docs/readers/following-feeds/before-following-a-feed-can-i-simulate-what-messages-i-ll-receive
+292	https://follow.it/docs/readers/following-feeds/can-i-follow-follow-itdfeeds-in-my-rss-reader-application
+293	https://follow.it/docs/readers/following-feeds/how-can-i-follow-feeds
+294	https://follow.it/docs/readers/following-feeds/how-can-i-unfollow-unsubscribe-from-a-feed
+295	https://follow.it/docs/readers/following-feeds/i-entered-a-wrong-email-when-following-a-feed-what-shall-i-do
+296	https://follow.it/docs/readers/following-feeds/i-want-to-filter-a-feed-by-tags-or-authors-but-it-doesn-t-give-me-that-option-why
+297	https://follow.it/docs/readers/following-feeds/my-bookmarklet-toolbar-is-not-showing-what-can-i-do
+298	https://follow.it/docs/readers/following-feeds/setting-up-new-date-feeds
+299	https://follow.it/docs/readers/following-feeds/the-website-i-want-to-follow-doesn-t-offer-a-follow-itdfeed-what-shall-i-do
+300	https://follow.it/docs/readers/following-feeds/what-are-feed-categories

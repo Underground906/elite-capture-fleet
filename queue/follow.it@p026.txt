@@ -1,0 +1,12 @@
+313	https://follow.it/docs/readers/receiving-messages/how-can-i-set-the-delivery-time-of-my-newspaper
+314	https://follow.it/docs/readers/receiving-messages/how-can-i-set-the-language-for-the-emails-i-receive
+315	https://follow.it/docs/readers/receiving-messages/i-followed-a-feed-but-not-getting-messages-from-it-why
+316	https://follow.it/docs/readers/receiving-messages/i-m-getting-some-but-not-all-messages-from-a-feed-why
+317	https://follow.it/docs/readers/receiving-messages/i-m-getting-too-many-messages-what-can-i-do
+318	https://follow.it/docs/readers/receiving-messages/i-only-receive-message-headlines-why
+319	https://follow.it/docs/readers/receiving-messages/i-received-the-same-message-twice-why
+320	https://follow.it/docs/readers/receiving-messages/i-set-the-delivery-content-to-full-messages-but-i-receive-snippets-only
+321	https://follow.it/docs/readers/receiving-messages/the-messages-get-delivered-to-a-wrong-email-address-how-can-i-change-it
+322	https://follow.it/docs/readers/receiving-messages/what-is-a-newspaper
+323	https://follow.it/docs/readers/receiving-messages/what-is-proposing-messages-2
+324	https://follow.it/docs/readers/receiving-messages/when-do-messages-get-sent

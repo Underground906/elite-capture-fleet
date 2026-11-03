@@ -1,0 +1,12 @@
+1	https://patreon.com/
+2	https://patreon.com/collection/1334102
+3	https://patreon.com/collection/1489797
+4	https://patreon.com/collection/700928
+5	https://patreon.com/create
+6	https://patreon.com/creators/gaming
+7	https://patreon.com/creators/music
+8	https://patreon.com/creators/podcasts
+9	https://patreon.com/creators/video
+10	https://patreon.com/creators/visualartists
+11	https://patreon.com/product/create
+12	https://patreon.com/product/digital-products

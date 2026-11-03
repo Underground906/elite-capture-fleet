@@ -1,0 +1,12 @@
+181	https://shopify.com/compare/bigcommerce-vs-wix-vs-shopify
+182	https://shopify.com/uk/compare/bigcommerce-vs-wix-vs-shopify
+183	https://shopify.com/compare/godaddy-vs-wix-vs-shopify
+184	https://shopify.com/event/nrf2027
+185	https://shopify.com/investors/annual-reports
+186	https://shopify.com/investors/board-of-directors
+187	https://shopify.com/investors/committee-composition
+188	https://shopify.com/investors/email-alerts
+189	https://shopify.com/investors/events
+190	https://shopify.com/news/about-us
+191	https://shopify.com/news/capital
+192	https://shopify.com/news/finance

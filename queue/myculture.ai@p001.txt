@@ -1,0 +1,12 @@
+13	https://myculture.ai/methodology
+14	https://myculture.ai/contact-us
+15	https://myculture.ai/30-60-90-day-plan-generator
+16	https://myculture.ai/about-us
+17	https://myculture.ai/career-tracker-generator
+18	https://myculture.ai/developers
+19	https://myculture.ai/job-post-generator
+20	https://myculture.ai/okr-generator
+21	https://myculture.ai/pay-per-assessment
+22	https://myculture.ai/performance-improvement-plan-generator
+23	https://myculture.ai/team-role-generator
+24	https://myculture.ai/assessments/acceptable-behaviors

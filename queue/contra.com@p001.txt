@@ -1,0 +1,12 @@
+13	https://contra.com/free-invoice-generator
+14	https://contra.com/commission-free
+15	https://contra.com/blog
+16	https://contra.com/blog/gumroad-alternative
+17	https://contra.com/blog/lemonsqueezy-alternative
+18	https://contra.com/blog/polar-alternative
+19	https://contra.com/companies
+20	https://contra.com/agencies
+21	https://contra.com/vc-networks
+22	https://contra.com/events
+23	https://contra.com/partnerships/figma-product-love
+24	https://contra.com/project-rate-hiring-calculator

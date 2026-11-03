@@ -1,0 +1,12 @@
+61	https://shopify.com/uk/enterprise/peak-season-report-2024
+62	https://shopify.com/enterprise/premium-fashion-trends-report
+63	https://shopify.com/uk/enterprise/premium-fashion-trends-report
+64	https://shopify.com/enterprise/blog/latest
+65	https://shopify.com/uk/enterprise/blog/latest
+66	https://shopify.com/enterprise/blog/topics
+67	https://shopify.com/uk/enterprise/blog/topics
+68	https://shopify.com/uk/checkout
+69	https://shopify.com/uk/sidekick
+70	https://shopify.com/sidekick/new
+71	https://shopify.com/uk/website/builder
+72	https://shopify.com/website/design

@@ -1,0 +1,12 @@
+37	https://support.cultureamp.com/
+38	https://cultureamp.com/search
+39	https://cultureamp.com/email-preferences
+40	https://cultureamp.com/blog/company-culture-101
+41	https://cultureamp.com/blog/diversity-equity-and-inclusion-guide
+42	https://cultureamp.com/blog/employee-development-guide
+43	https://cultureamp.com/science/insights/accounting
+44	https://cultureamp.com/science/insights/accounting-apac
+45	https://cultureamp.com/science/insights/accounting-australia
+46	https://cultureamp.com/science/insights/accounting-oceania
+47	https://cultureamp.com/science/insights/africa
+48	https://cultureamp.com/resources/guides-and-toolkits

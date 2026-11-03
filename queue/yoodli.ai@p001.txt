@@ -1,0 +1,12 @@
+13	https://yoodli.ai/pricing
+14	https://yoodli.ai/blog
+15	https://yoodli.ai/about
+16	https://app.yoodli.ai/signup
+17	https://yoodli.ai/use-cases/crucial-conversations
+18	https://yoodli.ai/use-cases/customer-support
+19	https://yoodli.ai/use-cases/interviewer-training
+20	https://yoodli.ai/use-cases/leadership-development-firms
+21	https://yoodli.ai/use-cases/onboarding-certification
+22	https://yoodli.ai/solutions/sales-coaching
+23	https://yoodli.ai/solutions/sales-roleplay
+24	https://yoodli.ai/industries/education

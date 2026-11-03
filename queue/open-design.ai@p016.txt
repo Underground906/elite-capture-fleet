@@ -1,0 +1,12 @@
+193	https://open-design.ai/showcase/saas-pricing-website-design
+194	https://open-design.ai/showcase/saas-revenue-dashboard-design
+195	https://open-design.ai/showcase/service-runbook-website-design
+196	https://open-design.ai/showcase/social-audience-dashboard-design
+197	https://open-design.ai/showcase/software-release-poster-design
+198	https://open-design.ai/showcase/sprint-board-app-design
+199	https://open-design.ai/showcase/student-exam-dashboard-wireframe-design
+200	https://open-design.ai/showcase/studio-invoice-design
+201	https://open-design.ai/showcase/team-meeting-notes-design
+202	https://open-design.ai/showcase/team-operations-dashboard-design
+203	https://open-design.ai/showcase/team-workspace-dashboard-design
+204	https://open-design.ai/showcase/technical-writing-website-design

@@ -1,0 +1,12 @@
+37	https://evernote.com/whats-new
+38	https://evernote.com/ai-rewrite/ai-apology-email-generator
+39	https://evernote.com/ai-rewrite/ai-cold-email-generator
+40	https://evernote.com/ai-rewrite/ai-email-copy-generator
+41	https://evernote.com/ai-rewrite/ai-email-draft-generator
+42	https://evernote.com/ai-rewrite/ai-email-generator
+43	https://evernote.com/ai-text-to-voice/ai-read-aloud
+44	https://evernote.com/ai-text-to-voice/ai-speech-reader
+45	https://evernote.com/ai-text-to-voice/ai-text-narrator
+46	https://evernote.com/ai-text-to-voice/ai-text-reader
+47	https://evernote.com/ai-text-to-voice/ai-text-to-speech-generator
+48	https://evernote.com/ai-diagrams/3d-diagram-generator

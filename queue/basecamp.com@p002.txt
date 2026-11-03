@@ -1,0 +1,12 @@
+25	https://basecamp.com/integrations
+26	https://basecamp.com/keyboard
+27	https://basecamp.com/learn
+28	https://basecamp.com/managers
+29	https://basecamp.com/newsletter
+30	https://basecamp.com/overkill
+31	https://basecamp.com/security
+32	https://basecamp.com/shapeup
+33	https://basecamp.com/small
+34	https://basecamp.com/support
+35	https://basecamp.com/underdogs
+36	https://basecamp.com/yes

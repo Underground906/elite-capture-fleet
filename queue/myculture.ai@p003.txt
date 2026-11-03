@@ -1,0 +1,12 @@
+37	https://myculture.ai/compare/culture-amp
+38	https://myculture.ai/compare/culture-index
+39	https://myculture.ai/compare/disc
+40	https://myculture.ai/compare/harver
+41	https://myculture.ai/guides/culture-assessment-tools
+42	https://myculture.ai/guides/culture-assessment-vs-personality-test
+43	https://myculture.ai/guides/culture-fit-interview-questions
+44	https://myculture.ai/guides/culture-fit-vs-culture-add
+45	https://myculture.ai/alternatives/criteria-corp
+46	https://myculture.ai/alternatives/culture-amp
+47	https://myculture.ai/alternatives/culture-index
+48	https://myculture.ai/alternatives/disc

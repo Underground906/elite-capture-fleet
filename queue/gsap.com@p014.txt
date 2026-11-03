@@ -1,0 +1,12 @@
+169	https://gsap.com/docs/v3/GSAP/Tween/pause()
+170	https://gsap.com/docs/v3/GSAP/Tween/paused()
+171	https://gsap.com/docs/v3/GSAP/Tween/play()
+172	https://gsap.com/docs/v3/GSAP/Tween/progress()
+173	https://gsap.com/docs/v3/GSAP/Tween/ratio
+174	https://gsap.com/docs/v3/GSAP/Tween/repeat()
+175	https://gsap.com/docs/v3/GSAP/Tween/repeatDelay()
+176	https://gsap.com/docs/v3/GSAP/Tween/restart()
+177	https://gsap.com/docs/v3/GSAP/Tween/resume()
+178	https://gsap.com/docs/v3/GSAP/Tween/reverse()
+179	https://gsap.com/docs/v3/GSAP/Tween/reversed()
+180	https://gsap.com/docs/v3/GSAP/Tween/revert()

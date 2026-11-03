@@ -1,0 +1,6 @@
+481	https://gsap.com/blog/tags/release/page/2
+482	https://gsap.com/SOTY-2025
+483	https://gsap.com/brand
+484	https://gsap.com/cheatsheet
+485	https://gsap.com/search
+486	https://gsap.com/styleguide

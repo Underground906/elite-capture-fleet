@@ -1,0 +1,12 @@
+85	https://speak.com/us/getstarted
+86	https://speak.com/us/quiz
+87	https://speak.com/us/special
+88	https://speak.com/us/start
+89	https://speak.com/us/try
+90	https://speak.com/vn/ielts-1
+91	https://speak.com/vn/ielts-2
+92	https://speak.com/vn/try
+93	https://speak.com/jp/campaign/2025-speak-challenge
+94	https://speak.com/jp/campaign/26-jan-tiktok-mission
+95	https://speak.com/jp/campaign/jtb-pr
+96	https://speak.com/jp/campaign/phone-speak

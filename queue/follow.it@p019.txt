@@ -1,0 +1,12 @@
+229	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-tumblr-site
+230	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-website
+231	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-wix-site
+232	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-wordpress-site
+233	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-icon-on-my-blogger-blogspot-site
+234	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-icon-on-my-typepad-site
+235	https://follow.it/docs/publishers/getting-started/how-do-i-insert-the-code-for-claiming
+236	https://follow.it/docs/publishers/getting-started/how-do-i-set-up-my-feed-on-follow-it
+237	https://follow.it/docs/publishers/getting-started/how-do-i-use-zapier-with-followit
+238	https://follow.it/docs/publishers/getting-started/i-claimed-my-feed-allocated-it-to-a-follow-it-account-but-i-still-cannot-see-it-why
+239	https://follow.it/docs/publishers/getting-started/my-website-shifted-to-a-different-domain-how-can-i-update-my-feed-accordingly
+240	https://follow.it/docs/publishers/getting-started/what-are-premium-feeds

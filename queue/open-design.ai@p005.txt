@@ -1,0 +1,12 @@
+61	https://open-design.ai/plugins/templates/live-artifact
+62	https://open-design.ai/design-system/adeo-mozaic
+63	https://open-design.ai/design-system/adobe-spectrum
+64	https://open-design.ai/design-system/agriculture-agds
+65	https://open-design.ai/design-system/alaska-auro
+66	https://open-design.ai/design-system/alberta
+67	https://open-design.ai/skills/a11y-audit
+68	https://open-design.ai/skills/academic-pptx
+69	https://open-design.ai/skills/accessibility
+70	https://open-design.ai/skills/accessibility-compliance
+71	https://open-design.ai/skills/accessibility-review
+72	https://open-design.ai/prompts/accessible-city-guide-app

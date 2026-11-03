@@ -1,0 +1,12 @@
+145	https://shopify.com/case-studies
+146	https://shopify.com/uk/case-studies
+147	https://shopify.com/uk/case-studies/4ocean
+148	https://shopify.com/uk/case-studies/707-street
+149	https://shopify.com/uk/case-studies/7b-boardshop
+150	https://shopify.com/about
+151	https://shopify.com/uk/about
+152	https://shopify.com/careers/extraordinary
+153	https://shopify.com/careers/faq
+154	https://shopify.com/careers/jobs
+155	https://shopify.com/careers/nda
+156	https://shopify.com/resources/acing-ecommerce-southeast-asia-marketplaces-dtc

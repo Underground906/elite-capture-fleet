@@ -1,0 +1,12 @@
+25	https://follow.it/cryptocurrency-prices
+26	https://follow.it/cyclones-alert-feed
+27	https://follow.it/dmarc-feed
+28	https://follow.it/domain-expiry-feed
+29	https://follow.it/droughts-alert-feed
+30	https://follow.it/earthquake-alert
+31	https://follow.it/flood-alert-feed
+32	https://follow.it/football-alerts
+33	https://follow.it/fuel-prices-feed
+34	https://follow.it/games-discounts-feed
+35	https://follow.it/github-feed
+36	https://follow.it/github-vulnerability-feed

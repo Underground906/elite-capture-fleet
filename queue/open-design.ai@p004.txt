@@ -1,0 +1,12 @@
+49	https://open-design.ai/solutions/ai-website-builder/consulting
+50	https://open-design.ai/solutions/ai-website-builder/developers
+51	https://open-design.ai/solutions/ai-website-builder/figma-to-website
+52	https://open-design.ai/plugins
+53	https://open-design.ai/plugins/agency-grid-layout-minimal
+54	https://open-design.ai/plugins/agent-skill-principal-ui-ux-architect-motion-choreographer-awwwards-tier-mqu4mbbj
+55	https://open-design.ai/plugins/animation-review
+56	https://open-design.ai/plugins/atelier-zero-image-generation-prompt-pack-mrrxpegw
+57	https://open-design.ai/plugins/templates/audio
+58	https://open-design.ai/plugins/templates/deck
+59	https://open-design.ai/plugins/templates/hyperframes
+60	https://open-design.ai/plugins/templates/image

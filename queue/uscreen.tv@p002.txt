@@ -1,0 +1,12 @@
+25	https://uscreen.tv/reviews/migrations
+26	https://uscreen.tv/blog
+27	https://uscreen.tv/resources
+28	https://help.uscreen.tv/
+29	https://uscreen.tv/case-studies
+30	https://uscreen.tv/growth-coaching
+31	https://uscreen.tv/pricing
+32	https://app.uscreen.tv/admin/registrations/new
+33	https://app.uscreen.tv/admin/users/sign_in
+34	https://uscreen.tv/uscreen-vs-vimeo-ott
+35	https://uscreen.tv/uscreen-vs-kajabi
+36	https://uscreen.tv/uscreen-vs-mighty-networks

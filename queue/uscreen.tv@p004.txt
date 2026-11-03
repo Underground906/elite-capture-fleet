@@ -1,0 +1,12 @@
+49	https://uscreen.tv/use-cases/health-wellness/fitness
+50	https://uscreen.tv/use-cases/health-wellness/pilates
+51	https://uscreen.tv/use-cases/health-wellness/yoga
+52	https://uscreen.tv/use-cases/live-event-broadcasting/combat-sports
+53	https://uscreen.tv/use-cases/live-event-broadcasting/faith-services
+54	https://uscreen.tv/blog/11-scalable-business-ideas-for-creators
+55	https://uscreen.tv/blog/21-powerful-video-testimonial-examples-to-inspire-you
+56	https://uscreen.tv/blog/5-ways-to-make-video-files-smaller
+57	https://uscreen.tv/blog/add-memberships-to-your-site
+58	https://uscreen.tv/resources/apps-membership-revenue
+59	https://uscreen.tv/resources/case-study-eternal-family
+60	https://uscreen.tv/resources/community-playbook

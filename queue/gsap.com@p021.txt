@@ -1,0 +1,12 @@
+253	https://gsap.com/docs/v3/Plugins/Draggable/kill()
+254	https://gsap.com/docs/v3/Plugins/Draggable/lockAxis
+255	https://gsap.com/docs/v3/Plugins/Draggable/lockedAxis
+256	https://gsap.com/docs/v3/Plugins/Draggable/maxRotation
+257	https://gsap.com/docs/v3/Plugins/Draggable/maxX
+258	https://gsap.com/docs/v3/Plugins/Draggable/maxY
+259	https://gsap.com/docs/v3/Plugins/Draggable/minRotation
+260	https://gsap.com/docs/v3/Plugins/Draggable/minX
+261	https://gsap.com/docs/v3/Plugins/Draggable/minY
+262	https://gsap.com/docs/v3/Plugins/Draggable/pointerEvent
+263	https://gsap.com/docs/v3/Plugins/Draggable/pointerX
+264	https://gsap.com/docs/v3/Plugins/Draggable/pointerY

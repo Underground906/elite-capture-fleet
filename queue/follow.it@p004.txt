@@ -1,0 +1,12 @@
+49	https://follow.it/patent-feed
+50	https://follow.it/plugin-watch
+51	https://follow.it/product-recall-feed
+52	https://follow.it/producthunt-feed
+53	https://follow.it/quotes-feed
+54	https://follow.it/reminder-feed
+55	https://follow.it/rugby-feed
+56	https://follow.it/spotify-feed
+57	https://follow.it/ssl-tsl
+58	https://follow.it/stock-prices-alert
+59	https://follow.it/surfing
+60	https://follow.it/theme-watch-feed

@@ -1,0 +1,12 @@
+97	https://shopify.com/international/managed/resources/ey-report
+98	https://shopify.com/uk/international/managed/resources/ey-report
+99	https://shopify.com/uk/international/managed/resources/dhl-express-report/download
+100	https://shopify.com/solutions/b2b
+101	https://shopify.com/uk/solutions/b2b
+102	https://shopify.com/solutions/ai/enterprise
+103	https://shopify.com/uk/solutions/ai/enterprise
+104	https://shopify.com/solutions/automotive/enterprise
+105	https://shopify.com/uk/solutions/automotive/enterprise
+106	https://shopify.com/uk/markets
+107	https://shopify.com/uk/marketing
+108	https://shopify.com/uk/discounts

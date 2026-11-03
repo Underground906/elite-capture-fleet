@@ -1,0 +1,12 @@
+133	https://shopify.com/au/affiliates
+134	https://shopify.com/au/agentic-plan
+135	https://shopify.com/au/agentic-readiness
+136	https://shopify.com/au/accessibility/plan
+137	https://shopify.com/au/accessibility/policy
+138	https://shopify.com/au/accessibility/vpat-admin
+139	https://shopify.com/au/accessibility/vpat-checkout
+140	https://shopify.com/au/accessibility/vpat-shopify-mobile
+141	https://shopify.com/products
+142	https://shopify.com/uk/products
+143	https://shopify.com/platform/enterprise
+144	https://shopify.com/uk/platform/enterprise

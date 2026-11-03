@@ -1,0 +1,12 @@
+1	https://base44.com/
+2	https://base44.com/security
+3	https://base44.com/pricing
+4	https://base44.com/enterprise
+5	https://base44.com/superagents
+6	https://base44.com/about-us
+7	https://base44.com/about-us/affiliates
+8	https://careers.base44.com/
+9	https://base44.com/features
+10	https://base44.com/features/workflows
+11	https://base44.com/integrations
+12	https://feedback.base44.com/roadmap

@@ -1,0 +1,12 @@
+49	https://speak.com/course-day-list/005-basics-0-day-4
+50	https://speak.com/course-list/01-basics-0
+51	https://speak.com/course-list/02-basics-0-2
+52	https://speak.com/course-list/03-basics-0-3
+53	https://speak.com/course-list/04-basics-1
+54	https://speak.com/course-list/05-basics-1-2
+55	https://speak.com/hk/blog
+56	https://speak.com/hk/content
+57	https://speak.com/hk/hk-brand-2025-draft
+58	https://speak.com/hk/hk-brand-2026
+59	https://speak.com/hk/hk-brand-2026-discount
+60	https://speak.com/jp-blog-posts/adult-relearner-speaking

@@ -1,0 +1,12 @@
+13	https://follow.it/docs/publishers
+14	https://follow.it/account-breach-feed
+15	https://follow.it/ai-update-feed
+16	https://follow.it/air-quality-feed
+17	https://follow.it/alerts-for-x-formerly-twitter
+18	https://follow.it/anime-feed
+19	https://follow.it/app-review-feed
+20	https://follow.it/backlink-feed
+21	https://follow.it/basketball-feed
+22	https://follow.it/blacklist-special-feed
+23	https://follow.it/brand-assets
+24	https://follow.it/broken-links-feed

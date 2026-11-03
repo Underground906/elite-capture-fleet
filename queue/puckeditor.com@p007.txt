@@ -1,0 +1,12 @@
+85	https://puckeditor.com/docs/integrating-puck/localization
+86	https://puckeditor.com/docs/integrating-puck/multi-column-layouts
+87	https://puckeditor.com/docs/integrating-puck/overlay-portals
+88	https://puckeditor.com/docs/integrating-puck/rich-text-editing
+89	https://puckeditor.com/docs/integrating-puck/root-configuration
+90	https://puckeditor.com/docs/integrating-puck/server-components
+91	https://puckeditor.com/docs/integrating-puck/styling
+92	https://puckeditor.com/docs/integrating-puck/viewports
+93	https://puckeditor.com/docs/api-reference/components/action-bar
+94	https://puckeditor.com/docs/api-reference/components/action-bar-action
+95	https://puckeditor.com/docs/api-reference/components/action-bar-drag-handle
+96	https://puckeditor.com/docs/api-reference/components/action-bar-group

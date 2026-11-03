@@ -1,0 +1,12 @@
+37	https://yoodli.ai/case-studies
+38	https://yoodli.ai/webinars
+39	https://yoodli.ai/press
+40	https://yoodli.ai/sample-speeches
+41	https://yoodli.ai/courses
+42	https://yoodli.ai/blog/10-apps-to-take-virtual-meetings-to-the-next-level
+43	https://yoodli.ai/blog/10-public-speaking-strategies-to-wow-your-audience
+44	https://yoodli.ai/blog/10-tips-to-sound-more-funny-when-you-speak
+45	https://yoodli.ai/blog/10-ways-sales-teams-use-gong-yoodli-for-ai-sales-training-that-actually-shows-up-on-real-calls
+46	https://yoodli.ai/solutions/learning-development
+47	https://yoodli.ai/solutions/sales-cold-calling
+48	https://yoodli.ai/solutions/sales-enablement

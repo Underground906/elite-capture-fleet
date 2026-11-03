@@ -1,0 +1,12 @@
+1	https://follow.it/
+2	https://follow.it/publisher/create
+3	https://follow.it/feeds
+4	https://follow.it/publish
+5	https://status.follow.it/
+6	https://follow.it/about
+7	https://follow.it/affiliates
+8	https://follow.it/blog
+9	https://follow.it/contact-us
+10	https://follow.it/docs
+11	https://follow.it/features-and-pricing
+12	https://follow.it/intro

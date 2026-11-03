@@ -1,0 +1,12 @@
+265	https://gsap.com/docs/v3/Plugins/Draggable/rotation
+266	https://gsap.com/docs/v3/Plugins/Draggable/startDrag()
+267	https://gsap.com/docs/v3/Plugins/Draggable/startX
+268	https://gsap.com/docs/v3/Plugins/Draggable/startY
+269	https://gsap.com/docs/v3/Plugins/Draggable/static.create()
+270	https://gsap.com/docs/v3/Plugins/Draggable/static.get()
+271	https://gsap.com/docs/v3/Plugins/Draggable/static.hitTest()
+272	https://gsap.com/docs/v3/Plugins/Draggable/static.timeSinceDrag()
+273	https://gsap.com/docs/v3/Plugins/Draggable/target
+274	https://gsap.com/docs/v3/Plugins/Draggable/tween
+275	https://gsap.com/docs/v3/Plugins/Draggable/update()
+276	https://gsap.com/docs/v3/Plugins/Draggable/vars

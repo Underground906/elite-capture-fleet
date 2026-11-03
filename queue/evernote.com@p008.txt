@@ -1,0 +1,12 @@
+97	https://evernote.com/ai-transcribe-audio-to-text/automatic-audio-transcriber-online
+98	https://evernote.com/ai-transcribe-audio-to-text/convert-audio-to-text
+99	https://evernote.com/ai-transcribe-audio-to-text/convert-mp3-to-text
+100	https://evernote.com/ai-transcribe-audio-to-text/extract-text-from-audio
+101	https://evernote.com/ai-transcribe-audio-to-text/insert-dictation-in-evernote-notes
+102	https://evernote.com/ai-transcribe-image-to-text/auto-crop-scanner
+103	https://evernote.com/ai-transcribe-image-to-text/batch-scanning
+104	https://evernote.com/ai-transcribe-image-to-text/convert-image-to-text
+105	https://evernote.com/ai-transcribe-image-to-text/convert-jpg-to-text
+106	https://evernote.com/ai-transcribe-image-to-text/convert-photo-to-text
+107	https://evernote.com/ai-transcribe-link-to-text/summarize-youtube-video-with-ai
+108	https://evernote.com/ai-transcribe-link-to-text/text-to-speech-for-youtubers

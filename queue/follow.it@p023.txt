@@ -1,0 +1,12 @@
+277	https://follow.it/docs/publishers/sending-messages/what-does-send-messages-separately-from-feed-mean
+278	https://follow.it/docs/publishers/sending-messages/what-is-a-newspaper
+279	https://follow.it/docs/publishers/sending-messages/what-is-approval-of-messages-and-when-is-it-needed
+280	https://follow.it/docs/publishers/sending-messages/what-is-feed-filtering
+281	https://follow.it/docs/publishers/sending-messages/what-is-meant-by-provide-choice-and-get-more-followers
+282	https://follow.it/docs/publishers/sending-messages/when-do-notifications-get-sent
+283	https://follow.it/docs/publishers/sending-messages/why-did-my-feed-get-deactivated
+284	https://follow.it/docs/readers/account-management/how-can-i-change-my-email-address
+285	https://follow.it/docs/readers/account-management/how-can-i-delete-my-user-account
+286	https://follow.it/docs/readers/account-management/i-cannot-login-to-my-account-why
+287	https://follow.it/docs/readers/account-management/i-forgot-my-password-what-shall-i-do
+288	https://follow.it/docs/readers/account-management/in-which-languages-do-you-provide-support

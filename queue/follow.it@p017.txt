@@ -1,0 +1,12 @@
+205	https://follow.it/docs/publishers/getting-followers/can-people-follow-me-on-facebook-twitter-google-with-follow-it
+206	https://follow.it/docs/publishers/getting-followers/do-i-get-notified-if-i-get-new-followers
+207	https://follow.it/docs/publishers/getting-followers/how-can-i-import-followers-emails-to-my-follow-it-feed
+208	https://follow.it/docs/publishers/getting-followers/how-can-i-import-my-existing-rss-users-to-my-feed-on-follow-it
+209	https://follow.it/docs/publishers/getting-followers/how-can-i-set-the-default-delivery-channels
+210	https://follow.it/docs/publishers/getting-followers/how-can-i-switch-from-feedburner-to-follow-it
+211	https://follow.it/docs/publishers/getting-followers/how-can-users-follow-me-delivery-channels
+212	https://follow.it/docs/publishers/getting-followers/i-get-notifications-for-new-followers-but-when-i-check-nobody-signed-up-why
+213	https://follow.it/docs/publishers/getting-followers/if-people-unfollow-me-can-i-see-why
+214	https://follow.it/docs/publishers/getting-followers/what-is-a-feed-page
+215	https://follow.it/docs/publishers/getting-followers/what-is-follower-management
+216	https://follow.it/docs/publishers/getting-followers/what-is-smart-optdin

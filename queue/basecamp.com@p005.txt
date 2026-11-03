@@ -1,0 +1,12 @@
+61	https://basecamp.com/projects/ad-campaign
+62	https://basecamp.com/projects/affordable-housing-build
+63	https://basecamp.com/projects/album-reissue
+64	https://basecamp.com/projects/archaeology-dig
+65	https://basecamp.com/projects/architecture-competition
+66	https://basecamp.com/retired/backpack
+67	https://basecamp.com/retired/campfire
+68	https://basecamp.com/retired/tadalist
+69	https://basecamp.com/retired/writeboard
+70	https://basecamp.com/shapeup/0.1-foreword
+71	https://basecamp.com/shapeup/0.2-acknowledgements
+72	https://basecamp.com/shapeup/0.3-chapter-01

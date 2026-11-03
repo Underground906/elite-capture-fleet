@@ -1,0 +1,12 @@
+37	https://gsap.com/community/contact
+38	https://gsap.com/community/lostpassword
+39	https://gsap.com/community/messenger
+40	https://gsap.com/community/notifications
+41	https://gsap.com/community/register
+42	https://gsap.com/community/settings
+43	https://gsap.com/community/messenger/compose
+44	https://gsap.com/community/notifications/options
+45	https://demos.gsap.com/
+46	https://gsap.com/blog
+47	https://gsap.com/discord
+48	https://gsap.com/docs/v3/Eases

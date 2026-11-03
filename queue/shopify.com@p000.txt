@@ -1,0 +1,12 @@
+1	https://shopify.com/
+2	https://shopify.com/start
+3	https://shopify.com/sell
+4	https://shopify.com/enterprise
+5	https://shopify.com/checkout
+6	https://shopify.com/sidekick
+7	https://shopify.com/website/builder
+8	https://themes.shopify.com/
+9	https://shopify.com/domains
+10	https://shopify.com/customer-accounts
+11	https://shopify.com/online
+12	https://shopify.com/agentic-storefronts

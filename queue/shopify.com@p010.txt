@@ -1,0 +1,12 @@
+121	https://shopify.com/uk/tax
+122	https://shopify.com/editions/summer2022
+123	https://shopify.com/uk/editions/summer2022
+124	https://shopify.com/editions/winter2023
+125	https://shopify.com/uk/editions/winter2023
+126	https://shopify.com/editions/summer2022/dev
+127	https://shopify.com/uk/editions/summer2022/dev
+128	https://shopify.com/editions/webinar/summer2024
+129	https://shopify.com/uk/editions/webinar/summer2024
+130	https://shopify.com/uk/pricing
+131	https://shopify.com/au/about
+132	https://shopify.com/au/accessibility

@@ -1,0 +1,12 @@
+37	https://uscreen.tv/uscreen-vs-arketa
+38	https://uscreen.tv/uscreen-vs-muvi
+39	https://uscreen.tv/product-updates
+40	https://uscreen.tv/about-us
+41	https://uscreen.tv/how-it-works
+42	https://uscreen.tv/membership-support
+43	https://uscreen.tv/partners
+44	https://uscreen.tv/customer-referral-program
+45	https://uscreen.tv/membership-pricing-tool
+46	https://uscreen.tv/contact-us
+47	https://uscreen.tv/request-demo/live-events
+48	https://uscreen.tv/request-demo/power-plan

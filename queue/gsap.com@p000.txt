@@ -1,0 +1,12 @@
+1	https://gsap.com/docs/v3/Plugins/Flip/
+2	https://gsap.com/demos
+3	https://gsap.com/showcase
+4	https://gsap.com/community/forums/
+5	https://gsap.com/community/forums/forum/11-gsap/
+6	https://gsap.com/
+7	https://gsap.com/pricing
+8	https://gsap.com/core
+9	https://gsap.com/scroll
+10	https://gsap.com/svg
+11	https://gsap.com/ui
+12	https://gsap.com/text

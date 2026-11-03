@@ -1,0 +1,12 @@
+1	https://speak.com/
+2	https://speak.com/careers
+3	https://speak.com/blog
+4	https://speak.com/b2b
+5	https://speak.com/blog/21-day-challenge
+6	https://speak.com/blog/90-days-at-speak-what-its-like-to-build-alongside-ai
+7	https://speak.com/blog/agentic-engineering
+8	https://speak.com/blog/an-afternoon-port-taking-jieba-to-rust-with-codex
+9	https://speak.com/es
+10	https://speak.com/blog-new
+11	https://speak.com/chatgpt
+12	https://speak.com/cn

@@ -1,0 +1,12 @@
+73	https://evernote.com/ai-account-knowledge
+74	https://evernote.com/ai-note-taker
+75	https://evernote.com/chat-with-ai-assistant
+76	https://evernote.com/competitors
+77	https://evernote.com/compress
+78	https://evernote.com/discounts
+79	https://evernote.com/documents-storage
+80	https://evernote.com/get-webclipper
+81	https://evernote.com/learn
+82	https://evernote.com/mcp
+83	https://evernote.com/model-context-protocol
+84	https://evernote.com/note-taking

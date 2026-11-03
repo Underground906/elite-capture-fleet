@@ -1,0 +1,12 @@
+397	https://gsap.com/docs/v3/Plugins/SplitText/chars
+398	https://gsap.com/docs/v3/Plugins/SplitText/isSplit
+399	https://gsap.com/docs/v3/Plugins/SplitText/kill()
+400	https://gsap.com/docs/v3/Plugins/SplitText/lines
+401	https://gsap.com/docs/v3/Plugins/SplitText/masks
+402	https://gsap.com/docs/v3/Plugins/SplitText/revert()
+403	https://gsap.com/docs/v3/Plugins/SplitText/split()
+404	https://gsap.com/docs/v3/Plugins/SplitText/static.create()
+405	https://gsap.com/docs/v3/Plugins/SplitText/vars
+406	https://gsap.com/docs/v3/Plugins/SplitText/words
+407	https://gsap.com/docs/v3/Plugins/CSSRulePlugin/methods/static-getRule()
+408	https://gsap.com/docs/v3/Plugins/InertiaPlugin/VelocityTracker/.addProp()

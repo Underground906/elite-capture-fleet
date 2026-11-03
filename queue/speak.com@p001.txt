@@ -1,0 +1,12 @@
+13	https://speak.com/download
+14	https://speak.com/forms-wip
+15	https://speak.com/gift
+16	https://speak.com/hk
+17	https://speak.com/install
+18	https://speak.com/jp
+19	https://speak.com/ko-event
+20	https://speak.com/nav-content
+21	https://speak.com/old-home-2
+22	https://speak.com/product-line-qr
+23	https://speak.com/tw
+24	https://speak.com/untitled

@@ -1,0 +1,12 @@
+73	https://coachhub.com/case-studies/asics
+74	https://coachhub.com/en/case-studies/asics
+75	https://coachhub.com/en/case-studies/atlas-copco
+76	https://coachhub.com/en/case-studies/autostore
+77	https://coachhub.com/en/case-studies/believe
+78	https://coachhub.com/en/blog/10-critical-time-management-skills-your-team-needs
+79	https://coachhub.com/blog/10-critical-time-management-skills-your-team-needs
+80	https://coachhub.com/blog/10-soft-skills-for-successful-corporate-leadership
+81	https://coachhub.com/en/blog/10-soft-skills-for-successful-corporate-leadership
+82	https://coachhub.com/blog/10-strategies-to-promote-integrity-in-the-workplace
+83	https://coachhub.com/en/coachhub-confirmation-newsletter
+84	https://coachhub.com/coachhub-confirmation-newsletter

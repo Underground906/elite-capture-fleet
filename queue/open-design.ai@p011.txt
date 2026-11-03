@@ -1,0 +1,12 @@
+133	https://open-design.ai/showcase/day-trip-planner-design
+134	https://open-design.ai/showcase/developer-documentation-website-design
+135	https://open-design.ai/showcase/discovery-collection-app-design
+136	https://open-design.ai/showcase/editorial-product-website-design
+137	https://open-design.ai/showcase/employee-onboarding-guide-design
+138	https://open-design.ai/showcase/engineering-blog-website-design
+139	https://open-design.ai/showcase/file-sync-saas-website-design
+140	https://open-design.ai/showcase/forest-restoration-website-design
+141	https://open-design.ai/showcase/frontend-engineer-resume-design
+142	https://open-design.ai/showcase/fundraising-memo-presentation-design
+143	https://open-design.ai/showcase/futuristic-motion-graphics-design
+144	https://open-design.ai/showcase/growth-metrics-report-design

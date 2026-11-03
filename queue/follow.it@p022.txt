@@ -1,0 +1,12 @@
+265	https://follow.it/docs/publishers/sending-messages/how-can-i-change-the-content-of-my-rss-feed
+266	https://follow.it/docs/publishers/sending-messages/how-can-i-change-the-from-daddress-of-the-emails
+267	https://follow.it/docs/publishers/sending-messages/how-can-i-change-the-subject-line-of-the-emails
+268	https://follow.it/docs/publishers/sending-messages/how-can-i-set-the-delivery-time-for-newspapers
+269	https://follow.it/docs/publishers/sending-messages/how-can-i-set-what-content-my-followers-receive
+270	https://follow.it/docs/publishers/sending-messages/how-can-i-switch-my-followers-from-newspaper-d-delivery-to-single-emails-or-vicedversa
+271	https://follow.it/docs/publishers/sending-messages/i-didn-t-publish-a-story-but-it-got-sent-how-is-this-possible
+272	https://follow.it/docs/publishers/sending-messages/i-want-to-send-a-weekly-newspaper-how-can-i-set-it-up
+273	https://follow.it/docs/publishers/sending-messages/my-followers-received-the-same-story-again-d-why
+274	https://follow.it/docs/publishers/sending-messages/my-followers-say-they-didn-t-receive-an-update-why
+275	https://follow.it/docs/publishers/sending-messages/my-rss-feed-brokee-what-can-i-do
+276	https://follow.it/docs/publishers/sending-messages/what-do-i-have-to-do-so-that-messages-get-sent

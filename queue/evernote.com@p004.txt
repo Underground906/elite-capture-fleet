@@ -1,0 +1,12 @@
+49	https://evernote.com/ai-diagrams/ai-activity-diagram-generator
+50	https://evernote.com/ai-diagrams/ai-algorithm-flowchart-generator
+51	https://evernote.com/ai-diagrams/ai-architecture-diagram-generator
+52	https://evernote.com/ai-diagrams/ai-architecture-diagram-maker
+53	https://evernote.com/ai-detector/ai-articles-detector
+54	https://evernote.com/ai-detector/ai-assignments-detector
+55	https://evernote.com/ai-detector/ai-blog-posts-detector
+56	https://evernote.com/ai-detector/ai-checker
+57	https://evernote.com/ai-detector/ai-content-detector
+58	https://evernote.com/citation-generator/acs-citation-generator
+59	https://evernote.com/citation-generator/acs-citation-generator-free
+60	https://evernote.com/citation-generator/acs-in-text-citation-generator

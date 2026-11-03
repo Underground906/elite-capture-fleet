@@ -1,0 +1,12 @@
+1	https://cultureamp.com/
+2	https://cultureamp.com/platform
+3	https://cultureamp.com/platform/ai
+4	https://cultureamp.com/platform/ai-coach
+5	https://cultureamp.com/platform/engage
+6	https://cultureamp.com/platform/integrations
+7	https://cultureamp.com/platform/perform
+8	https://cultureamp.com/platform/engage/ai-comment-summaries
+9	https://cultureamp.com/platform/engage/benchmarking
+10	https://cultureamp.com/platform/engage/diversity-inclusion-survey
+11	https://cultureamp.com/platform/engage/offboarding-onboarding-survey
+12	https://cultureamp.com/platform/engage/performance-culture-quadrant

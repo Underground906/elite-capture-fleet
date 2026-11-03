@@ -1,0 +1,12 @@
+73	https://gsap.com/docs/v3/GSAP/gsap.isTweening()
+74	https://gsap.com/docs/v3/GSAP/gsap.killTweensOf()
+75	https://gsap.com/docs/v3/GSAP/gsap.matchMedia()
+76	https://gsap.com/docs/v3/GSAP/gsap.matchMediaRefresh()
+77	https://gsap.com/docs/v3/GSAP/gsap.parseEase()
+78	https://gsap.com/docs/v3/GSAP/gsap.quickSetter()
+79	https://gsap.com/docs/v3/GSAP/gsap.quickTo()
+80	https://gsap.com/docs/v3/GSAP/gsap.registerEase()
+81	https://gsap.com/docs/v3/GSAP/gsap.registerEffect()
+82	https://gsap.com/docs/v3/GSAP/gsap.registerPlugin()
+83	https://gsap.com/docs/v3/GSAP/gsap.set()
+84	https://gsap.com/docs/v3/GSAP/gsap.ticker

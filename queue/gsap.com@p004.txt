@@ -1,0 +1,12 @@
+49	https://gsap.com/docs/v3/GSAP
+50	https://gsap.com/docs/v3/HelperFunctions
+51	https://gsap.com/docs/v3/Eases/CustomBounce
+52	https://gsap.com/docs/v3/Eases/CustomEase
+53	https://gsap.com/docs/v3/Eases/CustomWiggle
+54	https://gsap.com/docs/v3/Eases/ExpoScaleEase
+55	https://gsap.com/docs/v3/Eases/RoughEase
+56	https://gsap.com/docs/v3/Eases/SlowMo
+57	https://gsap.com/docs/v3/Eases/SteppedEase
+58	https://gsap.com/docs/v3/GSAP/Timeline
+59	https://gsap.com/docs/v3/GSAP/Tween
+60	https://gsap.com/docs/v3/GSAP/UtilityMethods

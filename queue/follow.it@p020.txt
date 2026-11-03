@@ -1,0 +1,12 @@
+241	https://follow.it/docs/publishers/getting-started/what-are-the-revenue-share-scenarios
+242	https://follow.it/docs/publishers/getting-started/what-is-feed-claiming-and-how-do-i-do-it
+243	https://follow.it/docs/publishers/getting-started/what-premium-feed-charging-options-does-follow.it-provide
+244	https://follow.it/docs/publishers/getting-started/where-do-i-find-my-website-s-rss-feed
+245	https://follow.it/docs/publishers/introduction/What-types-of-feeds-exist-on-follow.it
+246	https://follow.it/docs/publishers/introduction/can-i-switch-from-my-current-email-provider-to-follow-it
+247	https://follow.it/docs/publishers/introduction/do-i-get-access-to-my-follower-s-emails
+248	https://follow.it/docs/publishers/introduction/how-does-it-work-basic-process
+249	https://follow.it/docs/publishers/introduction/how-does-it-work-detailed
+250	https://follow.it/docs/publishers/introduction/what-content-will-my-followers-receive
+251	https://follow.it/docs/publishers/introduction/what-does-it-cost
+252	https://follow.it/docs/publishers/introduction/what-is-a-feed-on-follow-it

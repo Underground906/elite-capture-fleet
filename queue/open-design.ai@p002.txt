@@ -1,0 +1,12 @@
+25	https://open-design.ai/careers
+26	https://open-design.ai/codex-slides
+27	https://open-design.ai/download
+28	https://open-design.ai/faq
+29	https://open-design.ai/html-anything
+30	https://open-design.ai/html-video
+31	https://open-design.ai/refund-policy
+32	https://open-design.ai/agents/claude-code-design
+33	https://open-design.ai/agents/codex-design
+34	https://open-design.ai/agents/cursor-design
+35	https://open-design.ai/agents/gemini-design
+36	https://open-design.ai/agents/opencode-design

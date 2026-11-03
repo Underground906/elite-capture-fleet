@@ -1,0 +1,3 @@
+73	https://basecamp.com/shapeup/1.1-chapter-02
+74	https://basecamp.com/shapeup/1.2-chapter-03
+75	https://basecamp.com/support/testimonials

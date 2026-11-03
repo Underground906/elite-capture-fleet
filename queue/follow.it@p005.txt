@@ -1,0 +1,12 @@
+61	https://follow.it/today-in-history-feed
+62	https://follow.it/track-currencies-foreign-exchange-rates-alert
+63	https://follow.it/trademark-feed
+64	https://follow.it/volcano-feed
+65	https://follow.it/volleyball-feed
+66	https://follow.it/weather-alert-feed
+67	https://follow.it/weather-reports
+68	https://follow.it/website-changes-alert
+69	https://follow.it/website-offline-alert
+70	https://follow.it/wp-ranking-special-feed
+71	https://follow.it/youtube-special-feed
+72	https://follow.it/docs/readers

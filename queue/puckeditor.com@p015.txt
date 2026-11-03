@@ -1,0 +1,7 @@
+181	https://puckeditor.com/docs/api-reference/ai/cloud-client/chat
+182	https://puckeditor.com/docs/api-reference/ai/cloud-client/generate
+183	https://puckeditor.com/docs/api-reference/ai/cloud-client/installation
+184	https://puckeditor.com/docs/api-reference/ai/cloud-client/puck-handler
+185	https://puckeditor.com/docs/api-reference/ai/cloud-client/tool
+186	https://puckeditor.com/docs/api-reference/ai/configuration/components
+187	https://puckeditor.com/docs/api-reference/ai/configuration/fields

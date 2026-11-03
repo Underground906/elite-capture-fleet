@@ -1,0 +1,12 @@
+61	https://puckeditor.com/docs/api-reference/data-model
+62	https://puckeditor.com/docs/api-reference/dictionary
+63	https://puckeditor.com/docs/api-reference/field-transforms
+64	https://puckeditor.com/docs/api-reference/fields
+65	https://puckeditor.com/docs/api-reference/functions
+66	https://puckeditor.com/docs/api-reference/overrides
+67	https://puckeditor.com/docs/api-reference/permissions
+68	https://puckeditor.com/docs/api-reference/plugin
+69	https://puckeditor.com/docs/api-reference/puck-api
+70	https://puckeditor.com/docs/extending-puck/composition
+71	https://puckeditor.com/docs/extending-puck/custom-fields
+72	https://puckeditor.com/docs/extending-puck/field-transforms

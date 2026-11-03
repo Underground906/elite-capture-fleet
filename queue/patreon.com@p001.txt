@@ -1,0 +1,12 @@
+13	https://patreon.com/product/grow
+14	https://patreon.com/product/manage-business
+15	https://patreon.com/product/newsletter
+16	https://patreon.com/pricing
+17	https://patreon.com/cw/PatreonforCreators
+18	https://news.patreon.com/
+19	https://support.patreon.com/hc/en-us/sections/360011948692-Managing-Your-Community
+20	https://support.patreon.com/hc/en-us/sections/360011948772-Starting-Your-Patreon
+21	https://support.patreon.com/hc/en-us/sections/360012038951-Payments
+22	https://support.patreon.com/hc/en-us/sections/4483630774797-Hosting-your-work-on-Patreon
+23	https://patreon.com/apps
+24	https://patreon.com/mobile

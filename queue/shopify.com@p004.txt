@@ -1,0 +1,12 @@
+49	https://shopify.com/partners/directory
+50	https://shopify.com/blog/topics/guides
+51	https://shopify.com/uk/start
+52	https://shopify.com/uk/sell
+53	https://shopify.com/uk/sell/accessories
+54	https://shopify.com/uk/sell/action-figures
+55	https://shopify.com/uk/sell/antiques
+56	https://shopify.com/uk/sell/art
+57	https://shopify.com/uk/sell/audiobooks
+58	https://shopify.com/uk/enterprise
+59	https://shopify.com/enterprise/blog
+60	https://shopify.com/uk/enterprise/blog

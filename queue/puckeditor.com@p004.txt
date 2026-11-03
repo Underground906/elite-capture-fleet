@@ -1,0 +1,12 @@
+49	https://puckeditor.com/docs/getting-started
+50	https://puckeditor.com/docs/ai/ai-configuration
+51	https://puckeditor.com/docs/ai/business-context
+52	https://puckeditor.com/docs/ai/design-mode
+53	https://puckeditor.com/docs/ai/getting-started
+54	https://puckeditor.com/docs/ai/headless-generation
+55	https://puckeditor.com/docs/ai/model-configuration
+56	https://puckeditor.com/docs/ai/overview
+57	https://puckeditor.com/docs/ai/tools
+58	https://puckeditor.com/docs/api-reference/actions
+59	https://puckeditor.com/docs/api-reference/components
+60	https://puckeditor.com/docs/api-reference/configuration

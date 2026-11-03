@@ -1,0 +1,12 @@
+253	https://follow.it/docs/publishers/introduction/what-is-follow-it-and-what-shall-i-use-it-for
+254	https://follow.it/docs/publishers/introduction/what-is-rss
+255	https://follow.it/docs/publishers/introduction/why-is-follow-it-s-sender-reputation-so-good
+256	https://follow.it/docs/publishers/introduction/will-my-followers-receive-spam-from-follow-it
+257	https://follow.it/docs/publishers/sending-messages/append-content-to-messages
+258	https://follow.it/docs/publishers/sending-messages/can-i-change-the-frequency-of-the-newspapers
+259	https://follow.it/docs/publishers/sending-messages/can-i-define-pre-selected-filters
+260	https://follow.it/docs/publishers/sending-messages/can-i-define-the-layout-of-the-messages
+261	https://follow.it/docs/publishers/sending-messages/can-i-delete-messages-in-the-message-history-on-follow-it
+262	https://follow.it/docs/publishers/sending-messages/can-i-send-messages-independently-from-the-stories-i-post-on-my-website-rss-feed
+263	https://follow.it/docs/publishers/sending-messages/can-i-track-email-clicks-in-google-analytics
+264	https://follow.it/docs/publishers/sending-messages/how-can-i-change-my-follow-it-feed-s-underlying-rss-feed

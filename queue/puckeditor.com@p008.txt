@@ -1,0 +1,12 @@
+97	https://puckeditor.com/docs/api-reference/components/action-bar-label
+98	https://puckeditor.com/docs/api-reference/components/action-bar-separator
+99	https://puckeditor.com/docs/api-reference/components/auto-field
+100	https://puckeditor.com/docs/api-reference/components/drawer
+101	https://puckeditor.com/docs/api-reference/components/drawer-item
+102	https://puckeditor.com/docs/api-reference/components/drop-zone
+103	https://puckeditor.com/docs/api-reference/components/field-group
+104	https://puckeditor.com/docs/api-reference/components/field-group-item
+105	https://puckeditor.com/docs/api-reference/components/field-label
+106	https://puckeditor.com/docs/api-reference/components/field-tab
+107	https://puckeditor.com/docs/api-reference/components/inline-text-field
+108	https://puckeditor.com/docs/api-reference/components/puck

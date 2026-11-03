@@ -1,0 +1,12 @@
+241	https://gsap.com/docs/v3/Plugins/Draggable/deltaX
+242	https://gsap.com/docs/v3/Plugins/Draggable/deltaY
+243	https://gsap.com/docs/v3/Plugins/Draggable/disable()
+244	https://gsap.com/docs/v3/Plugins/Draggable/enable()
+245	https://gsap.com/docs/v3/Plugins/Draggable/enabled()
+246	https://gsap.com/docs/v3/Plugins/Draggable/endDrag()
+247	https://gsap.com/docs/v3/Plugins/Draggable/endRotation
+248	https://gsap.com/docs/v3/Plugins/Draggable/endX
+249	https://gsap.com/docs/v3/Plugins/Draggable/endY
+250	https://gsap.com/docs/v3/Plugins/Draggable/getDirection()
+251	https://gsap.com/docs/v3/Plugins/Draggable/isPressed
+252	https://gsap.com/docs/v3/Plugins/Draggable/isThrowing

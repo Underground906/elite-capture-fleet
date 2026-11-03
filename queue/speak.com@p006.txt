@@ -1,0 +1,12 @@
+73	https://speak.com/new-course-lists/04-basics-1
+74	https://speak.com/new-course-lists/05-basics-1-2
+75	https://speak.com/single-pack-lists/01-business-annoying-1
+76	https://speak.com/single-pack-lists/02-business-applicable-1
+77	https://speak.com/single-pack-lists/03-business-competition
+78	https://speak.com/single-pack-lists/04-business-new-hires
+79	https://speak.com/single-pack-lists/05-business-product-work-1
+80	https://speak.com/tw/26q2-speak-with-me
+81	https://speak.com/tw/b2b
+82	https://speak.com/tw/blog
+83	https://speak.com/tw/content
+84	https://speak.com/tw/gift

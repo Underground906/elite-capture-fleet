@@ -1,0 +1,12 @@
+1	https://puckeditor.com/
+2	https://puckeditor.com/docs
+3	https://puckeditor.com/platform/ai
+4	https://puckeditor.com/platform/editor
+5	https://puckeditor.com/blog
+6	https://puckeditor.com/pricing
+7	https://puckeditor.com/blog/advanced-layouts-with-puck-harnessing-grid-and-flex-containers
+8	https://puckeditor.com/blog/ai-slop-vs-constrained-ui
+9	https://puckeditor.com/blog/alternatives-to-lovable
+10	https://puckeditor.com/blog/building-a-plugin-for-visual-editors-in-react
+11	https://puckeditor.com/blog/building-a-react-page-builder-an-introduction-to-puck
+12	https://puckeditor.com/blog/building-a-rich-text-editor-in-react

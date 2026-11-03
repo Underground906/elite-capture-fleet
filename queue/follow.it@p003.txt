@@ -1,0 +1,12 @@
+37	https://follow.it/google-ranking
+38	https://follow.it/hackernews-feed
+39	https://follow.it/hockey-feed
+40	https://follow.it/horoscope-special-feed
+41	https://follow.it/hypothekarischer-referenzzinssatz-benachrichtigung-bei-nderungen
+42	https://follow.it/jokes-feed
+43	https://follow.it/linkedin-feed
+44	https://follow.it/lottery-feed
+45	https://follow.it/movie-releases-feed
+46	https://follow.it/my-news
+47	https://follow.it/netflix-releases-feed
+48	https://follow.it/new-appsumo-deals

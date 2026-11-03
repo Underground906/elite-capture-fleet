@@ -1,0 +1,12 @@
+217	https://follow.it/docs/publishers/getting-followers/what-is-the-lean-follow-page
+218	https://follow.it/docs/publishers/getting-followers/why-do-i-see-a-captcha-when-i-try-to-subscribe-myself-isn-t-that-bad-for-conversionques
+219	https://follow.it/docs/publishers/getting-followers/why-is-the-focus-on-making-people-follow-me-by-stemailst
+220	https://follow.it/docs/publishers/getting-started/claiming-doesn-t-work-why
+221	https://follow.it/docs/publishers/getting-started/how-can-i-claim-my-feed-by-inserting-a-string-of-code-on-my-website
+222	https://follow.it/docs/publishers/getting-started/how-can-i-claim-my-feed-by-uploading-an-html-file
+223	https://follow.it/docs/publishers/getting-started/how-can-i-know-it-s-working
+224	https://follow.it/docs/publishers/getting-started/how-can-i-link-an-existing-form-to-my-follow-it-feed
+225	https://follow.it/docs/publishers/getting-started/how-can-i-offer-my-visitors-to-follow-my-feed-from-my-website
+226	https://follow.it/docs/publishers/getting-started/how-can-i-set-the-language-for-my-feed
+227	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-blogger-blogspot-site
+228	https://follow.it/docs/publishers/getting-started/how-do-i-embed-the-follow-form-on-my-squarespace-site

@@ -1,0 +1,12 @@
+13	https://open-design.ai/skills
+14	https://open-design.ai/prompts
+15	https://open-design.ai/help
+16	https://open-design.ai/quickstart
+17	https://open-design.ai/tutorials
+18	https://open-design.ai/blog
+19	https://open-design.ai/stories
+20	https://open-design.ai/showcase
+21	https://open-design.ai/community/ambassadors
+22	https://open-design.ai/community/contributors
+23	https://open-design.ai/community/events
+24	https://open-design.ai/about

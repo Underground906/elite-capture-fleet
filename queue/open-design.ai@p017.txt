@@ -1,0 +1,5 @@
+205	https://open-design.ai/showcase/trading-simulator-dashboard-design
+206	https://open-design.ai/showcase/travel-planner-dashboard-design
+207	https://open-design.ai/showcase/ui-morph-animation-design
+208	https://open-design.ai/showcase/usage-reset-motion-video-design
+209	https://open-design.ai/showcase/voronoi-shader-design

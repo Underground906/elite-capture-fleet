@@ -1,0 +1,12 @@
+13	https://evernote.com/ai-transcribe/meeting
+14	https://evernote.com/ai-rewrite
+15	https://evernote.com/ai-text-to-voice
+16	https://evernote.com/ai-diagrams
+17	https://evernote.com/ai-detector
+18	https://evernote.com/pdf-editor
+19	https://evernote.com/pdf-convert
+20	https://evernote.com/online-notepad
+21	https://evernote.com/word-counter
+22	https://evernote.com/citation-generator
+23	https://evernote.com/en-us/compare-plans
+24	https://evernote.com/en-us/enterprise

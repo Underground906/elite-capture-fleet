@@ -1,0 +1,12 @@
+25	https://yoodli.ai/industries/financial-services
+26	https://yoodli.ai/industries/healthcare
+27	https://yoodli.ai/industries/professional-services
+28	https://yoodli.ai/industries/retail-hospitality
+29	https://yoodli.ai/faq
+30	https://yoodli.ai/partners
+31	https://status.yoodli.ai/
+32	https://yoodli.ai/coach-directory
+33	https://yoodli.ai/glossary
+34	https://yoodli.ai/info-for-ai
+35	https://yoodli.ai/wall-of-love
+36	https://yoodli.ai/feature-announcements

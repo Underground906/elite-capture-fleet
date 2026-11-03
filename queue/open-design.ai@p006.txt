@@ -1,0 +1,12 @@
+73	https://open-design.ai/prompts/accordion-interaction
+74	https://open-design.ai/prompts/account-onboarding
+75	https://open-design.ai/prompts/ai-chat-workspace
+76	https://open-design.ai/prompts/album-cover-concept
+77	https://open-design.ai/prompts/collections/build-a-creative-portfolio
+78	https://open-design.ai/prompts/collections/design-a-better-onboarding
+79	https://open-design.ai/prompts/collections/launch-a-product
+80	https://open-design.ai/help/billing
+81	https://open-design.ai/help/byok
+82	https://open-design.ai/help/chat
+83	https://open-design.ai/help/cloud-api
+84	https://open-design.ai/tutorials/ai-motion-design-workflow

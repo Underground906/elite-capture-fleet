@@ -1,0 +1,12 @@
+25	https://gsap.com/docs/v3/Plugins/Physics2DPlugin
+26	https://gsap.com/docs/v3/Plugins/PhysicsPropsPlugin
+27	https://gsap.com/docs/v3/Plugins/ScrambleTextPlugin
+28	https://gsap.com/docs/v3/Plugins/ScrollSmoother
+29	https://gsap.com/docs/v3/Plugins/ScrollToPlugin
+30	https://gsap.com/docs/v3/Plugins/ScrollTrigger
+31	https://gsap.com/docs/v3/Plugins/SplitText
+32	https://gsap.com/docs/v3/Plugins/TextPlugin
+33	https://gsap.com/resources
+34	https://gsap.com/resources/React
+35	https://gsap.com/community
+36	https://gsap.com/community/account-dashboard

@@ -1,0 +1,12 @@
+109	https://puckeditor.com/docs/api-reference/components/puck-components
+110	https://puckeditor.com/docs/api-reference/components/puck-fields
+111	https://puckeditor.com/docs/api-reference/components/puck-layout
+112	https://puckeditor.com/docs/api-reference/components/puck-outline
+113	https://puckeditor.com/docs/api-reference/components/puck-preview
+114	https://puckeditor.com/docs/api-reference/components/render
+115	https://puckeditor.com/docs/api-reference/components/rich-text-menu
+116	https://puckeditor.com/docs/api-reference/components/rich-text-menu-control
+117	https://puckeditor.com/docs/api-reference/components/rich-text-menu-group
+118	https://puckeditor.com/docs/api-reference/configuration/component-config
+119	https://puckeditor.com/docs/api-reference/configuration/config
+120	https://puckeditor.com/docs/api-reference/data-model/app-state

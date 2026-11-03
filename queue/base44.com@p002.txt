@@ -1,0 +1,12 @@
+25	https://base44.com/use-cases/categories/dev-productivity
+26	https://base44.com/website-builder/business-site
+27	https://base44.com/website-builder/ecommerce
+28	https://base44.com/website-builder/event
+29	https://base44.com/website-builder/business-site/fitness
+30	https://base44.com/website-builder/business-site/law-firm
+31	https://base44.com/website-builder/business-site/real-estate
+32	https://base44.com/blog/ai-health-app-development
+33	https://base44.com/blog/ai-mobile-app-development
+34	https://base44.com/solutions/startups
+35	https://base44.com/accelerator
+36	https://base44.com/agencies

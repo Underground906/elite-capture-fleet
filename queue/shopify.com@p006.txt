@@ -1,0 +1,12 @@
+73	https://shopify.com/uk/website/design
+74	https://shopify.com/website/hosting
+75	https://shopify.com/uk/domains
+76	https://shopify.com/uk/customer-accounts
+77	https://shopify.com/uk/agentic-storefronts
+78	https://shopify.com/uk/pos
+79	https://shopify.com/pos/android-pos
+80	https://shopify.com/uk/pos/android-pos
+81	https://shopify.com/pos/bike-store
+82	https://shopify.com/uk/pos/bike-store
+83	https://shopify.com/pos/clothing-shoes-store
+84	https://shopify.com/pos/resources/apparel-pos-buyers-guide

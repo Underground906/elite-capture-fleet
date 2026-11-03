@@ -1,0 +1,12 @@
+337	https://gsap.com/docs/v3/Plugins/ScrollSmoother/effects()
+338	https://gsap.com/docs/v3/Plugins/ScrollSmoother/getVelocity()
+339	https://gsap.com/docs/v3/Plugins/ScrollSmoother/kill()
+340	https://gsap.com/docs/v3/Plugins/ScrollSmoother/offset()
+341	https://gsap.com/docs/v3/Plugins/ScrollSmoother/paused()
+342	https://gsap.com/docs/v3/Plugins/ScrollSmoother/progress
+343	https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTo()
+344	https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTop()
+345	https://gsap.com/docs/v3/Plugins/ScrollSmoother/scrollTrigger
+346	https://gsap.com/docs/v3/Plugins/ScrollSmoother/smooth()
+347	https://gsap.com/docs/v3/Plugins/ScrollSmoother/static.create()
+348	https://gsap.com/docs/v3/Plugins/ScrollSmoother/static.get()

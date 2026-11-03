@@ -1,0 +1,12 @@
+61	https://speak.com/jp-blog-posts/best-ai-eikaiwa-app
+62	https://speak.com/jp-blog-posts/building-speaks-voice-agent-platform
+63	https://speak.com/jp-blog-posts/can-listen-cannot-speak
+64	https://speak.com/jp-blog-posts/english-self-study-steps
+65	https://speak.com/jp/app
+66	https://speak.com/jp/app-demo
+67	https://speak.com/jp/b2b
+68	https://speak.com/jp/blog
+69	https://speak.com/jp/business
+70	https://speak.com/new-course-lists/01-basics-0
+71	https://speak.com/new-course-lists/02-basics-0-2
+72	https://speak.com/new-course-lists/03-basics-0-3

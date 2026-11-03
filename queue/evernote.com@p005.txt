@@ -1,0 +1,12 @@
+61	https://evernote.com/citation-generator/ai-bibliography-generator
+62	https://evernote.com/citation-generator/ai-citation-checker
+63	https://evernote.com/compare-plans
+64	https://evernote.com/enterprise/ai-meeting-notes
+65	https://evernote.com/enterprise/business-plan
+66	https://evernote.com/enterprise/document-management
+67	https://evernote.com/enterprise/eisenhower-matrix
+68	https://evernote.com/enterprise/employee-onboarding
+69	https://evernote.com/integrations
+70	https://evernote.com/resources
+71	https://evernote.com/blog
+72	https://evernote.com/contact

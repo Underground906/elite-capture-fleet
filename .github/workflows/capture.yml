@@ -1,0 +1,40 @@
+name: elite-capture
+on:
+  workflow_dispatch:
+    inputs:
+      jobs_file: {description: 'jobs json', default: 'jobs.json'}
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    outputs: {matrix: '${{ steps.m.outputs.matrix }}'}
+    steps:
+      - uses: actions/checkout@v4
+      - id: m
+        run: echo "matrix=$(cat ${{ inputs.jobs_file }})" >> $GITHUB_OUTPUT
+  capture:
+    needs: setup
+    runs-on: ubuntu-latest
+    timeout-minutes: 340
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix: {job: '${{ fromJson(needs.setup.outputs.matrix) }}'}
+    env:
+      RCLONE_CONFIG_R2_TYPE: s3
+      RCLONE_CONFIG_R2_PROVIDER: Cloudflare
+      RCLONE_CONFIG_R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+      RCLONE_CONFIG_R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+      RCLONE_CONFIG_R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+      RCLONE_CONFIG_R2_NO_CHECK_BUCKET: 'true'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: install
+        run: |
+          curl -s https://rclone.org/install.sh | sudo bash >/dev/null
+          pip install -q playwright==1.48.0 pillow
+          python -m playwright install --with-deps chromium >/dev/null
+      - name: capture
+        run: |
+          for p in ${{ matrix.job }}; do python -u elite_run.py "$p" & done; wait

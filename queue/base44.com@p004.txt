@@ -1,0 +1,5 @@
+49	https://base44.com/migrate/hubspot-migration
+50	https://base44.com/migrate/lovable-migration
+51	https://base44.com/migrate/salesforce-migration
+52	https://base44.com/templates/apps
+53	https://base44.com/templates/websites

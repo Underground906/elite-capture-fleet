@@ -1,0 +1,12 @@
+109	https://shopify.com/uk/analytics
+110	https://shopify.com/uk/test-and-launch
+111	https://shopify.com/uk/orders
+112	https://shopify.com/uk/shipping
+113	https://shopify.com/shipping/carriers
+114	https://shopify.com/uk/shipping/carriers
+115	https://shopify.com/shipping/dhl
+116	https://shopify.com/shipping/fedex
+117	https://shopify.com/uk/shipping/royal-mail
+118	https://shopify.com/uk/flow
+119	https://shopify.com/uk/mobile
+120	https://shopify.com/uk/payments

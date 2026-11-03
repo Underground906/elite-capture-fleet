@@ -1,0 +1,12 @@
+49	https://cultureamp.com/resources/on-demand-webinars
+50	https://cultureamp.com/resources/reports
+51	https://cultureamp.com/resources/videos
+52	https://cultureamp.com/podcast/2025-hr-trends
+53	https://cultureamp.com/podcast/activism
+54	https://cultureamp.com/podcast/anna-binder-asana-head-of-people-joins-ca-board
+55	https://cultureamp.com/podcast/bob-sutton-on-building-a-workplace-with-healthy-friction
+56	https://cultureamp.com/case-studies/aligned-leisure
+57	https://cultureamp.com/case-studies/appsflyer
+58	https://cultureamp.com/case-studies/autotrader
+59	https://cultureamp.com/case-studies/bank-first
+60	https://cultureamp.com/company/announcements/2022-workplace-dei-report

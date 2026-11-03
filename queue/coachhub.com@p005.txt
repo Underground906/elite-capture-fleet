@@ -1,0 +1,12 @@
+61	https://coachhub.com/en/coachhub-academy
+62	https://coachhub.com/en/integrations
+63	https://coachhub.com/en/ai-innovation
+64	https://coachhub.com/en/resources/case-studies
+65	https://coachhub.com/en/resources/libraries
+66	https://coachhub.com/en/blogs
+67	https://coachhub.com/en/about-us
+68	https://coachhub.com/en/news-press
+69	https://coachhub.com/en/esg
+70	https://coachhub.com/en/coachhub4good
+71	https://coachhub.com/en/career
+72	https://coachhub.com/en/for-coaches

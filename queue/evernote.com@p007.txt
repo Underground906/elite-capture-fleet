@@ -1,0 +1,12 @@
+85	https://evernote.com/pdf-merge-split
+86	https://evernote.com/redeem-code
+87	https://evernote.com/security
+88	https://evernote.com/teams
+89	https://evernote.com/user-stories
+90	https://evernote.com/web-clipper
+91	https://evernote.com/ai-note-taker/ai-meeting-assistant
+92	https://evernote.com/ai-note-taker/ai-meeting-assistant-for-firefox
+93	https://evernote.com/ai-note-taker/ai-meeting-assistant-for-lenovo
+94	https://evernote.com/ai-note-taker/ai-meeting-assistant-for-smartphone
+95	https://evernote.com/ai-note-taker/ai-meeting-mind-map-generator
+96	https://evernote.com/ai-prompts/submit

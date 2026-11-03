@@ -1,0 +1,12 @@
+109	https://evernote.com/ai-transcribe-link-to-text/transform-video-link-to-text
+110	https://evernote.com/ai-transcribe-link-to-text/translate-video-link-to-text
+111	https://evernote.com/ai-transcribe-link-to-text/turn-video-link-to-text
+112	https://evernote.com/ai-transcribe-video-to-text/convert-video-to-text
+113	https://evernote.com/ai-transcribe-video-to-text/summarize-video-transcript-with-ai
+114	https://evernote.com/ai-transcribe-video-to-text/transform-video-to-text
+115	https://evernote.com/ai-transcribe-video-to-text/translate-video-to-text
+116	https://evernote.com/ai-transcribe-video-to-text/turn-video-to-text
+117	https://evernote.com/chat-with-ai-assistant/ai-app-for-note-taking
+118	https://evernote.com/chat-with-ai-assistant/ai-as-a-study-tool
+119	https://evernote.com/chat-with-ai-assistant/ai-assistant-for-research
+120	https://evernote.com/chat-with-ai-assistant/ai-class-notes-summarizer

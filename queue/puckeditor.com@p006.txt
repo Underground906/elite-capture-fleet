@@ -1,0 +1,12 @@
+73	https://puckeditor.com/docs/extending-puck/internal-puck-api
+74	https://puckeditor.com/docs/extending-puck/plugins
+75	https://puckeditor.com/docs/extending-puck/theming
+76	https://puckeditor.com/docs/extending-puck/ui-overrides
+77	https://puckeditor.com/docs/integrating-puck/categories
+78	https://puckeditor.com/docs/integrating-puck/component-configuration
+79	https://puckeditor.com/docs/integrating-puck/data-migration
+80	https://puckeditor.com/docs/integrating-puck/dynamic-fields
+81	https://puckeditor.com/docs/integrating-puck/dynamic-props
+82	https://puckeditor.com/docs/integrating-puck/external-data-sources
+83	https://puckeditor.com/docs/integrating-puck/feature-toggling
+84	https://puckeditor.com/docs/integrating-puck/field-grouping

@@ -1,0 +1,12 @@
+13	https://cultureamp.com/solutions/cfo
+14	https://cultureamp.com/solutions/chro
+15	https://cultureamp.com/solutions/cio
+16	https://cultureamp.com/solutions/commercial
+17	https://cultureamp.com/solutions/enterprise
+18	https://cultureamp.com/science/insights
+19	https://cultureamp.com/science/people-science
+20	https://cultureamp.com/science/research
+21	https://cultureamp.com/science/roi-calculator
+22	https://cultureamp.com/blog
+23	https://cultureamp.com/blog/cost-of-cutting-culture
+24	https://cultureamp.com/resources
