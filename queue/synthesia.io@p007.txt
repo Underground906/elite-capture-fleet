@@ -1,0 +1,12 @@
+85	https://synthesia.io/case-studies/4cori
+86	https://synthesia.io/case-studies/antisel
+87	https://synthesia.io/case-studies/apa
+88	https://synthesia.io/3
+89	https://synthesia.io/api-pricing
+90	https://synthesia.io/awards-2025
+91	https://synthesia.io/book-a-demo
+92	https://synthesia.io/business-operations
+93	https://synthesia.io/product-tour
+94	https://synthesia.io/santa
+95	https://synthesia.io/series-e
+96	https://synthesia.io/services

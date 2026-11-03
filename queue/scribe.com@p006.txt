@@ -1,0 +1,12 @@
+73	https://scribe.com/tools
+74	https://scribehow.com/under-maintenance
+75	https://scribehow.com/uninstall
+76	https://scribehow.com/verify
+77	https://scribehow.com/verify-change-email
+78	https://scribe.com/webinars
+79	https://scribehow.com/welcome
+80	https://scribe.com/workflow-ai
+81	https://scribehow.com/workspace
+82	https://scribehow.com/api/healthcheck
+83	https://scribehow.com/api/version
+84	https://scribehow.com/billing/change-plan

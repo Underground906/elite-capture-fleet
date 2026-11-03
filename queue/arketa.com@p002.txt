@@ -1,0 +1,12 @@
+25	https://arketa.com/features/analytics-reporting
+26	https://arketa.com/features/branded-app
+27	https://arketa.com/features/branded-website
+28	https://help.arketa.com/getting-started/welcome
+29	https://arketa.com/blog/4-essential-email-automations-every-wellness-business-should-turn-on
+30	https://arketa.com/blog/5-tips-to-elevate-your-on-demand-fitness-library
+31	https://arketa.com/blog/6-essential-settings-to-save-time-and-boost-productivity
+32	https://arketa.com/blog/announcing-arketas-new-studio-dashboard-a-fresh-dashboard-built-for-scale
+33	https://arketa.com/affiliate-referral-program
+34	https://arketa.com/arketa-ai-lp
+35	https://arketa.com/book-a-demo
+36	https://arketa.com/book-a-demo-v2

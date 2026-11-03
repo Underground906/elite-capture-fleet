@@ -1,0 +1,12 @@
+61	https://whoop.com/ie/de/accessories
+62	https://whoop.com/ie/de/bupa-uk
+63	https://whoop.com/ie/de/careers
+64	https://whoop.com/ie/de/corporate-gifting
+65	https://whoop.com/in/en/about
+66	https://whoop.com/in/en/accessories
+67	https://whoop.com/in/en/accessories-guide
+68	https://whoop.com/in/en/advanced-labs
+69	https://whoop.com/in/en/careers
+70	https://whoop.com/je/en/about
+71	https://whoop.com/je/en/accessories
+72	https://whoop.com/je/en/accessories-guide

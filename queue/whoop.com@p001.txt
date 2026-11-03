@@ -1,0 +1,12 @@
+13	https://whoop.com/gg/en
+14	https://whoop.com/gg/enundefined
+15	https://whoop.com/ie/de
+16	https://whoop.com/ie/deundefined
+17	https://whoop.com/ie/en
+18	https://whoop.com/ie/enundefined
+19	https://whoop.com/ie/es
+20	https://whoop.com/in/en
+21	https://whoop.com/in/enundefined
+22	https://whoop.com/je/en
+23	https://whoop.com/je/enundefined
+24	https://whoop.com/jp/en

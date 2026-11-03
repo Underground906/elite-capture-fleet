@@ -1,0 +1,12 @@
+97	https://mentorcruise.com/consultant/aicareer
+98	https://mentorcruise.com/consulting-firms/abtesting
+99	https://mentorcruise.com/consulting-firms/agenticai
+100	https://mentorcruise.com/consulting-firms/agile
+101	https://mentorcruise.com/consulting-firms/ai
+102	https://mentorcruise.com/consulting-firms/aiagent
+103	https://mentorcruise.com/courses/advertising
+104	https://mentorcruise.com/courses/agiledevelopment
+105	https://mentorcruise.com/courses/ai
+106	https://mentorcruise.com/courses/algorithms
+107	https://mentorcruise.com/courses/analytics
+108	https://mentorcruise.com/experts/abtesting

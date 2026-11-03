@@ -1,0 +1,12 @@
+97	https://glean.com/jp/agent-library/deal-loss-insights
+98	https://glean.com/product/all-knowledge
+99	https://glean.com/product/apps
+100	https://glean.com/product/knowledge-management
+101	https://glean.com/product/work-hub
+102	https://glean.com/academy-s1
+103	https://glean.com/academy-s2
+104	https://glean.com/academy-s3
+105	https://glean.com/brand-resources
+106	https://glean.com/executive-exchange
+107	https://glean.com/executive-exchange-2026
+108	https://glean.com/feature-video

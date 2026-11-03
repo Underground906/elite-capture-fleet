@@ -1,0 +1,12 @@
+1	https://scribe.com/
+2	https://scribe.com/capture
+3	https://scribe.com/capture/autocapture
+4	https://scribe.com/optimize
+5	https://scribe.com/specialized-intelligence
+6	https://scribe.com/integrations
+7	https://scribe.com/solutions/ai-automation
+8	https://scribe.com/solutions/drive-ai-transformation
+9	https://scribe.com/solutions/finance-acc
+10	https://scribe.com/solutions/hr-ld
+11	https://scribe.com/solutions/implement-software
+12	https://scribehow.com/signup

@@ -1,0 +1,12 @@
+49	https://disco.co/cohort-based-course-playbook
+50	https://disco.co/cohort-based-course-playbook-access
+51	https://disco.co/cohort-based-learning
+52	https://disco.co/customer-academy-platform
+53	https://disco.co/demo-confirmation
+54	https://disco.co/disco-x-futurefohrward
+55	https://disco.co/events
+56	https://disco.co/gated-disco-x-futurefohrward
+57	https://disco.co/get-a-preview
+58	https://disco.co/guides
+59	https://disco.co/k-12-guide
+60	https://disco.co/k-12-guide-gated

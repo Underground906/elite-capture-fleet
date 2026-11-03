@@ -1,0 +1,12 @@
+85	https://circle.so/brand
+86	https://circle.so/compare
+87	https://circle.so/demo-video
+88	https://circle.so/desktop-app
+89	https://circle.so/eclipse
+90	https://circle.so/eclipse-release
+91	https://circle.so/inbox
+92	https://circle.so/members-only
+93	https://circle.so/membership
+94	https://circle.so/mobile
+95	https://circle.so/plus-sales
+96	https://circle.so/pricing-calculator

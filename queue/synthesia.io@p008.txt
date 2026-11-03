@@ -1,0 +1,12 @@
+97	https://synthesia.io/syren
+98	https://synthesia.io/alternatives/synthesia-vs-colossyan
+99	https://synthesia.io/alternatives/synthesia-vs-d-id
+100	https://synthesia.io/alternatives/synthesia-vs-deepbrain
+101	https://synthesia.io/alternatives/synthesia-vs-elai
+102	https://synthesia.io/alternatives/synthesia-vs-google-vids
+103	https://synthesia.io/partners/technology-partners
+104	https://synthesia.io/reports/generative-ai-for-business
+105	https://synthesia.io/service-providers/24slides
+106	https://synthesia.io/service-providers/adnovum
+107	https://synthesia.io/service-providers/cloud-mobile-forms
+108	https://synthesia.io/service-providers/commlab-india

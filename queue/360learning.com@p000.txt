@@ -1,0 +1,12 @@
+1	https://360learning.com/
+2	https://360learning.com/why-360learning
+3	https://360learning.com/pricing
+4	https://app.360learning.com/
+5	https://360learning.com/form/demo
+6	https://360learning.com/360learning-reviews
+7	https://360learning.com/collaborative-learning
+8	https://360learning.com/customers
+9	https://360learning.com/enterprise
+10	https://360learning.com/events
+11	https://360learning.com/l-and-d-performance-academy
+12	https://360learning.com/maturity-model

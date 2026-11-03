@@ -1,0 +1,12 @@
+97	https://scribehow.com/community/apps
+98	https://scribehow.com/community/experts
+99	https://scribe.com/enterprise/contact
+100	https://scribe.com/enterprise/learn-more
+101	https://scribe.com/enterprise/roi-calculator
+102	https://scribehow.com/feldspar/download
+103	https://scribe.com/how-to/google-sheets-docs-signature
+104	https://scribe.com/how-to/google-sheets-download
+105	https://scribe.com/how-to/google-sheets-dropdown
+106	https://scribe.com/how-to/google-sheets-freeze-row
+107	https://scribe.com/how-to/google-sheets-header-footer
+108	https://scribe.com/implement/crm

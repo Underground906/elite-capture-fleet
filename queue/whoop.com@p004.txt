@@ -1,0 +1,12 @@
+49	https://whoop.com/au/en/bupa-global
+50	https://whoop.com/gb/en/about
+51	https://whoop.com/gb/en/accessories
+52	https://whoop.com/gb/en/accessories-guide
+53	https://whoop.com/gb/en/advanced-labs
+54	https://whoop.com/gb/en/bupa-uk
+55	https://whoop.com/gg/en/about
+56	https://whoop.com/gg/en/accessories
+57	https://whoop.com/gg/en/accessories-guide
+58	https://whoop.com/gg/en/advanced-labs
+59	https://whoop.com/gg/en/careers
+60	https://whoop.com/ie/de/about

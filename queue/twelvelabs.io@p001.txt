@@ -1,0 +1,12 @@
+13	https://twelvelabs.io/pricing
+14	https://twelvelabs.io/case-studies
+15	https://twelvelabs.io/case-studies/affiliatenetwork
+16	https://twelvelabs.io/case-studies/dyn-sport
+17	https://twelvelabs.io/case-studies/gs-shop
+18	https://twelvelabs.io/case-studies/mantis
+19	https://twelvelabs.io/integrations/twelvelabs-panel-for-avid-media-composer
+20	https://twelvelabs.io/careers
+21	https://twelvelabs.io/resources/jockey
+22	https://twelvelabs.io/blog
+23	https://twelvelabs.io/blog/%EB%B9%84%EB%94%94%EC%98%A4%EB%A5%BC-%EA%B5%AC%EC%A1%B0%ED%99%94%EB%90%9C-%EC%9E%90%EC%82%B0%EC%9C%BC%EB%A1%9C-time-based-metadata(tbm)-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%EA%B8%B0
+24	https://twelvelabs.io/blog/%ED%8A%B8%EC%9B%B0%EB%B8%8C%EB%9E%A9%EC%8A%A4-%ED%95%9C%EA%B5%AD-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%B3%B5%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0

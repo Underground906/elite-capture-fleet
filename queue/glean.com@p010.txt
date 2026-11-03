@@ -1,0 +1,12 @@
+121	https://glean.com/agent-library/customer-reference-summary
+122	https://glean.com/agent-library/customer-sentiment-score
+123	https://glean.com/authors/aaron-trockman-gvc9l
+124	https://glean.com/authors/abhijith-shankar
+125	https://glean.com/authors/abhilash-samantapudi
+126	https://glean.com/authors/additya-popli
+127	https://glean.com/authors/aditya-kumar
+128	https://glean.com/connectors/15five
+129	https://glean.com/connectors/adobe-experience-manager
+130	https://glean.com/connectors/affinity
+131	https://glean.com/connectors/aha
+132	https://glean.com/connectors/airtable

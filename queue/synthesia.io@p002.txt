@@ -1,0 +1,12 @@
+25	https://synthesia.io/use-case/sales-training-enablement
+26	https://synthesia.io/use-case/sop
+27	https://synthesia.io/sessions
+28	https://synthesia.io/sessions/roleplays
+29	https://synthesia.io/sessions/surveys
+30	https://synthesia.io/sessions/roleplays/cold-call
+31	https://synthesia.io/sessions/roleplays/discovery-call
+32	https://synthesia.io/sessions/roleplays/manager-training
+33	https://synthesia.io/sessions/roleplays/sales-roleplay
+34	https://synthesia.io/sessions/surveys/customer-insights
+35	https://synthesia.io/api
+36	https://synthesia.io/pricing

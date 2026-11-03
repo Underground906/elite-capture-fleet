@@ -1,0 +1,12 @@
+133	https://disco.co/learning-community-directory-community/altschool-africa
+134	https://disco.co/learning-community-directory-community/batterymba-powered-by-battery-associates
+135	https://disco.co/learning-community-directory-offerings-format/1-on-1-or-group-coaching
+136	https://disco.co/learning-community-directory-offerings-format/accelerator
+137	https://disco.co/learning-community-directory-offerings-format/blended-or-hybrid-virtual-in-person
+138	https://disco.co/learning-community-directory-offerings-format/bootcamp
+139	https://disco.co/learning-community-directory-offerings-format/challenge
+140	https://disco.co/learning-community-directory-topics/art
+141	https://disco.co/learning-community-directory-topics/artificial-intelligence-machine-learning
+142	https://disco.co/learning-community-directory-topics/business
+143	https://disco.co/learning-community-directory-topics/climate-sustainability
+144	https://disco.co/learning-community-directory-topics/coaching

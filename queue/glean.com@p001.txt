@@ -1,0 +1,12 @@
+13	https://glean.com/ai-assistant/proactive-ai
+14	https://glean.com/ai-assistant/research-and-analysis
+15	https://glean.com/ai-assistant/work-execution
+16	https://glean.com/enterprise-search
+17	https://glean.com/ai-agents
+18	https://glean.com/ai-agents/agent-builder
+19	https://glean.com/ai-agents/agent-governance
+20	https://glean.com/ai-agents/agent-library
+21	https://glean.com/ai-agents/agent-orchestration
+22	https://glean.com/transform
+23	https://glean.com/resources/customer-stories
+24	https://glean.com/resources/guides

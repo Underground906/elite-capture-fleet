@@ -1,0 +1,12 @@
+13	https://brex.com/platform/budgets
+14	https://brex.com/platform/intelligent-finance
+15	https://brex.com/platform/reporting
+16	https://brex.com/solutions/startups
+17	https://brex.com/product-announcements
+18	https://brex.com/about
+19	https://brex.com/careers
+20	https://brex.com/contact-us
+21	https://brex.com/partners
+22	https://brex.com/journal/press
+23	https://brex.com/trust
+24	https://brex.com/customer-hub

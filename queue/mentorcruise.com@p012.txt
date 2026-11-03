@@ -1,0 +1,4 @@
+145	https://mentorcruise.com/coach/lifecoaching/cost
+146	https://mentorcruise.com/coaches/near-me/business
+147	https://mentorcruise.com/coaches/near-me/career
+148	https://mentorcruise.com/coaches/near-me/executive

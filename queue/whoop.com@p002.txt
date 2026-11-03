@@ -1,0 +1,12 @@
+25	https://whoop.com/jp/enundefined
+26	https://whoop.com/nz/en
+27	https://whoop.com/nz/enundefined
+28	https://whoop.com/qa/en
+29	https://whoop.com/qa/enundefined
+30	https://whoop.com/sa/en
+31	https://whoop.com/sa/enundefined
+32	https://whoop.com/us/en
+33	https://whoop.com/us/enundefined
+34	https://whoop.com/us/es
+35	https://whoop.com/ae/en/about
+36	https://whoop.com/ae/en/accessories

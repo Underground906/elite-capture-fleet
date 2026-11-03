@@ -1,0 +1,12 @@
+49	https://scribe.com/enterprise
+50	https://scribe.com/event-registration-2026
+51	https://scribehow.com/explore
+52	https://scribehow.com/extension-added
+53	https://scribehow.com/get-desktop
+54	https://scribehow.com/insights-preview
+55	https://scribehow.com/install-extension
+56	https://scribehow.com/intro
+57	https://scribehow.com/intro-viewer
+58	https://scribe.com/jobs-old
+59	https://scribe.com/new-nav
+60	https://scribehow.com/new-page

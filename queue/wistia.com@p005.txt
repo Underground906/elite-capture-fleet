@@ -1,0 +1,12 @@
+61	https://wistia.com/about/brand-affinity-marketing/step-four
+62	https://wistia.com/about/brand-affinity-marketing/step-one
+63	https://wistia.com/about/brand-affinity-marketing/step-three
+64	https://wistia.com/about/brand-affinity-marketing/step-two
+65	https://wistia.com/pricing/developer-plan
+66	https://wistia.com/pricing/webinars
+67	https://wistia.com/support/contact
+68	https://wistia.com/aspect-ratio-calculator
+69	https://wistia.com/asset-license
+70	https://wistia.com/yulelog
+71	https://wistia.com/show-business/branding
+72	https://wistia.com/show-business/build-the-hype

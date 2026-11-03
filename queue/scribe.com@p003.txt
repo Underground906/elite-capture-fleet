@@ -1,0 +1,12 @@
+37	https://scribe.com/pricing
+38	https://scribe.com/careers
+39	https://scribe.com/resources
+40	https://scribehow.com/approve-device
+41	https://scribe.com/banner-ads
+42	https://scribehow.com/billing
+43	https://scribehow.com/community
+44	https://scribe.com/contact-sales-old
+45	https://scribehow.com/create-mobile
+46	https://scribehow.com/creating-scribe
+47	https://scribehow.com/desktop
+48	https://scribehow.com/embed-login

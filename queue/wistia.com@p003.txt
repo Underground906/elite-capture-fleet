@@ -1,0 +1,12 @@
+37	https://wistia.com/integrations/campaign-monitor
+38	https://wistia.com/integrations/descript
+39	https://wistia.com/blog/10-brand-marketing-predictions-for-2020
+40	https://wistia.com/blog/15-types-of-business-videos
+41	https://wistia.com/blog/2-hour-video-workflow-that-actually-gets-done
+42	https://wistia.com/resources/music
+43	https://wistia.com/watch/video-101
+44	https://wistia.com/watch/video-gear-and-setup
+45	https://wistia.com/watch/video-how-tos
+46	https://wistia.com/watch/video-strategy
+47	https://wistia.com/watch/videos-and-ai
+48	https://wistia.com/events/change-the-channel

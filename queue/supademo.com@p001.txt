@@ -1,0 +1,12 @@
+13	https://supademo.com/accessibility
+14	https://supademo.com/ai
+15	https://supademo.com/careers
+16	https://supademo.com/compare
+17	https://supademo.com/customers
+18	https://supademo.com/download
+19	https://supademo.com/downloaded
+20	https://supademo.com/enterprise
+21	https://supademo.com/help
+22	https://supademo.com/integrations
+23	https://supademo.com/showcase
+24	https://supademo.com/tools

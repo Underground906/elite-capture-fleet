@@ -1,0 +1,12 @@
+85	https://whoop.com/qa/en/about
+86	https://whoop.com/qa/en/accessories
+87	https://whoop.com/qa/en/accessories-guide
+88	https://whoop.com/qa/en/advanced-labs
+89	https://whoop.com/qa/en/bupa-global
+90	https://whoop.com/sa/en/about
+91	https://whoop.com/sa/en/accessories
+92	https://whoop.com/sa/en/accessories-guide
+93	https://whoop.com/sa/en/advanced-labs
+94	https://whoop.com/sa/en/bupa-global
+95	https://whoop.com/us/en/about
+96	https://whoop.com/us/en/accessories

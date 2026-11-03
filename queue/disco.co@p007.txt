@@ -1,0 +1,12 @@
+85	https://disco.co/comparison/circle
+86	https://disco.co/comparison/kajabi
+87	https://disco.co/comparison/mighty-networks
+88	https://disco.co/comparison/novoed
+89	https://disco.co/comparison/teachable
+90	https://disco.co/customer-profiles/accelerator
+91	https://disco.co/customer-profiles/association
+92	https://disco.co/customer-profiles/bootcamp
+93	https://disco.co/customer-profiles/community-network
+94	https://disco.co/customer-profiles/company
+95	https://disco.co/customer-use-case/educate-customers-partners
+96	https://disco.co/customer-use-case/run-learning-community

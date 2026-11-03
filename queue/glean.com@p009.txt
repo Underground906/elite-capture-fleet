@@ -1,0 +1,12 @@
+109	https://glean.com/glean-for-desktop
+110	https://glean.com/glean-go-on-the-road
+111	https://glean.com/glean-live
+112	https://glean.com/newsletter
+113	https://glean.com/partner-get-a-demo
+114	https://glean.com/podcast
+115	https://glean.com/security-showcase
+116	https://glean.com/thank-you-newsletter
+117	https://glean.com/waffle-party
+118	https://glean.com/agent-library/account-handoff
+119	https://glean.com/agent-library/account-snapshot
+120	https://glean.com/agent-library/competitive-brief

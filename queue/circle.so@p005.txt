@@ -1,0 +1,12 @@
+61	https://circle.so/event-hub/community-features-benefits
+62	https://circle.so/event-hub/community-launch-relaunch
+63	https://circle.so/event-hub/community-membership-growth
+64	https://circle.so/event-hub/category/masterclass
+65	https://circle.so/event-hub/category/summits
+66	https://circle.so/migration
+67	https://circle.so/platform
+68	https://circle.so/platform/coaching-business
+69	https://circle.so/platform/community-managers
+70	https://circle.so/platform/course-creators
+71	https://circle.so/platform/courses
+72	https://circle.so/platform/creator-business

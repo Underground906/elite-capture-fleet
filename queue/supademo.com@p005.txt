@@ -1,0 +1,12 @@
+61	https://supademo.com/bug-bounty
+62	https://supademo.com/content
+63	https://supademo.com/influencers
+64	https://supademo.com/onboarding
+65	https://supademo.com/powered-by
+66	https://supademo.com/user-flow-examples
+67	https://supademo.com/academy/additional-resources
+68	https://supademo.com/academy/create-your-demo
+69	https://supademo.com/academy/edit-and-refine
+70	https://supademo.com/academy/measure-and-improve
+71	https://supademo.com/accessibility/vpat
+72	https://supademo.com/compare/10demo-alternative

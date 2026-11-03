@@ -1,0 +1,12 @@
+49	https://synthesia.io/responsible-ai
+50	https://synthesia.io/research
+51	https://synthesia.io/about
+52	https://synthesia.io/ai-governance
+53	https://synthesia.io/alternatives
+54	https://synthesia.io/community
+55	https://synthesia.io/customer-service
+56	https://developers.synthesia.io/docs
+57	https://synthesia.io/enterprise
+58	https://synthesia.io/newsroom
+59	https://synthesia.io/partners
+60	https://synthesia.io/powerpoint-to-video

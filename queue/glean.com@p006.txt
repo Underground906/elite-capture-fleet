@@ -1,0 +1,12 @@
+73	https://glean.com/webinars/ai-analytics-with-glean
+74	https://glean.com/webinars/ai-at-work-turning-institutional-knowledge-into-measurable-business-impact
+75	https://glean.com/webinars/ai-customer-facing-team-gainsight
+76	https://glean.com/events/glean-go-2026-replay
+77	https://glean.com/partners/aws
+78	https://glean.com/partners/databricks
+79	https://glean.com/partners/microsoft
+80	https://glean.com/partners/partner-finder
+81	https://glean.com/work-ai-institute/ai-100
+82	https://glean.com/work-ai-institute/ai-bs-quiz
+83	https://glean.com/work-ai-institute/aware
+84	https://glean.com/work-ai-institute/unstuck

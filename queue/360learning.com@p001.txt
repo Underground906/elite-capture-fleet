@@ -1,0 +1,12 @@
+13	https://360learning.com/newsroom
+14	https://360learning.com/partner-marketplace
+15	https://360learning.com/resources
+16	https://360learning.com/the-l-and-d-collective
+17	https://360learning.com/blog/onboarding-templates-and-checklists
+18	https://360learning.com/form/contact-us
+19	https://360learning.com/form/free-trial
+20	https://support.360learning.com/hc/en-us
+21	https://360learning.com/product/academies
+22	https://360learning.com/product/ai-roleplay
+23	https://360learning.com/product/artificial-intelligence
+24	https://360learning.com/product/learning-management-system

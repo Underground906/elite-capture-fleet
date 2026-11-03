@@ -1,0 +1,12 @@
+25	https://brex.com/support
+26	https://brex.com/support/mmf-brex-business-account
+27	https://brex.com/support/the-brex-business-account
+28	https://brex.com/resources
+29	https://brex.com/spend-trends
+30	https://partners.brex.com/directory
+31	https://brex.com/professional-services
+32	https://brex.com/statement-of-financial-condition
+33	https://brex.com/customers/blazers
+34	https://brex.com/platform/spend-limits
+35	https://brex.com/solutions/accounts-payable-automation-software
+36	https://brex.com/solutions/ecommerce

@@ -1,0 +1,12 @@
+121	https://disco.co/learn/community
+122	https://disco.co/learn/learning
+123	https://disco.co/learn/monetization
+124	https://disco.co/learn/operations
+125	https://disco.co/learning-community-directory-community-type/accelerator
+126	https://disco.co/learning-community-directory-community-type/industry-focused
+127	https://disco.co/learning-community-directory-community-type/institutional
+128	https://disco.co/learning-community-directory-community-type/professional-association
+129	https://disco.co/learning-community-directory-community-type/role-based
+130	https://disco.co/learning-community-directory-community/agile-academy
+131	https://disco.co/learning-community-directory-community/alacrity-academy
+132	https://disco.co/learning-community-directory-community/allwomen

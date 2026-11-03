@@ -1,0 +1,12 @@
+1	https://supademo.com/
+2	https://supademo.com/ai/command
+3	https://supademo.com/ai/demo-agents
+4	https://supademo.com/features
+5	https://supademo.com/solutions
+6	https://supademo.com/blog
+7	https://supademo.com/pricing
+8	https://supademo.com/product-demo
+9	https://app.supademo.com/signup
+10	https://docs.supademo.com/
+11	https://supademo.com/about
+12	https://supademo.com/academy

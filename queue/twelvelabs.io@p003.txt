@@ -1,0 +1,12 @@
+37	https://twelvelabs.io/enterprise
+38	https://twelvelabs.io/explore
+39	https://twelvelabs.io/guides
+40	https://twelvelabs.io/ibc
+41	https://twelvelabs.io/jockey
+42	https://twelvelabs.io/marengo
+43	https://twelvelabs.io/nab-show-26
+44	https://twelvelabs.io/overage
+45	https://twelvelabs.io/partners
+46	https://twelvelabs.io/pegasus
+47	https://twelvelabs.io/press
+48	https://twelvelabs.io/research

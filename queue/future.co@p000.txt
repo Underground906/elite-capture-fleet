@@ -1,0 +1,12 @@
+1	https://future.co/coaches
+2	https://future.co/
+3	https://future.co/blog
+4	https://future.co/survey/intro
+5	https://future.co/workouts
+6	https://faq.future.co/
+7	https://future.co/about
+8	https://future.co/careers
+9	https://future.co/consumer-health-data-policy
+10	https://future.co/coaches/profile/0364b711-6f77-4832-ab32-8811c03c507c/qawolf-wolf
+11	https://future.co/coaches/profile/03cfa9f3-f646-4b02-87df-8619adc2975f/jessica-hall
+12	https://future.co/coaches/profile/0460fb41-485d-4115-8083-832e8220c715/nick-cioffi

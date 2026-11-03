@@ -1,0 +1,12 @@
+1	https://disco.co/
+2	https://disco.co/platform/all-features
+3	https://disco.co/platform/create-programs
+4	https://disco.co/platform/engage-members
+5	https://disco.co/platform/integrations
+6	https://disco.co/ai
+7	https://disco.co/mobile
+8	https://docs.disco.co/changelog
+9	https://disco.co/training-businesses
+10	https://disco.co/customer-education
+11	https://disco.co/companies
+12	https://disco.co/blog

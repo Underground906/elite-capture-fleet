@@ -1,0 +1,12 @@
+85	https://scribehow.com/billing/checkout
+86	https://scribehow.com/billing/purchase-confirmation
+87	https://scribe.com/blog-new/10-great-examples-of-responsive-websites
+88	https://scribe.com/blog-new/15-best-blogs-to-follow-about-web-design
+89	https://scribe.com/blog-new/7-must-have-tools-for-web-designers
+90	https://scribe.com/blog-new/7-ways-to-improve-website-usability-and-accessibility
+91	https://scribe.com/blog-new/designers-who-changed-the-web
+92	https://scribehow.com/by/25_MAGESHWARI_R_BT__rSN4DLbdQya-oWhhJo7dng
+93	https://scribehow.com/by/7EVEN_Online_KG__JUIMMS3mT6O9o5HM2n4PvA
+94	https://scribehow.com/by/9x_Production__nokeWb1xTJC5HWePmQ18Tw
+95	https://scribehow.com/by/AGL_Bookkeeping__88fsO_5mT0Ck3NFB27S6sw
+96	https://scribehow.com/by/AJAX_Jackson__D_YoldaSRzewOr1uHBCjzg

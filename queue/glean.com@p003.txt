@@ -1,0 +1,12 @@
+37	https://glean.com/events/glean-go-2026
+38	https://community.glean.com/
+39	https://glean.com/partners
+40	https://glean.com/work-ai-institute
+41	https://glean.com/ai-token-economics
+42	https://glean.com/about
+43	https://glean.com/about/ai-at-glean
+44	https://glean.com/about/culture-and-values
+45	https://glean.com/about/glean-story
+46	https://glean.com/careers
+47	https://glean.com/get-a-demo
+48	https://glean.com/jp

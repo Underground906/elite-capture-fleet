@@ -1,0 +1,12 @@
+25	https://circle.so/ai-agents
+26	https://circle.so/ai-workflows
+27	https://circle.so/workflows
+28	https://circle.so/integrations
+29	https://circle.so/headless
+30	https://circle.so/mcp
+31	https://circle.so/blog
+32	https://circle.so/customer-stories
+33	https://circle.so/event-hub
+34	https://circle.so/build-a-community
+35	https://circle.so/community-roi-calculator
+36	https://circle.so/academy

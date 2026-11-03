@@ -1,0 +1,12 @@
+25	https://glean.com/resources/product-videos
+26	https://glean.com/resources/customer-stories/booking-com
+27	https://glean.com/resources/customer-stories/ericsson
+28	https://glean.com/solutions/all-teams
+29	https://glean.com/solutions/departments/customer-service
+30	https://glean.com/solutions/departments/engineering
+31	https://glean.com/solutions/departments/finance
+32	https://glean.com/solutions/departments/it-service-management
+33	https://glean.com/solutions/departments/marketing
+34	https://glean.com/content-hub
+35	https://glean.com/blog
+36	https://glean.com/webinars

@@ -1,0 +1,12 @@
+97	https://brex.com/industry/education
+98	https://brex.com/industry/healthcare
+99	https://brex.com/industry/hr-staffing
+100	https://brex.com/industry/management-consulting
+101	https://brex.com/launchpad/abiel-gutierrez
+102	https://brex.com/launchpad/julia-wu
+103	https://brex.com/launchpad/michael-tannenbaum
+104	https://brex.com/launchpad/prabhav-jain
+105	https://brex.com/lp/parker-card-alternative
+106	https://brex.com/referral/fsp
+107	https://brex.com/tools/charge-finder
+108	https://brex.com/tools/mileage-reimburse-calculator

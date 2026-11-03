@@ -1,0 +1,12 @@
+49	https://mentorcruise.com/mentor/AlanOberto
+50	https://mentorcruise.com/blog/10-essential-software-architect-interview-questions-to-prepare-for
+51	https://mentorcruise.com/blog/10-key-mentoring-topics-great-experience
+52	https://mentorcruise.com/blog/10-leadership-strategies-to-improve-team-performance-and-drive-success
+53	https://mentorcruise.com/blog/10-learnings-from-10-years-at-amazon
+54	https://mentorcruise.com/app
+55	https://mentorcruise.com/charity
+56	https://mentorcruise.com/fractional-ceo
+57	https://mentorcruise.com/fractional-chief-of-staff
+58	https://mentorcruise.com/fractional-cio
+59	https://mentorcruise.com/fractional-ciso
+60	https://mentorcruise.com/fractional-controller

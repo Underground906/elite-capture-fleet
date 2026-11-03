@@ -1,0 +1,12 @@
+1	https://circle.so/
+2	https://circle.so/plus
+3	https://circle.so/plus/branded-app
+4	https://circle.so/plus/customer-stories
+5	https://circle.so/plus/support
+6	https://discover.circle.so/
+7	https://circle.so/pricing
+8	https://app.circle.so/communities/new
+9	https://circle.so/careers
+10	https://circle.so/affiliate-program
+11	https://circle.so/partner-directory
+12	https://circle.so/discussions

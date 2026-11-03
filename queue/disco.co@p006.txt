@@ -1,0 +1,12 @@
+73	https://disco.co/benefits/design-customization
+74	https://disco.co/benefits/social-learning
+75	https://disco.co/blog-category/ai
+76	https://disco.co/blog-category/cohorts
+77	https://disco.co/blog-category/community
+78	https://disco.co/blog-category/company-news
+79	https://disco.co/blog-category/expert-interviews
+80	https://disco.co/cohort-based-course-playbook-chapter/course-content-creation
+81	https://disco.co/cohort-based-course-playbook-chapter/create-a-cohort-based-course
+82	https://disco.co/cohort-based-course-playbook-chapter/create-an-online-course
+83	https://disco.co/cohort-based-course-playbook-chapter/intro-to-cohort-based-course
+84	https://disco.co/cohort-based-course-playbook-chapter/learner-engagement

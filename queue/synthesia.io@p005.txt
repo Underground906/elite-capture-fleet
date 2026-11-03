@@ -1,0 +1,12 @@
+61	https://synthesia.io/service-providers
+62	https://synthesia.io/tools
+63	https://synthesia.io/updates
+64	https://help.synthesia.io/en/articles/7182166-how-to-contact-us
+65	https://synthesia.io/partners/affiliates
+66	https://synthesia.io/post/ai-tools
+67	https://synthesia.io/post/explainer-videos
+68	https://synthesia.io/post/internal-communication-videos
+69	https://synthesia.io/post/onboarding-videos
+70	https://synthesia.io/post/training-videos
+71	https://synthesia.io/reports/ai-in-learning-and-development-report-2026
+72	https://synthesia.io/tools/ai-image-generator

@@ -1,0 +1,12 @@
+49	https://wistia.com/events/couchcon
+50	https://wistia.com/events/webinar-hosting-demo
+51	https://wistia.com/events/webinarpalooza
+52	https://wistia.com/series/a-better-workplace
+53	https://wistia.com/series/brandwagon
+54	https://wistia.com/series/gear-squad
+55	https://wistia.com/series/getting-started-with-video
+56	https://wistia.com/series/low-views-high-impact
+57	https://wistia.com/series/wistia-creative-alliance/directors-cut
+58	https://wistia.com/series/wistia-creative-alliance/for-the-kids
+59	https://wistia.com/series/wistia-creative-alliance/noodle-on-lenny
+60	https://wistia.com/about/brand-affinity-marketing

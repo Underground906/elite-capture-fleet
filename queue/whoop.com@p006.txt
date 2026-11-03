@@ -1,0 +1,12 @@
+73	https://whoop.com/je/en/advanced-labs
+74	https://whoop.com/je/en/bupa-global
+75	https://whoop.com/jp/en/accessories
+76	https://whoop.com/jp/en/accessories-guide
+77	https://whoop.com/jp/en/advanced-labs
+78	https://whoop.com/jp/en/bupa-global
+79	https://whoop.com/jp/en/careers
+80	https://whoop.com/nz/en/about
+81	https://whoop.com/nz/en/accessories
+82	https://whoop.com/nz/en/accessories-guide
+83	https://whoop.com/nz/en/advanced-labs
+84	https://whoop.com/nz/en/careers

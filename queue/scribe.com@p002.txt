@@ -1,0 +1,12 @@
+25	https://scribe.com/solutions/b/onboard-new-hires
+26	https://scribe.com/solutions/b/train-colleagues
+27	https://scribe.com/customers/bkm
+28	https://scribe.com/customers/coronis
+29	https://scribe.com/customers/crafty
+30	https://scribe.com/library/100-million-arr
+31	https://scribe.com/library/100-million-arr-press-release
+32	https://scribe.com/library/30-60-90-day-onboarding-plan
+33	https://scribe.com/library/4-ways-to-share-scribes
+34	https://scribe.com/features
+35	https://scribe.com/platform
+36	https://scribe.com/use-cases

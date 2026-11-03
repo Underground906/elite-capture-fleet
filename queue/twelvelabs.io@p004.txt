@@ -1,0 +1,12 @@
+49	https://twelvelabs.io/sample-apps
+50	https://twelvelabs.io/security
+51	https://twelvelabs.io/snowflake-twelvelabs-request
+52	https://twelvelabs.io/try-jockey
+53	https://twelvelabs.io/twelvelabs-amazon-bedrock-ebook
+54	https://twelvelabs.io/vast-data-twelvelabs
+55	https://twelvelabs.io/webinars
+56	https://twelvelabs.io/zoom
+57	https://twelvelabs.io/guides/a-guidance-on-multi-vector-video-search-with-twelvelabs-marengo
+58	https://twelvelabs.io/guides/ai-powered-creative-review-copy
+59	https://twelvelabs.io/guides/automated-video-compliance-analysis-with-twelvelabs-marengo-and-pegasus
+60	https://twelvelabs.io/guides/before-it-becomes-a-headline

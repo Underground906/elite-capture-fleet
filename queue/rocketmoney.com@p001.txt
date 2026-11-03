@@ -1,0 +1,12 @@
+13	https://rocketmoney.com/careers
+14	https://rocketmoney.com/about
+15	https://rocketmoney.com/company-updates
+16	https://rocketmoney.com/faq
+17	https://rocketmoney.com/security
+18	https://help.rocketmoney.com/en/articles/2684134-contacting-rocket-money
+19	https://rocketmoney.com/affiliates
+20	https://rocketmoney.com/press-inquiries
+21	https://rocketmoney.com/learn/debt-and-credit
+22	https://rocketmoney.com/company-updates/1-million-premium-users
+23	https://rocketmoney.com/company-updates/a-new-era-rocket-money-welcomes-mint-users
+24	https://rocketmoney.com/company-updates/announcing-our-series-d-round

@@ -1,0 +1,12 @@
+61	https://scribehow.com/open-with-desktop
+62	https://scribehow.com/optimize-app
+63	https://scribehow.com/optimize-onboarding
+64	https://scribe.com/osaic
+65	https://scribehow.com/public-profile
+66	https://scribehow.com/redirect
+67	https://scribehow.com/release-notes
+68	https://scribehow.com/reset-password
+69	https://scribehow.com/set-password
+70	https://scribehow.com/settings
+71	https://scribehow.com/start-recording
+72	https://scribe.com/test

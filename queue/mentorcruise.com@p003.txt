@@ -1,0 +1,12 @@
+37	https://mentorcruise.com/stats
+38	https://mentorcruise.com/stories
+39	https://mentorcruise.com/templates
+40	https://mentorcruise.com/testimonials
+41	https://mentorcruise.com/teams/training
+42	https://mentorcruise.com/workshop/abtesting
+43	https://mentorcruise.com/workshop/agenticai
+44	https://mentorcruise.com/workshop/agile
+45	https://mentorcruise.com/workshop/ai
+46	https://mentorcruise.com/mentor/AayushArora
+47	https://mentorcruise.com/mentor/AdamSalim
+48	https://mentorcruise.com/mentor/AlainChautard

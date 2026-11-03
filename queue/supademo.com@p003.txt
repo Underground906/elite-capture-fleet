@@ -1,0 +1,12 @@
+37	https://supademo.com/industries/finance-banking
+38	https://supademo.com/industries/government
+39	https://supademo.com/industries/healthcare
+40	https://supademo.com/industries/software
+41	https://supademo.com/solutions/customer-education
+42	https://supademo.com/solutions/customer-success
+43	https://supademo.com/solutions/internal-training
+44	https://supademo.com/solutions/marketing-teams
+45	https://supademo.com/solutions/presales
+46	https://supademo.com/tools/ai-sales-pitch-generator
+47	https://supademo.com/tools/annotation-generator
+48	https://supademo.com/tools/demo-to-docs-generator

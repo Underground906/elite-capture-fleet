@@ -1,0 +1,12 @@
+37	https://brex.com/solutions/enterprise
+38	https://brex.com/solutions/mid-size-companies
+39	https://brex.com/solutions/global-spend-solution/details
+40	https://brex.com/product-announcements/1-click-reminders
+41	https://brex.com/product-announcements/10x-improvement-in-speed-on-brex-empower
+42	https://brex.com/product-announcements/1password-integration
+43	https://brex.com/product-announcements/30-hris-integrations-on-brex-empower
+44	https://brex.com/product-announcements/a-smarter-bill-pay
+45	https://brex.com/partners/accounting
+46	https://brex.com/partners/aws
+47	https://brex.com/journal
+48	https://brex.com/journal/2022-survey

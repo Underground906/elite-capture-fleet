@@ -1,0 +1,12 @@
+37	https://whoop.com/ae/en/accessories-guide
+38	https://whoop.com/ae/en/advanced-labs
+39	https://whoop.com/ae/en/bupa-global
+40	https://whoop.com/at/de/about
+41	https://whoop.com/at/de/accessories
+42	https://whoop.com/at/de/bupa-global
+43	https://whoop.com/at/de/careers
+44	https://whoop.com/at/de/corporate-gifting
+45	https://whoop.com/au/en/about
+46	https://whoop.com/au/en/accessories
+47	https://whoop.com/au/en/accessories-guide
+48	https://whoop.com/au/en/advanced-labs

@@ -1,0 +1,12 @@
+145	https://glean.com/perspectives/7-tasks-ai-can-automate-in-facility-management-for-2026
+146	https://glean.com/podcast/ai-transforming-daily-workflows-exposure-vs-adoption
+147	https://glean.com/podcast/ai-transforming-org-power-decision-making
+148	https://glean.com/podcast/ai-transforming-organizations-do-we-still-need-bosses
+149	https://glean.com/podcast/how-ai-is-transforming-hr-the-reality-behind-the-flattening-hype
+150	https://glean.com/press/100m-conversations-in-house-models-real-time-agents-how-abridge-built-healthcare-s-ai-layer
+151	https://glean.com/press/3483-how-glean-is-securing-the-next-wave-of-ai-agents-in-the-enterprise
+152	https://glean.com/press/8-experts-work-and-technology-predictions-for-ai-in-2026
+153	https://glean.com/press/ai-and-the-productivity-paradox
+154	https://glean.com/prompt-library/a-b-testing-plan
+155	https://glean.com/prompt-library/account-health-summary
+156	https://glean.com/prompt-library/acknowledge-receipt-of-a-customer-support-email

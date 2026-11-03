@@ -1,0 +1,12 @@
+25	https://360learning.com/product/lxp
+26	https://360learning.com/solution/become-a-partner
+27	https://360learning.com/solution/existing-partner
+28	https://360learning.com/solution/hybrid-learning
+29	https://360learning.com/solution/mobile-learning
+30	https://360learning.com/use-cases/compliance-training
+31	https://360learning.com/use-cases/customer-training
+32	https://360learning.com/use-cases/employee-onboarding
+33	https://360learning.com/use-cases/frontline-staff
+34	https://360learning.com/use-cases/sales-enablement
+35	https://support.360learning.com/hc/en-us/articles/360024018232-360Learning-Release-Notes
+36	https://360learning.com/form/better-together-contact

@@ -1,0 +1,4 @@
+25	https://tonal.com/blogs/community
+26	https://tonal.com/blogs/fitness
+27	https://tonal.com/blogs/lifestyle
+28	https://tonal.com/agents.md

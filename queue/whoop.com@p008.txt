@@ -1,0 +1,3 @@
+97	https://whoop.com/us/en/accessories-guide
+98	https://whoop.com/us/en/advanced-labs
+99	https://whoop.com/us/en/aurora

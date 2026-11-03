@@ -1,0 +1,12 @@
+145	https://disco.co/learning-community-directory/application
+146	https://disco.co/learning-community-directory/communities
+147	https://disco.co/learning-community-directory/formats
+148	https://disco.co/learning-community-directory/home
+149	https://disco.co/learning-community-directory/topics
+150	https://disco.co/learning-community/case-studies
+151	https://disco.co/learning-community/examples
+152	https://disco.co/learning-community/how-to-build
+153	https://disco.co/online-courses/examples
+154	https://disco.co/online-courses/how-to-create
+155	https://disco.co/online-courses/marketing
+156	https://disco.co/online-courses/online-course-platforms

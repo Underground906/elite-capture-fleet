@@ -1,0 +1,12 @@
+1	https://rocketmoney.com/
+2	https://rocketmoney.com/rowan
+3	https://rocketmoney.com/learn
+4	https://rocketmoney.com/learn/personal-finance/best-budgeting-apps
+5	https://app.rocketmoney.com/
+6	https://app.rocketmoney.com/signup
+7	https://rocketmoney.com/feature/autopilot-savings
+8	https://rocketmoney.com/feature/create-a-budget
+9	https://rocketmoney.com/feature/credit-score
+10	https://rocketmoney.com/compare/copilot
+11	https://rocketmoney.com/compare/mint-alternative
+12	https://rocketmoney.com/compare/monarch-money

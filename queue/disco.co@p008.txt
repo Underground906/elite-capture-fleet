@@ -1,0 +1,12 @@
+97	https://disco.co/customer-use-case/sell-learning-programs
+98	https://disco.co/customer-use-case/train-employees
+99	https://disco.co/encyclopedia-content/altmba
+100	https://disco.co/encyclopedia-content/batterymba
+101	https://disco.co/encyclopedia-content/community-apps
+102	https://disco.co/encyclopedia-content/community-business-model
+103	https://disco.co/encyclopedia-content/community-website
+104	https://disco.co/encyclopedia/communities
+105	https://disco.co/encyclopedia/community
+106	https://disco.co/encyclopedia/learning
+107	https://disco.co/encyclopedia/platforms
+108	https://disco.co/encyclopedia/tools

@@ -1,0 +1,12 @@
+73	https://mentorcruise.com/career/3d-animator
+74	https://mentorcruise.com/career/accountant
+75	https://mentorcruise.com/career/aerospace-engineer
+76	https://mentorcruise.com/career/agile-coach
+77	https://mentorcruise.com/career/ai-consultant
+78	https://mentorcruise.com/certifications/abtesting
+79	https://mentorcruise.com/certifications/accessibility
+80	https://mentorcruise.com/certifications/adhd
+81	https://mentorcruise.com/certifications/agile
+82	https://mentorcruise.com/certifications/ai
+83	https://mentorcruise.com/coach/abtesting
+84	https://mentorcruise.com/coach/agenticai

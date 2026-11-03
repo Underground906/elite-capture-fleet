@@ -1,0 +1,5 @@
+13	https://myfitnesspal.com/apps
+14	https://myfitnesspal.com/premium-plus
+15	https://myfitnesspal.com/exercise/lookup
+16	https://myfitnesspal.com/mobile/android
+17	https://myfitnesspal.com/mobile/iphone

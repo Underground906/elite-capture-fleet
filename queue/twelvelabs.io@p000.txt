@@ -1,0 +1,12 @@
+1	https://twelvelabs.io/
+2	https://twelvelabs.io/product/analyze
+3	https://twelvelabs.io/product/embed
+4	https://twelvelabs.io/product/models-overview
+5	https://twelvelabs.io/product/product-overview
+6	https://twelvelabs.io/product/video-search
+7	https://twelvelabs.io/solutions
+8	https://twelvelabs.io/solutions/advertising
+9	https://twelvelabs.io/solutions/government
+10	https://twelvelabs.io/solutions/media-and-entertainment
+11	https://twelvelabs.io/solutions/physical-ai
+12	https://twelvelabs.io/solutions/security

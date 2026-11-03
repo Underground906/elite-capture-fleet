@@ -1,0 +1,12 @@
+121	https://mentorcruise.com/goal/spanish-tech-mentors
+122	https://mentorcruise.com/goal/visa-mentorship
+123	https://mentorcruise.com/jobs/career-coach
+124	https://mentorcruise.com/jobs/executive-coach
+125	https://mentorcruise.com/jobs/fractional-cfo
+126	https://mentorcruise.com/jobs/fractional-cmo
+127	https://mentorcruise.com/jobs/fractional-coo
+128	https://mentorcruise.com/questions/abtesting
+129	https://mentorcruise.com/questions/accenture
+130	https://mentorcruise.com/questions/agile
+131	https://mentorcruise.com/questions/ai
+132	https://mentorcruise.com/questions/airbnb

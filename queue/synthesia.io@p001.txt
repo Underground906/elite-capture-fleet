@@ -1,0 +1,12 @@
+13	https://synthesia.io/sales-enablement
+14	https://synthesia.io/marketing
+15	https://synthesia.io/information-technology
+16	https://synthesia.io/knowledge-managers
+17	https://synthesia.io/industries/financial-services
+18	https://synthesia.io/industries/healthcare
+19	https://synthesia.io/industries/manufacturing
+20	https://synthesia.io/industries/professional-services
+21	https://synthesia.io/industries/retail
+22	https://synthesia.io/use-case/compliance-training
+23	https://synthesia.io/use-case/employee-development
+24	https://synthesia.io/use-case/product-video

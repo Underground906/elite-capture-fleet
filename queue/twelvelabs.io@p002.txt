@@ -1,0 +1,12 @@
+25	https://twelvelabs.io/blog/2021-techstars-seattle-accelerator-companies
+26	https://twelvelabs.io/blog/a-tour-of-video-understanding-use-cases
+27	https://twelvelabs.io/contact
+28	https://twelvelabs.io/demo
+29	https://twelvelabs.io/demo/agency-brand-safety
+30	https://twelvelabs.io/demo/hook-scoring
+31	https://twelvelabs.io/about-us
+32	https://twelvelabs.io/aws-reinvent
+33	https://twelvelabs.io/broadcast-asia-26
+34	https://twelvelabs.io/compliance
+35	https://twelvelabs.io/compliance-test-your-rules
+36	https://twelvelabs.io/developer-hub

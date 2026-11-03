@@ -1,0 +1,12 @@
+1	https://arketa.com/
+2	https://arketa.com/about-us
+3	https://arketa.com/features
+4	https://arketa.com/business-type
+5	https://arketa.com/blog
+6	https://arketa.com/pricing
+7	https://arketa.com/careers
+8	https://arketa.com/contact
+9	https://arketa.com/developers
+10	https://arketa.com/integrations-partners
+11	https://arketa.com/migrations
+12	https://arketa.com/webinars

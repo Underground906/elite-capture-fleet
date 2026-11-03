@@ -1,0 +1,12 @@
+73	https://supademo.com/compare/1mind-alternative
+74	https://supademo.com/compare/appcues-alternative
+75	https://supademo.com/compare/arcade-alternative
+76	https://supademo.com/compare/camtasia-alternative
+77	https://supademo.com/content/abm
+78	https://supademo.com/content/activation
+79	https://supademo.com/content/get-users-reddit
+80	https://supademo.com/content/product-led-seo
+81	https://supademo.com/content/state-of-interactive-demos-2026
+82	https://supademo.com/tutorials/ahrefs
+83	https://supademo.com/tutorials/airtable
+84	https://supademo.com/tutorials/apollo

@@ -1,0 +1,5 @@
+1	https://evvery.app/
+2	https://evvery.app/sign-up
+3	https://evvery.app/help
+4	https://evvery.app/help/about-your-data
+5	https://evvery.app/help/account

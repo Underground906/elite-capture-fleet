@@ -1,0 +1,11 @@
+13	https://openship.io/support
+14	https://openship.io/trust
+15	https://openship.io/docs/api
+16	https://openship.io/docs/cli
+17	https://openship.io/features/actions-ci
+18	https://openship.io/features/ai-mcp
+19	https://openship.io/features/any-stack
+20	https://openship.io/apps/authentik
+21	https://openship.io/apps/buzz
+22	https://openship.io/blog/how-ai-builds-work
+23	https://openship.io/blog/introducing-openship

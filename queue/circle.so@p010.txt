@@ -1,0 +1,5 @@
+121	https://circle.so/br/blog/archive
+122	https://circle.so/br/blog/authors
+123	https://circle.so/br/migration/courses
+124	https://circle.so/br/migration/email
+125	https://circle.so/br/migration/payments

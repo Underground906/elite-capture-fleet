@@ -1,0 +1,12 @@
+61	https://mentorcruise.com/fractional-coo
+62	https://mentorcruise.com/fractional-cpo
+63	https://mentorcruise.com/fractional-cro
+64	https://mentorcruise.com/fractional-general-counsel
+65	https://mentorcruise.com/fractional-hr
+66	https://mentorcruise.com/new
+67	https://mentorcruise.com/auth/signup
+68	https://mentorcruise.com/books/advertising
+69	https://mentorcruise.com/books/affiliatemarketing
+70	https://mentorcruise.com/books/agile
+71	https://mentorcruise.com/books/agiledevelopment
+72	https://mentorcruise.com/books/ai

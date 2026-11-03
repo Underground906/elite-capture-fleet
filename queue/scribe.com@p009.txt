@@ -1,0 +1,12 @@
+109	https://scribe.com/implement/dynamics-365
+110	https://scribe.com/implement/erp
+111	https://scribe.com/implement/hubspot
+112	https://scribe.com/implement/netsuite
+113	https://scribe.com/install/desktop-app
+114	https://scribe.com/install/install-extension
+115	https://scribe.com/install/scribe-for-chrome
+116	https://scribe.com/install/scribe-for-edge
+117	https://scribe.com/install/scribe-for-mac
+118	https://scribe.com/internal/alena-wip
+119	https://scribe.com/internal/career-board
+120	https://scribe.com/internal/components-for-landingpages

@@ -1,0 +1,12 @@
+37	https://developers.synthesia.io/docs/create-a-dubbing-project
+38	https://developers.synthesia.io/docs/interactive-avatars
+39	https://developers.synthesia.io/docs/synthesia-mcp
+40	https://developers.synthesia.io/docs/videos
+41	https://synthesia.io/video-templates
+42	https://synthesia.io/blog
+43	https://synthesia.io/case-studies
+44	https://synthesia.io/case-studies/merck-kgaa
+45	https://synthesia.io/reviews
+46	https://academy.synthesia.io/
+47	https://academy.synthesia.io/pages/live-sessions
+48	https://synthesia.io/careers

@@ -1,0 +1,12 @@
+1	https://myfitnesspal.com/
+2	https://blog.myfitnesspal.com/
+3	https://myfitnesspal.com/api
+4	https://partner.myfitnesspal.com/bulkpurchase
+5	https://community.myfitnesspal.com/en/categories
+6	https://myfitnesspal.com/community-guidelines
+7	https://myfitnesspal.com/contact-us
+8	https://myfitnesspal.com/jobs
+9	https://myfitnesspal.com/premium
+10	https://community.myfitnesspal.com/en/categories/feature-suggestions-and-ideas
+11	https://support.myfitnesspal.com/hc/en-us
+12	https://myfitnesspal.com/account/create/welcome

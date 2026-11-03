@@ -1,0 +1,7 @@
+109	https://synthesia.io/service-providers/craft-worldwide
+110	https://synthesia.io/video-translator/english-to-arabic
+111	https://synthesia.io/video-translator/english-to-bangla
+112	https://synthesia.io/video-translator/english-to-chinese
+113	https://synthesia.io/video-translator/english-to-czech
+114	https://synthesia.io/video-translator/english-to-danish
+115	https://synthesia.io/webinars/ai-in-l-d-2026-key-insights

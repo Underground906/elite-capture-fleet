@@ -1,0 +1,12 @@
+73	https://synthesia.io/tools/ai-video-editor
+74	https://synthesia.io/tools/script-to-video-maker
+75	https://synthesia.io/features/ai-video-generator/ai-animation-generator
+76	https://synthesia.io/features/ai-video-generator/ai-product-video-generator
+77	https://synthesia.io/features/ai-video-generator/ai-reel-generator
+78	https://synthesia.io/features/ai-video-generator/ai-tiktok-generator
+79	https://synthesia.io/tools/ai-presentation-maker
+80	https://synthesia.io/learning-and-development/future-trends
+81	https://synthesia.io/blog/authors
+82	https://synthesia.io/blog/authors/alessandra-venier
+83	https://synthesia.io/blog/authors/alexandru-voica
+84	https://synthesia.io/blog/authors/amy-vidor

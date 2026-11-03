@@ -1,0 +1,12 @@
+109	https://brex.com/versus/airbase
+110	https://brex.com/versus/amex
+111	https://brex.com/versus/bill
+112	https://brex.com/versus/concur
+113	https://brex.com/versus/divvy
+114	https://brex.com/implementation/essentials/1-quick-start-and-tour
+115	https://brex.com/implementation/essentials/10-bill-pay
+116	https://brex.com/implementation/essentials/11-reimbursements
+117	https://brex.com/implementation/essentials/12-travel
+118	https://brex.com/implementation/essentials/2-finalize-your-application-and-set-up-brex
+119	https://brex.com/tools/charge-finder/1-800-flowers
+120	https://brex.com/tools/charge-finder/1password

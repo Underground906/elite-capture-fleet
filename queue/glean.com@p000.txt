@@ -1,0 +1,12 @@
+1	https://glean.com/
+2	https://glean.com/product-drop/october-2026
+3	https://glean.com/platform
+4	https://glean.com/platform/ai-gateway
+5	https://glean.com/platform/api
+6	https://glean.com/platform/auto-routing
+7	https://glean.com/platform/connectors
+8	https://glean.com/platform/cost-controls
+9	https://glean.com/platform/api/lookbook
+10	https://glean.com/ai-assistant
+11	https://glean.com/ai-assistant/content-creation
+12	https://glean.com/ai-assistant/multiplayer

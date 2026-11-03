@@ -1,0 +1,12 @@
+109	https://mentorcruise.com/experts/agenticai
+110	https://mentorcruise.com/experts/agile
+111	https://mentorcruise.com/experts/ai
+112	https://mentorcruise.com/experts/aiagent
+113	https://mentorcruise.com/filter/abtesting
+114	https://mentorcruise.com/filter/agenticai
+115	https://mentorcruise.com/filter/agile
+116	https://mentorcruise.com/filter/ai
+117	https://mentorcruise.com/filter/aiagent
+118	https://mentorcruise.com/goal/career-rebound
+119	https://mentorcruise.com/goal/first-developer-job
+120	https://mentorcruise.com/goal/software-engineer-promotion

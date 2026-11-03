@@ -1,0 +1,9 @@
+61	https://twelvelabs.io/jockey/ko
+62	https://twelvelabs.io/partners/aws
+63	https://twelvelabs.io/partners/become-a-partner
+64	https://twelvelabs.io/partners/databricks
+65	https://twelvelabs.io/partners/monks
+66	https://twelvelabs.io/webinars/beyond-the-bin-ai-powered-footage-search-for-adobe-premiere-pro-editors
+67	https://twelvelabs.io/webinars/dreams-to-life-the-art-of-content-discovery-with-cinesys-and-twelvelabs
+68	https://twelvelabs.io/webinars/from-media-management-to-media-intelligence-with-mimir-and-twelvelabs
+69	https://twelvelabs.io/webinars/from-model-to-media-workflow-with-ceivo-putting-twelvelabs-to-work-across-the-whole-library

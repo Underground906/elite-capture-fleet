@@ -1,0 +1,12 @@
+1	https://whoop.com/
+2	https://whoop.com/ae/en
+3	https://whoop.com/ae/enundefined
+4	https://whoop.com/at/de
+5	https://whoop.com/at/deundefined
+6	https://whoop.com/at/en
+7	https://whoop.com/at/enundefined
+8	https://whoop.com/at/es
+9	https://whoop.com/au/en
+10	https://whoop.com/au/enundefined
+11	https://whoop.com/gb/en
+12	https://whoop.com/gb/enundefined

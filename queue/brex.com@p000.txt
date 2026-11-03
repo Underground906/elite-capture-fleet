@@ -1,0 +1,12 @@
+1	https://brex.com/
+2	https://brex.com/customers
+3	https://brex.com/pricing
+4	https://dashboard.brex.com/
+5	https://brex.com/book-a-demo
+6	https://brex.com/signup
+7	https://brex.com/product/api
+8	https://brex.com/product/bill-pay
+9	https://brex.com/product/business-account
+10	https://brex.com/product/credit-card
+11	https://brex.com/product/expense-management
+12	https://brex.com/platform/accounting-automation

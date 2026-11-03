@@ -1,0 +1,12 @@
+1	https://wistia.com/
+2	https://wistia.com/product
+3	https://wistia.com/product/analytics
+4	https://wistia.com/product/channels
+5	https://wistia.com/product/collaboration
+6	https://wistia.com/product/collections
+7	https://wistia.com/integrations
+8	https://wistia.com/blog
+9	https://wistia.com/blog/category/customer-stories
+10	https://wistia.com/resources/free-downloads
+11	https://wistia.com/watch
+12	https://wistia.com/events

@@ -1,0 +1,12 @@
+13	https://circle.so/courses
+14	https://circle.so/events
+15	https://circle.so/chat
+16	https://circle.so/customization
+17	https://circle.so/gamification
+18	https://circle.so/website-builder
+19	https://circle.so/email-hub
+20	https://circle.so/payments
+21	https://circle.so/analytics
+22	https://circle.so/studios
+23	https://circle.so/discover
+24	https://circle.so/ai

@@ -1,0 +1,12 @@
+157	https://disco.co/online-courses/teaching
+158	https://disco.co/product-updates/ai-generated-images
+159	https://disco.co/product-updates/april-2025-product-update-roundup
+160	https://disco.co/product-updates/april-2026-product-roundup
+161	https://disco.co/product-updates/ask-ai-and-ai-sources
+162	https://disco.co/product-updates/august-2024-product-release-roundup
+163	https://disco.co/the-virtual-academy-playbook-chapter/create
+164	https://disco.co/the-virtual-academy-playbook-chapter/define
+165	https://disco.co/the-virtual-academy-playbook-chapter/discover
+166	https://disco.co/the-virtual-academy-playbook-chapter/engage
+167	https://disco.co/the-virtual-academy-playbook-chapter/grow
+168	https://disco.co/topics/accelerators-incubators

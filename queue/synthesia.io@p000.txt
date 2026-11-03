@@ -1,0 +1,12 @@
+1	https://www.synthesia.io/
+2	https://synthesia.io/
+3	https://synthesia.io/video
+4	https://synthesia.io/features/ai-dubbing
+5	https://synthesia.io/features/ai-screen-recorder
+6	https://synthesia.io/features/ai-video-generator
+7	https://synthesia.io/features/avatars
+8	https://synthesia.io/features/video-translator
+9	https://synthesia.io/features/avatars/interactive-avatars
+10	https://synthesia.io/tools/ai-motion-graphics
+11	https://synthesia.io/learning-and-development
+12	https://synthesia.io/human-resources

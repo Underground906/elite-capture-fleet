@@ -1,0 +1,12 @@
+121	https://scribe.com/internal/footer-animation
+122	https://scribe.com/internal/hero-test
+123	https://scribe.com/lp/a
+124	https://scribe.com/lp/accounting
+125	https://scribe.com/lp/accounting2
+126	https://scribe.com/lp/ai-mandates
+127	https://scribe.com/lp/better-training
+128	https://scribehow.com/optimize-app/artifacts
+129	https://scribehow.com/optimize-app/participant
+130	https://scribehow.com/optimize-app/projects
+131	https://scribehow.com/optimize-app/welcome
+132	https://scribe.com/optimize-lp/automation-candidates

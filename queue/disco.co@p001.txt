@@ -1,0 +1,12 @@
+13	https://docs.disco.co/
+14	https://disco.co/webinars
+15	https://disco.co/demo-preview
+16	https://disco.co/disco-alternatives
+17	https://disco.co/customer-stories
+18	https://disco.co/partnerships
+19	https://disco.co/academy
+20	https://app.disco.co/sign-up
+21	https://disco.co/book-a-demo
+22	https://disco.co/platform/scale-operations
+23	https://disco.co/blog/10-essential-features-for-modern-cohort-learning-platforms-in-2026
+24	https://disco.co/blog/10-essential-lms-features-for-effective-learning-in-2026

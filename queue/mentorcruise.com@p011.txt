@@ -1,0 +1,12 @@
+133	https://mentorcruise.com/training/abtesting
+134	https://mentorcruise.com/training/accessibility
+135	https://mentorcruise.com/training/adhd
+136	https://mentorcruise.com/training/advertising
+137	https://mentorcruise.com/training/agenticai
+138	https://mentorcruise.com/tutor/accessibility
+139	https://mentorcruise.com/tutor/adhd
+140	https://mentorcruise.com/tutor/advertising
+141	https://mentorcruise.com/tutor/agentskills
+142	https://mentorcruise.com/tutor/aicareer
+143	https://mentorcruise.com/coach/careercoaching/cost
+144	https://mentorcruise.com/coach/executivecoaching/cost

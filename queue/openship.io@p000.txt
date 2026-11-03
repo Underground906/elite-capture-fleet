@@ -1,0 +1,12 @@
+1	https://openship.io/
+2	https://openship.io/features
+3	https://openship.io/apps
+4	https://openship.io/mail
+5	https://openship.io/docs
+6	https://openship.io/blog
+7	https://openship.io/changelog
+8	https://openship.io/pricing
+9	https://openship.io/affiliates
+10	https://openship.io/about
+11	https://openship.io/contact
+12	https://openship.io/download

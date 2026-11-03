@@ -1,0 +1,12 @@
+61	https://disco.co/manifesto
+62	https://disco.co/mcp
+63	https://disco.co/product-updates
+64	https://disco.co/program-preview
+65	https://disco.co/request-demo
+66	https://disco.co/run-learning-community
+67	https://disco.co/security
+68	https://disco.co/the-virtual-academy-playbook
+69	https://disco.co/the-virtual-academy-playbook-access
+70	https://disco.co/training-business-platform
+71	https://disco.co/benefits/ai-powered-operations
+72	https://disco.co/benefits/community-engagement

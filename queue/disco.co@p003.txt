@@ -1,0 +1,12 @@
+37	https://disco.co/pricing
+38	https://disco.co/careers
+39	https://disco.co/about-disco
+40	https://disco.co/ai-fluency-in-sales-training
+41	https://disco.co/ai-for-scaling-learning-business
+42	https://disco.co/ai-for-scaling-learning-business-access
+43	https://disco.co/ai-future-of-learning-at-work
+44	https://disco.co/ai-powered-learning-platform
+45	https://disco.co/ai-upskilling-guide
+46	https://disco.co/ai-upskilling-guide-access
+47	https://disco.co/ask-ai
+48	https://disco.co/book-a-demo---test

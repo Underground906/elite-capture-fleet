@@ -1,0 +1,6 @@
+181	https://disco.co/welcome/challenger
+182	https://disco.co/welcome/challenger-d7e43
+183	https://disco.co/whats-new/course-duplication
+184	https://disco.co/whats-new/custom-branding-learner-progress-reports
+185	https://disco.co/whats-new/improved-member-profiles
+186	https://disco.co/whats-new/new-navigation

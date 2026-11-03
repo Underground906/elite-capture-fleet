@@ -1,0 +1,12 @@
+13	https://mentorcruise.com/top
+14	https://mentorcruise.com/agents
+15	https://mentorcruise.com/blog
+16	https://mentorcruise.com/books
+17	https://mentorcruise.com/career-test
+18	https://mentorcruise.com/coc
+19	https://mentorcruise.com/contact
+20	https://mentorcruise.com/faq
+21	https://mentorcruise.com/fractional-cfo
+22	https://mentorcruise.com/fractional-cmo
+23	https://mentorcruise.com/fractional-cto
+24	https://mentorcruise.com/freelance-rate-calculator

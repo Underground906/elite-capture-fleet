@@ -1,0 +1,12 @@
+85	https://mentorcruise.com/coach/agile
+86	https://mentorcruise.com/coach/ai
+87	https://mentorcruise.com/coach/aiagent
+88	https://mentorcruise.com/coaches/chicago
+89	https://mentorcruise.com/coaches/london
+90	https://mentorcruise.com/coaches/los-angeles
+91	https://mentorcruise.com/coaches/melbourne
+92	https://mentorcruise.com/coaches/new-york
+93	https://mentorcruise.com/consultant/accessibility
+94	https://mentorcruise.com/consultant/adhd
+95	https://mentorcruise.com/consultant/advertising
+96	https://mentorcruise.com/consultant/agentskills

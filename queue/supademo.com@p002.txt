@@ -1,0 +1,12 @@
+25	https://supademo.com/tutorials
+26	https://supademo.com/ai/mcp
+27	https://supademo.com/blog/product-updates
+28	https://supademo.com/customers/baker-hill
+29	https://supademo.com/customers/bullhorn
+30	https://supademo.com/customers/greenpeace
+31	https://supademo.com/customers/khan-academy
+32	https://supademo.com/features/analytics
+33	https://supademo.com/features/demo-editor
+34	https://supademo.com/features/demo-hub
+35	https://supademo.com/features/demo-recorder
+36	https://supademo.com/features/figma

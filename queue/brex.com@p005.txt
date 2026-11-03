@@ -1,0 +1,12 @@
+61	https://brex.com/spend-trends/cash-flow-management
+62	https://brex.com/spend-trends/corporate-credit-cards
+63	https://brex.com/spend-trends/accounting/2-way-matching-in-accounts-payable
+64	https://brex.com/spend-trends/accounting/accounting-automation
+65	https://brex.com/spend-trends/accounting/accounting-reconciliation
+66	https://brex.com/spend-trends/accounting/accounting-software-for-medium-sized-business
+67	https://brex.com/spend-trends/accounting/accounting-software-for-startups
+68	https://brex.com/2024
+69	https://brex.com/authors
+70	https://brex.com/brex-for-tekion
+71	https://brex.com/brex-for-zip-procurement
+72	https://brex.com/brexpay

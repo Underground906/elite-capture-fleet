@@ -1,0 +1,12 @@
+1	https://mentorcruise.com/
+2	https://mentorcruise.com/teams
+3	https://mentorcruise.com/teams/ai
+4	https://mentorcruise.com/teams/info
+5	https://mentorcruise.com/workshop/businessstrategy
+6	https://mentorcruise.com/fractional-executive
+7	https://mentorcruise.com/mentor/browse
+8	https://mentorcruise.com/skill/artificial%20intelligence
+9	https://mentorcruise.com/skill/career
+10	https://mentorcruise.com/skill/design
+11	https://mentorcruise.com/skill/engineering
+12	https://mentorcruise.com/skill/leadership

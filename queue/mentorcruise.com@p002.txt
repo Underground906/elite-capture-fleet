@@ -1,0 +1,12 @@
+25	https://mentorcruise.com/get-started
+26	https://mentorcruise.com/hire
+27	https://mentorcruise.com/linkedin-headline
+28	https://mentorcruise.com/mentor
+29	https://mentorcruise.com/mood
+30	https://mentorcruise.com/newsletter
+31	https://mentorcruise.com/partners
+32	https://mentorcruise.com/paths
+33	https://mentorcruise.com/pay-raise-calculator
+34	https://mentorcruise.com/roadmap
+35	https://mentorcruise.com/services
+36	https://mentorcruise.com/sessions

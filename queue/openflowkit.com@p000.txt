@@ -1,0 +1,7 @@
+1	https://openflowkit.com/
+2	https://openflowkit.com/features
+3	https://openflowkit.com/features/agent-native-diagramming
+4	https://docs.openflowkit.com/
+5	https://openflowkit.com/changelog
+6	https://openflowkit.com/features/ai-diagram-generator
+7	https://openflowkit.com/features/animated-diagrams

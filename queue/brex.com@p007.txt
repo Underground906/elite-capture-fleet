@@ -1,0 +1,12 @@
+85	https://brex.com/spring-2026
+86	https://brex.com/summer-2024
+87	https://brex.com/summer-2025
+88	https://brex.com/summer-2026
+89	https://brex.com/tools
+90	https://brex.com/training
+91	https://brex.com/digital-wallets/apple-pay
+92	https://brex.com/find/accounting-new
+93	https://brex.com/find/agency-new
+94	https://brex.com/implementation/brex-essentials-guide
+95	https://brex.com/implementation/brex-premium-guide
+96	https://brex.com/industry/construction

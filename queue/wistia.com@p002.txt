@@ -1,0 +1,12 @@
+25	https://wistia.com/pricing
+26	https://wistia.com/pricing/getintouch
+27	https://wistia.com/demo
+28	https://app.wistia.com/auth/wistia_auth_sign_in_pre_auth
+29	https://wistia.com/webinarwizard
+30	https://wistia.com/support
+31	https://wistia.com/jobs
+32	https://wistia.com/partner-program
+33	https://wistia.com/partner-program/affiliates
+34	https://wistia.com/site-map
+35	https://wistia.com/integrations/active-campaign
+36	https://wistia.com/integrations/aweber

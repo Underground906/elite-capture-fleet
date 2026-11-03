@@ -1,0 +1,12 @@
+13	https://scribe.com/sales
+14	https://scribe.com/customers
+15	https://scribe.com/customers/newyorklife
+16	https://scribe.com/reviews
+17	https://scribe.com/gallery
+18	https://scribe.com/security
+19	https://scribe.com/library/autocapture-announcement
+20	https://scribe.com/optimize/agents
+21	https://scribe.com/optimize/process-maps
+22	https://scribe.com/solutions/b/assist-customers
+23	https://scribe.com/solutions/b/document-processes-sops
+24	https://scribe.com/solutions/b/implement-software

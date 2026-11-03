@@ -1,0 +1,12 @@
+85	https://glean.com/work-ai-institute/work-ai-index
+86	https://glean.com/work-ai-institute/reports/ai-transformation-100
+87	https://glean.com/work-ai-institute/reports/work-ai-index
+88	https://glean.com/jp/about
+89	https://glean.com/jp/academy-s1
+90	https://glean.com/jp/academy-s3
+91	https://glean.com/jp/ai-agent-builder
+92	https://glean.com/jp/ai-agents
+93	https://glean.com/jp/agent-library/account-snapshot
+94	https://glean.com/jp/agent-library/customer-reference-summary
+95	https://glean.com/jp/agent-library/customer-sentiment-score
+96	https://glean.com/jp/agent-library/daily-meeting-action-summary

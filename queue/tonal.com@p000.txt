@@ -1,0 +1,12 @@
+1	https://tonal.com/
+2	https://tonal.com/products/tonal-1-certified-refurbished
+3	https://tonal.com/products/tonal-2
+4	https://tonal.com/products/tonal-2-glacier
+5	https://tonal.com/pages/about
+6	https://tonal.com/pages/accessibility
+7	https://tonal.com/pages/business-to-business
+8	https://tonal.com/pages/careers
+9	https://tonal.com/pages/coaches
+10	https://tonal.com/collections/accessories
+11	https://tonal.com/collections/performance-shop
+12	https://tonal.com/blogs/all
