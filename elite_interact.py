@@ -33,7 +33,10 @@ ENUM = r"""
     const label = ((el.innerText||'')+' '+(el.getAttribute('aria-label')||'')+' '+(el.getAttribute('title')||'')).replace(/\s+/g,' ').trim().slice(0,80);
     if (FORBID.test(label)) continue;
     if (el.type==='submit') continue;
-    const sig = el.tagName+'|'+(el.getAttribute('role')||'')+'|'+(el.className&&el.className.baseVal===undefined?String(el.className).split(' ').slice(0,2).join('.'):'')+'|'+(label.length<20?label:'');
+    const iconSig = (el.querySelector('svg path')||{getAttribute:()=>''}).getAttribute('d')||'';
+    const sig = el.tagName+'|'+(el.getAttribute('role')||'')+'|'+(el.className&&el.className.baseVal===undefined?String(el.className).split(' ').slice(0,2).join('.'):'')+'|'+(label.length<20?label:'')
+              +'|'+(el.getAttribute('title')||el.getAttribute('data-testid')||el.getAttribute('aria-label')||'')+'|'+iconSig.slice(0,40)
+              +(label ? '' : '|'+Math.round((r.left+scrollX)/30)+','+Math.round((r.top+scrollY)/30));
     if (seen.has(sig)) continue; seen.add(sig);
     const score = (el.getAttribute('aria-expanded')!==null||el.getAttribute('aria-haspopup')?3:0)+(el.getAttribute('role')==='tab'?2:0)+(HINT.test(String(el.className)+' '+label+' '+(el.getAttribute('data-rf-test-id')||''))?2:0)+(el.tagName==='BUTTON'?1:0);
     cands.push({path: cssPath(el), label, tag: el.tagName.toLowerCase(), role: el.getAttribute('role')||'', expanded: el.getAttribute('aria-expanded'),
@@ -79,7 +82,7 @@ async def _ledger_keys(pg, JS):
     d = await pg.evaluate(JS)
     return d, {(e['tag'], e['text'][:60], e['x'] // 4, e['y'] // 4) for e in d['elements']}
 
-async def explore(pg, url, out, analyse, JS, max_n=24):
+async def explore(pg, url, out, analyse, JS, max_n=40, reload_url=True):
     (out / 'interactions').mkdir(exist_ok=True)
     base_data, base_keys = await _ledger_keys(pg, JS)
     cands = await pg.evaluate(ENUM, max_n)
@@ -114,7 +117,7 @@ async def explore(pg, url, out, analyse, JS, max_n=24):
             if eff in ('modal_or_lightbox', 'drawer', 'popover_or_menu'):
                 await pg.keyboard.press('Escape'); await pg.wait_for_timeout(500)
                 s = await pg.evaluate(STATE, c['path'])
-                if len(s['dialogs']) > len(b['dialogs']) or s['fixedBig'] > b['fixedBig']:
+                if (len(s['dialogs']) > len(b['dialogs']) or s['fixedBig'] > b['fixedBig']) and reload_url:
                     await pg.goto(url, wait_until='domcontentloaded', timeout=45000); await pg.wait_for_timeout(2500)
             elif eff in ('navigation', 'hash_change') or a['url'] != b['url']:
                 await pg.goto(url, wait_until='domcontentloaded', timeout=45000); await pg.wait_for_timeout(2500)
@@ -202,3 +205,158 @@ async def walk_flow(pg, url, out, analyse, JS, max_steps=14):
     try: await pg.goto(url, wait_until='domcontentloaded', timeout=45000); await pg.wait_for_timeout(1500)
     except Exception: pass
     return {'steps': len(steps), 'last': steps[-1].get('stopped', '') if steps else ''}
+
+
+TOOL_SAMPLES = [
+    (r'note|notepad|text|write|editor|doc', "Project kickoff notes\nAgenda: goals, owners, timeline\n- Confirm scope by Friday\n- Draft brand board\n- Book user interviews"),
+    (r'diagram|flowchart|mind ?map', "Customer onboarding flow: sign up, verify email, choose plan, first project, invite team"),
+    (r'rewrite|paraphras|grammar|summar', "Our product helps small teams keep every note, task and file in one calm place so nothing gets lost."),
+    (r'citation|cite', "https://en.wikipedia.org/wiki/Note-taking"),
+    (r'voice|speech|audio', "Welcome to the weekly update. Here are the three things that changed this week."),
+    (r'.', "Plan a 30 minute team meeting about the new website launch"),
+]
+
+EDITOR = r"""
+() => {
+  const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>200&&r.height>40&&cs.visibility!=='hidden'&&cs.display!=='none'; };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const c = [...document.querySelectorAll('[contenteditable=true],[contenteditable=""],textarea,.ProseMirror,.ql-editor,[role=textbox]')].filter(vis)
+            .filter(e=>!e.closest('header,nav,footer'));
+  c.sort((a,b)=>b.getBoundingClientRect().width*b.getBoundingClientRect().height - a.getBoundingClientRect().width*a.getBoundingClientRect().height);
+  if (!c.length) return null;
+  const e=c[0], r=e.getBoundingClientRect();
+  return {path: cssPath(e), tag: e.tagName.toLowerCase(), rich: e.isContentEditable, w: Math.round(r.width), h: Math.round(r.height),
+          placeholder: e.getAttribute('placeholder')||e.getAttribute('data-placeholder')||e.getAttribute('aria-label')||''};
+}
+"""
+
+async def exercise_tool(pg, url, out, analyse, JS):
+    """Tool pages (notepads, generators, editors): type realistic sample content, select it, then exercise every
+    control against the filled state. Each state is recorded with a screenshot."""
+    ed, frame = None, pg
+    for fr in [pg.main_frame] + [f for f in pg.frames if f != pg.main_frame]:
+        try: e = await fr.evaluate(EDITOR)
+        except Exception: continue
+        if e and (not ed or e['w'] * e['h'] > ed['w'] * ed['h']): ed, frame = e, fr
+    if not ed: return None
+    ed['frame_url'] = frame.url if frame != pg.main_frame else ''
+    (out / 'tool').mkdir(exist_ok=True)
+    sample = next(t for rx, t in TOOL_SAMPLES if re.search(rx, url + ' ' + ed['placeholder'], re.I))
+    res = {'editor': ed, 'sample_text': sample, 'states': []}
+    try:
+        loc = (frame if frame != pg.main_frame else pg).locator(ed['path']).first
+        await loc.scroll_into_view_if_needed(timeout=3000)
+        await pg.screenshot(path=str(out / 'tool' / 't00_empty.png')); res['states'].append({'state': 'empty', 'screenshot': 'tool/t00_empty.png'})
+        try: await loc.click(timeout=3000)
+        except Exception:
+            await clear_gates(pg, out)
+            try: await loc.click(timeout=3000, force=True)
+            except Exception: await loc.evaluate('e=>e.focus()')
+        await pg.keyboard.type(sample, delay=8)
+        await pg.wait_for_timeout(900)
+        await pg.screenshot(path=str(out / 'tool' / 't01_filled.png')); res['states'].append({'state': 'filled', 'screenshot': 'tool/t01_filled.png'})
+        if ed['rich']:
+            await pg.keyboard.press('Control+A'); await pg.wait_for_timeout(300)
+            await pg.screenshot(path=str(out / 'tool' / 't02_selected.png')); res['states'].append({'state': 'text_selected', 'screenshot': 'tool/t02_selected.png'})
+        d = await pg.evaluate(JS); els, blocks, fams, _ = analyse(d, out)
+        res['filled_components'] = sorted({e['ui_term'] for e in els} - {'text', 'layout_container'})
+        res['controls'] = await explore(pg, url, out / 'tool', analyse, JS, max_n=40, reload_url=False)
+    except Exception as e:
+        res['error'] = str(e)[:200]
+    (out / 'tool.json').write_text(json.dumps(res, ensure_ascii=False, indent=1), encoding='utf-8')
+    try: await pg.goto(url, wait_until='domcontentloaded', timeout=45000); await pg.wait_for_timeout(2000)
+    except Exception: pass
+    return {'editor': ed['tag'], 'rich': ed['rich'], 'controls': (res.get('controls') or {}).get('effects'), 'error': res.get('error', '')}
+
+
+SOFT = re.compile(r"^\s*(maybe later|not now|no,? thanks|no thank you|skip|close|dismiss|continue without|later|×|✕|x|reject all|decline|only necessary|necessary only|accept all|accept|got it|ok|i understand)\s*$", re.I)
+
+GATE = r"""
+() => {
+  const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'&&+cs.opacity>0.05; };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const boxes = [...document.querySelectorAll('[role=dialog],[aria-modal=true],dialog[open],#onetrust-banner-sdk,[id*=cookie i],[class*=cookie i],[class*=consent i],[class*=modal i],[class*=popup i],[class*=paywall i],[class*=gate i]')]
+     .filter(vis).filter(d=>{const r=d.getBoundingClientRect(); return r.width>200&&r.height>80;});
+  return boxes.slice(0,6).map(d=>{
+    const r=d.getBoundingClientRect(); const cookie=/cookie|consent|onetrust|privacy/i.test(d.id+' '+d.className+' '+(d.innerText||'').slice(0,300));
+    const btns=[...d.querySelectorAll('button,a,[role=button]')].filter(vis).map(b=>({path:cssPath(b), text:((b.innerText||'')+' '+(b.getAttribute('aria-label')||'')).replace(/\s+/g,' ').trim().slice(0,60)}));
+    return {kind: cookie?'cookie_banner':'gate_modal', path: cssPath(d), x:r.left, y:r.top, w:r.width, h:r.height, text:(d.innerText||'').replace(/\s+/g,' ').trim().slice(0,600), buttons: btns};
+  });
+}
+"""
+
+async def clear_gates(pg, out, rounds=3):
+    """Record any gate / upsell / cookie overlay (screenshot + copy + buttons), then dismiss it with the softest option."""
+    found = []
+    (out / 'gates').mkdir(exist_ok=True)
+    for r in range(rounds):
+        boxes = []
+        for fr in pg.frames:
+            try:
+                for b in await fr.evaluate(GATE): b['_frame'] = fr; b['frame_url'] = fr.url if fr != pg.main_frame else ''; boxes.append(b)
+            except Exception: pass
+        if not boxes: break
+        for i, b in enumerate(boxes):
+            fr = b.pop('_frame')
+            shot = 'gates/g%d_%d.png' % (r, i)
+            try: await pg.screenshot(path=str(out / shot))
+            except Exception: shot = ''
+            b['screenshot'] = shot
+            labels = sorted(b['buttons'], key=lambda x: 0 if re.match(r'^\s*(maybe later|not now|no,? thanks|skip|close|dismiss|reject|decline|only necessary)', x['text'], re.I) else 1)
+            hit = next((x for x in labels if SOFT.match(x['text']) or re.search(r'close', x['text'], re.I)), None)
+            b['dismissed_with'] = hit['text'] if hit else ''
+            if hit:
+                try: await fr.locator(hit['path']).first.click(timeout=2500, force=True); await pg.wait_for_timeout(700)
+                except Exception: hit = None
+            if not hit:
+                try:
+                    await pg.keyboard.press('Escape'); await pg.wait_for_timeout(300)
+                    await fr.evaluate("p=>{const e=document.querySelector(p); if(e) e.remove();}", b['path'])
+                    b['dismissed_with'] = 'removed'
+                except Exception: pass
+            found.append(b)
+        await pg.wait_for_timeout(900)
+    if found:
+        (out / 'gates.json').write_text(json.dumps(found, ensure_ascii=False, indent=1), encoding='utf-8')
+    return [{'kind': b['kind'], 'text': b['text'][:120], 'dismissed_with': b['dismissed_with']} for b in found]
+
+
+SOFT_FIND = r"""
+() => {
+  const rx = /^\s*(maybe later|not now|no,? thanks|no thank you|skip( for now)?|continue as guest|continue without( signing in)?|remind me later)\s*$/i;
+  const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'; };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  for (const el of document.querySelectorAll('button,a,[role=button],span,div,p')) {
+    if (el.children.length > 2 || !vis(el)) continue;
+    const t = (el.innerText||'').trim();
+    if (t.length < 40 && rx.test(t)) {
+      let box = el; for (let i=0;i<8 && box.parentElement;i++){ box = box.parentElement; const r=box.getBoundingClientRect(); if (r.width>280 && r.height>200) break; }
+      return {path: cssPath(el), text: t, gate_text: (box.innerText||'').replace(/\s+/g,' ').trim().slice(0,600)};
+    }
+  }
+  return null;
+}
+"""
+
+_clear_gates_std = clear_gates
+async def clear_gates(pg, out, rounds=3):
+    found = await _clear_gates_std(pg, out, rounds)
+    (out / 'gates').mkdir(exist_ok=True)
+    for r in range(rounds):
+        hit = None
+        for fr in pg.frames:
+            try: h = await fr.evaluate(SOFT_FIND)
+            except Exception: continue
+            if h: hit = (fr, h); break
+        if not hit: break
+        fr, h = hit
+        shot = 'gates/soft%d.png' % r
+        try: await pg.screenshot(path=str(out / shot))
+        except Exception: shot = ''
+        try: await fr.locator(h['path']).first.click(timeout=2500, force=True); await pg.wait_for_timeout(900)
+        except Exception: pass
+        rec = {'kind': 'gate_modal', 'text': h['gate_text'], 'dismissed_with': h['text'], 'screenshot': shot, 'frame_url': fr.url if fr != pg.main_frame else ''}
+        found.append(rec)
+        prev = json.loads((out / 'gates.json').read_text(encoding='utf-8')) if (out / 'gates.json').exists() else []
+        (out / 'gates.json').write_text(json.dumps(prev + [rec], ensure_ascii=False, indent=1), encoding='utf-8')
+    return [{'kind': b['kind'], 'text': b['text'][:120], 'dismissed_with': b['dismissed_with']} for b in found]

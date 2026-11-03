@@ -52,7 +52,7 @@ async def run_site(pw, job):
                 shutil.rmtree(out, ignore_errors=True)
                 page = await asyncio.wait_for(extract(browser, url, out), timeout=720)
                 since += 1
-                rec.update(status='ok', page_type_guess=page['page_type_guess'], counts=page['counts'], http=page['http'], title=page['title'], interactions=page.get('interactions'), flow=page.get('flow'))
+                rec.update(status='ok', page_type_guess=page['page_type_guess'], counts=page['counts'], http=page['http'], title=page['title'], interactions=page.get('interactions'), flow=page.get('flow'), tool=page.get('tool'))
                 html = (out / 'page.html').read_text(encoding='utf-8', errors='ignore')
                 m = re.search(r'data-original-preview="([^"]+)"', html)
                 if m:

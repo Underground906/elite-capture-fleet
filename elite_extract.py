@@ -327,6 +327,9 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
         await pg.wait_for_timeout(220)
         if done: break
     await pg.evaluate('()=>window.scrollTo(0,0)'); await pg.wait_for_timeout(1500)
+    from elite_interact import clear_gates
+    try: gates = await clear_gates(pg, out)
+    except Exception as e: gates = [{'error': str(e)[:120]}]
     data = await pg.evaluate(JS)
     if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
         best, best_n = None, 0
@@ -340,12 +343,14 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
             data = await pg.evaluate(JS); data['url'] = url + '#iframe'
     await pg.screenshot(path=str(out / 'page.png'), full_page=True)
     (out / 'page.html').write_text(await pg.content(), encoding='utf-8')
-    inter = flow = None
+    inter = flow = tool = None
     if interact and not data['url'].endswith('#iframe'):
         import copy as _copy
-        from elite_interact import explore, walk_flow
+        from elite_interact import explore, walk_flow, exercise_tool
         try: flow = await asyncio.wait_for(walk_flow(pg, url, out, lambda d, o: analyse(_copy.deepcopy(d), o), JS), timeout=150)
         except Exception as e: flow = {'error': str(e)[:150]}
+        try: tool = await asyncio.wait_for(exercise_tool(pg, url, out, lambda d, o: analyse(_copy.deepcopy(d), o), JS), timeout=240)
+        except Exception as e: tool = {'error': str(e)[:150]}
         try: inter = await asyncio.wait_for(explore(pg, url, out, lambda d, o: analyse(_copy.deepcopy(d), o), JS), timeout=240)
         except Exception as e: inter = {'error': str(e)[:150]}
     if mobile and not data['url'].endswith('#iframe'):
@@ -406,7 +411,7 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
             'block_sequence': [{'block_id': b['block_id'], 'ui_term': b['ui_term'], 'y': b['y'], 'h': b['h'], 'chars': b['chars_total'],
                                 'first_text': next((c['text'] for c in b['copy'] if c['text']), '')[:80]} for b in top_blocks],
             'family_summary': [{k: f[k] for k in ('family_id', 'count', 'ui_term', 'w_range', 'h_range', 'copy_slots')} for f in families],
-            'motion_libs': [k for k, v in data['libs'].items() if v], 'interactions': inter, 'flow': flow}
+            'motion_libs': [k for k, v in data['libs'].items() if v], 'interactions': inter, 'flow': flow, 'tool': tool, 'gates': gates}
     for name, obj in [('blocks.json', {'blocks': blocks, 'families': families}), ('icons.json', list(icons.values())),
                       ('assets.json', assets), ('motion.json', motion), ('tokens.json', tokens), ('page.json', page)]:
         (out / name).write_text(json.dumps(obj, ensure_ascii=False, indent=1), encoding='utf-8')
