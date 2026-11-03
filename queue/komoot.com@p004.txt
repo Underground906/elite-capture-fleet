@@ -1,0 +1,10 @@
+49	https://komoot.com/whats-new
+50	https://komoot.com/account/gift
+51	https://komoot.com/b2b/embed
+52	https://komoot.com/community/guidelines
+53	https://komoot.com/discover/bikepacking
+54	https://komoot.com/discover/hiking-trails
+55	https://komoot.com/discover/mountain-bike-trails
+56	https://komoot.com/discover/road-cycling-routes
+57	https://support.komoot.com/hc/en-us
+58	https://komoot.com/security/bug-bounty

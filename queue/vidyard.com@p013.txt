@@ -1,0 +1,12 @@
+157	https://vidyard.com/integration_category/analytics
+158	https://vidyard.com/integration_category/content
+159	https://vidyard.com/integration_category/crm
+160	https://vidyard.com/integration_category/email
+161	https://vidyard.com/integration_category/file-storage
+162	https://vidyard.com/paid/colossyan-vs-synthesia
+163	https://vidyard.com/paid/get-more-interviews-after-applying
+164	https://vidyard.com/paid/post-interview-video-jobseeker-template
+165	https://vidyard.com/paid/pre-interview-video-jobseeker-template
+166	https://vidyard.com/paid/products-ai-script-generator
+167	https://vidyard.com/partners-directory/partners-directory-4thought-marketing
+168	https://vidyard.com/partners-directory/partners-directory-accelerate-performance

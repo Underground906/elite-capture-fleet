@@ -1,0 +1,12 @@
+1	https://www.komoot.com/
+2	https://www.komoot.com/plan
+3	https://www.komoot.com/discover
+4	https://www.komoot.com/smarttour/e1195489824/nisqually-vista-trail
+5	https://www.komoot.com/highlight/3282151
+6	https://www.komoot.com/collection/1159215/north-coast-500-escape-to-the-highlands
+7	https://www.komoot.com/guide/72314/hiking-in-the-united-kingdom
+8	https://www.komoot.com/places/2/huts
+9	https://www.komoot.com/explore/50971/heilsbronn-things-to-do
+10	https://www.komoot.com/topic/13/short-bike-tours-for-long-weekends
+11	https://www.komoot.com/discover-topics
+12	https://www.komoot.com/user/geger

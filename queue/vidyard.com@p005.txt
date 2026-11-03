@@ -1,0 +1,12 @@
+61	https://vidyard.com/blog/4-industries-video-surging
+62	https://vidyard.com/blog/6-awesome-sales-call-conversation-starters
+63	https://vidyard.com/hub/video-agent-customer-education
+64	https://vidyard.com/hub/video-agent-high-volume-onboarding
+65	https://vidyard.com/use-cases/customer-success
+66	https://vidyard.com/use-cases/education
+67	https://vidyard.com/use-cases/job-seekers
+68	https://vidyard.com/use-cases/marketing
+69	https://vidyard.com/use-cases/saas
+70	https://vidyard.com/workshops/account-security-admin-best-practices
+71	https://vidyard.com/workshops/advanced-video-workflows
+72	https://vidyard.com/workshops/agentic-workflows-video-agent-hubspot

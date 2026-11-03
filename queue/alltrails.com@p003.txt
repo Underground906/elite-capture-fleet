@@ -1,0 +1,4 @@
+37	https://alltrails.com/community
+38	https://alltrails.com/whats-new
+39	https://support.alltrails.com/hc/en-us
+40	https://alltrails.com/gift

@@ -1,0 +1,12 @@
+121	https://vidyard.com/sign-up-for-free
+122	https://vidyard.com/trades-and-services
+123	https://vidyard.com/try-video-agent
+124	https://vidyard.com/unbound26
+125	https://vidyard.com/video
+126	https://vidyard.com/video-agent-demo
+127	https://vidyard.com/video-analytics
+128	https://vidyard.com/video-for-marketing-teams
+129	https://vidyard.com/video-for-nonprofits
+130	https://vidyard.com/video-for-sales
+131	https://vidyard.com/video-for-sales-support
+132	https://vidyard.com/video-hosting

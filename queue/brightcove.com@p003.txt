@@ -1,0 +1,12 @@
+37	https://brightcove.com/resource-center/optimize-your-svod-business
+38	https://brightcove.com/customers/academy-motion-picture-arts-and-sciences
+39	https://brightcove.com/customers/auslan-education-services
+40	https://brightcove.com/customers/avanade
+41	https://brightcove.com/customers/barrow-neurological-institute
+42	https://brightcove.com/academy/courses
+43	https://brightcove.com/academy/demos
+44	https://brightcove.com/academy/home
+45	https://brightcove.com/developer-resources
+46	https://brightcove.com/company/about
+47	https://brightcove.com/company/careers
+48	https://brightcove.com/company/about/esg

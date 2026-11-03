@@ -1,0 +1,12 @@
+25	https://alltrails.com/directory/parks/A/1
+26	https://alltrails.com/directory/poi/A/1
+27	https://alltrails.com/directory/regions/A/1
+28	https://alltrails.com/directory/trails/A/1
+29	https://alltrails.com/signup
+30	https://alltrails.com/adv/custom-routes/new
+31	https://alltrails.com/converter
+32	https://alltrails.com/about
+33	https://alltrails.com/careers
+34	https://alltrails.com/press
+35	https://alltrails.com/ambassadors
+36	https://alltrails.com/affiliates

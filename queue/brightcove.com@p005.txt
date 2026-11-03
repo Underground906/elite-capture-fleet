@@ -1,0 +1,12 @@
+61	https://brightcove.com/blog/4-steps-secure-video-internal-communications
+62	https://brightcove.com/events/accedo-brightcove-survival-of-the-stream-mastering-stream-quality-and-ux-americas-edition
+63	https://brightcove.com/events/accedo-brightcove-survival-of-the-stream-mastering-stream-quality-and-ux-emea-apac-edition
+64	https://brightcove.com/events/avia-asia-video-summit-2022
+65	https://brightcove.com/events/avia-ott-summit-2022
+66	https://brightcove.com/contact-sales
+67	https://brightcove.com/why-brightcove
+68	https://brightcove.com/ces-meeting-2026
+69	https://brightcove.com/customer-support
+70	https://brightcove.com/gen-2
+71	https://brightcove.com/campaign/ai-seo
+72	https://brightcove.com/campaign/rented-video

@@ -1,0 +1,12 @@
+1	https://www.alltrails.com/
+2	https://www.alltrails.com/explore
+3	https://www.alltrails.com/explore/custom-routes/new
+4	https://www.alltrails.com/trail/us/massachusetts/tuttle-hill-trail
+5	https://www.alltrails.com/trail/us/california/half-dome-trail
+6	https://www.alltrails.com/parks/us/colorado/cozens-ranch-open-space
+7	https://www.alltrails.com/parks/us/california/yosemite-national-park
+8	https://www.alltrails.com/us/california
+9	https://www.alltrails.com/scotland/orkney-islands/sanday
+10	https://www.alltrails.com/maps/foliage
+11	https://www.alltrails.com/nearby/birding
+12	https://www.alltrails.com/partner-collections/top-dog-trails-farmers-dog

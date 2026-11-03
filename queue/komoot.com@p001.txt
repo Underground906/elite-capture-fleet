@@ -1,0 +1,12 @@
+13	https://www.komoot.com/premium
+14	https://www.komoot.com/features
+15	https://www.komoot.com/product-updates
+16	https://www.komoot.com/whats-new
+17	https://www.komoot.com/gpx-merge-tool-online
+18	https://www.komoot.com/gpx-video-preview
+19	https://www.komoot.com/live-tracking
+20	https://www.komoot.com/hazard-assessment
+21	https://www.komoot.com/guide-experiences
+22	https://www.komoot.com/groups
+23	https://www.komoot.com/pioneers
+24	https://www.komoot.com/ambassadors

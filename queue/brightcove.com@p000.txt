@@ -1,0 +1,12 @@
+1	https://brightcove.com:443/
+2	https://supportportal.brightcove.com/
+3	https://brightcove.com:443/get-demo
+4	https://brightcove.com:443/products/accessibility
+5	https://brightcove.com:443/products/agentic-hub
+6	https://brightcove.com:443/products/ai-content-suite
+7	https://brightcove.com:443/products/analytics
+8	https://brightcove.com:443/products/brightcove-mcp
+9	https://brightcove.com:443/services/global-services
+10	https://brightcove.com:443/solutions/beacon-studio
+11	https://brightcove.com:443/solutions/communications-studio
+12	https://brightcove.com:443/solutions/for-broadcasters

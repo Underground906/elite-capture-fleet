@@ -1,0 +1,12 @@
+13	https://vidyard.com/video-demo
+14	https://vidyard.com/startups
+15	https://vidyard.com/smb
+16	https://vidyard.com/enterprise-video-platform
+17	https://vidyard.com/enterprise-video-platform/consumer-sales
+18	https://vidyard.com/enterprise-video-platform/financial-services
+19	https://vidyard.com/enterprise-video-platform/saas
+20	https://vidyard.com/video-for-prospecting
+21	https://vidyard.com/video-sales
+22	https://vidyard.com/video-for-customer-success
+23	https://vidyard.com/video-marketing
+24	https://vidyard.com/video-for-deal-progression

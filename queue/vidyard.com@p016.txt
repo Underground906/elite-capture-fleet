@@ -1,0 +1,4 @@
+193	https://vidyard.com/workshop-use-case/converting-and-closing
+194	https://vidyard.com/workshop-use-case/hosting
+195	https://vidyard.com/workshop-use-case/prospecting-and-intros
+196	https://vidyard.com/workshop-use-case/sales-support

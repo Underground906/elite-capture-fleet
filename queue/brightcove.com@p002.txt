@@ -1,0 +1,12 @@
+25	https://brightcove.com:443/newsletter-signup
+26	https://brightcove.com:443/blog
+27	https://brightcove.com:443/events
+28	https://brightcove.com:443/contact-sales
+29	https://brightcove.com:443/why-brightcove
+30	https://brightcove.com:443/company/careers
+31	https://brightcove.com/get-demo
+32	https://brightcove.com/services/global-services
+33	https://brightcove.com/resource-center/build-your-monetization-strategy
+34	https://brightcove.com/resource-center/extending-reach-to-increase-revenue
+35	https://brightcove.com/resource-center/how-luxury-real-estate-scaled-personalized-video
+36	https://brightcove.com/resource-center/leveraging-insights-to-improve-monetization

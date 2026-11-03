@@ -1,0 +1,12 @@
+37	https://komoot.com/connect
+38	https://komoot.com/discover
+39	https://komoot.com/gpx-merge-tool-online
+40	https://komoot.com/gpx-video-preview
+41	https://komoot.com/groups
+42	https://komoot.com/guide-experiences
+43	https://komoot.com/hazard-assessment
+44	https://komoot.com/help
+45	https://komoot.com/information-law-enforcement
+46	https://komoot.com/live-tracking
+47	https://komoot.com/pioneers
+48	https://komoot.com/sitemap

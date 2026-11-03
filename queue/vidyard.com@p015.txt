@@ -1,0 +1,12 @@
+181	https://vidyard.com/video-inspiration/sales-templates
+182	https://vidyard.com/video-inspiration/video-marketing-templates
+183	https://vidyard.com/video/account-level-personalized-video-template
+184	https://vidyard.com/video/become-essential-present-a-value-prop-buyers-cant-live-without
+185	https://vidyard.com/video/chalk-talks-customer-support-increase-customer-satisfaction-with-video
+186	https://vidyard.com/video/chalk-talks-driving-demand-with-interactive-video
+187	https://vidyard.com/video_series/choose-your-vidyard-demo
+188	https://vidyard.com/video_series/the-visual-sale
+189	https://vidyard.com/video_series/video-selling-master-class
+190	https://vidyard.com/workshop-team/marketing
+191	https://vidyard.com/workshop-team/revops
+192	https://vidyard.com/workshop-team/sales

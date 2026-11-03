@@ -1,0 +1,12 @@
+25	https://www.komoot.com/adventure-hub
+26	https://www.komoot.com/connect
+27	https://www.komoot.com/b2b/embed
+28	https://www.komoot.com/account/gift
+29	https://komoot.com/
+30	https://komoot.com/discover/start_from_current_location/tours
+31	https://komoot.com/plan
+32	https://komoot.com/features
+33	https://komoot.com/product-updates
+34	https://newsroom.komoot.com/en
+35	https://komoot.com/adventure-hub
+36	https://komoot.com/ambassadors

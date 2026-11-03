@@ -1,0 +1,12 @@
+13	https://brightcove.com:443/solutions/for-financial-services
+14	https://brightcove.com:443/solutions/for-healthcare-and-pharma
+15	https://brightcove.com:443/resource-center
+16	https://brightcove.com:443/customers
+17	https://vet.brightcove.com/cae-calc
+18	https://brightcove.com:443/academy/demos
+19	https://brightcove.com:443/academy/home
+20	https://community.brightcove.com/member/register
+21	https://brightcove.com:443/developer-resources
+22	https://brightcove.com:443/company/about
+23	https://brightcove.com:443/company/about/esg
+24	https://brightcove.com:443/pressroom

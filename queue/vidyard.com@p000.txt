@@ -1,0 +1,12 @@
+1	https://vidyard.com/
+2	https://vidyard.com/featured-integrations
+3	https://vidyard.com/integrations
+4	https://vidyard.com/integrations/gong
+5	https://vidyard.com/integrations/hubspot
+6	https://vidyard.com/integrations/marketo
+7	https://vidyard.com/integrations/salesforce-sales-engagement
+8	https://vidyard.com/products/ai-avatars
+9	https://vidyard.com/products/features
+10	https://vidyard.com/products/mcp
+11	https://vidyard.com/products/video-agent
+12	https://vidyard.com/products/vidyard-hosting
