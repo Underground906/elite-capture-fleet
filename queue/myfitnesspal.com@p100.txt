@@ -1,0 +1,4 @@
+2	https://blog.myfitnesspal.com/
+5	https://community.myfitnesspal.com/en/categories
+10	https://community.myfitnesspal.com/en/categories/feature-suggestions-and-ideas
+11	https://support.myfitnesspal.com/hc/en-us
