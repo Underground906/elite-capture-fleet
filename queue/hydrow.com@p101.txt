@@ -1,0 +1,10 @@
+14	https://hydrow.com/store-finder
+15	https://hydrow.com/hotel-finder
+16	https://hydrow.com/personal-coaching
+17	https://hydrow.com/faqs
+22	https://hydrow.com/commercial
+23	https://hydrow.com/financing
+24	https://hydrow.com/refer-a-friend
+27	https://hydrow.com/bundles
+29	https://hydrow.com/rowing-machines
+31	https://hydrow.com/home-trial

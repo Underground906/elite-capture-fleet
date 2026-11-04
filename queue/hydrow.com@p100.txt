@@ -1,0 +1,11 @@
+1	https://hydrow.com/
+4	https://hydrow.com/cart
+5	https://hydrow.com/rowing
+6	https://hydrow.com/strength
+7	https://hydrow.com/products/strength/lyquid
+8	https://hydrow.com/products/rowers/hydrow-arc-rower
+9	https://hydrow.com/about
+10	https://hydrow.com/activism
+11	https://hydrow.com/athletes
+12	https://hydrow.com/workouts
+13	https://hydrow.com/contact
