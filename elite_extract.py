@@ -314,10 +314,14 @@ def analyse(data, out):
 
 async def extract(browser, url, outdir, mobile=True, interact=True):
     out = Path(outdir); (out / 'crops').mkdir(parents=True, exist_ok=True); (out / 'icons').mkdir(exist_ok=True)
-    ctx = await browser.new_context(viewport={'width': 1440, 'height': 900}, user_agent=UA)
+    ctx = await browser.new_context(viewport={'width': 1440, 'height': 900}, user_agent=UA, locale='en-US')
     pg = await ctx.new_page()
     resp = await pg.goto(url, wait_until='domcontentloaded', timeout=60000)
     status = resp.status if resp else 0
+    for _ in range(8):                               # bot checks (Vercel checkpoint, Cloudflare, Akamai) often clear themselves
+        t = await pg.title()
+        if not any(k in t for k in ('Checkpoint', 'Verification', 'Just a moment', 'Access Denied', 'Attention Required')): break
+        await pg.wait_for_timeout(4000)
     try: await pg.wait_for_load_state('networkidle', timeout=12000)
     except Exception: pass
     await pg.evaluate("""()=>{for(const el of document.querySelectorAll('[id*=cookie i],[class*=cookie i],[id*=consent i],[class*=consent i],#onetrust-banner-sdk,.intercom-lightweight-app,#hubspot-messages-iframe-container'))

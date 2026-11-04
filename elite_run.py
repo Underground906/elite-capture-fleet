@@ -8,7 +8,7 @@ Browser is relaunched every 12 pages and after any crash. Heavy pages that crash
 
   python elite_run.py open-design.ai puckeditor.com ...      (domains, in order)
 """
-import asyncio, json, re, subprocess, sys, time, shutil
+import asyncio, json, os, re, subprocess, sys, time, shutil
 from pathlib import Path
 from urllib.parse import urlparse, urljoin
 from elite_extract import extract
@@ -46,7 +46,7 @@ async def run_site(pw, job):
                 if browser:
                     try: await browser.close()
                     except Exception: pass
-                browser = await pw.chromium.launch(args=['--disable-dev-shm-usage', '--no-sandbox', '--js-flags=--max-old-space-size=512'])
+                browser = await pw.chromium.launch(args=['--disable-dev-shm-usage', '--no-sandbox', '--js-flags=--max-old-space-size=' + os.environ.get('ELITE_HEAP', '512'), '--disable-blink-features=AutomationControlled'])
                 since = 0
             try:
                 shutil.rmtree(out, ignore_errors=True)
