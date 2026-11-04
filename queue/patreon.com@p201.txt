@@ -1,0 +1,6 @@
+7	https://www.patreon.com/creators/music
+8	https://www.patreon.com/creators/podcasts
+9	https://www.patreon.com/creators/video
+10	https://www.patreon.com/creators/visualartists
+11	https://www.patreon.com/product/create
+12	https://www.patreon.com/product/digital-products

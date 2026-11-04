@@ -1,0 +1,3 @@
+95	https://shopify.com/international/managed/ey-report/download
+96	https://shopify.com/uk/international/managed/ey-report/download
+99	https://shopify.com/uk/international/managed/resources/dhl-express-report/download

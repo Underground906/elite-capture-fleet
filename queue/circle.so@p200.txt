@@ -1,0 +1,2 @@
+6	https://discover.circle.so/
+8	https://app.circle.so/communities/new

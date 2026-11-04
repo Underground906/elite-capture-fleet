@@ -1,0 +1,6 @@
+13	https://www.patreon.com/product/grow
+14	https://www.patreon.com/product/manage-business
+15	https://www.patreon.com/product/newsletter
+16	https://www.patreon.com/pricing
+17	https://www.patreon.com/cw/PatreonforCreators
+19	https://support.patreon.com/hc/en-us/sections/360011948692-Managing-Your-Community

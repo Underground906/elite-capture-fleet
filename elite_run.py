@@ -50,7 +50,7 @@ async def run_site(pw, job):
                 since = 0
             try:
                 shutil.rmtree(out, ignore_errors=True)
-                page = await asyncio.wait_for(extract(browser, url, out), timeout=720)
+                page = await asyncio.wait_for(extract(browser, url, out, interact=(attempt == 1 and os.environ.get('ELITE_INTERACT', '1') == '1')), timeout=int(os.environ.get('ELITE_TIMEOUT', '720')))
                 since += 1
                 rec.update(status='ok', page_type_guess=page['page_type_guess'], counts=page['counts'], http=page['http'], title=page['title'], interactions=page.get('interactions'), flow=page.get('flow'), tool=page.get('tool'))
                 html = (out / 'page.html').read_text(encoding='utf-8', errors='ignore')

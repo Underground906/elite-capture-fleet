@@ -1,0 +1,2 @@
+20	https://support.360learning.com/hc/en-us
+35	https://support.360learning.com/hc/en-us/articles/360024018232-360Learning-Release-Notes
