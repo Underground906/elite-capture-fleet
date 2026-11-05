@@ -346,11 +346,11 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
     if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
         best, best_n = None, 0
         for fr in pg.frames[1:]:
-            try: c = await fr.evaluate('()=>document.querySelectorAll("*").length')
+            try: c = await asyncio.wait_for(fr.evaluate('()=>document.querySelectorAll("*").length'), timeout=10)
             except Exception: continue
             if c > best_n: best, best_n = fr, c
         if best is not None:
-            html = await best.content(); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
+            html = await asyncio.wait_for(best.content(), timeout=20); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
             await pg.set_content(html, wait_until='load'); await pg.wait_for_timeout(2500)
             data = await pg.evaluate(JS); data['url'] = url + '#iframe'
     _t('shot')
