@@ -1,0 +1,12 @@
+25	https://passion.io/features/app-monetization
+26	https://passion.io/case-studies/allie-cooper
+27	https://passion.io/resources/30-days-of-content-guide
+28	https://passion.io/resources/7-figure-business
+29	https://passion.io/aios
+30	https://passion.io/income-calculator
+31	https://passion.io/partners
+32	https://passion.io/plus
+33	https://passion.io/podcast
+34	https://passion.io/resource-library
+35	https://passion.io/which-app-for-you
+36	https://passion.io/youai

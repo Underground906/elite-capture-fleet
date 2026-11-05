@@ -1,0 +1,12 @@
+37	https://memgraph.com/partners/ebcont
+38	https://memgraph.com/contact-us/thank-you
+39	https://memgraph.com/enterprise-trial/thank-you
+40	https://memgraph.com/blog/3-powerful-queries-to-find-patterns-in-your-knowledge-graph-you-havent-noticed-before
+41	https://memgraph.com/on-demand/categories/cheatsheets
+42	https://memgraph.com/on-demand/categories/customer-stories
+43	https://memgraph.com/docs/advanced-algorithms
+44	https://memgraph.com/use-cases
+45	https://memgraph.com/careers
+46	https://memgraph.com/about-us
+47	https://memgraph.com/benchgraph
+48	https://memgraph.com/benchmark

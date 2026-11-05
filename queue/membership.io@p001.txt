@@ -1,0 +1,12 @@
+13	https://membership.io/digital-course
+14	https://membership.io/coaching
+15	https://membership.io/podcast
+16	https://templates.membership.io/
+17	https://membership.io/partner-program
+18	https://membership.io/services
+19	https://membership.io/pricing
+20	https://membership.io/blog
+21	https://membership.io/blog/101-niche-business-ideas
+22	https://membership.io/30
+23	https://membership.io/99
+24	https://membership.io/access-pass

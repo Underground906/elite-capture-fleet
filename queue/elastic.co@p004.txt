@@ -1,0 +1,2 @@
+49	https://elastic.co/pricing
+50	https://elastic.co/careers

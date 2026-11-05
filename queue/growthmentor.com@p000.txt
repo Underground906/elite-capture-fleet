@@ -1,0 +1,12 @@
+1	https://growthmentor.com/
+2	https://growthmentor.com/membership
+3	https://growthmentor.com/customer-stories
+4	https://growthmentor.com/about
+5	https://growthmentor.com/users/sign_in
+6	https://growthmentor.com/ai-matching
+7	https://growthmentor.com/mentors-for
+8	https://growthmentor.com/blog
+9	https://growthmentor.com/become-a-mentor
+10	https://growthmentor.com/developers/mcp
+11	https://growthmentor.com/data-deletion
+12	https://growthmentor.com/blog/origin-of-word-mentor

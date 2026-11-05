@@ -1,0 +1,12 @@
+13	https://meilisearch.com/newsletter
+14	https://meilisearch.com/open-source
+15	https://meilisearch.com/oss-to-cloud
+16	https://meilisearch.com/roadmap
+17	https://meilisearch.com/service-level-agreement
+18	https://meilisearch.com/products/conversational-search
+19	https://meilisearch.com/products/faceted-search
+20	https://meilisearch.com/solutions/app-search
+21	https://meilisearch.com/solutions/digital-commerce
+22	https://meilisearch.com/blog/2026-march-roadmap
+23	https://meilisearch.com/solutions
+24	https://meilisearch.com/solutions/media/ibc-2026-talk

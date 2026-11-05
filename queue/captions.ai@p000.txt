@@ -1,0 +1,12 @@
+1	https://captions.ai/
+2	https://captions.ai/solutions
+3	https://captions.ai/use-cases
+4	https://captions.ai/pricing
+5	https://captions.ai/blog
+6	https://captions.ai/download
+7	https://captions.ai/help
+8	https://captions.ai/signup
+9	https://captions.ai/styles
+10	https://captions.ai/features/add-captions-to-videos
+11	https://captions.ai/features/correct-your-eye-contact
+12	https://captions.ai/solutions/ai-clone-yourself

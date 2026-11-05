@@ -1,0 +1,12 @@
+13	https://invideo.io/make/affiliate-program
+14	https://invideo.io/tools/ai-text-to-speech
+15	https://invideo.io/tools/ai-voice-cloning
+16	https://invideo.io/tools/compress/mp4-compressor
+17	https://invideo.io/tools/compress/video-compressor
+18	https://invideo.io/blog/10-copywriting-changes-for-2x-conversions
+19	https://invideo.io/agents
+20	https://invideo.io/cli
+21	https://invideo.io/faq
+22	https://invideo.io/make
+23	https://invideo.io/remote-agents
+24	https://invideo.io/templates

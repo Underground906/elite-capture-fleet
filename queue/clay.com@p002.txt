@@ -1,0 +1,12 @@
+25	https://clay.com/enterprise
+26	https://clay.com/clay-for-startups
+27	https://clay.com/customers
+28	https://clay.com/livestreams-old
+29	https://university.clay.com/cohorts
+30	https://clay.com/slack-community
+31	https://clay.com/clay-campus-ambassadors
+32	https://clay.com/experts
+33	https://clay.com/job-board
+34	https://clay.com/partners
+35	https://clay.com/partners/integrations
+36	https://clay.com/clay-for-private-equity

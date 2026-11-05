@@ -1,0 +1,12 @@
+1	https://disciple.community/
+2	https://disciple.community/community-stories
+3	https://disciple.community/pricing
+4	https://disciple.community/submit-rfp
+5	https://help.disciple.community/
+6	https://disciple.community/blog
+7	https://disciple.community/faqs
+8	https://disciple.community/trust-and-security
+9	https://disciple.community/compare/disciple-vs-circle
+10	https://disciple.community/compare/disciple-vs-higher-logic
+11	https://disciple.community/policy/responsible-disclosure
+12	https://disciple.community/community-stories/a-year-with-my-camera

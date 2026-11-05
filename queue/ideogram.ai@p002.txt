@@ -1,0 +1,4 @@
+25	https://ideogram.ai/contact-sales-form
+26	https://ideogram.ai/ecommerce
+27	https://ideogram.ai/news
+28	https://ideogram.ai/news/ideogram-4.0

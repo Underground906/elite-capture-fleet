@@ -1,0 +1,12 @@
+13	https://iorad.com/about
+14	https://iorad.com/careers
+15	https://iorad.com/resources/help-center
+16	https://iorad.com/demo
+17	https://iorad.com/academy
+18	https://iorad.com/accessibility
+19	https://iorad.com/community-partners
+20	https://iorad.com/compare
+21	https://iorad.com/connectIntegrations
+22	https://iorad.com/contactus
+23	https://iorad.com/creator-collective
+24	https://iorad.com/culture

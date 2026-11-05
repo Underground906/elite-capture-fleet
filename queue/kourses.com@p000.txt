@@ -1,0 +1,12 @@
+1	https://app.kourses.com/
+2	https://kourses.com/
+3	https://kourses.com/online-courses
+4	https://kourses.com/community-platform
+5	https://kourses.com/sell-digital-downloads
+6	https://kourses.com/optimized-checkout-funnels
+7	https://kourses.com/online-course-video-hosting
+8	https://kourses.com/drip-content-courses
+9	https://kourses.com/ai-video-transcriptions
+10	https://kourses.com/fully-hosted-course-platform
+11	https://kourses.com/language-translation-support
+12	https://kourses.com/quizzes

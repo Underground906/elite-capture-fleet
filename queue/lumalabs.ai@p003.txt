@@ -1,0 +1,12 @@
+37	https://lumalabs.ai/changelog/camera-angle-concepts-launch
+38	https://lumalabs.ai/dreamlab/featured
+39	https://lumalabs.ai/education/student
+40	https://lumalabs.ai/models/luma-dream-machine-evolved-into-luma-agents
+41	https://lumalabs.ai/reframe/auto-resize-videos-for-all-social-platforms
+42	https://lumalabs.ai/reframe/convert-horizontal-to-vertical
+43	https://lumalabs.ai/uni-1/showcase
+44	https://lumalabs.ai/use-case/ai-8-bit-and-retro-pixel-art-generator
+45	https://lumalabs.ai/use-case/ai-architectural-visualization-and-concept-development-for-modern-design-firms
+46	https://lumalabs.ai/video-to-video/add-dynamic-camera-motion-using-video-to-video-ai-editing
+47	https://lumalabs.ai/video-to-video/apply-vintage-aesthetic-to-videos
+48	https://lumalabs.ai/learning-center/articles/character-consistency-techniques

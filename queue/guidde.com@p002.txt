@@ -1,0 +1,12 @@
+25	https://guidde.com/product
+26	https://guidde.com/solutions/business-operations
+27	https://guidde.com/solutions/customer-success
+28	https://guidde.com/pricing
+29	https://guidde.com/case-studies/case-study-nayax
+30	https://guidde.com/case-studies/case-study-nezasa
+31	https://guidde.com/integrations
+32	https://guidde.com/resources
+33	https://guidde.com/resources/5-ways-to-harness-video-knowledge-sharing
+34	https://guidde.com/blog
+35	https://guidde.com/blog/10-best-ai-tools-for-seamless-documentation-creation
+36	https://guidde.com/demo

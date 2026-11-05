@@ -1,0 +1,12 @@
+1	https://mindsera.com/
+2	https://mindsera.com/reviews
+3	https://mindsera.com/articles
+4	https://mindsera.com/articles/benefits-of-journaling-the-science-of-reflection
+5	https://mindsera.com/frameworks
+6	https://mindsera.com/case-for-mindsera
+7	https://mindsera.com/frameworks/10-10-10-rule
+8	https://mindsera.com/frameworks/4-what
+9	https://mindsera.com/de
+10	https://mindsera.com/about
+11	https://mindsera.com/careers
+12	https://mindsera.com/help

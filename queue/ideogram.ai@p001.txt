@@ -1,0 +1,12 @@
+13	https://status.ideogram.ai/
+14	https://ideogram.ai/enterprise
+15	https://ideogram.ai/blog
+16	https://ideogram.ai/features
+17	https://ideogram.ai/features/background-remover/api
+18	https://ideogram.ai/features/text-layers/api
+19	https://ideogram.ai/blog/adobe-firefly-alternatives
+20	https://ideogram.ai/industries
+21	https://ideogram.ai/industries/advertising-agencies
+22	https://ideogram.ai/industries/apparel
+23	https://ideogram.ai/industries/advertising-agencies/studies/adaptation-at-volume
+24	https://ideogram.ai/industries/advertising-agencies/studies/brands-and-languages

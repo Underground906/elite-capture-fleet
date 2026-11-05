@@ -1,0 +1,11 @@
+25	https://impartner.com/partner-training-and-certification
+26	https://impartner.com/pmaas-demo
+27	https://impartner.com/product-awards
+28	https://impartner.com/product-tours
+29	https://impartner.com/program-compliance-manager
+30	https://impartner.com/resources
+31	https://impartner.com/reviews
+32	https://impartner.com/through-channel-marketing-automation
+33	https://impartner.com/view-demo
+34	https://impartner.com/resources/case-studies
+35	https://success.impartner.com/px/-/support-options

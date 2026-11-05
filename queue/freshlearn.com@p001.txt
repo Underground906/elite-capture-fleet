@@ -1,0 +1,12 @@
+13	https://academy.freshlearn.com/
+14	https://freshlearn.com/blog
+15	https://freshlearn.com/impact
+16	https://freshlearn.com/product-demo
+17	https://freshlearn.com/support
+18	https://freshlearn.com/help-videos
+19	https://freshlearn.com/faq
+20	https://freshlearn.com/productupdates
+21	https://freshlearn.com/about-us
+22	https://freshlearn.com/affiliate-program
+23	https://freshlearn.com/ai-assistant-for-course-creation
+24	https://freshlearn.com/ai-quiz-creator

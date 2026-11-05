@@ -1,0 +1,12 @@
+1	https://meilisearch.com/
+2	https://meilisearch.com/pricing
+3	https://meilisearch.com/blog
+4	https://discord.meilisearch.com/
+5	https://meilisearch.com/careers
+6	https://meilisearch.com/cloud
+7	https://meilisearch.com/comparisons
+8	https://meilisearch.com/customers
+9	https://meilisearch.com/docs
+10	https://meilisearch.com/eu
+11	https://meilisearch.com/integrations
+12	https://meilisearch.com/launch-week

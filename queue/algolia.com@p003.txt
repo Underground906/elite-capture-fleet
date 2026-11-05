@@ -1,0 +1,12 @@
+37	https://support.algolia.com/hc/en-us
+38	https://algolia.com/dev-agentic-readiness
+39	https://algolia.com/lp/subscription-newsletter
+40	https://algolia.com/customer-hub
+41	https://algolia.com/professional-services-support
+42	https://algolia.com/business-agentic-readiness
+43	https://algolia.com/ai-search-grader
+44	https://algolia.com/profit-simulator
+45	https://algolia.com/search-audit
+46	https://algolia.com/demorequest
+47	https://algolia.com/careers
+48	https://algolia.com/contact

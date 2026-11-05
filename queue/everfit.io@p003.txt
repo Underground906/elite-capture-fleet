@@ -1,0 +1,5 @@
+37	https://everfit.io/never-not-building
+38	https://everfit.io/remote-coaching
+39	https://everfit.io/security-measures
+40	https://everfit.io/trainerize-migration
+41	https://everfit.io/truecoach-migration

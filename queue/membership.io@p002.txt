@@ -1,0 +1,12 @@
+25	https://membership.io/alumni
+26	https://membership.io/black-friday
+27	https://membership.io/bundle
+28	https://membership.io/bundle-full
+29	https://membership.io/bundle-plan
+30	https://membership.io/bundle-thanks
+31	https://membership.io/deposit-thanks
+32	https://membership.io/feedback
+33	https://membership.io/join
+34	https://membership.io/join-thanks
+35	https://membership.io/opt-out
+36	https://membership.io/security

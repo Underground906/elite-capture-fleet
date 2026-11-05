@@ -1,0 +1,12 @@
+1	https://higoodie.com/
+2	https://higoodie.com/pricing
+3	https://higoodie.com/pricing/agencies
+4	https://higoodie.com/careers
+5	https://higoodie.com/contact
+6	https://higoodie.com/features/agentic-commerce-suite
+7	https://higoodie.com/features/ai-brand-command
+8	https://higoodie.com/use-case/agencies
+9	https://higoodie.com/use-case/commerce-retail
+10	https://higoodie.com/about
+11	https://higoodie.com/case-studies
+12	https://higoodie.com/blog

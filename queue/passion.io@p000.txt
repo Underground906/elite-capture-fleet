@@ -1,0 +1,12 @@
+1	https://passion.io/
+2	https://passion.io/reviews
+3	https://passion.io/pricing
+4	https://passion.io/about-us
+5	https://passion.io/contact-us
+6	https://passion.io/referral-program
+7	https://passion.io/jobs
+8	https://passion.io/blog
+9	https://passion.io/features
+10	https://passion.io/platform-demo
+11	https://passion.io/create-an-app
+12	https://passion.io/case-studies

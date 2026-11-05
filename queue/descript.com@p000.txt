@@ -1,0 +1,12 @@
+1	https://descript.com/
+2	https://descript.com/video-editing
+3	https://descript.com/podcasting
+4	https://descript.com/screen-recording
+5	https://descript.com/rooms
+6	https://descript.com/ai-video-enhancer
+7	https://descript.com/ai-video
+8	https://descript.com/captions
+9	https://descript.com/ai-voices
+10	https://descript.com/transcription
+11	https://descript.com/templates
+12	https://descript.com/clips

@@ -1,0 +1,2 @@
+49	https://bland.ai/text-to-speech-api
+50	https://bland.ai/webinars

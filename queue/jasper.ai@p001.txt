@@ -1,0 +1,12 @@
+13	https://jasper.ai/case-studies/bmcsoftware
+14	https://jasper.ai/integrations
+15	https://jasper.ai/company
+16	https://jasper.ai/careers
+17	https://jasper.ai/resources
+18	https://jasper.ai/blog
+19	https://jasper.ai/blog/2022-customer-letter
+20	https://jasper.ai/demo
+21	https://jasper.ai/demo/geo
+22	https://jasper.ai/agents
+23	https://jasper.ai/ai-inflection-point-for-marketing
+24	https://jasper.ai/ai-policy-template

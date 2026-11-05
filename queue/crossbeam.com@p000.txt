@@ -1,0 +1,12 @@
+1	https://crossbeam.com/
+2	https://crossbeam.com/what-is-crossbeam/account-mapping
+3	https://crossbeam.com/what-is-crossbeam/crossbeam-mcp
+4	https://crossbeam.com/integrations
+5	https://marketplace.crossbeam.com/
+6	https://crossbeam.com/partner-mcps
+7	https://crossbeam.com/use-cases/account-expansion
+8	https://crossbeam.com/use-cases/deal-acceleration
+9	https://crossbeam.com/teams/channel-partner
+10	https://crossbeam.com/teams/customer-success
+11	https://crossbeam.com/resources
+12	https://crossbeam.com/resources/case-studies

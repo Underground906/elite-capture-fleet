@@ -1,0 +1,9 @@
+13	https://kaggle.com/datasets
+14	https://kaggle.com/code
+15	https://kaggle.com/about/team
+16	https://kaggle.com/contact
+17	https://kaggle.com/docs
+18	https://kaggle.com/docs/api
+19	https://kaggle.com/blog
+20	https://kaggle.com/c/about/host
+21	https://kaggle.com/community-guidelines

@@ -1,0 +1,12 @@
+1	https://deeplearning.ai/
+2	https://deeplearning.ai/courses
+3	https://deeplearning.ai/the-batch
+4	https://deeplearning.ai/the-batch/tag/data-points
+5	https://deeplearning.ai/the-batch/tag/letters
+6	https://deeplearning.ai/blog
+7	https://community.deeplearning.ai/
+8	https://deeplearning.ai/resources
+9	https://deeplearning.ai/membership
+10	https://deeplearning.ai/business
+11	https://deeplearning.ai/business/contact-us
+12	https://deeplearning.ai/business/learningtracks

@@ -1,0 +1,12 @@
+13	https://memgraph.com/agentic-ai
+14	https://memgraph.com/fraud-and-risk-detection
+15	https://memgraph.com/360-data-and-network-exploration
+16	https://memgraph.com/logistics-and-network-optimization
+17	https://memgraph.com/use-cases-list
+18	https://memgraph.com/knowledge-graph
+19	https://memgraph.com/customer-stories
+20	https://memgraph.com/enterprise
+21	https://memgraph.com/ai-platform
+22	https://memgraph.com/partners
+23	https://memgraph.com/contact-us
+24	https://memgraph.com/enterprise-trial

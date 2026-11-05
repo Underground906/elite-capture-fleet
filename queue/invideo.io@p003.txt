@@ -1,0 +1,6 @@
+37	https://invideo.io/trends/black_friday
+38	https://invideo.io/trends/effects
+39	https://invideo.io/jp/make/ai-video-editor
+40	https://invideo.io/jp/make/ai-video-generator
+41	https://invideo.io/kr/make/ai-video-generator
+42	https://invideo.io/kr/make/youtube-video-editor

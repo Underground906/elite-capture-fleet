@@ -1,0 +1,12 @@
+37	https://bland.ai/ai-information
+38	https://bland.ai/ai-voice-agents
+39	https://bland.ai/booth
+40	https://bland.ai/brand-guide
+41	https://bland.ai/contact-in-your-phone
+42	https://bland.ai/conversational-ai-for-hospitality
+43	https://bland.ai/conversational-ai-for-insurance
+44	https://bland.ai/fedramp
+45	https://bland.ai/fin-alternative
+46	https://bland.ai/government
+47	https://bland.ai/paul
+48	https://bland.ai/realistic-text-to-speech

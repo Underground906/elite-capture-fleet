@@ -1,0 +1,12 @@
+1	https://maven.com/
+2	https://maven.com/for-business
+3	https://maven.com/teach
+4	https://maven.com/courses
+5	https://maven.com/courses/ai
+6	https://maven.com/courses/design
+7	https://maven.com/courses/ai/agentic-ai
+8	https://maven.com/courses/ai/ai-coding
+9	https://maven.com/workshops
+10	https://maven.com/free-lessons
+11	https://maven.com/expense
+12	https://help.maven.com/en/collections/3387498-maven-admin-tools

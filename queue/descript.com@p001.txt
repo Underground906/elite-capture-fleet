@@ -1,0 +1,12 @@
+13	https://descript.com/ai-avatars
+14	https://descript.com/ai/automatic-multicam
+15	https://descript.com/ai/edit-for-clarity
+16	https://descript.com/eye-contact
+17	https://descript.com/tools
+18	https://descript.com/tools/green-screen
+19	https://descript.com/video-regenerate
+20	https://descript.com/brand-studio
+21	https://descript.com/studio-sound
+22	https://descript.com/filler-words
+23	https://descript.com/regenerate
+24	https://descript.com/underlord

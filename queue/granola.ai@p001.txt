@@ -1,0 +1,12 @@
+13	https://granola.ai/contact
+14	https://granola.ai/customers
+15	https://granola.ai/events
+16	https://granola.ai/explore
+17	https://docs.granola.ai/help-center
+18	https://granola.ai/integrations
+19	https://granola.ai/mcp
+20	https://granola.ai/nonprofits
+21	https://granola.ai/policies
+22	https://granola.ai/security
+23	https://granola.ai/startups
+24	https://granola.ai/students

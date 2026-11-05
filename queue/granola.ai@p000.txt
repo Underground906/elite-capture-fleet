@@ -1,0 +1,12 @@
+1	https://granola.ai/
+2	https://granola.ai/chat
+3	https://granola.ai/voice-typing
+4	https://granola.ai/enterprise
+5	https://granola.ai/pricing
+6	https://granola.ai/blog
+7	https://granola.ai/jobs
+8	https://granola.ai/contact/sales
+9	https://notes.granola.ai/download
+10	https://trust.granola.ai/
+11	https://granola.ai/ai-meeting-assistant
+12	https://granola.ai/ai-note-taker

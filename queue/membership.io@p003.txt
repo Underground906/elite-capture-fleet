@@ -1,0 +1,6 @@
+37	https://membership.io/summit
+38	https://membership.io/summit-full
+39	https://membership.io/summit-plan
+40	https://membership.io/summit-thanks
+41	https://membership.io/training
+42	https://membership.io/summit/summit-long

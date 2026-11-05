@@ -1,0 +1,12 @@
+1	https://guidde.com/
+2	https://guidde.com/guidde-create
+3	https://guidde.com/broadcast
+4	https://guidde.com/guidde-ask
+5	https://guidde.com/use-cases/ai-adoption
+6	https://guidde.com/use-cases/change-management
+7	https://guidde.com/how-it-works
+8	https://guidde.com/security
+9	https://guidde.com/integrations-old
+10	https://guidde.com/roi-calculator
+11	https://guidde.com/customer-success-stories
+12	https://guidde.com/blog-old2

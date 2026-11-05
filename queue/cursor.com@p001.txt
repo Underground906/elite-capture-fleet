@@ -1,0 +1,12 @@
+13	https://cursor.com/bugbot
+14	https://cursor.com/en-US/bugbot
+15	https://cursor.com/enterprise
+16	https://cursor.com/en-US/enterprise
+17	https://cursor.com/pricing
+18	https://cursor.com/en-US/pricing
+19	https://cursor.com/changelog
+20	https://cursor.com/en-US/changelog
+21	https://cursor.com/blog
+22	https://cursor.com/en-US/blog
+23	https://cursor.com/docs
+24	https://cursor.com/community

@@ -1,0 +1,12 @@
+1	https://clueso.io/
+2	https://clueso.io/pricing
+3	https://clueso.io/enterprise
+4	https://clueso.io/features/ai-voiceovers
+5	https://clueso.io/features/auto-translate
+6	https://clueso.io/changelog
+7	https://clueso.io/agents
+8	https://clueso.io/clueprints
+9	https://clueso.io/blog
+10	https://help.clueso.io/
+11	https://clueso.io/customers
+12	https://clueso.io/showcase

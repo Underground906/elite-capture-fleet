@@ -1,0 +1,12 @@
+25	https://lovable.dev/beta-tester-nda
+26	https://lovable.dev/bolt-vs-lovable
+27	https://lovable.dev/brand
+28	https://lovable.dev/build
+29	https://lovable.dev/chatgpt-app
+30	https://lovable.dev/classroom
+31	https://lovable.dev/cloud
+32	https://lovable.dev/community
+33	https://lovable.dev/community-code-of-conduct
+34	https://lovable.dev/connect
+35	https://lovable.dev/data-processing-agreement
+36	https://lovable.dev/definitions

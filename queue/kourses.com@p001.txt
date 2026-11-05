@@ -1,0 +1,12 @@
+13	https://kourses.com/private-communities
+14	https://kourses.com/member-messaging
+15	https://kourses.com/member-profiles
+16	https://kourses.com/community-moderation
+17	https://kourses.com/community-broadcasts
+18	https://kourses.com/checkout-pages
+19	https://kourses.com/multiple-order-bumps
+20	https://kourses.com/one-click-upsells
+21	https://kourses.com/flexible-payment-options
+22	https://kourses.com/abandon-cart-recovery
+23	https://kourses.com/sales-payment-management
+24	https://kourses.com/coupons

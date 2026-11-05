@@ -1,0 +1,12 @@
+1	https://lumalabs.ai/
+2	https://lumalabs.ai/app
+3	https://lumalabs.ai/pricing
+4	https://lumalabs.ai/api
+5	https://lumalabs.ai/enterprise
+6	https://lumalabs.ai/news
+7	https://lumalabs.ai/careers
+8	https://app.lumalabs.ai/
+9	https://lumalabs.ai/about
+10	https://lumalabs.ai/case-studies
+11	https://lumalabs.ai/creative-partner-program
+12	https://lumalabs.ai/learning-center

@@ -1,0 +1,12 @@
+13	https://heartbeat.chat/partners
+14	https://heartbeat.chat/directory
+15	https://heartbeat.chat/help
+16	https://heartbeat.chat/story/how-kat-weaver-closed-1m-in-sales-on-heartbeat
+17	https://heartbeat.chat/pricing
+18	https://app.heartbeat.chat/
+19	https://heartbeat.chat/create
+20	https://heartbeat.chat/about
+21	https://heartbeat.chat/black-friday
+22	https://heartbeat.chat/downloads
+23	https://heartbeat.chat/embeds
+24	https://heartbeat.chat/for

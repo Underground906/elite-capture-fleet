@@ -1,0 +1,12 @@
+13	https://elevenlabs.io/brand
+14	https://elevenlabs.io/careers
+15	https://elevenlabs.io/ccpa-notice-at-collection
+16	https://elevenlabs.io/chatbot
+17	https://elevenlabs.io/conversational-ai
+18	https://elevenlabs.io/creative
+19	https://elevenlabs.io/digital-services-act
+20	https://elevenlabs.io/government
+21	https://elevenlabs.io/human-rights-statement
+22	https://elevenlabs.io/iconic-marketplace
+23	https://elevenlabs.io/image
+24	https://elevenlabs.io/impact

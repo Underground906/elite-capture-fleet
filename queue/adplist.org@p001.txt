@@ -1,0 +1,12 @@
+13	https://adplist.org/find-a-mentor
+14	https://adplist.org/guides
+15	https://adplist.org/interview-practice
+16	https://adplist.org/leadership-coaching
+17	https://adplist.org/sitemap
+18	https://adplist.org/stats
+19	https://adplist.org/tools
+20	https://adplist.org/services/interview-coaching
+21	https://adplist.org/services/portfolio-review
+22	https://adplist.org/cdn-cgi/l/email-protection
+23	https://adplist.org/mentors/company/airbnb
+24	https://adplist.org/mentors/company/amazon

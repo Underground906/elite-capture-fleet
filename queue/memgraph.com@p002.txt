@@ -1,0 +1,12 @@
+25	https://memgraph.com/pricing
+26	https://memgraph.com/blog
+27	https://memgraph.com/academy
+28	https://memgraph.com/on-demand
+29	https://playground.memgraph.com/
+30	https://memgraph.com/office-hours
+31	https://memgraph.com/docs
+32	https://memgraph.com/download
+33	https://memgraph.com/customer-stories/behind-the-missions-how-nasa-manages-talent-with-a-people-knowledge-graph
+34	https://memgraph.com/customer-stories/capitec-graph-machine-learning-fraud-detection
+35	https://memgraph.com/customer-stories/white-paper/behind-the-missions-how-nasa-manages-talent-with-a-people-knowledge-graph
+36	https://memgraph.com/customer-stories/white-paper/capitec-graph-machine-learning-fraud-detection

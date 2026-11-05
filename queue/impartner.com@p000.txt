@@ -1,0 +1,12 @@
+1	https://impartner.com/
+2	https://trustcenter.impartner.com/
+3	https://impartner.com/about
+4	https://impartner.com/aimi-impartner-ai
+5	https://impartner.com/careers
+6	https://impartner.com/channel-intel
+7	https://impartner.com/contact
+8	https://impartner.com/events
+9	https://impartner.com/glossary
+10	https://impartner.com/hyperscalergtm
+11	https://impartner.com/impartner-marketplace
+12	https://impartner.com/impartnercon

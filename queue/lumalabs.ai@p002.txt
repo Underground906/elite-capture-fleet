@@ -1,0 +1,12 @@
+25	https://lumalabs.ai/create
+26	https://lumalabs.ai/llm-info
+27	https://lumalabs.ai/mcp
+28	https://lumalabs.ai/models
+29	https://lumalabs.ai/photon
+30	https://lumalabs.ai/reframe
+31	https://lumalabs.ai/series-b
+32	https://lumalabs.ai/the-state-of-ai-2026-annual-trend-report
+33	https://lumalabs.ai/use-case
+34	https://lumalabs.ai/video-to-video
+35	https://lumalabs.ai/whitepaper
+36	https://lumalabs.ai/authors/ayaan-haque

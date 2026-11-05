@@ -1,0 +1,12 @@
+1	https://clay.com/
+2	https://clay.com/pricing
+3	https://app.clay.com/
+4	https://clay.com/demo
+5	https://app.clay.com/signup
+6	https://clay.com/audiences
+7	https://clay.com/integrations
+8	https://clay.com/signals
+9	https://clay.com/waterfall-enrichment
+10	https://clay.com/agent
+11	https://clay.com/account-agents
+12	https://clay.com/claygent

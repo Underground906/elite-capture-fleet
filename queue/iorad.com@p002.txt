@@ -1,0 +1,12 @@
+25	https://iorad.com/faq
+26	https://iorad.com/helping-hands
+27	https://iorad.com/history
+28	https://iorad.com/installExtension
+29	https://iorad.com/leadership
+30	https://iorad.com/librarian
+31	https://iorad.com/marketplace
+32	https://iorad.com/meet-the-team
+33	https://iorad.com/partner-programs
+34	https://iorad.com/partner-spotlight
+35	https://iorad.com/publicLibrary
+36	https://iorad.com/quick-start

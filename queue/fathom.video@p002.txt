@@ -1,0 +1,12 @@
+25	https://fathom.ai/integrations-video-conferencing
+26	https://fathom.ai/integrations-workflow-automation
+27	https://fathom.ai/learn
+28	https://fathom.ai/qualified-portfolio-partners
+29	https://fathom.ai/salesforce-integration-admin-guide
+30	https://fathom.ai/superhuman
+31	https://fathom.ai/launchpad-category/ai-for-customer-success
+32	https://fathom.ai/launchpad/account-plan-template
+33	https://fathom.ai/launchpad/ad-angles
+34	https://fathom.ai/learn/bot-free-note-taker
+35	https://fathom.ai/partner/sandler
+36	https://fathom.ai/partner/spiced

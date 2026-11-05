@@ -1,0 +1,12 @@
+13	https://higoodie.com/research
+14	https://higoodie.com/integrations
+15	https://higoodie.com/ai-visibility-index
+16	https://higoodie.com/agent-site-audit
+17	https://higoodie.com/llms-txt-generator
+18	https://higoodie.com/features
+19	https://higoodie.com/security
+20	https://higoodie.com/service-agreement
+21	https://higoodie.com/case-studies/dermalogica
+22	https://higoodie.com/models/ai-mode
+23	https://higoodie.com/models/ai-overview
+24	https://higoodie.com/use-case

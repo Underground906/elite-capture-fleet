@@ -1,0 +1,2 @@
+49	https://clay.com/university/lesson/intro-to-clay-101-clay-101
+50	https://clay.com/integrations/data-points

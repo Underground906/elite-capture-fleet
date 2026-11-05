@@ -1,0 +1,3 @@
+37	https://heartbeat.chat/switch/circle
+38	https://heartbeat.chat/switch/discord
+39	https://heartbeat.chat/templates/five-day-challenge

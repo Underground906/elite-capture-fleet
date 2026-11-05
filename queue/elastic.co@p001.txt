@@ -1,0 +1,12 @@
+13	https://elastic.co/enterprise-search/ecommerce
+14	https://elastic.co/observability
+15	https://elastic.co/observability/ai-sre
+16	https://elastic.co/observability/application-performance-monitoring
+17	https://elastic.co/security
+18	https://elastic.co/security/ai
+19	https://elastic.co/security/investigation-response
+20	https://elastic.co/kibana
+21	https://elastic.co/platform/autoops
+22	https://elastic.co/jina-search-models
+23	https://elastic.co/cloud
+24	https://elastic.co/cloud/serverless

@@ -1,0 +1,12 @@
+13	https://getjobber.com/free-tools
+14	https://getjobber.com/free-tools/home-service-score
+15	https://getjobber.com/podcast
+16	https://getjobber.com/bluecollarreport
+17	https://getjobber.com/home-service-trends-report
+18	https://getjobber.com/grants
+19	https://getjobber.com/summit
+20	https://getjobber.com/events
+21	https://getjobber.com/contact
+22	https://getjobber.com/dlp/book-a-demo
+23	https://getjobber.com/sign-up
+24	https://getjobber.com/about

@@ -1,0 +1,12 @@
+1	https://elevenlabs.io/
+2	https://elevenlabs.io/customer-stories
+3	https://elevenlabs.io/enterprise
+4	https://elevenlabs.io/pricing
+5	https://compliance.elevenlabs.io/
+6	https://elevenlabs.io/about
+7	https://elevenlabs.io/ads-engine
+8	https://elevenlabs.io/agents
+9	https://elevenlabs.io/ai-transparency
+10	https://elevenlabs.io/ai-voice-generator
+11	https://elevenlabs.io/api
+12	https://elevenlabs.io/blog

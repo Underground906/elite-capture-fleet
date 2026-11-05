@@ -1,0 +1,12 @@
+25	https://invideo.io/tools
+26	https://invideo.io/agents/chatgpt
+27	https://invideo.io/agents/claude
+28	https://invideo.io/ai/camera-moves
+29	https://invideo.io/ai/video-gpt
+30	https://invideo.io/comparison/invideo-vs-adobe-spark
+31	https://invideo.io/comparison/invideo-vs-animaker
+32	https://invideo.io/editor/color-grading
+33	https://invideo.io/editor/save-and-export
+34	https://invideo.io/faq/30-second-vs-60-second-brand-video-which-format-performs
+35	https://invideo.io/faq/720p-vs-1080p-for-ai-video-generation-which-should-you
+36	https://invideo.io/templates/4th-of-july-templates

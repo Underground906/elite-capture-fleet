@@ -1,0 +1,2 @@
+49	https://cursor.com/download/bot
+50	https://cursor.com/learn/agents

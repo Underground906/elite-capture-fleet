@@ -1,0 +1,12 @@
+37	https://clueso.io/customers/aspire
+38	https://clueso.io/showcase/breg-grockman-supervisor-human-elonmu
+39	https://clueso.io/showcase/clueso-agents-autonomous-product-videos
+40	https://clueso.io/tutorials/how-do-i-add-a-new-slide-in-powerpoint-2
+41	https://clueso.io/tutorials/how-to-access-version-history-in-google-docs
+42	https://clueso.io/translate/arabic-to-chinese
+43	https://clueso.io/translate/arabic-to-czech
+44	https://clueso.io/careers/founding-ae
+45	https://clueso.io/glossary/a-roll
+46	https://clueso.io/cluebooks/building-a-customer-education-program
+47	https://clueso.io/cluebooks/building-a-customer-education-program--academy-programs
+48	https://clueso.io/tools

@@ -1,0 +1,12 @@
+13	https://help.guidde.com/en
+14	https://guidde.com/about
+15	https://guidde.com/careers
+16	https://guidde.com/contact-us
+17	https://guidde.com/download-desktop
+18	https://guidde.com/knowledge-hub
+19	https://guidde.com/media-kit
+20	https://guidde.com/partners
+21	https://guidde.com/release-notes
+22	https://guidde.com/tool-comparison
+23	https://guidde.com/compare/guidde-vs-camtasia
+24	https://guidde.com/compare/guidde-vs-loom

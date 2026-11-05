@@ -1,0 +1,12 @@
+13	https://fathom.ai/pricing
+14	https://fathom.video/users/sign_up
+15	https://fathom.ai/vs/built-in
+16	https://fathom.ai/vs/fireflies
+17	https://fathom.ai/case-studies/blackthorn
+18	https://fathom.ai/case-studies/bluleadz
+19	https://fathom.ai/integrations-collaboration
+20	https://fathom.ai/integrations-content-generation
+21	https://fathom.ai/integrations-crm
+22	https://fathom.ai/integrations-product
+23	https://fathom.ai/integrations-project-management
+24	https://fathom.ai/integrations-sales

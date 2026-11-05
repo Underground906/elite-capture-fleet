@@ -1,0 +1,12 @@
+37	https://descript.com/affiliate
+38	https://help.descript.com/
+39	https://descript.com/pricing
+40	https://descript.com/contact
+41	https://descript.com/about
+42	https://descript.com/careers
+43	https://descript.com/download
+44	https://descript.com/ethics
+45	https://descript.com/features
+46	https://feedback.descript.com/features
+47	https://descript.com/integrations
+48	https://descript.com/mcp

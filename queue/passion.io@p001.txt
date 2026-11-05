@@ -1,0 +1,12 @@
+13	https://passion.io/app-success-blueprint
+14	https://passion.io/branded-app
+15	https://passion.io/free-webinar
+16	https://passion.io/business-accelerator
+17	https://passion.io/use-cases/coaches
+18	https://passion.io/use-cases/creator
+19	https://passion.io/comparison/circle
+20	https://passion.io/comparison/kajabi
+21	https://help.passion.io/
+22	https://passion.io/faqs
+23	https://passion.io/blog/10-strategies-to-cut-community-churn-below-5
+24	https://passion.io/features/app-builder

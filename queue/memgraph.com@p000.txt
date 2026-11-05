@@ -1,0 +1,12 @@
+1	https://memgraph.com/
+2	https://memgraph.com/memgraphdb
+3	https://memgraph.com/lab
+4	https://memgraph.com/tools
+5	https://memgraph.com/vector-search
+6	https://memgraph.com/memgraph-zero
+7	https://memgraph.com/memgraph-for-neo4j-developers
+8	https://memgraph.com/memgraph-vs-arangodb
+9	https://memgraph.com/memgraph-vs-falkordb
+10	https://memgraph.com/memgraph-vs-amazon-neptune
+11	https://memgraph.com/graphrag
+12	https://memgraph.com/ai-memory

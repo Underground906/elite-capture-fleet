@@ -1,0 +1,12 @@
+37	https://elastic.co/demo-gallery
+38	https://elastic.co/integrations/data-integrations
+39	https://elastic.co/docs
+40	https://elastic.co/search-labs
+41	https://elastic.co/security-labs
+42	https://elastic.co/observability-labs
+43	https://elastic.co/blog
+44	https://elastic.co/community
+45	https://elastic.co/events
+46	https://discuss.elastic.co/
+47	https://elastic.co/training
+48	https://elastic.co/consulting

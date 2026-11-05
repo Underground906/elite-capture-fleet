@@ -1,0 +1,12 @@
+1	https://kaggle.com/
+2	https://kaggle.com/competitions
+3	https://kaggle.com/competitions/arc-prize-2026-paper-track
+4	https://kaggle.com/competitions/gemma-4-developer-agent
+5	https://kaggle.com/benchmarks
+6	https://kaggle.com/benchmarks/tasks
+7	https://kaggle.com/benchmarks/google/facts-grounding
+8	https://kaggle.com/benchmarks/ibm-research/enterprise-ops
+9	https://kaggle.com/arenas
+10	https://kaggle.com/game-arena
+11	https://kaggle.com/models
+12	https://kaggle.com/competition-case-study-mayo-clinic

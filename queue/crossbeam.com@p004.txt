@@ -1,0 +1,2 @@
+49	https://crossbeam.com/event-registration/channel-focus-conference
+50	https://crossbeam.com/event-registration/crossbeam-ai-summit-2026

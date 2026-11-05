@@ -1,0 +1,2 @@
+49	https://jasper.ai/grid
+50	https://jasper.ai/jasper-iq

@@ -1,0 +1,12 @@
+25	https://bigcommerce.com/services
+26	https://bigcommerce.com/showcase
+27	https://bigcommerce.com/sitemap
+28	https://developer.bigcommerce.com/stencil-docs
+29	https://bigcommerce.com/company/awards
+30	https://bigcommerce.com/make-it-big/podcast
+31	https://bigcommerce.com/partners/become-a-partner
+32	https://bigcommerce.com/resources/guides
+33	https://support.bigcommerce.com/s/community
+34	https://support.bigcommerce.com/s/knowledge
+35	https://bigcommerce.com/solutions/automotive
+36	https://bigcommerce.com/solutions/b2b-ecommerce-platform

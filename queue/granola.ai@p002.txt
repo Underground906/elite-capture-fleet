@@ -1,0 +1,12 @@
+25	https://granola.ai/third-party-licenses
+26	https://granola.ai/transparency
+27	https://granola.ai/use-cases/product
+28	https://granola.ai/use-cases/sales
+29	https://granola.ai/blog/a-new-look-for-granola
+30	https://granola.ai/customers/brex
+31	https://granola.ai/integrations/affinity
+32	https://granola.ai/authors
+33	https://granola.ai/updates
+34	https://granola.ai/authors/bardia
+35	https://granola.ai/updates/delete-parts-of-transcript
+36	https://granola.ai/updates/edit-notes-just-by-asking

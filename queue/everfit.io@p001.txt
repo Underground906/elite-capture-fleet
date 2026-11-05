@@ -1,0 +1,12 @@
+13	https://everfit.io/payment
+14	https://everfit.io/booking
+15	https://everfit.io/ai-suite
+16	https://everfit.io/automation
+17	https://everfit.io/pro
+18	https://everfit.io/integration
+19	https://everfit.io/truemed
+20	https://academy.everfit.io/
+21	https://everfit.io/case-studies
+22	https://everfit.io/webinar
+23	https://everfit.io/pricing
+24	https://app.everfit.io/register

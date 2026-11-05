@@ -1,0 +1,12 @@
+25	https://algolia.com/use-cases/documentation-search
+26	https://algolia.com/use-cases/ecommerce
+27	https://algolia.com/search-solutions/adobe-experience-manager
+28	https://algolia.com/search-solutions/bigcommerce
+29	https://algolia.com/pricing
+30	https://algolia.com/llm-leaderboard
+31	https://algolia.com/doc
+32	https://algolia.com/doc/guides/get-started/quickstart
+33	https://algolia.com/blog
+34	https://algolia.com/blog/engineering
+35	https://algolia.com/events
+36	https://algolia.com/for-open-source

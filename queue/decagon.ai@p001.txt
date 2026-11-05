@@ -1,0 +1,12 @@
+13	https://trust.decagon.ai/
+14	https://decagon.ai/careers
+15	https://decagon.ai/partnerships
+16	https://decagon.ai/case-studies
+17	https://decagon.ai/get-a-demo
+18	https://decagon.ai/security
+19	https://decagon.ai/glossary/after-call-work-acw
+20	https://decagon.ai/case-studies/1-800-flowers
+21	https://decagon.ai/decagon-dialogues-2026
+22	https://decagon.ai/decagon-dialogues-on-tour
+23	https://decagon.ai/decagon-dialogues-on-tour-ldn
+24	https://decagon.ai/partnerships-old

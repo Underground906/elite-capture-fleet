@@ -1,0 +1,2 @@
+49	https://elevenlabs.io/pricing/api
+50	https://elevenlabs.io/use-cases

@@ -1,0 +1,12 @@
+25	https://cursor.com/en-US/community
+26	https://cursor.com/help
+27	https://cursor.com/workshops
+28	https://cursor.com/en-US/workshops
+29	https://forum.cursor.com/
+30	https://cursor.com/careers
+31	https://cursor.com/en-US/careers
+32	https://cursor.com/en-US/business/teams
+33	https://cursor.com/agents
+34	https://cursor.com/en-US/composer
+35	https://cursor.com/en-US/download
+36	https://cursor.com/learn

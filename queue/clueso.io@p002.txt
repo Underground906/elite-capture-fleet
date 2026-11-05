@@ -1,0 +1,12 @@
+25	https://clueso.io/video-skills
+26	https://clueso.io/compare
+27	https://clueso.io/compare/camtasia-alternatives
+28	https://clueso.io/compare/descript-alternatives
+29	https://clueso.io/vs
+30	https://clueso.io/vs/camtasia
+31	https://clueso.io/vs/descript
+32	https://clueso.io/solutions/best-process-documentation-software
+33	https://clueso.io/solutions/best-scorm-authoring-tools
+34	https://clueso.io/clueprints/chapter-based-tutorial
+35	https://clueso.io/clueprints/chapter-walkthrough
+36	https://clueso.io/blog/10-stand-out-video-formats-to-try-right-away

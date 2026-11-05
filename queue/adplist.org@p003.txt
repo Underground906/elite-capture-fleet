@@ -1,0 +1,12 @@
+37	https://adplist.org/insights/design-team-of-one
+38	https://adplist.org/interview-practice/pd-airbnb-senior
+39	https://adplist.org/interview-practice/pd-anthropic-mid-senior
+40	https://adplist.org/mentors/27gfd0jIz2
+41	https://adplist.org/mentors/2HsQYNtYeI
+42	https://adplist.org/state-of-mentorship/2026-bookings
+43	https://adplist.org/tools/career-change-planner
+44	https://adplist.org/tools/portfolio-review-checklist
+45	https://adplist.org/adplist100/2026/about
+46	https://adplist.org/interview-prep/amazon/behavioral
+47	https://adplist.org/interview-prep/apple/behavioral
+48	https://adplist.org/adplist100/2026/mentor/aakash-singh

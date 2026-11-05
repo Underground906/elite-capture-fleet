@@ -1,0 +1,12 @@
+37	https://kourses.com/product-education
+38	https://kourses.com/event-workshop-follow-up
+39	https://kourses.com/blog
+40	https://kourses.com/updates
+41	https://kourses.com/about
+42	https://kourses.com/changelog
+43	https://kourses.com/roadmap
+44	https://kourses.com/kourses-vs-wordpress
+45	https://kourses.com/kourses-vs-kajabi
+46	https://kourses.com/kourses-vs-circle
+47	https://kourses.com/kourses-vs-mighty-networks
+48	https://kourses.com/kourses-vs-teachable

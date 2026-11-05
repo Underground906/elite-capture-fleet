@@ -1,0 +1,12 @@
+37	https://bigcommerce.com/blog/category/developer-resources
+38	https://bigcommerce.com/pricing/faq
+39	https://bigcommerce.com/product/abandoned-cart
+40	https://bigcommerce.com/platform/attract
+41	https://bigcommerce.com/platform/convert
+42	https://bigcommerce.com/solutions
+43	https://bigcommerce.com/solutions/headless-commerce/aem
+44	https://bigcommerce.com/solutions/headless-commerce/drupal
+45	https://bigcommerce.com/company/careers
+46	https://bigcommerce.com/company/leaders/chris-skarupski
+47	https://bigcommerce.com/company/leaders/jeff-mengoli
+48	https://bigcommerce.com/affirm

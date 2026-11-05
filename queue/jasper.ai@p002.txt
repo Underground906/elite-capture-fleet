@@ -1,0 +1,12 @@
+25	https://jasper.ai/api
+26	https://jasper.ai/assembly
+27	https://jasper.ai/brand
+28	https://jasper.ai/brand-iq
+29	https://jasper.ai/brand-voice
+30	https://jasper.ai/cannes
+31	https://jasper.ai/canvas
+32	https://jasper.ai/carlton-party-2025
+33	https://jasper.ai/chat
+34	https://jasper.ai/chrome-extension
+35	https://jasper.ai/community-newsletter
+36	https://jasper.ai/contact-support

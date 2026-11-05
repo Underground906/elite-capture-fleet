@@ -1,0 +1,4 @@
+1	https://locals.com/
+2	https://blog.locals.com/en
+3	https://locals.com/site/coins
+4	https://locals.com/site/creator-features

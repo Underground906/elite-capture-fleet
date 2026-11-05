@@ -1,0 +1,12 @@
+25	https://preferences.crossbeam.com/form/opt_out
+26	https://crossbeam.com/partner-mcps/1password
+27	https://crossbeam.com/partner-mcps/6sense
+28	https://crossbeam.com/ebook/the-2026-channel-activation-playbook
+29	https://crossbeam.com/forms/aws-startup-demo
+30	https://crossbeam.com/about-us
+31	https://crossbeam.com/ai-information
+32	https://crossbeam.com/channel-focus-dinner
+33	https://crossbeam.com/crossbeam-and-reveal-merger-announcement
+34	https://crossbeam.com/crossbeam-and-reveal-merger-faq
+35	https://crossbeam.com/crossbeam-vs-partnertap
+36	https://crossbeam.com/early-access-deal-navigator-performance

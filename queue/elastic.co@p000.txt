@@ -1,0 +1,12 @@
+1	https://elastic.co/
+2	https://elastic.co/resources/search/analyst-report/gartner-magic-quadrant-enterprise-ai-search
+3	https://elastic.co/resources/security/report/av-comparatives-endpoint-protection-response
+4	https://elastic.co/about
+5	https://elastic.co/partners
+6	https://elastic.co/partners/ai-ecosystem
+7	https://elastic.co/support
+8	https://elastic.co/elasticsearch
+9	https://elastic.co/elasticsearch/agent-builder
+10	https://elastic.co/elasticsearch/context-engineering
+11	https://elastic.co/enterprise-search
+12	https://elastic.co/enterprise-search/customer-support

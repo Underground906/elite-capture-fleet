@@ -1,0 +1,12 @@
+1	https://iorad.com/
+2	https://iorad.com/features
+3	https://iorad.com/features/districts
+4	https://iorad.com/features/educator
+5	https://iorad.com/solutions
+6	https://iorad.com/solutions/ai-powered-process-capture
+7	https://iorad.com/solutions/ai-training-assistant
+8	https://iorad.com/pricing
+9	https://iorad.com/pricing/business
+10	https://iorad.com/pricing/education
+11	https://iorad.com/pricing/feature/advanced-exports
+12	https://iorad.com/pricing/feature/analytics

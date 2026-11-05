@@ -1,0 +1,5 @@
+25	https://meilisearch.com/integrations/angular
+26	https://meilisearch.com/comparisons/meilisearch-vs-algolia
+27	https://meilisearch.com/comparisons/meilisearch-vs-elasticsearch
+28	https://meilisearch.com/docs/changelog
+29	https://meilisearch.com/launch-week/q1-2026

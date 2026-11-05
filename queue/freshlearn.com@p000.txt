@@ -1,0 +1,12 @@
+1	https://freshlearn.com/
+2	https://freshlearn.com/ai-studio
+3	https://freshlearn.com/testimonial
+4	https://freshlearn.com/pricing
+5	https://freshlearn.com/creators
+6	https://freshlearn.com/academies
+7	https://freshlearn.com/ce-providers
+8	https://freshlearn.com/companies
+9	https://freshlearn.com/use-cases/arts
+10	https://freshlearn.com/use-cases/cdl-training-software
+11	https://freshlearn.com/inspiration
+12	https://freshlearn.com/the-creator-show

@@ -1,0 +1,12 @@
+37	https://guidde.com/apply-now
+38	https://guidde.com/automatic-video-editor
+39	https://guidde.com/book-a-demo-with-sales
+40	https://guidde.com/book-mcp-walkthrough-team-qq
+41	https://guidde.com/checkout
+42	https://guidde.com/contact-sales
+43	https://guidde.com/contact-us-broadcast
+44	https://guidde.com/copyright
+45	https://guidde.com/customer-feedback
+46	https://guidde.com/customer-support
+47	https://guidde.com/documentation-generator-ai
+48	https://guidde.com/feedback

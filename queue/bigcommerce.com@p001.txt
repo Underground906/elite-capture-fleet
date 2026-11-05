@@ -1,0 +1,12 @@
+13	https://bigcommerce.com/contact
+14	https://partners.bigcommerce.com/directory
+15	https://bigcommerce.com/emerging-brands
+16	https://bigcommerce.com/enterprise
+17	https://bigcommerce.com/enterprise-pricing
+18	https://bigcommerce.com/events
+19	https://bigcommerce.com/migration
+20	https://bigcommerce.com/partners
+21	https://bigcommerce.com/press
+22	https://bigcommerce.com/product
+23	https://bigcommerce.com/resources
+24	https://support.bigcommerce.com/s

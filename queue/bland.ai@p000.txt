@@ -1,0 +1,12 @@
+1	https://bland.ai/
+2	https://bland.ai/product
+3	https://bland.ai/solutions
+4	https://bland.ai/pricing
+5	https://bland.ai/customers
+6	https://bland.ai/blog
+7	https://bland.ai/docs
+8	https://bland.ai/changelog
+9	https://bland.ai/integrations
+10	https://bland.ai/careers
+11	https://app.bland.ai/signup
+12	https://bland.ai/book-a-demo

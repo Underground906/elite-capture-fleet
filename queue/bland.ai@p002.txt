@@ -1,0 +1,12 @@
+25	https://bland.ai/solutions/customer-service
+26	https://bland.ai/product/chat
+27	https://bland.ai/customers/american-way-health
+28	https://bland.ai/blog/2024-guide-enterprise-ai-phone-agents
+29	https://bland.ai/changelog/05_28_2026
+30	https://bland.ai/integrations/3cx
+31	https://bland.ai/industries/banking
+32	https://bland.ai/industries/debt-collection
+33	https://bland.ai/industries/financial-services/banking-call-center-software
+34	https://bland.ai/industries/financial-services/credit-union-call-center
+35	https://bland.ai/agent-friendly-voice-ai
+36	https://bland.ai/ai-dispatch-software

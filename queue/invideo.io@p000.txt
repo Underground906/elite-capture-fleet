@@ -1,0 +1,12 @@
+1	https://invideo.io/
+2	https://invideo.io/enterprise
+3	https://invideo.io/pricing
+4	https://invideo.io/mcp
+5	https://docs.invideo.io/
+6	https://invideo.io/ai-models
+7	https://invideo.io/blog
+8	https://invideo.io/child-safety
+9	https://invideo.io/studio
+10	https://invideo.io/ai-models/elevenlabs
+11	https://invideo.io/ai-models/flux-kontext
+12	https://invideo.io/make/add-text-to-video-online

@@ -1,0 +1,12 @@
+13	https://clay.com/inbound-sdr
+14	https://clay.com/workflows
+15	https://clay.com/agent-plugin
+16	https://clay.com/functions
+17	https://clay.com/ads
+18	https://clay.com/sequencer
+19	https://clay.com/mcp
+20	https://clay.com/use-cases/abm
+21	https://clay.com/use-cases/account-research
+22	https://clay.com/clay-for-gtm-ops
+23	https://clay.com/clay-for-marketing
+24	https://clay.com/clay-for-sales

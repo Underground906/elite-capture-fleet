@@ -1,0 +1,12 @@
+1	https://jasper.ai/
+2	https://jasper.ai/platform
+3	https://jasper.ai/solutions
+4	https://jasper.ai/solutions/campaigns
+5	https://jasper.ai/solutions/personalization
+6	https://jasper.ai/solutions/by-industry/financial-services
+7	https://jasper.ai/solutions/by-industry/healthcare
+8	https://jasper.ai/use-cases
+9	https://jasper.ai/use-cases/blog-writing
+10	https://jasper.ai/use-cases/content-strategy
+11	https://jasper.ai/pricing
+12	https://jasper.ai/case-studies/akbank

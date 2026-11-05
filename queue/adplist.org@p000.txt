@@ -1,0 +1,12 @@
+1	https://adplist.org/
+2	https://identity.adplist.org/start
+3	https://adplist.org/about-us
+4	https://adplist.org/ai-course
+5	https://adplist.org/become-a-mentor
+6	https://adplist.org/blog
+7	https://adplist.org/career-coach
+8	https://adplist.org/design-by-intelligence
+9	https://adplist.org/design-moonshot-guide
+10	https://adplist.org/executive-coaching
+11	https://adplist.org/explore
+12	https://adplist.org/faqs

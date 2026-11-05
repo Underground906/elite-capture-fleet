@@ -1,0 +1,12 @@
+37	https://iorad.com/release
+38	https://iorad.com/resell-partners
+39	https://iorad.com/revenue-streams
+40	https://iorad.com/service-partner-application
+41	https://iorad.com/service-partner-program
+42	https://iorad.com/services
+43	https://iorad.com/signup
+44	https://iorad.com/studentpolicy
+45	https://iorad.com/technology-partner-application
+46	https://iorad.com/technology-partner-program
+47	https://iorad.com/testimonials
+48	https://iorad.com/trust-matters

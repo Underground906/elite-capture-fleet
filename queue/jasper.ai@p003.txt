@@ -1,0 +1,12 @@
+37	https://jasper.ai/content-pipelines
+38	https://jasper.ai/customer-stories
+39	https://jasper.ai/customer-success
+40	https://jasper.ai/demo-recovery-test
+41	https://jasper.ai/editor
+42	https://jasper.ai/enterprise
+43	https://jasper.ai/ethics
+44	https://jasper.ai/executive-summit
+45	https://jasper.ai/forward-deployed
+46	https://jasper.ai/free-trial
+47	https://jasper.ai/geo
+48	https://jasper.ai/governance

@@ -1,0 +1,12 @@
+13	https://lumalabs.ai/media-kit
+14	https://lumalabs.ai/ray
+15	https://lumalabs.ai/uni-1
+16	https://lumalabs.ai/create/ai-video-generator
+17	https://lumalabs.ai/create/ai-video-generator-from-image
+18	https://lumalabs.ai/education/educator
+19	https://lumalabs.ai/news/3d-claymation-ai-prompts
+20	https://lumalabs.ai/case-studies/aperture
+21	https://lumalabs.ai/agents-guide
+22	https://lumalabs.ai/authors
+23	https://lumalabs.ai/changelog
+24	https://lumalabs.ai/contact-sales

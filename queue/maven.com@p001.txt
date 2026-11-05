@@ -1,0 +1,12 @@
+13	https://maven.com/about
+14	https://maven.com/careers
+15	https://help.maven.com/
+16	https://maven.com/resources
+17	https://maven.com/resources/6-week-plan
+18	https://maven.com/blog/data-explorer
+19	https://maven.com/blog/embeddings
+20	https://maven.com/a-plus/make-safer-product-decisions
+21	https://maven.com/aaisha-bhuiyan/diversify-your-income-streams
+22	https://maven.com/articles/1-1-meetings
+23	https://maven.com/articles/5-programming-languages-for-PMs
+24	https://maven.com/p/0012dc

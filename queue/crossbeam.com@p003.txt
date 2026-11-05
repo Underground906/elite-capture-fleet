@@ -1,0 +1,12 @@
+37	https://crossbeam.com/elg-certification
+38	https://crossbeam.com/impact
+39	https://crossbeam.com/partnerbase-meets-crossbeam
+40	https://crossbeam.com/partners
+41	https://crossbeam.com/reveal-platform-sunset
+42	https://crossbeam.com/uncork-capital-x-crossbeam
+43	https://crossbeam.com/case-study/a-small-teams-guide-for-using-crossbeam-to-scale-your-integrations
+44	https://crossbeam.com/case-study/boxs-partnership-journey-elg-allbound-glory-bound
+45	https://crossbeam.com/claude-skills/crossbeam-api-guide
+46	https://crossbeam.com/claude-skills/crossbeam-co-sell-copilot
+47	https://crossbeam.com/ecosystem/adobe
+48	https://crossbeam.com/ecosystem/crowdstrike

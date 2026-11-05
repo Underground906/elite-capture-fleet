@@ -1,0 +1,12 @@
+13	https://intercom.com/solutions/fintech
+14	https://intercom.com/early-stage
+15	https://intercom.com/small-business
+16	https://intercom.com/enterprise
+17	https://intercom.com/why-choose-intercom
+18	https://intercom.com/blog
+19	https://events.intercom.com/
+20	https://intercom.com/customer-transformation-report
+21	https://intercom.com/help/en
+22	https://intercom.com/changes/en
+23	https://intercom.com/pricing
+24	https://intercom.com/about

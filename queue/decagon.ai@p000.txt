@@ -1,0 +1,12 @@
+1	https://decagon.ai/
+2	https://decagon.ai/product/aop
+3	https://decagon.ai/product/chat
+4	https://decagon.ai/blog/dialogues-2026
+5	https://decagon.ai/blog/personal-agents-are-here
+6	https://decagon.ai/industry/financial-services
+7	https://decagon.ai/industry/healthcare
+8	https://decagon.ai/resources
+9	https://decagon.ai/resources/blog
+10	https://decagon.ai/decagon-university
+11	https://decagon.ai/glossary
+12	https://decagon.ai/about

@@ -1,0 +1,12 @@
+13	https://bland.ai/about
+14	https://bland.ai/ai-phone-number
+15	https://bland.ai/contact
+16	https://bland.ai/elevenlabs-alternative
+17	https://bland.ai/enterprise
+18	https://bland.ai/glossary
+19	https://bland.ai/industries
+20	https://bland.ai/norm
+21	https://bland.ai/partners
+22	https://bland.ai/speech
+23	https://bland.ai/trust-security
+24	https://bland.ai/solutions/ai-receptionist

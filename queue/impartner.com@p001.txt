@@ -1,0 +1,12 @@
+13	https://impartner.com/industry-advisory
+14	https://impartner.com/integrations
+15	https://impartner.com/journey-builder
+16	https://impartner.com/lead-management
+17	https://impartner.com/market-development-funds
+18	https://impartner.com/news-on-demand
+19	https://impartner.com/newsroom
+20	https://impartner.com/paid-media-for-partners
+21	https://impartner.com/partner-business-planning
+22	https://impartner.com/partner-marketplace-2
+23	https://impartner.com/partner-referral-programs
+24	https://impartner.com/partner-relationship-management

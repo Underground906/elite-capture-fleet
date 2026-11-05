@@ -1,0 +1,12 @@
+37	https://cursor.com/en-US/students
+38	https://cursor.com/en-US/brand
+39	https://cursor.com/en-US/future
+40	https://cursor.com/en-US/acceptable-use-policy
+41	https://cursor.com/en-US/data-use
+42	https://cursor.com/en-US/security
+43	https://cursor.com/marketplace/1inch
+44	https://cursor.com/docs/agent-sdk
+45	https://cursor.com/help/account-and-billing/app-store-subscription
+46	https://cursor.com/business/teams
+47	https://cursor.com/composer
+48	https://cursor.com/download

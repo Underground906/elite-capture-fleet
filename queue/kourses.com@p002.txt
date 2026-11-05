@@ -1,0 +1,12 @@
+25	https://kourses.com/integrations
+26	https://kourses.com/blocklist-chargeback-protection
+27	https://kourses.com/creators-educators
+28	https://kourses.com/coaches-mentors
+29	https://kourses.com/influencers-personal-brands
+30	https://kourses.com/agencies-consultants
+31	https://kourses.com/businesses-teams
+32	https://kourses.com/community-builders
+33	https://kourses.com/sell-online-courses
+34	https://kourses.com/coaching-programs
+35	https://kourses.com/paid-communities
+36	https://kourses.com/digital-products-downloads

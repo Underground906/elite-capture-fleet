@@ -1,0 +1,12 @@
+37	https://clay.com/blog
+38	https://clay.com/blog/sandra-uche
+39	https://clay.com/about
+40	https://clay.com/careers
+41	https://clay.com/jobs
+42	https://clay.com/contact
+43	https://clay.com/press
+44	https://clay.com/changelog
+45	https://university.clay.com/claybooks
+46	https://clay.com/faq
+47	https://clay.com/series-c
+48	https://clay.com/customers/anthropic

@@ -1,0 +1,12 @@
+13	https://clueso.io/tutorials
+14	https://clueso.io/translate
+15	https://clueso.io/affiliate
+16	https://clueso.io/about
+17	https://clueso.io/contact
+18	https://clueso.io/careers
+19	https://clueso.io/glossary
+20	https://clueso.io/cluebooks
+21	https://clueso.io/faqs
+22	https://clueso.io/sitemap
+23	https://clueso.io/tools/add-voiceover-to-video
+24	https://clueso.io/tools/icon-animation

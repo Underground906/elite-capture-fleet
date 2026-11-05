@@ -1,0 +1,12 @@
+13	https://deeplearning.ai/community
+14	https://deeplearning.ai/about
+15	https://deeplearning.ai/careers
+16	https://deeplearning.ai/contact
+17	https://info.deeplearning.ai/knowledge-base
+18	https://deeplearning.ai/courses/a2a-the-agent2agent-protocol
+19	https://deeplearning.ai/courses/advanced-retrieval-for-ai
+20	https://deeplearning.ai/the-batch/10-second-crystal-ball
+21	https://deeplearning.ai/the-batch/2022-was-the-year-text-to-image-ai-went-mainstream
+22	https://deeplearning.ai/blog/2021-pie-ai-ambassador-spotlight-jose-morey-rose-delilah-gesicho
+23	https://deeplearning.ai/resources/ai-engineering-skills
+24	https://deeplearning.ai/learning-community

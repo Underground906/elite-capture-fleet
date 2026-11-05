@@ -1,0 +1,12 @@
+25	https://intercom.com/app-store
+26	https://intercom.com/learning-center
+27	https://intercom.com/live-chat
+28	https://intercom.com/solution-partner-program
+29	https://intercom.com/technology-partner-program
+30	https://intercom.com/integrations/connectors/airtable
+31	https://intercom.com/customers/3commas
+32	https://intercom.com/blog/10-engineering-lessons-from-6-years-at-intercom
+33	https://intercom.com/help/de/articles/10032299-verwenden-sie-fin-ai-agent-in-workflows
+34	https://intercom.com/pricing/calculator
+35	https://intercom.com/ai-chatbot
+36	https://intercom.com/ai-instructions

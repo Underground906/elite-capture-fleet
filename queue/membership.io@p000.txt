@@ -1,0 +1,12 @@
+1	https://membership.io/
+2	https://membership.io/library
+3	https://membership.io/hubs
+4	https://membership.io/ai-chat-plugin
+5	https://membership.io/mobile-app
+6	https://membership.io/integrations
+7	https://membership.io/analytics
+8	https://membership.io/community
+9	https://membership.io/copilot
+10	https://membership.io/personalization
+11	https://membership.io/search
+12	https://membership.io/memberships

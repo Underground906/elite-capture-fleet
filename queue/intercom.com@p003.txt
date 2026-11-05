@@ -1,0 +1,8 @@
+37	https://intercom.com/compare-intercom-vs-zendesk
+38	https://intercom.com/conversational-ai
+39	https://intercom.com/intercom2
+40	https://intercom.com/learning-center/ai-agents
+41	https://intercom.com/learning-center/ai-agents-that-take-action
+42	https://intercom.com/support-for-agents/phone
+43	https://intercom.com/learning-center/category/ai-agents
+44	https://intercom.com/learning-center/category/commerce

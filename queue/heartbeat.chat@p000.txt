@@ -1,0 +1,12 @@
+1	https://heartbeat.chat/
+2	https://heartbeat.chat/press
+3	https://heartbeat.chat/feature/courses
+4	https://heartbeat.chat/feature/discussions
+5	https://heartbeat.chat/branded-app
+6	https://heartbeat.chat/features
+7	https://heartbeat.chat/stories
+8	https://heartbeat.chat/blog
+9	https://heartbeat.chat/compare
+10	https://heartbeat.chat/tools/membership-pricing-calculator
+11	https://community.heartbeat.chat/invitation
+12	https://heartbeat.chat/upcoming-events

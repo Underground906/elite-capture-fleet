@@ -1,0 +1,12 @@
+25	https://descript.com/api
+26	https://descript.com/enterprise
+27	https://descript.com/customers
+28	https://descript.com/customers/linkedin
+29	https://descript.com/teams/customer-success
+30	https://descript.com/teams/customer-support
+31	https://descript.com/use-case/case-studies
+32	https://descript.com/use-case/educational-video
+33	https://descript.com/blog
+34	https://descript.com/community
+35	https://web.descript.com/learn-descript
+36	https://feedback.descript.com/changelog

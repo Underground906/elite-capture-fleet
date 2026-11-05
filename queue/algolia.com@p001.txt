@@ -1,0 +1,12 @@
+13	https://algolia.com/products/ai-browse
+14	https://algolia.com/developers
+15	https://algolia.com/developers/code-exchange
+16	https://algolia.com/developers/integrations
+17	https://algolia.com/global-infrastructure
+18	https://algolia.com/customers
+19	https://algolia.com/customers/walgreens
+20	https://algolia.com/industries
+21	https://algolia.com/industries/auto-parts
+22	https://algolia.com/industries/b2b-ecommerce
+23	https://algolia.com/industries/ecommerce/digital-merchandising
+24	https://algolia.com/use-cases

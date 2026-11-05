@@ -1,0 +1,12 @@
+1	https://algolia.com/
+2	https://algolia.com/about
+3	https://algolia.com/about/news
+4	https://algolia.com/about/news/algolia-acquires-velou
+5	https://algolia.com/webinars/ext-shopify-b2b-webinar
+6	https://algolia.com/partprog
+7	https://support.algolia.com/
+8	https://dashboard.algolia.com/users/sign_in
+9	https://dashboard.algolia.com/users/sign_out
+10	https://algolia.com/resources
+11	https://algolia.com/resources/asset/infographic-unlock-the-power-of-agentic-ai
+12	https://algolia.com/products

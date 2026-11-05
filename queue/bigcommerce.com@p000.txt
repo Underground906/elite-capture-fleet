@@ -1,0 +1,12 @@
+1	https://bigcommerce.com/
+2	https://support.bigcommerce.com/
+3	https://bigcommerce.com/india
+4	https://bigcommerce.com/pricing
+5	https://bigcommerce.com/request-a-demo
+6	https://bigcommerce.com/free-trial
+7	https://developer.bigcommerce.com/api-docs
+8	https://bigcommerce.com/apps
+9	https://bigcommerce.com/articles
+10	https://bigcommerce.com/blog
+11	https://bigcommerce.com/case-study
+12	https://bigcommerce.com/company

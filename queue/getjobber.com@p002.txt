@@ -1,0 +1,12 @@
+25	https://getjobber.com/accessibility-policy
+26	https://getjobber.com/faq
+27	https://getjobber.com/franchise-partnership-program
+28	https://getjobber.com/home-service-reports-2
+29	https://getjobber.com/integrations
+30	https://getjobber.com/llm-info
+31	https://getjobber.com/partner-directory
+32	https://getjobber.com/partners
+33	https://getjobber.com/security
+34	https://getjobber.com/sitemap
+35	https://getjobber.com/about/careers
+36	https://getjobber.com/about/media

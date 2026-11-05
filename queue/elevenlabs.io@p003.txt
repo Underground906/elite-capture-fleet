@@ -1,0 +1,12 @@
+37	https://elevenlabs.io/voice-changer
+38	https://elevenlabs.io/voice-cloning
+39	https://elevenlabs.io/voice-design
+40	https://elevenlabs.io/voice-isolator
+41	https://elevenlabs.io/webinars
+42	https://elevenlabs.io/agents/ai-customer-support
+43	https://elevenlabs.io/agents/financial-services
+44	https://elevenlabs.io/events/elevenlabs-summit
+45	https://elevenlabs.io/app/developers/api-keys
+46	https://elevenlabs.io/docs/eleven-api/quickstart
+47	https://elevenlabs.io/docs/help-center/help-center-directory
+48	https://elevenlabs.io/pricing/agents

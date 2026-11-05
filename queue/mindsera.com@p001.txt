@@ -1,0 +1,4 @@
+13	https://mindsera.com/category/clear-thinking
+14	https://mindsera.com/category/journaling
+15	https://mindsera.com/help/account
+16	https://mindsera.com/team/chris-reinberg

@@ -1,0 +1,12 @@
+1	https://everfit.io/
+2	https://everfit.io/training
+3	https://everfit.io/nutrition
+4	https://everfit.io/macrosnap-coaching
+5	https://everfit.io/task-habit
+6	https://everfit.io/on-demand-solutions
+7	https://everfit.io/ai
+8	https://everfit.io/sportscoaching
+9	https://everfit.io/communication
+10	https://everfit.io/forms
+11	https://everfit.io/branding
+12	https://everfit.io/teams

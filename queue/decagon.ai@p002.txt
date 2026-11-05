@@ -1,0 +1,10 @@
+25	https://decagon.ai/proactive-agents
+26	https://decagon.ai/guides/10-principles-of-a-production-grade-voice-ai-agent
+27	https://decagon.ai/guides/agentic-ai-for-cx-buyer-guide
+28	https://decagon.ai/modules/ai-cx-transformation
+29	https://decagon.ai/modules/aops
+30	https://decagon.ai/topic/ai-agent-building
+31	https://decagon.ai/topic/ai-and-agent-architecture
+32	https://decagon.ai/videos/17-questions-grant-proctor
+33	https://decagon.ai/videos/a-conversation-with-julia-hartz-and-ashwin-sreenivas
+34	https://decagon.ai/vs/sierra

@@ -1,0 +1,12 @@
+1	https://ideogram.ai/
+2	https://ideogram.ai/tools
+3	https://ideogram.ai/tools/ad-resizer
+4	https://ideogram.ai/tools/background-remover
+5	https://ideogram.ai/models/3.0
+6	https://ideogram.ai/models/4.0
+7	https://ideogram.ai/features/mcp
+8	https://ideogram.ai/features/print-on-demand
+9	https://ideogram.ai/licensing
+10	https://ideogram.ai/api-learn
+11	https://ideogram.ai/pricing
+12	https://developer.ideogram.ai/ideogram-api/api-overview

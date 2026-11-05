@@ -1,0 +1,12 @@
+1	https://getjobber.com/
+2	https://getjobber.com/features
+3	https://getjobber.com/features/ai
+4	https://getjobber.com/features/ai-receptionist
+5	https://getjobber.com/plus
+6	https://secure.getjobber.com/app_marketplace
+7	https://productupdates.getjobber.com/
+8	https://getjobber.com/industries
+9	https://getjobber.com/industries/cleaning-business-software
+10	https://getjobber.com/industries/commercial-cleaning-software
+11	https://getjobber.com/pricing
+12	https://getjobber.com/academy

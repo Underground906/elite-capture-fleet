@@ -1,0 +1,12 @@
+1	https://intercom.com/
+2	https://app.intercom.com/admins/sign_in
+3	https://intercom.com/contact-sales
+4	https://intercom.com/view-demos
+5	https://intercom.com/signup
+6	https://intercom.com/helpdesk
+7	https://intercom.com/helpdesk/copilot
+8	https://intercom.com/helpdesk/help-center
+9	https://intercom.com/integrations
+10	https://intercom.com/security
+11	https://intercom.com/customers
+12	https://intercom.com/solutions/ecommerce

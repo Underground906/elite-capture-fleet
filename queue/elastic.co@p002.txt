@@ -1,0 +1,12 @@
+25	https://cloud.elastic.co/serverless-registration
+26	https://cloud.elastic.co/registration
+27	https://elastic.co/downloads
+28	https://elastic.co/downloads/elasticsearch
+29	https://elastic.co/search-ai
+30	https://elastic.co/what-is
+31	https://elastic.co/industries
+32	https://elastic.co/industries/financial-services
+33	https://elastic.co/industries/manufacturing
+34	https://elastic.co/customers
+35	https://elastic.co/customers/docusign
+36	https://elastic.co/getting-started

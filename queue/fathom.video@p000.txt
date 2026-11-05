@@ -1,0 +1,12 @@
+1	https://fathom.ai/
+2	https://fathom.ai/overview
+3	https://fathom.ai/solutions/customer-success
+4	https://fathom.ai/solutions/marketing
+5	https://fathom.ai/integrations
+6	https://fathom.ai/integrations/asana
+7	https://developers.fathom.ai/
+8	https://fathom.ai/whats-new
+9	https://fathom.ai/resource-hub
+10	https://fathom.ai/partner-programs
+11	https://fathom.ai/about-us
+12	https://fathom.ai/ios-app

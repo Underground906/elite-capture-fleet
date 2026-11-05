@@ -1,0 +1,12 @@
+1	https://cursor.com/
+2	https://cursor.com/home
+3	https://cursor.com/grok
+4	https://cursor.com/evals
+5	https://cursor.com/product
+6	https://cursor.com/en-US/product
+7	https://cursor.com/cloud
+8	https://cursor.com/mobile
+9	https://cursor.com/automate
+10	https://cursor.com/cli
+11	https://cursor.com/en-US/cli
+12	https://cursor.com/marketplace
