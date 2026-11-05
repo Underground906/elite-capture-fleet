@@ -1,0 +1,9 @@
+1001	https://app.disco.co/login
+1002	https://www.disco.co/platform/white-label-lms
+1003	https://www.disco.co/industry/sales-training
+1004	https://www.disco.co/customer-stories/d2d-experts
+1005	https://www.disco.co/customer-stories/kids-and-company
+1006	https://www.disco.co/customer-stories/council-of-canadian-innovators
+1007	https://www.disco.co/customer-stories/coding-temple
+1008	https://www.disco.co/customer-stories/toronto-board-of-trade
+1009	https://support.disco.co/hc/en-us/requests/new
