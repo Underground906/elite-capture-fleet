@@ -314,27 +314,35 @@ def analyse(data, out):
 
 async def extract(browser, url, outdir, mobile=True, interact=True):
     out = Path(outdir); (out / 'crops').mkdir(parents=True, exist_ok=True); (out / 'icons').mkdir(exist_ok=True)
+    import time as _tm, sys as _sys; _t0 = _tm.time()
+    def _t(stage): print('  [stage %.0fs] %s %s' % (_tm.time() - _t0, stage, url), file=_sys.stderr, flush=True)
     ctx = await browser.new_context(viewport={'width': 1440, 'height': 900}, user_agent=UA, locale='en-US')
     pg = await ctx.new_page()
+    _t('goto')
     resp = await pg.goto(url, wait_until='domcontentloaded', timeout=60000)
     status = resp.status if resp else 0
     for _ in range(8):                               # bot checks (Vercel checkpoint, Cloudflare, Akamai) often clear themselves
         t = await pg.title()
         if not any(k in t for k in ('Checkpoint', 'Verification', 'Just a moment', 'Access Denied', 'Attention Required')): break
         await pg.wait_for_timeout(4000)
+    _t('idle')
     try: await pg.wait_for_load_state('networkidle', timeout=12000)
     except Exception: pass
     await pg.evaluate("""()=>{for(const el of document.querySelectorAll('[id*=cookie i],[class*=cookie i],[id*=consent i],[class*=consent i],#onetrust-banner-sdk,.intercom-lightweight-app,#hubspot-messages-iframe-container'))
         if(getComputedStyle(el).position==='fixed'||getComputedStyle(el).position==='sticky') el.remove();}""")
+    _t('scroll')
     for _ in range(60):
         done = await pg.evaluate('()=>{window.scrollBy(0,800);return innerHeight+scrollY>=document.documentElement.scrollHeight-5}')
         await pg.wait_for_timeout(220)
         if done: break
     await pg.evaluate('()=>window.scrollTo(0,0)'); await pg.wait_for_timeout(1500)
     from elite_interact import clear_gates
+    _t('gates')
     try: gates = await clear_gates(pg, out)
     except Exception as e: gates = [{'error': str(e)[:120]}]
+    _t('dom')
     data = await pg.evaluate(JS)
+    _t('dom done %d' % len(data['elements']))
     if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
         best, best_n = None, 0
         for fr in pg.frames[1:]:
@@ -345,8 +353,10 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
             html = await best.content(); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
             await pg.set_content(html, wait_until='load'); await pg.wait_for_timeout(2500)
             data = await pg.evaluate(JS); data['url'] = url + '#iframe'
+    _t('shot')
     await pg.screenshot(path=str(out / 'page.png'), full_page=True)
     (out / 'page.html').write_text(await pg.content(), encoding='utf-8')
+    _t('interact')
     inter = flow = tool = None
     if interact and not data['url'].endswith('#iframe'):
         import copy as _copy
@@ -362,6 +372,7 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
             await pg.set_viewport_size({'width': 390, 'height': 844}); await pg.wait_for_timeout(1200)
             await pg.screenshot(path=str(out / 'page_mobile.png'), full_page=True)
         except Exception: pass
+    _t('analyse')
     await ctx.close()
 
     els, blocks, families, scale = analyse(data, out)
