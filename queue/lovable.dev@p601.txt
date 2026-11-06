@@ -1,0 +1,10 @@
+12	https://lovable.dev/pricing
+13	https://lovable.dev/customers
+14	https://lovable.dev/careers
+15	https://lovable.dev/careers/accounting-close-lead-a5bfe3
+16	https://lovable.dev/blog
+17	https://lovable.dev/blog/200m-series-a-fundraise
+18	https://lovable.dev/a-smarter-lovable
+19	https://lovable.dev/abuse
+20	https://lovable.dev/accessibility
+21	https://lovable.dev/ad-landing-page

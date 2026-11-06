@@ -20,8 +20,17 @@ def slug(u):
     p = urlparse(u); s = (p.netloc.split('.')[0] + '_' + p.path.strip('/').replace('/', '_')) or 'home'
     return re.sub(r'[^A-Za-z0-9_-]+', '-', s)[:90]
 
+def free_mb():
+    try:
+        if sys.platform == 'win32':
+            import ctypes
+            class M(ctypes.Structure): _fields_ = [('l', ctypes.c_ulong), ('m', ctypes.c_ulong), ('t', ctypes.c_ulonglong), ('a', ctypes.c_ulonglong)] + [('x%d' % k, ctypes.c_ulonglong) for k in range(5)]
+            m = M(); m.l = ctypes.sizeof(M); ctypes.windll.kernel32.GlobalMemoryStatusEx(ctypes.byref(m)); return m.a // 2**20
+        return int(open('/proc/meminfo').read().split('MemAvailable:')[1].split()[0]) // 1024
+    except Exception: return 99999
+
 def rclone(*a):
-    return subprocess.run(['rclone', *a], capture_output=True, text=True, timeout=900)
+    return subprocess.run([os.environ.get('ELITE_RCLONE', 'rclone'), *a], capture_output=True, text=True, timeout=900)
 
 async def run_site(pw, job):
     # job = 'domain' (queue/domain.txt) or 'domain@part' (queue/domain@part.txt); lines are 'url' or 'n<TAB>url'
@@ -40,13 +49,16 @@ async def run_site(pw, job):
     for i, url in zip(nums, urls):
         if url in done and done[url]['status'] in ('ok', 'needs_fleet', 'error'): continue
         name = '%04d-%s' % (i, slug(url)); out = work / name
+        while os.environ.get('ELITE_MIN_FREE_MB') and free_mb() < int(os.environ['ELITE_MIN_FREE_MB']):
+            print('low memory, waiting', free_mb(), flush=True); await asyncio.sleep(30)
         rec = {'n': i, 'url': url, 'dir': name, 'started': time.strftime('%Y-%m-%d %H:%M:%S')}
         for attempt in (1, 2):
             if browser is None or since >= 12:
                 if browser:
                     try: await browser.close()
                     except Exception: pass
-                browser = await pw.chromium.launch(args=['--disable-dev-shm-usage', '--no-sandbox', '--js-flags=--max-old-space-size=' + os.environ.get('ELITE_HEAP', '512'), '--disable-blink-features=AutomationControlled'])
+                ch = os.environ.get('ELITE_CHANNEL')
+                browser = await pw.chromium.launch(**({'channel': ch, 'headless': True} if ch else {}), args=['--disable-dev-shm-usage', '--no-sandbox', '--js-flags=--max-old-space-size=' + os.environ.get('ELITE_HEAP', '512'), '--disable-blink-features=AutomationControlled'])
                 since = 0
             try:
                 shutil.rmtree(out, ignore_errors=True)

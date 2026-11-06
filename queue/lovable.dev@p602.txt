@@ -1,0 +1,10 @@
+22	https://lovable.dev/affiliates
+23	https://lovable.dev/agencies
+24	https://lovable.dev/ailpbuilder
+25	https://lovable.dev/beta-tester-nda
+26	https://lovable.dev/bolt-vs-lovable
+27	https://lovable.dev/brand
+28	https://lovable.dev/build
+29	https://lovable.dev/chatgpt-app
+30	https://lovable.dev/classroom
+31	https://lovable.dev/cloud

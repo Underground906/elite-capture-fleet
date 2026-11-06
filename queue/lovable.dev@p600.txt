@@ -1,0 +1,10 @@
+1	https://lovable.dev/
+3	https://lovable.dev/products/attendflowio
+4	https://lovable.dev/products/bedlam
+5	https://lovable.dev/solutions
+6	https://lovable.dev/solutions/use-case/3d-model-viewers
+7	https://lovable.dev/solutions/use-case/ad-campaign-dashboards
+8	https://lovable.dev/use-cases/ai-apps
+9	https://lovable.dev/use-cases/websites
+10	https://lovable.dev/for/hr
+11	https://lovable.dev/for/marketers

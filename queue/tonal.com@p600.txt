@@ -1,0 +1,7 @@
+7	https://tonal.com/pages/business-to-business
+8	https://tonal.com/pages/careers
+9	https://tonal.com/pages/coaches
+10	https://tonal.com/collections/accessories
+11	https://tonal.com/collections/performance-shop
+12	https://tonal.com/blogs/all
+28	https://tonal.com/agents.md
