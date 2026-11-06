@@ -343,16 +343,23 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
     _t('dom')
     data = await pg.evaluate(JS)
     _t('dom done %d' % len(data['elements']))
-    if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
+    async def _iframe_probe():
         best, best_n = None, 0
-        for fr in pg.frames[1:]:
-            try: c = await asyncio.wait_for(fr.evaluate('()=>document.querySelectorAll("*").length'), timeout=10)
+        for fr in pg.frames[1:12]:
+            try: c = await asyncio.wait_for(fr.evaluate('()=>document.querySelectorAll("*").length'), timeout=8)
             except Exception: continue
             if c > best_n: best, best_n = fr, c
-        if best is not None:
-            html = await asyncio.wait_for(best.content(), timeout=20); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
-            await pg.set_content(html, wait_until='load'); await pg.wait_for_timeout(2500)
-            data = await pg.evaluate(JS); data['url'] = url + '#iframe'
+        if best is None: return None
+        html = await asyncio.wait_for(best.content(), timeout=20); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
+        await pg.set_content(html, wait_until='load', timeout=20000); await pg.wait_for_timeout(2500)
+        d = await asyncio.wait_for(pg.evaluate(JS), timeout=60); d['url'] = url + '#iframe'
+        return d
+    if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
+        _t('iframe probe %d frames' % len(pg.frames))
+        try:
+            d = await asyncio.wait_for(_iframe_probe(), timeout=120)
+            if d: data = d
+        except Exception as e: _t('iframe probe gave up: %s' % str(e)[:80])
     _t('shot')
     await pg.screenshot(path=str(out / 'page.png'), full_page=True)
     (out / 'page.html').write_text(await pg.content(), encoding='utf-8')

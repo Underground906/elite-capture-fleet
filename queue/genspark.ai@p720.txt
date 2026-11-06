@@ -1,0 +1,12 @@
+1	https://genspark.ai/
+2	https://genspark.ai/genspark-claw
+3	https://genspark.ai/ko
+4	https://genspark.ai/blog
+5	https://genspark.ai/alternative
+6	https://genspark.ai/cdn-cgi/l/email-protection
+7	https://genspark.ai/business
+8	https://genspark.ai/helpcenter
+9	https://genspark.ai/brand
+10	https://genspark.ai/tools
+11	https://genspark.ai/tools/ai-ad-generator
+12	https://genspark.ai/tools/ai-album-cover-generator

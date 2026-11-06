@@ -1,0 +1,8 @@
+1	https://deeplearning.ai/
+2	https://deeplearning.ai/courses
+13	https://deeplearning.ai/community
+14	https://deeplearning.ai/about
+25	https://deeplearning.ai/forum/community-programs
+26	https://deeplearning.ai/forum/mentors
+27	https://deeplearning.ai/specializations/ai-for-good
+28	https://deeplearning.ai/specializations/ai-for-medicine

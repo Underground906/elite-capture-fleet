@@ -1,0 +1,10 @@
+32	https://lovable.dev/community
+33	https://lovable.dev/community-code-of-conduct
+34	https://lovable.dev/connect
+35	https://lovable.dev/data-processing-agreement
+36	https://lovable.dev/definitions
+37	https://lovable.dev/designers
+38	https://lovable.dev/discord
+39	https://lovable.dev/do-not-sell-or-share-my-personal-information
+40	https://lovable.dev/dora-addendum
+41	https://lovable.dev/download

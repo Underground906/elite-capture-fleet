@@ -1,0 +1,7 @@
+13	https://genspark.ai/business/contact-sales
+14	https://genspark.ai/business/pricing
+15	https://genspark.ai/business/products/browser
+16	https://genspark.ai/business/products/secondbrain
+17	https://genspark.ai/helpcenter/account-management
+18	https://genspark.ai/helpcenter/agentbase
+19	https://genspark.ai/genteam
