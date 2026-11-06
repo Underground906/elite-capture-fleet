@@ -1,0 +1,9 @@
+2001	https://adobe.com/
+2002	https://adobe.com/creativecloud/creativity-and-design.html
+2003	https://adobe.com/products/catalog.html
+2004	https://adobe.com/products/firefly.html
+2005	https://adobe.com/acrobat/pdf-and-document-essentials.html
+2006	https://business.adobe.com/
+2007	https://adobe.com/education/students/creativecloud.html
+2008	https://adobe.com/homepage/fragments/loggedout/redesign/default/all-products-card/all-products-card
+2009	https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials

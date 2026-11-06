@@ -1,0 +1,4 @@
+2001	https://evernote.com/online-notepad
+2002	https://evernote.com/ai-rewrite
+2003	https://evernote.com/ai-detector
+2004	https://evernote.com/citation-generator

@@ -1,0 +1,17 @@
+2001	https://alltrails.com/explore
+2002	https://alltrails.com/directory/countries
+2003	https://alltrails.com/directory/trail-features
+2004	https://alltrails.com/directory/cities/A/1
+2005	https://alltrails.com/directory/parks/A/1
+2006	https://alltrails.com/signup
+2007	https://alltrails.com/adv/custom-routes/new
+2008	https://alltrails.com/converter
+2009	https://alltrails.com/about
+2010	https://alltrails.com/careers
+2011	https://alltrails.com/press
+2012	https://alltrails.com/ambassadors
+2013	https://alltrails.com/affiliates
+2014	https://alltrails.com/community
+2015	https://alltrails.com/whats-new
+2016	https://support.alltrails.com/hc/en-us
+2017	https://alltrails.com/gift

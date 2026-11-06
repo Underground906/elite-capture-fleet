@@ -4,6 +4,7 @@ on:
     inputs:
       jobs_file: {description: 'jobs json', default: 'jobs.json'}
       heap: {description: 'JS heap MB per page (heavy sites 4096)', default: '512'}
+      channel: {description: 'browser channel (chrome = real Google Chrome)', default: ''}
 jobs:
   setup:
     runs-on: ubuntu-latest
@@ -28,6 +29,7 @@ jobs:
       RCLONE_CONFIG_R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
       RCLONE_CONFIG_R2_NO_CHECK_BUCKET: 'true'
       ELITE_HEAP: ${{ inputs.heap }}
+      ELITE_CHANNEL: ${{ inputs.channel }}
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5

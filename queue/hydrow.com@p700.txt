@@ -1,0 +1,6 @@
+2001	https://hydrow.com/membership
+2002	https://hydrow.com/careers
+2003	https://hydrow.com/blog
+2004	https://tracking.hydrow.com/s
+2005	https://hydrow.com/products/replacement-parts
+2006	https://hydrow.com/press

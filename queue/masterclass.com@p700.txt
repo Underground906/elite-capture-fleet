@@ -1,0 +1,16 @@
+2001	https://masterclass.com/
+2002	https://masterclass.com/certificates
+2003	https://oncall.masterclass.com/
+2004	https://masterclass.com/executive
+2005	https://masterclass.com/for-business
+2006	https://masterclass.com/find-my-classes
+2007	https://masterclass.com/gift
+2008	https://masterclass.com/checkout
+2009	https://masterclass.com/articles
+2010	https://learn.masterclass.com/dei
+2011	https://learn.masterclass.com/grants
+2012	https://masterclass.com/help-center
+2013	https://learn.masterclass.com/memberwins
+2014	https://masterclass.com/newsroom
+2015	https://learn.masterclass.com/security
+2016	https://masterclass.com/sitemap
