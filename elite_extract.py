@@ -28,10 +28,10 @@ JS = r"""
     'opacity','transform','transition','animationName','animationDuration','zIndex','overflow','objectFit',
     'backdropFilter','filter','mixBlendMode','cursor','fontVariantNumeric','whiteSpace'];
   const ownText = el => { let t=''; for (const c of el.childNodes) if (c.nodeType===3) t+=c.textContent; return t.replace(/\s+/g,' ').trim(); };
-  const shape = el => [...el.children].slice(0,8).map(c=>c.tagName.toLowerCase()+'('+[...c.children].slice(0,6).map(g=>g.tagName.toLowerCase()).join(',')+')').join('');
+  const shape = el => [...el.children].slice(0,8).map(c=>String(c.tagName||c.nodeName||"").toLowerCase()+'('+[...c.children].slice(0,6).map(g=>String(g.tagName||g.nodeName||"").toLowerCase()).join(',')+')').join('');
   function walk(el, depth, parent){
     if (el.nodeType!==1) return;
-    const tag = el.tagName.toLowerCase();
+    const tag = String(el.tagName||el.nodeName||"").toLowerCase();
     if (['script','style','noscript','template','meta','link','head'].includes(tag)) return;
     const cs = getComputedStyle(el); if (cs.display==='none') return;
     const r = el.getBoundingClientRect();
@@ -77,7 +77,7 @@ JS = r"""
   for (const el of document.querySelectorAll('*')) { const b=getComputedStyle(el).backgroundImage; if (b && b.includes('url(')) for (const m of b.matchAll(/url\(["']?([^"')]+)["']?\)/g)) assets.push({kind:'bg', url:m[0].length?new URL(m[1],location.href).href:''}); }
   for (const e of performance.getEntriesByType('resource')) if (/\.(woff2?|ttf|otf)(\?|$)/i.test(e.name)) assets.push({kind:'font', url:e.name});
   for (const e of performance.getEntriesByType('resource')) if (/\.(json|lottie|riv|splinecode|glb|gltf)(\?|$)/i.test(e.name)) assets.push({kind:'motion_or_3d', url:e.name});
-  const headings = [...document.querySelectorAll('h1,h2,h3')].slice(0,80).map(h=>({tag:h.tagName.toLowerCase(), text:(h.innerText||'').trim().slice(0,200)}));
+  const headings = [...document.querySelectorAll('h1,h2,h3')].slice(0,80).map(h=>({tag:String(h.tagName||h.nodeName||"").toLowerCase(), text:(h.innerText||'').trim().slice(0,200)}));
   return {url: location.href, title: document.title, lang: document.documentElement.lang, height: document.documentElement.scrollHeight,
           description: (document.querySelector('meta[name=description]')||{}).content||'',
           elements: out, keyframes, blocked_sheets: blocked, libs, gsap_tweens: gsapTweens, assets, headings,

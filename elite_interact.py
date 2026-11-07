@@ -23,7 +23,7 @@ ENUM = r"""
 (maxN) => {
   const FORBID = /(buy|add to (cart|bag|basket)|checkout|check out|pay|purchase|order|subscribe|sign ?up|register|submit|send|request|apply|book|schedule|call|contact|delete|remove|log ?out|sign ?out|tour|download|install|share|report|follow|favorite|save search|donate|join|claim|accept|agree)/i;
   const HINT = /(carousel|slider|slide|swiper|next|prev|arrow|gallery|photo|thumb|tab|accordion|toggle|menu|dropdown|modal|play|expand|more|filter|sort|street|map|tour|video|lightbox|zoom|popover|tooltip|chip|segment)/i;
-  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(String(el.tagName||el.nodeName||"").toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
   const cands = [], seen = new Set();
   for (const el of document.querySelectorAll('button,[role=button],[role=tab],[aria-expanded],[aria-haspopup],[aria-controls],summary,a[href^="#"],[class*=carousel i] *,[class*=gallery i] img,[class*=photo i],[data-rf-test-id],[class*=thumb i],[class*=arrow i],[class*=next i],[class*=prev i]')){
     const r = el.getBoundingClientRect(); const cs = getComputedStyle(el);
@@ -39,7 +39,7 @@ ENUM = r"""
               +(label ? '' : '|'+Math.round((r.left+scrollX)/30)+','+Math.round((r.top+scrollY)/30));
     if (seen.has(sig)) continue; seen.add(sig);
     const score = (el.getAttribute('aria-expanded')!==null||el.getAttribute('aria-haspopup')?3:0)+(el.getAttribute('role')==='tab'?2:0)+(HINT.test(String(el.className)+' '+label+' '+(el.getAttribute('data-rf-test-id')||''))?2:0)+(el.tagName==='BUTTON'?1:0);
-    cands.push({path: cssPath(el), label, tag: el.tagName.toLowerCase(), role: el.getAttribute('role')||'', expanded: el.getAttribute('aria-expanded'),
+    cands.push({path: cssPath(el), label, tag: String(el.tagName||el.nodeName||"").toLowerCase(), role: el.getAttribute('role')||'', expanded: el.getAttribute('aria-expanded'),
                 haspopup: el.getAttribute('aria-haspopup')||'', cls: String(el.className&&el.className.baseVal===undefined?el.className:'').slice(0,100),
                 x: Math.round(r.left+scrollX), y: Math.round(r.top+scrollY), w: Math.round(r.width), h: Math.round(r.height), score});
   }
@@ -52,7 +52,7 @@ STATE = r"""
 (path) => {
   const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'&&+cs.opacity>0.05; };
   const dialogs = [...document.querySelectorAll('[role=dialog],[aria-modal=true],dialog[open],[class*=modal i],[class*=lightbox i],[class*=drawer i],[class*=popover i],[role=menu],[role=listbox]')].filter(vis)
-     .map(d=>{const r=d.getBoundingClientRect(); return {tag:d.tagName.toLowerCase(), role:d.getAttribute('role')||'', cls:String(d.className&&d.className.baseVal===undefined?d.className:'').slice(0,80), x:r.left,y:r.top,w:r.width,h:r.height};});
+     .map(d=>{const r=d.getBoundingClientRect(); return {tag:String(d.tagName||d.nodeName||"").toLowerCase(), role:d.getAttribute('role')||'', cls:String(d.className&&d.className.baseVal===undefined?d.className:'').slice(0,80), x:r.left,y:r.top,w:r.width,h:r.height};});
   const fixedBig = [...document.querySelectorAll('body *')].filter(e=>{const cs=getComputedStyle(e); if(cs.position!=='fixed') return false; const r=e.getBoundingClientRect(); return r.width*r.height>innerWidth*innerHeight*0.35 && vis(e);}).length;
   let t = document.querySelector(path);
   return {url: location.href, dialogs, fixedBig, text: (document.body.innerText||'').length, nodes: document.querySelectorAll('body *').length,
@@ -137,7 +137,7 @@ FLOW_HINT = re.compile(r'(pre-?approv|prequal|get-?started|onboard|quiz|quote|es
 STEP = r"""
 () => {
   const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'; };
-  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(String(el.tagName||el.nodeName||"").toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
   const radios = {}; for (const r of document.querySelectorAll('input[type=radio],input[type=checkbox]')) if (!r.checked) { const n=r.name||cssPath(r.parentElement); if(!radios[n]) radios[n]=cssPath(r.closest('label')&&vis(r.closest('label'))?r.closest('label'):r); }
   const choiceBtns = [...document.querySelectorAll('[role=radio],[role=option],[aria-pressed=false],button[class*=option i],button[class*=choice i],[class*=tile i] button,[class*=card i][role=button]')].filter(vis).filter(b=>b.getAttribute('aria-checked')!=='true').slice(0,1).map(cssPath);
   const selects = [...document.querySelectorAll('select')].filter(vis).filter(s=>s.selectedIndex<=0&&s.options.length>1).map(cssPath);
@@ -145,7 +145,7 @@ STEP = r"""
   const buttons = [...document.querySelectorAll('button,[role=button],a[class*=button i],input[type=submit]')].filter(vis).map(b=>({path:cssPath(b), text:((b.innerText||b.value||b.getAttribute('aria-label')||'').replace(/\s+/g,' ').trim()).slice(0,60), disabled: b.disabled||b.getAttribute('aria-disabled')==='true'}));
   const heading = ([...document.querySelectorAll('h1,h2,legend,[class*=question i]')].filter(vis)[0]||{}).innerText||'';
   return {url: location.href, heading: heading.trim().slice(0,200), radios: Object.values(radios), choiceBtns, selects, numbers, buttons,
-          fields: [...document.querySelectorAll('input,select,textarea')].filter(vis).map(i=>({type:i.type||i.tagName.toLowerCase(), name:i.name||'', label:(i.labels&&i.labels[0]?i.labels[0].innerText:'')||i.placeholder||i.getAttribute('aria-label')||''})).slice(0,40)};
+          fields: [...document.querySelectorAll('input,select,textarea')].filter(vis).map(i=>({type:i.type||String(i.tagName||i.nodeName||"").toLowerCase(), name:i.name||'', label:(i.labels&&i.labels[0]?i.labels[0].innerText:'')||i.placeholder||i.getAttribute('aria-label')||''})).slice(0,40)};
 }
 """
 
@@ -219,13 +219,13 @@ TOOL_SAMPLES = [
 EDITOR = r"""
 () => {
   const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>200&&r.height>40&&cs.visibility!=='hidden'&&cs.display!=='none'; };
-  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(String(el.tagName||el.nodeName||"").toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
   const c = [...document.querySelectorAll('[contenteditable=true],[contenteditable=""],textarea,.ProseMirror,.ql-editor,[role=textbox]')].filter(vis)
             .filter(e=>!e.closest('header,nav,footer'));
   c.sort((a,b)=>b.getBoundingClientRect().width*b.getBoundingClientRect().height - a.getBoundingClientRect().width*a.getBoundingClientRect().height);
   if (!c.length) return null;
   const e=c[0], r=e.getBoundingClientRect();
-  return {path: cssPath(e), tag: e.tagName.toLowerCase(), rich: e.isContentEditable, w: Math.round(r.width), h: Math.round(r.height),
+  return {path: cssPath(e), tag: String(e.tagName||e.nodeName||"").toLowerCase(), rich: e.isContentEditable, w: Math.round(r.width), h: Math.round(r.height),
           placeholder: e.getAttribute('placeholder')||e.getAttribute('data-placeholder')||e.getAttribute('aria-label')||''};
 }
 """
@@ -274,7 +274,7 @@ SOFT = re.compile(r"^\s*(maybe later|not now|no,? thanks|no thank you|skip|close
 GATE = r"""
 () => {
   const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'&&+cs.opacity>0.05; };
-  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(String(el.tagName||el.nodeName||"").toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
   const boxes = [...document.querySelectorAll('[role=dialog],[aria-modal=true],dialog[open],#onetrust-banner-sdk,[id*=cookie i],[class*=cookie i],[class*=consent i],[class*=modal i],[class*=popup i],[class*=paywall i],[class*=gate i]')]
      .filter(vis).filter(d=>{const r=d.getBoundingClientRect(); return r.width>200&&r.height>80;});
   return boxes.slice(0,6).map(d=>{
@@ -325,7 +325,7 @@ SOFT_FIND = r"""
 () => {
   const rx = /^\s*(maybe later|not now|no,? thanks|no thank you|skip( for now)?|continue as guest|continue without( signing in)?|remind me later)\s*$/i;
   const vis = el => { const r=el.getBoundingClientRect(), cs=getComputedStyle(el); return r.width>0&&r.height>0&&cs.visibility!=='hidden'&&cs.display!=='none'; };
-  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(el.tagName.toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
+  const cssPath = el => { const p=[]; while (el && el.nodeType===1 && el!==document.body){ let i=1,s=el; while((s=s.previousElementSibling)) if (s.tagName===el.tagName) i++; p.unshift(String(el.tagName||el.nodeName||"").toLowerCase()+':nth-of-type('+i+')'); el=el.parentElement;} return 'body > '+p.join(' > '); };
   for (const el of document.querySelectorAll('button,a,[role=button],span,div,p')) {
     if (el.children.length > 2 || !vis(el)) continue;
     const t = (el.innerText||'').trim();
