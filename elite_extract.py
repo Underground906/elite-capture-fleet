@@ -28,10 +28,13 @@ JS = r"""
     'opacity','transform','transition','animationName','animationDuration','zIndex','overflow','objectFit',
     'backdropFilter','filter','mixBlendMode','cursor','fontVariantNumeric','whiteSpace'];
   const ownText = el => { let t=''; for (const c of el.childNodes) if (c.nodeType===3) t+=c.textContent; return t.replace(/\s+/g,' ').trim(); };
-  const shape = el => [...el.children].slice(0,8).map(c=>String(c.tagName||c.nodeName||"").toLowerCase()+'('+[...c.children].slice(0,6).map(g=>String(g.tagName||g.nodeName||"").toLowerCase()).join(',')+')').join('');
+  const _KG = Object.getOwnPropertyDescriptor(Element.prototype,'children').get, _TG = Object.getOwnPropertyDescriptor(Element.prototype,'tagName').get;
+  const KIDS = e => { try { return [..._KG.call(e)]; } catch(_) { return []; } };
+  const TAG = e => { try { return _TG.call(e).toLowerCase(); } catch(_) { return ''; } };
+  const shape = el => KIDS(el).slice(0,8).map(c=>TAG(c)+'('+KIDS(c).slice(0,6).map(TAG).join(',')+')').join('');
   function walk(el, depth, parent){
     if (el.nodeType!==1) return;
-    const tag = String(el.tagName||el.nodeName||"").toLowerCase();
+    const tag = TAG(el);
     if (['script','style','noscript','template','meta','link','head'].includes(tag)) return;
     const cs = getComputedStyle(el); if (cs.display==='none') return;
     const r = el.getBoundingClientRect();
@@ -44,7 +47,7 @@ JS = r"""
         x: Math.round(r.left+scrollX), y: Math.round(r.top+scrollY), w: Math.round(r.width), h: Math.round(r.height),
         text: ownText(el).slice(0,4000), href: el.getAttribute('href')||'', src: el.currentSrc||el.getAttribute('src')||'',
         alt: el.getAttribute('alt')||'', type: el.getAttribute('type')||'', placeholder: el.getAttribute('placeholder')||'',
-        children: el.children.length, shape: shape(el), style: s,
+        children: KIDS(el).length, shape: shape(el), style: s,
         selected: el.getAttribute('aria-selected')==='true'||el.getAttribute('aria-pressed')==='true'||/\b(active|selected|is-active|current)\b/.test(el.className&&el.className.baseVal===undefined?el.className:'')};
       if (tag==='svg'){ rec.svg = el.outerHTML.slice(0,20000); rec.svg_parts = el.querySelectorAll('path,circle,rect,line,polyline,polygon').length;
         rec.svg_circles = el.querySelectorAll('circle').length; rec.svg_rects = el.querySelectorAll('rect').length;
@@ -53,7 +56,7 @@ JS = r"""
       out.push(rec);
     }
     if (tag==='svg') return;
-    for (const c of el.children) walk(c, depth+1, id);
+    for (const c of KIDS(el)) walk(c, depth+1, id);
     if (el.shadowRoot) for (const c of el.shadowRoot.children) walk(c, depth+1, id);
   }
   walk(document.body, 0, -1);
