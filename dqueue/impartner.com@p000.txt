@@ -1,0 +1,13 @@
+#impartner.com
+0001-impartner_
+0002-trustcenter_
+0003-impartner_about
+0004-impartner_aimi-impartner-ai
+0005-impartner_careers
+0006-impartner_channel-intel
+0007-impartner_contact
+0008-impartner_events
+0009-impartner_glossary
+0010-impartner_hyperscalergtm
+0011-impartner_impartner-marketplace
+0012-impartner_impartnercon

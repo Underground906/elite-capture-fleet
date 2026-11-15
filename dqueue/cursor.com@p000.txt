@@ -1,0 +1,13 @@
+#cursor.com
+0001-cursor_
+0002-cursor_home
+0003-cursor_grok
+0004-cursor_evals
+0005-cursor_product
+0006-cursor_en-US_product
+0007-cursor_cloud
+0008-cursor_mobile
+0009-cursor_automate
+0010-cursor_cli
+0011-cursor_en-US_cli
+0012-cursor_marketplace

@@ -1,0 +1,13 @@
+#freshlearn.com
+0013-academy_
+0014-freshlearn_blog
+0015-freshlearn_impact
+0016-freshlearn_product-demo
+0017-freshlearn_support
+0018-freshlearn_help-videos
+0019-freshlearn_faq
+0020-freshlearn_productupdates
+0021-freshlearn_about-us
+0022-freshlearn_affiliate-program
+0023-freshlearn_ai-assistant-for-course-creation
+0024-freshlearn_ai-quiz-creator

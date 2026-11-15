@@ -1,0 +1,2 @@
+#memgraph.com
+0050-memgraph_capabilities

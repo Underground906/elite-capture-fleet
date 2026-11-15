@@ -1,0 +1,13 @@
+#lovable.dev
+0027-lovable_brand
+0028-lovable_build
+0029-lovable_chatgpt-app
+0030-lovable_classroom
+0031-lovable_cloud
+0032-lovable_community
+0033-lovable_community-code-of-conduct
+0034-lovable_connect
+0035-lovable_data-processing-agreement
+0036-lovable_definitions
+0037-lovable_designers
+0038-lovable_discord

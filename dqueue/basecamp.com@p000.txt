@@ -1,0 +1,13 @@
+#basecamp.com
+0001-basecamp_
+0002-basecamp_pricing
+0003-basecamp_5
+0004-basecamp_features
+0005-basecamp_paths
+0006-basecamp_agents
+0007-basecamp_reliable
+0008-basecamp_live
+0009-basecamp_about
+0010-basecamp_accessibility
+0011-basecamp_apps
+0012-basecamp_before-and-after

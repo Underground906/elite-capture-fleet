@@ -1,0 +1,13 @@
+#evernote.com
+0073-evernote_ai-account-knowledge
+0074-evernote_ai-note-taker
+0075-evernote_chat-with-ai-assistant
+0076-evernote_competitors
+0077-evernote_compress
+0078-evernote_discounts
+0079-evernote_documents-storage
+0080-evernote_get-webclipper
+0081-evernote_learn
+0082-evernote_mcp
+0083-evernote_model-context-protocol
+0084-evernote_note-taking

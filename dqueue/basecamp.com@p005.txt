@@ -1,0 +1,13 @@
+#basecamp.com
+0061-basecamp_projects_ad-campaign
+0062-basecamp_projects_affordable-housing-build
+0063-basecamp_projects_album-reissue
+0064-basecamp_projects_archaeology-dig
+0065-basecamp_projects_architecture-competition
+0066-basecamp_retired_backpack
+0067-basecamp_retired_campfire
+0068-basecamp_retired_tadalist
+0069-basecamp_retired_writeboard
+0070-basecamp_shapeup_0-1-foreword
+0071-basecamp_shapeup_0-2-acknowledgements
+0072-basecamp_shapeup_0-3-chapter-01

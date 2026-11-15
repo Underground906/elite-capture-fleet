@@ -1,0 +1,13 @@
+#scribe.com
+0061-scribehow_open-with-desktop
+0062-scribehow_optimize-app
+0063-scribehow_optimize-onboarding
+0064-scribe_osaic
+0065-scribehow_public-profile
+0066-scribehow_redirect
+0067-scribehow_release-notes
+0068-scribehow_reset-password
+0069-scribehow_set-password
+0070-scribehow_settings
+0071-scribehow_start-recording
+0072-scribe_test

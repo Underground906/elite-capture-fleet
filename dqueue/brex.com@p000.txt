@@ -1,0 +1,13 @@
+#brex.com
+0001-brex_
+0002-brex_customers
+0003-brex_pricing
+0004-dashboard_
+0005-brex_book-a-demo
+0006-brex_signup
+0007-brex_product_api
+0008-brex_product_bill-pay
+0009-brex_product_business-account
+0010-brex_product_credit-card
+0011-brex_product_expense-management
+0012-brex_platform_accounting-automation

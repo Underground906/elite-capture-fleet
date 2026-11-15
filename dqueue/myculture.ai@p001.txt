@@ -1,0 +1,13 @@
+#myculture.ai
+0013-myculture_methodology
+0014-myculture_contact-us
+0015-myculture_30-60-90-day-plan-generator
+0016-myculture_about-us
+0017-myculture_career-tracker-generator
+0018-myculture_developers
+0019-myculture_job-post-generator
+0020-myculture_okr-generator
+0021-myculture_pay-per-assessment
+0022-myculture_performance-improvement-plan-generator
+0023-myculture_team-role-generator
+0024-myculture_assessments_acceptable-behaviors

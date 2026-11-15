@@ -1,0 +1,13 @@
+#myfitnesspal.com
+0001-myfitnesspal_
+0002-blog_
+0003-myfitnesspal_api
+0004-partner_bulkpurchase
+0005-community_en_categories
+0006-myfitnesspal_community-guidelines
+0007-myfitnesspal_contact-us
+0008-myfitnesspal_jobs
+0009-myfitnesspal_premium
+0010-community_en_categories_feature-suggestions-and-ideas
+0011-support_hc_en-us
+0012-myfitnesspal_account_create_welcome

@@ -1,0 +1,13 @@
+#captions.ai
+0001-captions_
+0002-captions_solutions
+0003-captions_use-cases
+0004-captions_pricing
+0005-captions_blog
+0006-captions_download
+0007-captions_help
+0008-captions_signup
+0009-captions_styles
+0010-captions_features_add-captions-to-videos
+0011-captions_features_correct-your-eye-contact
+0012-captions_solutions_ai-clone-yourself

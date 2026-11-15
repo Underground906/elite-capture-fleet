@@ -1,0 +1,13 @@
+#fathom.video
+0013-fathom_pricing
+0014-fathom_users_sign_up
+0015-fathom_vs_built-in
+0016-fathom_vs_fireflies
+0017-fathom_case-studies_blackthorn
+0018-fathom_case-studies_bluleadz
+0019-fathom_integrations-collaboration
+0020-fathom_integrations-content-generation
+0021-fathom_integrations-crm
+0022-fathom_integrations-product
+0023-fathom_integrations-project-management
+0024-fathom_integrations-sales

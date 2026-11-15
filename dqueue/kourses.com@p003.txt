@@ -1,0 +1,13 @@
+#kourses.com
+0037-kourses_product-education
+0038-kourses_event-workshop-follow-up
+0039-kourses_blog
+0040-kourses_updates
+0041-kourses_about
+0042-kourses_changelog
+0043-kourses_roadmap
+0044-kourses_kourses-vs-wordpress
+0045-kourses_kourses-vs-kajabi
+0046-kourses_kourses-vs-circle
+0047-kourses_kourses-vs-mighty-networks
+0048-kourses_kourses-vs-teachable

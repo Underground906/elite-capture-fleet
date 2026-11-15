@@ -1,0 +1,13 @@
+#shopify.com
+0112-shopify_uk_shipping
+0113-shopify_shipping_carriers
+0114-shopify_uk_shipping_carriers
+0115-shopify_shipping_dhl
+0116-shopify_shipping_fedex
+0117-shopify_uk_shipping_royal-mail
+0118-shopify_uk_flow
+0119-shopify_uk_mobile
+0120-shopify_uk_payments
+0121-shopify_uk_tax
+0122-shopify_editions_summer2022
+0123-shopify_uk_editions_summer2022

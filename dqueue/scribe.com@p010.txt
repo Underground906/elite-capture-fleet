@@ -1,0 +1,13 @@
+#scribe.com
+0122-scribe_internal_hero-test
+0123-scribe_lp_a
+0124-scribe_lp_accounting
+0125-scribe_lp_accounting2
+0126-scribe_lp_ai-mandates
+0127-scribe_lp_better-training
+0128-scribehow_optimize-app_artifacts
+0129-scribehow_optimize-app_participant
+0130-scribehow_optimize-app_projects
+0131-scribehow_optimize-app_welcome
+0132-scribe_optimize-lp_automation-candidates
+0133-scribe_optimize-lp_drive-ai-transformation

@@ -1,0 +1,12 @@
+#freshlearn.com
+0037-freshlearn_validate-course-idea-ai
+0038-freshlearn_features_assessments
+0039-freshlearn_features_coaching-platform
+0040-freshlearn_the-creator-show_amanda-gore
+0041-freshlearn_the-creator-show_apcachefonline
+0042-freshlearn_blog_about
+0043-freshlearn_support_3655
+0044-freshlearn_features
+0045-freshlearn_course-templates
+0046-freshlearn_corp_case-studies_beatroute
+0047-freshlearn_corp_case-studies_gorevx

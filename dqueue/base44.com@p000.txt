@@ -1,0 +1,13 @@
+#base44.com
+0001-base44_
+0002-base44_security
+0003-base44_pricing
+0004-base44_enterprise
+0005-base44_superagents
+0006-base44_about-us
+0007-base44_about-us_affiliates
+0008-careers_
+0009-base44_features
+0010-base44_features_workflows
+0011-base44_integrations
+0012-feedback_roadmap

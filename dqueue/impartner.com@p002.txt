@@ -1,0 +1,12 @@
+#impartner.com
+0025-impartner_partner-training-and-certification
+0026-impartner_pmaas-demo
+0027-impartner_product-awards
+0028-impartner_product-tours
+0029-impartner_program-compliance-manager
+0030-impartner_resources
+0031-impartner_reviews
+0032-impartner_through-channel-marketing-automation
+0033-impartner_view-demo
+0034-impartner_resources_case-studies
+0035-success_px_-_support-options

@@ -1,0 +1,13 @@
+#open-design.ai
+0037-open-design_alternatives_base44
+0038-open-design_alternatives_bolt
+0039-open-design_alternatives_canva
+0040-open-design_alternatives_claude-design
+0041-open-design_alternatives_cursor
+0042-open-design_solutions_ai-landing-page-generator
+0043-open-design_solutions_ai-prototype-generator
+0044-open-design_solutions_ai-ui-generator
+0045-open-design_solutions_ai-website-builder
+0046-open-design_solutions_ai-wireframe-generator
+0047-open-design_solutions_ai-website-builder_affiliate-marketing
+0048-open-design_solutions_ai-website-builder_agencies

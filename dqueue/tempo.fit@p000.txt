@@ -1,0 +1,13 @@
+#tempo.fit
+0001-tempo_
+0002-tempo_shopping
+0003-tempo_shop
+0004-tempo_
+0005-app_login
+0006-tempo_move-gym
+0007-tempo_core-gym
+0008-tempo_tempo-training-plans
+0009-tempo_shop_collections_accessories
+0010-apparel_
+0011-tempo_our-story
+0012-support_

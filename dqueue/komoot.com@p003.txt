@@ -1,0 +1,13 @@
+#komoot.com
+0037-komoot_connect
+0038-komoot_discover
+0039-komoot_gpx-merge-tool-online
+0040-komoot_gpx-video-preview
+0041-komoot_groups
+0042-komoot_guide-experiences
+0043-komoot_hazard-assessment
+0044-komoot_help
+0045-komoot_information-law-enforcement
+0046-komoot_live-tracking
+0047-komoot_pioneers
+0048-komoot_sitemap

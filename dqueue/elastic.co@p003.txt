@@ -1,0 +1,13 @@
+#elastic.co
+0037-elastic_demo-gallery
+0038-elastic_integrations_data-integrations
+0039-elastic_docs
+0040-elastic_search-labs
+0041-elastic_security-labs
+0042-elastic_observability-labs
+0043-elastic_blog
+0044-elastic_community
+0045-elastic_events
+0046-discuss_
+0047-elastic_training
+0048-elastic_consulting

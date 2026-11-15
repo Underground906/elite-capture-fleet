@@ -1,0 +1,13 @@
+#brex.com
+0013-brex_platform_budgets
+0014-brex_platform_intelligent-finance
+0015-brex_platform_reporting
+0016-brex_solutions_startups
+0017-brex_product-announcements
+0018-brex_about
+0019-brex_careers
+0020-brex_contact-us
+0021-brex_partners
+0022-brex_journal_press
+0023-brex_trust
+0024-brex_customer-hub

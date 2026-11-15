@@ -1,0 +1,6 @@
+#everfit.io
+0037-everfit_never-not-building
+0038-everfit_remote-coaching
+0039-everfit_security-measures
+0040-everfit_trainerize-migration
+0041-everfit_truecoach-migration

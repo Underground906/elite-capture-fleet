@@ -1,0 +1,13 @@
+#descript.com
+0001-descript_
+0002-descript_video-editing
+0003-descript_podcasting
+0004-descript_screen-recording
+0005-descript_rooms
+0006-descript_ai-video-enhancer
+0007-descript_ai-video
+0008-descript_captions
+0009-descript_ai-voices
+0010-descript_transcription
+0011-descript_templates
+0012-descript_clips

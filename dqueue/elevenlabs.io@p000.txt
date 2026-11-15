@@ -1,0 +1,13 @@
+#elevenlabs.io
+0001-elevenlabs_
+0002-elevenlabs_customer-stories
+0003-elevenlabs_enterprise
+0004-elevenlabs_pricing
+0005-compliance_
+0006-elevenlabs_about
+0007-elevenlabs_ads-engine
+0008-elevenlabs_agents
+0009-elevenlabs_ai-transparency
+0010-elevenlabs_ai-voice-generator
+0011-elevenlabs_api
+0012-elevenlabs_blog

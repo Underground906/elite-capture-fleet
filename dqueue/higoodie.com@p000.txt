@@ -1,0 +1,13 @@
+#higoodie.com
+0001-higoodie_
+0002-higoodie_pricing
+0003-higoodie_pricing_agencies
+0004-higoodie_careers
+0005-higoodie_contact
+0006-higoodie_features_agentic-commerce-suite
+0007-higoodie_features_ai-brand-command
+0008-higoodie_use-case_agencies
+0009-higoodie_use-case_commerce-retail
+0010-higoodie_about
+0011-higoodie_case-studies
+0012-higoodie_blog

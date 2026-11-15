@@ -1,0 +1,13 @@
+#shopify.com
+0049-shopify_partners_directory
+0050-shopify_blog_topics_guides
+0051-shopify_uk_start
+0052-shopify_uk_sell
+0053-shopify_uk_sell_accessories
+0054-shopify_uk_sell_action-figures
+0055-shopify_uk_sell_antiques
+0056-shopify_uk_sell_art
+0057-shopify_uk_sell_audiobooks
+0058-shopify_uk_enterprise
+0059-shopify_enterprise_blog
+0060-shopify_uk_enterprise_blog

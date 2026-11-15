@@ -1,0 +1,13 @@
+#lumalabs.ai
+0001-lumalabs_
+0002-lumalabs_app
+0003-lumalabs_pricing
+0004-lumalabs_api
+0005-lumalabs_enterprise
+0006-lumalabs_news
+0007-lumalabs_careers
+0008-app_
+0009-lumalabs_about
+0010-lumalabs_case-studies
+0011-lumalabs_creative-partner-program
+0012-lumalabs_learning-center

@@ -1,0 +1,13 @@
+#open-design.ai
+0181-open-design_showcase_product-launch-motion-video-design
+0182-open-design_showcase_product-presentation-design
+0183-open-design_showcase_product-promo-motion-design
+0184-open-design_showcase_product-waitlist-website-design
+0185-open-design_showcase_quarterly-financial-report-design
+0186-open-design_showcase_quarterly-okr-dashboard-design
+0187-open-design_showcase_quote-sharing-card-design
+0188-open-design_showcase_raymarched-sculpture-shader-design
+0189-open-design_showcase_relationship-analytics-dashboard-design
+0190-open-design_showcase_repository-metrics-dashboard-design
+0191-open-design_showcase_restaurant-reservation-website-design
+0192-open-design_showcase_resume-website-design

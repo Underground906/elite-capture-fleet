@@ -1,0 +1,13 @@
+#granola.ai
+0013-granola_contact
+0014-granola_customers
+0015-granola_events
+0016-granola_explore
+0017-docs_help-center
+0018-granola_integrations
+0019-granola_mcp
+0020-granola_nonprofits
+0021-granola_policies
+0022-granola_security
+0023-granola_startups
+0024-granola_students

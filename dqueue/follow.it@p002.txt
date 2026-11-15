@@ -1,0 +1,13 @@
+#follow.it
+0025-follow_cryptocurrency-prices
+0026-follow_cyclones-alert-feed
+0027-follow_dmarc-feed
+0028-follow_domain-expiry-feed
+0029-follow_droughts-alert-feed
+0030-follow_earthquake-alert
+0031-follow_flood-alert-feed
+0032-follow_football-alerts
+0033-follow_fuel-prices-feed
+0034-follow_games-discounts-feed
+0035-follow_github-feed
+0036-follow_github-vulnerability-feed

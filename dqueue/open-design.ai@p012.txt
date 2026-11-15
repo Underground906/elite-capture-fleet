@@ -1,0 +1,13 @@
+#open-design.ai
+0145-open-design_showcase_growth-metrics-standup-presentation-design
+0146-open-design_showcase_halftone-shader-design
+0147-open-design_showcase_holographic-foil-shader-design
+0148-open-design_showcase_hotpot-restaurant-website-design
+0149-open-design_showcase_incident-telemetry-presentation-design
+0150-open-design_showcase_interactive-conservation-website-design
+0151-open-design_showcase_interactive-portfolio-website-design
+0152-open-design_showcase_interactive-product-explainer-design
+0153-open-design_showcase_iridescent-liquid-shader-design
+0154-open-design_showcase_island-adventure-game-design
+0155-open-design_showcase_island-fps-game-design
+0156-open-design_showcase_issue-briefing-app-design

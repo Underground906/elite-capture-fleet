@@ -1,0 +1,13 @@
+#shopify.com
+0184-shopify_event_nrf2027
+0185-shopify_investors_annual-reports
+0186-shopify_investors_board-of-directors
+0187-shopify_investors_committee-composition
+0188-shopify_investors_email-alerts
+0189-shopify_investors_events
+0190-shopify_news_about-us
+0191-shopify_news_capital
+0192-shopify_news_finance
+0193-shopify_partners_blog
+0194-shopify_uk_partners_blog
+0195-shopify_sitemap_case-studies

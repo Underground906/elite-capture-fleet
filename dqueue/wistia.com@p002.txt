@@ -1,0 +1,13 @@
+#wistia.com
+0025-wistia_pricing
+0026-wistia_pricing_getintouch
+0027-wistia_demo
+0028-app_auth_wistia_auth_sign_in_pre_auth
+0029-wistia_webinarwizard
+0030-wistia_support
+0031-wistia_jobs
+0032-wistia_partner-program
+0033-wistia_partner-program_affiliates
+0034-wistia_site-map
+0035-wistia_integrations_active-campaign
+0036-wistia_integrations_aweber

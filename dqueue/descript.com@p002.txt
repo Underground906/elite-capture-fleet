@@ -1,0 +1,13 @@
+#descript.com
+0025-descript_api
+0026-descript_enterprise
+0027-descript_customers
+0028-descript_customers_linkedin
+0029-descript_teams_customer-success
+0030-descript_teams_customer-support
+0031-descript_use-case_case-studies
+0032-descript_use-case_educational-video
+0033-descript_blog
+0035-web_learn-descript
+0036-feedback_changelog
+0037-descript_affiliate

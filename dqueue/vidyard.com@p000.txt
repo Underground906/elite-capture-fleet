@@ -1,0 +1,13 @@
+#vidyard.com
+0001-vidyard_
+0002-vidyard_featured-integrations
+0003-vidyard_integrations
+0004-vidyard_integrations_gong
+0005-vidyard_integrations_hubspot
+0006-vidyard_integrations_marketo
+0007-vidyard_integrations_salesforce-sales-engagement
+0008-vidyard_products_ai-avatars
+0009-vidyard_products_features
+0010-vidyard_products_mcp
+0011-vidyard_products_video-agent
+0012-vidyard_products_vidyard-hosting

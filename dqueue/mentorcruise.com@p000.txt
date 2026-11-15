@@ -1,0 +1,13 @@
+#mentorcruise.com
+0001-mentorcruise_
+0002-mentorcruise_teams
+0003-mentorcruise_teams_ai
+0004-mentorcruise_teams_info
+0005-mentorcruise_workshop_businessstrategy
+0006-mentorcruise_fractional-executive
+0007-mentorcruise_mentor_browse
+0008-mentorcruise_skill_artificial-20intelligence
+0009-mentorcruise_skill_career
+0010-mentorcruise_skill_design
+0011-mentorcruise_skill_engineering
+0012-mentorcruise_skill_leadership

@@ -1,0 +1,13 @@
+#impartner.com
+0013-impartner_industry-advisory
+0014-impartner_integrations
+0015-impartner_journey-builder
+0016-impartner_lead-management
+0017-impartner_market-development-funds
+0018-impartner_news-on-demand
+0019-impartner_newsroom
+0020-impartner_paid-media-for-partners
+0021-impartner_partner-business-planning
+0022-impartner_partner-marketplace-2
+0023-impartner_partner-referral-programs
+0024-impartner_partner-relationship-management

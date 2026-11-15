@@ -1,0 +1,13 @@
+#open-design.ai
+0025-open-design_careers
+0026-open-design_codex-slides
+0027-open-design_download
+0028-open-design_faq
+0029-open-design_html-anything
+0030-open-design_html-video
+0031-open-design_refund-policy
+0032-open-design_agents_claude-code-design
+0033-open-design_agents_codex-design
+0034-open-design_agents_cursor-design
+0035-open-design_agents_gemini-design
+0036-open-design_agents_opencode-design

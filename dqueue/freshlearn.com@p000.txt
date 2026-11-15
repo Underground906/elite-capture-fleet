@@ -1,0 +1,13 @@
+#freshlearn.com
+0001-freshlearn_
+0002-freshlearn_ai-studio
+0003-freshlearn_testimonial
+0004-freshlearn_pricing
+0005-freshlearn_creators
+0006-freshlearn_academies
+0007-freshlearn_ce-providers
+0008-freshlearn_companies
+0009-freshlearn_use-cases_arts
+0010-freshlearn_use-cases_cdl-training-software
+0011-freshlearn_inspiration
+0012-freshlearn_the-creator-show

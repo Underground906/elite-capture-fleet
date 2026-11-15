@@ -1,0 +1,13 @@
+#glean.com
+0085-glean_work-ai-institute_work-ai-index
+0086-glean_work-ai-institute_reports_ai-transformation-100
+0087-glean_work-ai-institute_reports_work-ai-index
+0088-glean_jp_about
+0089-glean_jp_academy-s1
+0090-glean_jp_academy-s3
+0091-glean_jp_ai-agent-builder
+0092-glean_jp_ai-agents
+0093-glean_jp_agent-library_account-snapshot
+0094-glean_jp_agent-library_customer-reference-summary
+0095-glean_jp_agent-library_customer-sentiment-score
+0096-glean_jp_agent-library_daily-meeting-action-summary

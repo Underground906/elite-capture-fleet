@@ -1,0 +1,13 @@
+#brightcove.com
+0037-brightcove_resource-center_optimize-your-svod-business
+0038-brightcove_customers_academy-motion-picture-arts-and-sciences
+0039-brightcove_customers_auslan-education-services
+0040-brightcove_customers_avanade
+0041-brightcove_customers_barrow-neurological-institute
+0042-brightcove_academy_courses
+0043-brightcove_academy_demos
+0044-brightcove_academy_home
+0045-brightcove_developer-resources
+0046-brightcove_company_about
+0047-brightcove_company_careers
+0048-brightcove_company_about_esg

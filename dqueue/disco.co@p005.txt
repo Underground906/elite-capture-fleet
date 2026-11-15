@@ -1,0 +1,13 @@
+#disco.co
+0061-disco_manifesto
+0062-disco_mcp
+0063-disco_product-updates
+0064-disco_program-preview
+0065-disco_request-demo
+0066-disco_run-learning-community
+0067-disco_security
+0068-disco_the-virtual-academy-playbook
+0069-disco_the-virtual-academy-playbook-access
+0070-disco_training-business-platform
+0071-disco_benefits_ai-powered-operations
+0072-disco_benefits_community-engagement

@@ -1,0 +1,13 @@
+#tonal.com
+0001-tonal_
+0002-tonal_products_tonal-1-certified-refurbished
+0003-tonal_products_tonal-2
+0004-tonal_products_tonal-2-glacier
+0005-tonal_pages_about
+0006-tonal_pages_accessibility
+0007-tonal_pages_business-to-business
+0008-tonal_pages_careers
+0009-tonal_pages_coaches
+0010-tonal_collections_accessories
+0011-tonal_collections_performance-shop
+0012-tonal_blogs_all

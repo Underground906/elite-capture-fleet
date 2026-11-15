@@ -1,0 +1,13 @@
+#rocketmoney.com
+0001-rocketmoney_
+0002-rocketmoney_rowan
+0003-rocketmoney_learn
+0004-rocketmoney_learn_personal-finance_best-budgeting-apps
+0005-app_
+0006-app_signup
+0007-rocketmoney_feature_autopilot-savings
+0008-rocketmoney_feature_create-a-budget
+0009-rocketmoney_feature_credit-score
+0010-rocketmoney_compare_copilot
+0011-rocketmoney_compare_mint-alternative
+0012-rocketmoney_compare_monarch-money

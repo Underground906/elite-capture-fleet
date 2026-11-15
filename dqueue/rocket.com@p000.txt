@@ -1,0 +1,13 @@
+#rocket.com
+2001-rocket_
+2002-www_purchase_get-started
+2003-www_refinance_get-started
+2004-www_home-loans_home-equity-loan
+2005-www_mortgage-rates
+2006-www_home-loans
+2007-www_calculators_home-affordability-calculator
+2008-www_refinance-rates
+2009-www_calculators_refinance-calculator
+2010-www_calculators_home-equity-calculator
+2011-www_refinance_debt-consolidation
+2012-www_

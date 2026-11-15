@@ -1,0 +1,13 @@
+#synthesia.io
+0037-developers_docs_create-a-dubbing-project
+0038-developers_docs_interactive-avatars
+0039-developers_docs_synthesia-mcp
+0040-developers_docs_videos
+0041-synthesia_video-templates
+0042-synthesia_blog
+0043-synthesia_case-studies
+0044-synthesia_case-studies_merck-kgaa
+0045-synthesia_reviews
+0046-academy_
+0047-academy_pages_live-sessions
+0048-synthesia_careers

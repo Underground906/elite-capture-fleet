@@ -1,0 +1,13 @@
+#vidyard.com
+0013-vidyard_video-demo
+0014-vidyard_startups
+0015-vidyard_smb
+0016-vidyard_enterprise-video-platform
+0017-vidyard_enterprise-video-platform_consumer-sales
+0018-vidyard_enterprise-video-platform_financial-services
+0019-vidyard_enterprise-video-platform_saas
+0020-vidyard_video-for-prospecting
+0021-vidyard_video-sales
+0022-vidyard_video-for-customer-success
+0023-vidyard_video-marketing
+0024-vidyard_video-for-deal-progression

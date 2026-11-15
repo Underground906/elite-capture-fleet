@@ -1,0 +1,13 @@
+#shopify.com
+0037-shopify_affiliates
+0038-shopify_blog
+0039-shopify_careers
+0040-shopify_climate
+0041-shopify_compare
+0042-shopify_editions
+0043-shopify_investors
+0044-shopify_news
+0045-shopify_partners
+0046-shopify_sitemap
+0047-shopify_tools
+0048-shopify_blog_what-is-shopify

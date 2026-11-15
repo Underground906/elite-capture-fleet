@@ -1,0 +1,13 @@
+#yoodli.ai
+0013-yoodli_pricing
+0014-yoodli_blog
+0015-yoodli_about
+0016-app_signup
+0017-yoodli_use-cases_crucial-conversations
+0018-yoodli_use-cases_customer-support
+0019-yoodli_use-cases_interviewer-training
+0020-yoodli_use-cases_leadership-development-firms
+0021-yoodli_use-cases_onboarding-certification
+0022-yoodli_solutions_sales-coaching
+0023-yoodli_solutions_sales-roleplay
+0024-yoodli_industries_education

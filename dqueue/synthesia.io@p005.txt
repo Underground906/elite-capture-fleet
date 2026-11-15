@@ -1,0 +1,13 @@
+#synthesia.io
+0061-synthesia_service-providers
+0062-synthesia_tools
+0063-synthesia_updates
+0064-help_en_articles_7182166-how-to-contact-us
+0065-synthesia_partners_affiliates
+0066-synthesia_post_ai-tools
+0067-synthesia_post_explainer-videos
+0068-synthesia_post_internal-communication-videos
+0069-synthesia_post_onboarding-videos
+0070-synthesia_post_training-videos
+0071-synthesia_reports_ai-in-learning-and-development-report-2026
+0072-synthesia_tools_ai-image-generator

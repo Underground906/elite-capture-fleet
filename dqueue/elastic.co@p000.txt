@@ -1,0 +1,13 @@
+#elastic.co
+0001-elastic_
+0002-elastic_resources_search_analyst-report_gartner-magic-quadrant-enterprise-ai-search
+0003-elastic_resources_security_report_av-comparatives-endpoint-protection-response
+0004-elastic_about
+0005-elastic_partners
+0006-elastic_partners_ai-ecosystem
+0007-elastic_support
+0008-elastic_elasticsearch
+0009-elastic_elasticsearch_agent-builder
+0010-elastic_elasticsearch_context-engineering
+0011-elastic_enterprise-search
+0012-elastic_enterprise-search_customer-support

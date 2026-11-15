@@ -1,0 +1,13 @@
+#open-design.ai
+0193-open-design_showcase_saas-pricing-website-design
+0194-open-design_showcase_saas-revenue-dashboard-design
+0195-open-design_showcase_service-runbook-website-design
+0196-open-design_showcase_social-audience-dashboard-design
+0197-open-design_showcase_software-release-poster-design
+0198-open-design_showcase_sprint-board-app-design
+0199-open-design_showcase_student-exam-dashboard-wireframe-design
+0200-open-design_showcase_studio-invoice-design
+0201-open-design_showcase_team-meeting-notes-design
+0202-open-design_showcase_team-operations-dashboard-design
+0203-open-design_showcase_team-workspace-dashboard-design
+0204-open-design_showcase_technical-writing-website-design

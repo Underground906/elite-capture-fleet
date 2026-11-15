@@ -1,0 +1,13 @@
+#basecamp.com
+0037-basecamp_guides_group-chat-problems
+0038-basecamp_guides_how-we-communicate
+0039-basecamp_guides_how-we-make-decisions
+0040-basecamp_guides_seven-shipping-principles
+0041-basecamp_guides_why-we-choose-profit
+0042-basecamp_2
+0043-basecamp_ai
+0044-basecamp_projects
+0045-basecamp_2_integrations
+0046-basecamp_gettingreal_01-1-what-is-getting-real
+0047-basecamp_gettingreal_01-2-about-basecamp
+0048-basecamp_gettingreal_02-1-build-less

@@ -1,0 +1,8 @@
+#gamma.app
+3002-gamma_products_api
+3003-gamma_products_documents
+3004-gamma_integrations
+3005-gamma_integrations_chatgpt
+3006-gamma_solutions_consultants
+3007-gamma_solutions_educators
+3008-gamma_about

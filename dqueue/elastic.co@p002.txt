@@ -1,0 +1,13 @@
+#elastic.co
+0025-cloud_serverless-registration
+0026-cloud_registration
+0027-elastic_downloads
+0028-elastic_downloads_elasticsearch
+0029-elastic_search-ai
+0030-elastic_what-is
+0031-elastic_industries
+0032-elastic_industries_financial-services
+0033-elastic_industries_manufacturing
+0034-elastic_customers
+0035-elastic_customers_docusign
+0036-elastic_getting-started

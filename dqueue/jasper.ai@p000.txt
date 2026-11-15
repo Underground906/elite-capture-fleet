@@ -1,0 +1,13 @@
+#jasper.ai
+0001-jasper_
+0002-jasper_platform
+0003-jasper_solutions
+0004-jasper_solutions_campaigns
+0005-jasper_solutions_personalization
+0006-jasper_solutions_by-industry_financial-services
+0007-jasper_solutions_by-industry_healthcare
+0008-jasper_use-cases
+0009-jasper_use-cases_blog-writing
+0010-jasper_use-cases_content-strategy
+0011-jasper_pricing
+0012-jasper_case-studies_akbank

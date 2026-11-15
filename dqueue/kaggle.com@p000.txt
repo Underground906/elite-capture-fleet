@@ -1,0 +1,13 @@
+#kaggle.com
+0001-kaggle_
+0002-kaggle_competitions
+0003-kaggle_competitions_arc-prize-2026-paper-track
+0004-kaggle_competitions_gemma-4-developer-agent
+0005-kaggle_benchmarks
+0006-kaggle_benchmarks_tasks
+0007-kaggle_benchmarks_google_facts-grounding
+0008-kaggle_benchmarks_ibm-research_enterprise-ops
+0009-kaggle_arenas
+0010-kaggle_game-arena
+0011-kaggle_models
+0012-kaggle_competition-case-study-mayo-clinic

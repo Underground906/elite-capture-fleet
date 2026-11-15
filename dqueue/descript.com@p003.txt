@@ -1,0 +1,13 @@
+#descript.com
+0038-help_
+0039-descript_pricing
+0040-descript_contact
+0041-descript_about
+0042-descript_careers
+0043-descript_download
+0044-descript_ethics
+0045-descript_features
+0046-feedback_features
+0047-descript_integrations
+0048-descript_mcp
+0049-descript_research

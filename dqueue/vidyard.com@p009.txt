@@ -1,0 +1,13 @@
+#vidyard.com
+0109-vidyard_loom-vs-vidyard
+0110-vidyard_mobile-apps
+0111-vidyard_ontheball-offer
+0112-vidyard_paid
+0113-vidyard_partner-newsletter-subscription
+0114-vidyard_partners-directory
+0115-vidyard_podcasts
+0116-vidyard_real-estate
+0117-vidyard_realistic-ai-avatars
+0118-vidyard_script-timer
+0119-vidyard_security
+0120-vidyard_security-addendum

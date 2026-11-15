@@ -1,0 +1,13 @@
+#shopify.com
+0001-shopify_
+0002-shopify_start
+0003-shopify_sell
+0004-shopify_enterprise
+0005-shopify_checkout
+0006-shopify_sidekick
+0007-shopify_website_builder
+0008-themes_
+0009-shopify_domains
+0010-shopify_customer-accounts
+0011-shopify_online
+0012-shopify_agentic-storefronts

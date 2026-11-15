@@ -1,0 +1,13 @@
+#getjobber.com
+0026-getjobber_faq
+0027-getjobber_franchise-partnership-program
+0028-getjobber_home-service-reports-2
+0029-getjobber_integrations
+0030-getjobber_llm-info
+0031-getjobber_partner-directory
+0032-getjobber_partners
+0033-getjobber_security
+0034-getjobber_sitemap
+0035-getjobber_about_careers
+0036-getjobber_about_media
+0037-help_hc_en-us

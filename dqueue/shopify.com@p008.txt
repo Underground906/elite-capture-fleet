@@ -1,0 +1,13 @@
+#shopify.com
+0100-shopify_solutions_b2b
+0101-shopify_uk_solutions_b2b
+0102-shopify_solutions_ai_enterprise
+0103-shopify_uk_solutions_ai_enterprise
+0104-shopify_solutions_automotive_enterprise
+0105-shopify_uk_solutions_automotive_enterprise
+0106-shopify_uk_markets
+0107-shopify_uk_marketing
+0108-shopify_uk_discounts
+0109-shopify_uk_analytics
+0110-shopify_uk_test-and-launch
+0111-shopify_uk_orders

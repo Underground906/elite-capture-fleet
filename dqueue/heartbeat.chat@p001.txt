@@ -1,0 +1,13 @@
+#heartbeat.chat
+0013-heartbeat_partners
+0014-heartbeat_directory
+0015-heartbeat_help
+0016-heartbeat_story_how-kat-weaver-closed-1m-in-sales-on-heartbeat
+0017-heartbeat_pricing
+0018-app_
+0019-heartbeat_create
+0020-heartbeat_about
+0021-heartbeat_black-friday
+0022-heartbeat_downloads
+0023-heartbeat_embeds
+0024-heartbeat_for

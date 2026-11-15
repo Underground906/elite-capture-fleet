@@ -1,0 +1,13 @@
+#iorad.com
+0001-iorad_
+0002-iorad_features
+0003-iorad_features_districts
+0004-iorad_features_educator
+0005-iorad_solutions
+0006-iorad_solutions_ai-powered-process-capture
+0007-iorad_solutions_ai-training-assistant
+0008-iorad_pricing
+0009-iorad_pricing_business
+0010-iorad_pricing_education
+0011-iorad_pricing_feature_advanced-exports
+0012-iorad_pricing_feature_analytics

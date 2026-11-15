@@ -1,0 +1,13 @@
+#higoodie.com
+0013-higoodie_research
+0014-higoodie_integrations
+0015-higoodie_ai-visibility-index
+0016-higoodie_agent-site-audit
+0017-higoodie_llms-txt-generator
+0018-higoodie_features
+0019-higoodie_security
+0020-higoodie_service-agreement
+0021-higoodie_case-studies_dermalogica
+0022-higoodie_models_ai-mode
+0023-higoodie_models_ai-overview
+0024-higoodie_use-case

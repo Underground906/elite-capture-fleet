@@ -1,0 +1,13 @@
+#supademo.com
+0037-supademo_industries_finance-banking
+0038-supademo_industries_government
+0039-supademo_industries_healthcare
+0040-supademo_industries_software
+0041-supademo_solutions_customer-education
+0042-supademo_solutions_customer-success
+0043-supademo_solutions_internal-training
+0044-supademo_solutions_marketing-teams
+0045-supademo_solutions_presales
+0046-supademo_tools_ai-sales-pitch-generator
+0047-supademo_tools_annotation-generator
+0048-supademo_tools_demo-to-docs-generator

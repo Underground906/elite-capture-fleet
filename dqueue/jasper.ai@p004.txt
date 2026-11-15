@@ -1,0 +1,3 @@
+#jasper.ai
+0049-jasper_grid
+0050-jasper_jasper-iq

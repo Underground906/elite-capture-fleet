@@ -1,0 +1,13 @@
+#granola.ai
+0001-granola_
+0002-granola_chat
+0003-granola_voice-typing
+0004-granola_enterprise
+0005-granola_pricing
+0006-granola_blog
+0007-granola_jobs
+0008-granola_contact_sales
+0009-notes_download
+0010-trust_
+0011-granola_ai-meeting-assistant
+0012-granola_ai-note-taker

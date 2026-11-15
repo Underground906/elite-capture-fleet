@@ -1,0 +1,13 @@
+#arketa.com
+0013-arketa_business-type_group-fitness
+0014-arketa_business-type_gym
+0015-arketa_business-type_massage
+0016-arketa_business-type_multi-location
+0017-arketa_business-type_personal-training
+0018-arketa_compare_arketa-vs-glofox
+0019-arketa_compare_arketa-vs-marianatek
+0020-arketa_compare_arketa-vs-mindbody
+0021-arketa_compare_arketa-vs-momence
+0022-arketa_compare_arketa-vs-walla
+0023-arketa_features_accounting-bookkeeping
+0024-arketa_features_ai-chatbot-phone-lines

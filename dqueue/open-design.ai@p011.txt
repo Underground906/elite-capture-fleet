@@ -1,0 +1,13 @@
+#open-design.ai
+0133-open-design_showcase_day-trip-planner-design
+0134-open-design_showcase_developer-documentation-website-design
+0135-open-design_showcase_discovery-collection-app-design
+0136-open-design_showcase_editorial-product-website-design
+0137-open-design_showcase_employee-onboarding-guide-design
+0138-open-design_showcase_engineering-blog-website-design
+0139-open-design_showcase_file-sync-saas-website-design
+0140-open-design_showcase_forest-restoration-website-design
+0141-open-design_showcase_frontend-engineer-resume-design
+0142-open-design_showcase_fundraising-memo-presentation-design
+0143-open-design_showcase_futuristic-motion-graphics-design
+0144-open-design_showcase_growth-metrics-report-design

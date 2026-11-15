@@ -1,0 +1,13 @@
+#tempo.fit
+0013-tempo_contact
+0014-tempo_returns
+0015-tempo_membership-cancellation-policy
+0016-tempo_warranty
+0017-tempo_privacy-policy
+0018-tempo_terms-of-service
+0019-tempo_accessibility-statement
+0020-www_core
+0021-www_move
+0022-tempo_customize
+0023-tempo_core
+0024-tempo_move

@@ -1,0 +1,13 @@
+#tempo.fit
+0025-tempo_shop_product_tempo-core
+0026-apparel_collections_featured
+0027-apparel_collections_women
+0028-apparel_search
+0029-apparel_cart
+0030-apparel_products_cadence-sweatshirt-1
+0031-apparel_products_glide-short
+0032-tempo_studio
+0033-apparel_pages_faq
+0034-hello-tempo_
+0035-tempo_
+0036-tempo_1-year-member-anniversary

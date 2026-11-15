@@ -1,0 +1,13 @@
+#adplist.org
+0001-adplist_
+0002-identity_start
+0003-adplist_about-us
+0004-adplist_ai-course
+0005-adplist_become-a-mentor
+0006-adplist_blog
+0007-adplist_career-coach
+0008-adplist_design-by-intelligence
+0009-adplist_design-moonshot-guide
+0010-adplist_executive-coaching
+0011-adplist_explore
+0012-adplist_faqs

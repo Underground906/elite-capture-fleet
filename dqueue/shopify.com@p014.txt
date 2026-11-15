@@ -1,0 +1,13 @@
+#shopify.com
+0172-shopify_uk_compare
+0173-shopify_uk_partners
+0174-shopify_uk_sitemap
+0175-shopify_webinar
+0176-shopify_webinars
+0177-shopify_climate_sustainability-fund
+0178-shopify_uk_climate_sustainability-fund
+0179-shopify_compare_bigcommerce-vs-salesforce-vs-shopify
+0180-shopify_uk_compare_bigcommerce-vs-salesforce-vs-shopify
+0181-shopify_compare_bigcommerce-vs-wix-vs-shopify
+0182-shopify_uk_compare_bigcommerce-vs-wix-vs-shopify
+0183-shopify_compare_godaddy-vs-wix-vs-shopify

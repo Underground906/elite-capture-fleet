@@ -1,0 +1,6 @@
+#open-design.ai
+0205-open-design_showcase_trading-simulator-dashboard-design
+0206-open-design_showcase_travel-planner-dashboard-design
+0207-open-design_showcase_ui-morph-animation-design
+0208-open-design_showcase_usage-reset-motion-video-design
+0209-open-design_showcase_voronoi-shader-design

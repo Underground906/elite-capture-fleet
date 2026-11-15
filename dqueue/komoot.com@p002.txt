@@ -1,0 +1,13 @@
+#komoot.com
+0025-www_adventure-hub
+0026-www_connect
+0027-www_b2b_embed
+0028-www_account_gift
+0029-komoot_
+0030-komoot_discover_start_from_current_location_tours
+0031-komoot_plan
+0032-komoot_features
+0033-komoot_product-updates
+0034-newsroom_en
+0035-komoot_adventure-hub
+0036-komoot_ambassadors

@@ -1,0 +1,13 @@
+#brex.com
+0037-brex_solutions_enterprise
+0038-brex_solutions_mid-size-companies
+0039-brex_solutions_global-spend-solution_details
+0040-brex_product-announcements_1-click-reminders
+0041-brex_product-announcements_10x-improvement-in-speed-on-brex-empower
+0042-brex_product-announcements_1password-integration
+0043-brex_product-announcements_30-hris-integrations-on-brex-empower
+0044-brex_product-announcements_a-smarter-bill-pay
+0045-brex_partners_accounting
+0046-brex_partners_aws
+0047-brex_journal
+0048-brex_journal_2022-survey

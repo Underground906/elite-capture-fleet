@@ -1,0 +1,13 @@
+#synthesia.io
+0001-www_
+0002-synthesia_
+0003-synthesia_video
+0004-synthesia_features_ai-dubbing
+0005-synthesia_features_ai-screen-recorder
+0006-synthesia_features_ai-video-generator
+0007-synthesia_features_avatars
+0008-synthesia_features_video-translator
+0009-synthesia_features_avatars_interactive-avatars
+0010-synthesia_tools_ai-motion-graphics
+0011-synthesia_learning-and-development
+0012-synthesia_human-resources

@@ -1,0 +1,13 @@
+#open-design.ai
+0001-open-design_
+0002-open-design_showcase_personal-dashboard-design
+0003-open-design_motion
+0004-open-design_agents
+0005-open-design_solutions
+0006-open-design_codex-plugin
+0007-open-design_compare
+0008-corouter_
+0009-open-design_llm-arena-for-design
+0010-open-design_pricing
+0011-open-design_plugins_templates
+0012-open-design_design-system

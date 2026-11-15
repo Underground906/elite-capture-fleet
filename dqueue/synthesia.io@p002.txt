@@ -1,0 +1,13 @@
+#synthesia.io
+0025-synthesia_use-case_sales-training-enablement
+0026-synthesia_use-case_sop
+0027-synthesia_sessions
+0028-synthesia_sessions_roleplays
+0029-synthesia_sessions_surveys
+0030-synthesia_sessions_roleplays_cold-call
+0031-synthesia_sessions_roleplays_discovery-call
+0032-synthesia_sessions_roleplays_manager-training
+0033-synthesia_sessions_roleplays_sales-roleplay
+0034-synthesia_sessions_surveys_customer-insights
+0035-synthesia_api
+0036-synthesia_pricing

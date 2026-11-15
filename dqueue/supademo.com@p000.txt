@@ -1,0 +1,13 @@
+#supademo.com
+0001-supademo_
+0002-supademo_ai_command
+0003-supademo_ai_demo-agents
+0004-supademo_features
+0005-supademo_solutions
+0006-supademo_blog
+0007-supademo_pricing
+0008-supademo_product-demo
+0009-app_signup
+0010-docs_
+0011-supademo_about
+0012-supademo_academy

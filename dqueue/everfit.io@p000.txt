@@ -1,0 +1,13 @@
+#everfit.io
+0001-everfit_
+0002-everfit_training
+0003-everfit_nutrition
+0004-everfit_macrosnap-coaching
+0005-everfit_task-habit
+0006-everfit_on-demand-solutions
+0007-everfit_ai
+0008-everfit_sportscoaching
+0009-everfit_communication
+0010-everfit_forms
+0011-everfit_branding
+0012-everfit_teams

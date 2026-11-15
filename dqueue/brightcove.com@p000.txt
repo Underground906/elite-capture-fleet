@@ -1,0 +1,13 @@
+#brightcove.com
+0001-brightcove_
+0002-supportportal_
+0003-brightcove_get-demo
+0004-brightcove_products_accessibility
+0005-brightcove_products_agentic-hub
+0006-brightcove_products_ai-content-suite
+0007-brightcove_products_analytics
+0008-brightcove_products_brightcove-mcp
+0009-brightcove_services_global-services
+0010-brightcove_solutions_beacon-studio
+0011-brightcove_solutions_communications-studio
+0012-brightcove_solutions_for-broadcasters

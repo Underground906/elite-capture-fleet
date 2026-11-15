@@ -1,0 +1,13 @@
+#wistia.com
+0001-wistia_
+0002-wistia_product
+0003-wistia_product_analytics
+0004-wistia_product_channels
+0005-wistia_product_collaboration
+0006-wistia_product_collections
+0007-wistia_integrations
+0008-wistia_blog
+0009-wistia_blog_category_customer-stories
+0010-wistia_resources_free-downloads
+0011-wistia_watch
+0012-wistia_events

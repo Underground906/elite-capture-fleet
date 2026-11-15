@@ -1,0 +1,3 @@
+#elastic.co
+0049-elastic_pricing
+0050-elastic_careers

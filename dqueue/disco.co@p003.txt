@@ -1,0 +1,13 @@
+#disco.co
+0037-disco_pricing
+0038-disco_careers
+0039-disco_about-disco
+0040-disco_ai-fluency-in-sales-training
+0041-disco_ai-for-scaling-learning-business
+0042-disco_ai-for-scaling-learning-business-access
+0043-disco_ai-future-of-learning-at-work
+0044-disco_ai-powered-learning-platform
+0045-disco_ai-upskilling-guide
+0046-disco_ai-upskilling-guide-access
+0047-disco_ask-ai
+0048-disco_book-a-demo---test

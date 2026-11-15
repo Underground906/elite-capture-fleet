@@ -1,0 +1,12 @@
+#granola.ai
+0026-granola_transparency
+0027-granola_use-cases_product
+0028-granola_use-cases_sales
+0029-granola_blog_a-new-look-for-granola
+0030-granola_customers_brex
+0031-granola_integrations_affinity
+0032-granola_authors
+0033-granola_updates
+0034-granola_authors_bardia
+0035-granola_updates_delete-parts-of-transcript
+0036-granola_updates_edit-notes-just-by-asking

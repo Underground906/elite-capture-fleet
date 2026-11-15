@@ -1,0 +1,13 @@
+#yoodli.ai
+0073-yoodli_gong-real-call-integration
+0074-yoodli_kaia-real-call-integration
+0075-yoodli_our-partnerships
+0076-yoodli_compare_yoodli-vs-hyperbound
+0077-yoodli_compare_yoodli-vs-letter-ai
+0078-yoodli_compare_yoodli-vs-mindtickle
+0079-yoodli_compare_yoodli-vs-second-nature
+0080-yoodli_our-partnerships_2win-and-yoodli-partner-to-launch-ai-powered-roleplays-for-winning
+0081-yoodli_our-partnerships_advantexe-and-yoodli-launch-praction-ai-to-transform-business-simu
+0082-yoodli_our-partnerships_announcing-our-partnership-with-careerflow-ai-ai-job-search
+0083-yoodli_our-partnerships_black-dog-consultants-and-yoodli-announce-first-ai-powered-practic
+0084-yoodli_our-partnerships_growth-matters-international-and-yoodli-partner-to-enhance-sales-c

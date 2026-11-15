@@ -1,0 +1,13 @@
+#synthesia.io
+0013-synthesia_sales-enablement
+0014-synthesia_marketing
+0015-synthesia_information-technology
+0016-synthesia_knowledge-managers
+0017-synthesia_industries_financial-services
+0018-synthesia_industries_healthcare
+0019-synthesia_industries_manufacturing
+0020-synthesia_industries_professional-services
+0021-synthesia_industries_retail
+0022-synthesia_use-case_compliance-training
+0023-synthesia_use-case_employee-development
+0024-synthesia_use-case_product-video

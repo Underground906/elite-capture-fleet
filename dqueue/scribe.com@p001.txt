@@ -1,0 +1,13 @@
+#scribe.com
+0013-scribe_sales
+0014-scribe_customers
+0015-scribe_customers_newyorklife
+0016-scribe_reviews
+0017-scribe_gallery
+0018-scribe_security
+0019-scribe_library_autocapture-announcement
+0020-scribe_optimize_agents
+0021-scribe_optimize_process-maps
+0022-scribe_solutions_b_assist-customers
+0023-scribe_solutions_b_document-processes-sops
+0024-scribe_solutions_b_implement-software

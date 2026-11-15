@@ -1,0 +1,13 @@
+#elastic.co
+0013-elastic_enterprise-search_ecommerce
+0014-elastic_observability
+0015-elastic_observability_ai-sre
+0016-elastic_observability_application-performance-monitoring
+0017-elastic_security
+0018-elastic_security_ai
+0019-elastic_security_investigation-response
+0020-elastic_kibana
+0021-elastic_platform_autoops
+0022-elastic_jina-search-models
+0023-elastic_cloud
+0024-elastic_cloud_serverless

@@ -1,0 +1,13 @@
+#yoodli.ai
+0049-yoodli_partners_become-a-partner
+0050-yoodli_coach-directory_adeseye-omole
+0051-yoodli_coach-directory_akshat-shrivastava
+0052-yoodli_coach-directory_aleksandra-szczepaniak
+0053-yoodli_coach-directory_alex-fairlie
+0054-yoodli_coach-directory_andrew-churchill
+0055-yoodli_glossary_category_ai-roleplay-and-coaching
+0056-yoodli_glossary_category_communication-skills
+0057-yoodli_glossary_category_customer-support
+0058-yoodli_glossary_category_fde-and-post-sale
+0059-yoodli_feature-announcements_from-release-to-rep-ready-how-we-built-enablement-that-moves-
+0060-yoodli_feature-announcements_from-your-calls-to-your-practice-how-post-call-coaching-turns

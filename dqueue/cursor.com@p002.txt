@@ -1,0 +1,13 @@
+#cursor.com
+0025-cursor_en-US_community
+0026-cursor_help
+0027-cursor_workshops
+0028-cursor_en-US_workshops
+0029-forum_
+0030-cursor_careers
+0031-cursor_en-US_careers
+0032-cursor_en-US_business_teams
+0034-cursor_en-US_composer
+0035-cursor_en-US_download
+0036-cursor_learn
+0037-cursor_en-US_students

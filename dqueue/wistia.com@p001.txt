@@ -1,0 +1,13 @@
+#wistia.com
+0013-wistia_series
+0014-wistia_explore_ai-video-trends
+0015-wistia_explore_state-of-video-report
+0016-wistia_explore_video-embedding-guide
+0017-wistia_explore_video-repurposing-cookbook
+0018-wistia_explore_wistia-for-video-professionals
+0019-wistia_about
+0020-wistia_about_assets
+0021-wistia_about_diversity-equity-inclusion-belonging
+0022-wistia_about_values
+0023-wistia_about_video-marketing-guide
+0024-support_

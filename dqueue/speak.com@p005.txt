@@ -1,0 +1,13 @@
+#speak.com
+0061-speak_jp-blog-posts_best-ai-eikaiwa-app
+0062-speak_jp-blog-posts_building-speaks-voice-agent-platform
+0063-speak_jp-blog-posts_can-listen-cannot-speak
+0064-speak_jp-blog-posts_english-self-study-steps
+0065-speak_jp_app
+0066-speak_jp_app-demo
+0067-speak_jp_b2b
+0068-speak_jp_blog
+0069-speak_jp_business
+0070-speak_new-course-lists_01-basics-0
+0071-speak_new-course-lists_02-basics-0-2
+0072-speak_new-course-lists_03-basics-0-3

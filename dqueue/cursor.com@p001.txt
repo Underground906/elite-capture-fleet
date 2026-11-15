@@ -1,0 +1,13 @@
+#cursor.com
+0013-cursor_bugbot
+0014-cursor_en-US_bugbot
+0015-cursor_enterprise
+0016-cursor_en-US_enterprise
+0017-cursor_pricing
+0018-cursor_en-US_pricing
+0019-cursor_changelog
+0020-cursor_en-US_changelog
+0021-cursor_blog
+0022-cursor_en-US_blog
+0023-cursor_docs
+0024-cursor_community

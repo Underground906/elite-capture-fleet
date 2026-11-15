@@ -1,0 +1,13 @@
+#yoodli.ai
+0001-yoodli_
+0002-yoodli_talk-to-sales
+0003-yoodli_platform_coach
+0004-yoodli_platform_create
+0005-yoodli_platform_measure
+0006-yoodli_platform_personas
+0007-yoodli_platform_roleplays
+0008-yoodli_for-business_corporate-communications
+0009-yoodli_for-business_engineering
+0010-yoodli_for-business_leadership
+0011-yoodli_for-business_learning-and-development
+0012-yoodli_for-business_revenue-teams

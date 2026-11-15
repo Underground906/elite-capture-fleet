@@ -1,0 +1,13 @@
+#openship.io
+0001-openship_
+0002-openship_features
+0003-openship_apps
+0004-openship_mail
+0005-openship_docs
+0006-openship_blog
+0007-openship_changelog
+0008-openship_pricing
+0009-openship_affiliates
+0010-openship_about
+0011-openship_contact
+0012-openship_download

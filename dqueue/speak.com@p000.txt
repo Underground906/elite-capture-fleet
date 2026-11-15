@@ -1,0 +1,13 @@
+#speak.com
+0001-speak_
+0002-speak_careers
+0003-speak_blog
+0004-speak_b2b
+0005-speak_blog_21-day-challenge
+0006-speak_blog_90-days-at-speak-what-its-like-to-build-alongside-ai
+0007-speak_blog_agentic-engineering
+0008-speak_blog_an-afternoon-port-taking-jieba-to-rust-with-codex
+0009-speak_es
+0010-speak_blog-new
+0011-speak_chatgpt
+0012-speak_cn

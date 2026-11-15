@@ -1,0 +1,13 @@
+#vidyard.com
+0061-vidyard_blog_4-industries-video-surging
+0062-vidyard_blog_6-awesome-sales-call-conversation-starters
+0063-vidyard_hub_video-agent-customer-education
+0064-vidyard_hub_video-agent-high-volume-onboarding
+0065-vidyard_use-cases_customer-success
+0066-vidyard_use-cases_education
+0067-vidyard_use-cases_job-seekers
+0068-vidyard_use-cases_marketing
+0069-vidyard_use-cases_saas
+0070-vidyard_workshops_account-security-admin-best-practices
+0071-vidyard_workshops_advanced-video-workflows
+0072-vidyard_workshops_agentic-workflows-video-agent-hubspot

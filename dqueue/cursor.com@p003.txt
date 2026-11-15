@@ -1,0 +1,13 @@
+#cursor.com
+0038-cursor_en-US_brand
+0039-cursor_en-US_future
+0040-cursor_en-US_acceptable-use-policy
+0041-cursor_en-US_data-use
+0042-cursor_en-US_security
+0043-cursor_marketplace_1inch
+0044-cursor_docs_agent-sdk
+0045-cursor_help_account-and-billing_app-store-subscription
+0046-cursor_business_teams
+0047-cursor_composer
+0048-cursor_download
+0049-cursor_download_bot

@@ -1,0 +1,13 @@
+#open-design.ai
+0169-open-design_showcase_motion-designer-showreel-design
+0170-open-design_showcase_motivational-social-card-design
+0171-open-design_showcase_neon-grid-shader-design
+0172-open-design_showcase_operating-model-presentation-design
+0173-open-design_showcase_operating-review-presentation-design
+0174-open-design_showcase_paper-cutout-animation-design
+0175-open-design_showcase_particle-field-visualizer-design
+0176-open-design_showcase_particle-galaxy-shader-design
+0177-open-design_showcase_personal-dashboard-design
+0178-open-design_showcase_pixel-sprite-motion-poster-design
+0179-open-design_showcase_pomodoro-product-website-design
+0180-open-design_showcase_product-launch-email-design

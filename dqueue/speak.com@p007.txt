@@ -1,0 +1,13 @@
+#speak.com
+0085-speak_us_getstarted
+0086-speak_us_quiz
+0087-speak_us_special
+0088-speak_us_start
+0089-speak_us_try
+0090-speak_vn_ielts-1
+0091-speak_vn_ielts-2
+0092-speak_vn_try
+0093-speak_jp_campaign_2025-speak-challenge
+0094-speak_jp_campaign_26-jan-tiktok-mission
+0095-speak_jp_campaign_jtb-pr
+0096-speak_jp_campaign_phone-speak

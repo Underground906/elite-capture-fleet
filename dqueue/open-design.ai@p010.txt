@@ -1,0 +1,13 @@
+#open-design.ai
+0121-open-design_showcase_bianjing-night-tour-website-design
+0122-open-design_showcase_brand-story-presentation-design
+0123-open-design_showcase_brutalist-journal-website-design
+0124-open-design_showcase_careers-website-design
+0125-open-design_showcase_caustic-pool-shader-design
+0126-open-design_showcase_clinical-case-report-design
+0127-open-design_showcase_code-review-inbox-app-design
+0128-open-design_showcase_community-milestone-motion-video-design
+0129-open-design_showcase_content-performance-dashboard-design
+0130-open-design_showcase_creative-portfolio-website-design
+0131-open-design_showcase_daily-email-digest-design
+0132-open-design_showcase_daily-quest-app-design

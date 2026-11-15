@@ -1,0 +1,13 @@
+#mentorcruise.com
+0037-mentorcruise_stats
+0038-mentorcruise_stories
+0039-mentorcruise_templates
+0040-mentorcruise_testimonials
+0041-mentorcruise_teams_training
+0042-mentorcruise_workshop_abtesting
+0043-mentorcruise_workshop_agenticai
+0044-mentorcruise_workshop_agile
+0045-mentorcruise_workshop_ai
+0046-mentorcruise_mentor_AayushArora
+0047-mentorcruise_mentor_AdamSalim
+0048-mentorcruise_mentor_AlainChautard

@@ -1,0 +1,11 @@
+#adobe.com
+2001-adobe_
+2002-adobe_creativecloud_creativity-and-design-html
+2003-adobe_products_catalog-html
+2004-adobe_products_firefly-html
+2005-adobe_acrobat_pdf-and-document-essentials-html
+2006-business_
+2007-adobe_education_students_creativecloud-html
+2008-adobe_homepage_fragments_loggedout_redesign_default_all-products-card_all-products-card
+2009-adobe_homepage_fragments_loggedout_redesign_default_customer-testimonials_customer-testimo
+3001-adobe_homepage_fragments_loggedout_redesign_default_customer-testimonials_customer-testimo

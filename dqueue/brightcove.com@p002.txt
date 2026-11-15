@@ -1,0 +1,13 @@
+#brightcove.com
+0025-brightcove_newsletter-signup
+0026-brightcove_blog
+0027-brightcove_events
+0028-brightcove_contact-sales
+0029-brightcove_why-brightcove
+0030-brightcove_company_careers
+0031-brightcove_get-demo
+0032-brightcove_services_global-services
+0033-brightcove_resource-center_build-your-monetization-strategy
+0034-brightcove_resource-center_extending-reach-to-increase-revenue
+0035-brightcove_resource-center_how-luxury-real-estate-scaled-personalized-video
+0036-brightcove_resource-center_leveraging-insights-to-improve-monetization

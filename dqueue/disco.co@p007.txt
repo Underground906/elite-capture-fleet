@@ -1,0 +1,13 @@
+#disco.co
+0085-disco_comparison_circle
+0086-disco_comparison_kajabi
+0087-disco_comparison_mighty-networks
+0088-disco_comparison_novoed
+0089-disco_comparison_teachable
+0090-disco_customer-profiles_accelerator
+0091-disco_customer-profiles_association
+0092-disco_customer-profiles_bootcamp
+0093-disco_customer-profiles_community-network
+0094-disco_customer-profiles_company
+0095-disco_customer-use-case_educate-customers-partners
+0096-disco_customer-use-case_run-learning-community

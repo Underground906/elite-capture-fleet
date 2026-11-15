@@ -1,0 +1,13 @@
+#yoodli.ai
+0025-yoodli_industries_financial-services
+0026-yoodli_industries_healthcare
+0027-yoodli_industries_professional-services
+0028-yoodli_industries_retail-hospitality
+0029-yoodli_faq
+0030-yoodli_partners
+0031-status_
+0032-yoodli_coach-directory
+0033-yoodli_glossary
+0034-yoodli_info-for-ai
+0035-yoodli_wall-of-love
+0036-yoodli_feature-announcements

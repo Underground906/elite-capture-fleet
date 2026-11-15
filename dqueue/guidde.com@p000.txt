@@ -1,0 +1,13 @@
+#guidde.com
+0001-guidde_
+0002-guidde_guidde-create
+0003-guidde_broadcast
+0004-guidde_guidde-ask
+0005-guidde_use-cases_ai-adoption
+0006-guidde_use-cases_change-management
+0007-guidde_how-it-works
+0008-guidde_security
+0009-guidde_integrations-old
+0010-guidde_roi-calculator
+0011-guidde_customer-success-stories
+0012-guidde_blog-old2

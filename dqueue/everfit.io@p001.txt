@@ -1,0 +1,13 @@
+#everfit.io
+0013-everfit_payment
+0014-everfit_booking
+0015-everfit_ai-suite
+0016-everfit_automation
+0017-everfit_pro
+0018-everfit_integration
+0019-everfit_truemed
+0020-academy_
+0021-everfit_case-studies
+0022-everfit_webinar
+0023-everfit_pricing
+0024-app_register

@@ -1,0 +1,13 @@
+#disco.co
+0013-docs_
+0014-disco_webinars
+0015-disco_demo-preview
+0016-disco_disco-alternatives
+0017-disco_customer-stories
+0018-disco_partnerships
+0019-disco_academy
+0020-app_sign-up
+0021-disco_book-a-demo
+0022-disco_platform_scale-operations
+0023-disco_blog_10-essential-features-for-modern-cohort-learning-platforms-in-2026
+0024-disco_blog_10-essential-lms-features-for-effective-learning-in-2026

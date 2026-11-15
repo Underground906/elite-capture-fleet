@@ -1,0 +1,13 @@
+#glean.com
+0025-glean_resources_product-videos
+0026-glean_resources_customer-stories_booking-com
+0027-glean_resources_customer-stories_ericsson
+0028-glean_solutions_all-teams
+0029-glean_solutions_departments_customer-service
+0030-glean_solutions_departments_engineering
+0031-glean_solutions_departments_finance
+0032-glean_solutions_departments_it-service-management
+0033-glean_solutions_departments_marketing
+0034-glean_content-hub
+0035-glean_blog
+0036-glean_webinars

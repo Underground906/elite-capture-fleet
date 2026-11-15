@@ -1,0 +1,13 @@
+#komoot.com
+0013-www_premium
+0014-www_features
+0015-www_product-updates
+0016-www_whats-new
+0017-www_gpx-merge-tool-online
+0018-www_gpx-video-preview
+0019-www_live-tracking
+0020-www_hazard-assessment
+0021-www_guide-experiences
+0022-www_groups
+0023-www_pioneers
+0024-www_ambassadors

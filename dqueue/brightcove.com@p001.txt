@@ -1,0 +1,13 @@
+#brightcove.com
+0013-brightcove_solutions_for-financial-services
+0014-brightcove_solutions_for-healthcare-and-pharma
+0015-brightcove_resource-center
+0016-brightcove_customers
+0017-vet_cae-calc
+0018-brightcove_academy_demos
+0019-brightcove_academy_home
+0020-community_member_register
+0021-brightcove_developer-resources
+0022-brightcove_company_about
+0023-brightcove_company_about_esg
+0024-brightcove_pressroom

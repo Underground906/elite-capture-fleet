@@ -1,0 +1,13 @@
+#basecamp.com
+0025-basecamp_integrations
+0026-basecamp_keyboard
+0027-basecamp_learn
+0028-basecamp_managers
+0029-basecamp_newsletter
+0030-basecamp_overkill
+0031-basecamp_security
+0032-basecamp_shapeup
+0033-basecamp_small
+0034-basecamp_support
+0035-basecamp_underdogs
+0036-basecamp_yes

@@ -1,0 +1,13 @@
+#gsap.com
+0049-gsap_docs_v3_GSAP
+0050-gsap_docs_v3_HelperFunctions
+0051-gsap_docs_v3_Eases_CustomBounce
+0052-gsap_docs_v3_Eases_CustomEase
+0053-gsap_docs_v3_Eases_CustomWiggle
+0054-gsap_docs_v3_Eases_ExpoScaleEase
+0055-gsap_docs_v3_Eases_RoughEase
+0056-gsap_docs_v3_Eases_SlowMo
+0057-gsap_docs_v3_Eases_SteppedEase
+0058-gsap_docs_v3_GSAP_Timeline
+0059-gsap_docs_v3_GSAP_Tween
+0060-gsap_docs_v3_GSAP_UtilityMethods

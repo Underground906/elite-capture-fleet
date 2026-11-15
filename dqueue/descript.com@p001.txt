@@ -1,0 +1,13 @@
+#descript.com
+0013-descript_ai-avatars
+0014-descript_ai_automatic-multicam
+0015-descript_ai_edit-for-clarity
+0016-descript_eye-contact
+0017-descript_tools
+0018-descript_tools_green-screen
+0019-descript_video-regenerate
+0020-descript_brand-studio
+0021-descript_studio-sound
+0022-descript_filler-words
+0023-descript_regenerate
+0024-descript_underlord

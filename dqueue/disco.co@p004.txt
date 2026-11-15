@@ -1,0 +1,13 @@
+#disco.co
+0049-disco_cohort-based-course-playbook
+0050-disco_cohort-based-course-playbook-access
+0051-disco_cohort-based-learning
+0052-disco_customer-academy-platform
+0053-disco_demo-confirmation
+0054-disco_disco-x-futurefohrward
+0055-disco_events
+0056-disco_gated-disco-x-futurefohrward
+0057-disco_get-a-preview
+0058-disco_guides
+0059-disco_k-12-guide
+0060-disco_k-12-guide-gated

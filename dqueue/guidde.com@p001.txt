@@ -1,0 +1,13 @@
+#guidde.com
+0013-help_en
+0014-guidde_about
+0015-guidde_careers
+0016-guidde_contact-us
+0017-guidde_download-desktop
+0018-guidde_knowledge-hub
+0019-guidde_media-kit
+0020-guidde_partners
+0021-guidde_release-notes
+0022-guidde_tool-comparison
+0023-guidde_compare_guidde-vs-camtasia
+0024-guidde_compare_guidde-vs-loom

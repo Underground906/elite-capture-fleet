@@ -1,0 +1,13 @@
+#arketa.com
+0001-arketa_
+0002-arketa_about-us
+0003-arketa_features
+0004-arketa_business-type
+0005-arketa_blog
+0006-arketa_pricing
+0007-arketa_careers
+0008-arketa_contact
+0009-arketa_developers
+0010-arketa_integrations-partners
+0011-arketa_migrations
+0012-arketa_webinars

@@ -1,0 +1,13 @@
+#scribe.com
+0037-scribe_pricing
+0038-scribe_careers
+0039-scribe_resources
+0040-scribehow_approve-device
+0041-scribe_banner-ads
+0042-scribehow_billing
+0043-scribehow_community
+0044-scribe_contact-sales-old
+0045-scribehow_create-mobile
+0046-scribehow_creating-scribe
+0047-scribehow_desktop
+0048-scribehow_embed-login

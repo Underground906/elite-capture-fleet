@@ -1,0 +1,13 @@
+#scribe.com
+0001-scribe_
+0002-scribe_capture
+0003-scribe_capture_autocapture
+0004-scribe_optimize
+0005-scribe_specialized-intelligence
+0006-scribe_integrations
+0007-scribe_solutions_ai-automation
+0008-scribe_solutions_drive-ai-transformation
+0009-scribe_solutions_finance-acc
+0010-scribe_solutions_hr-ld
+0011-scribe_solutions_implement-software
+0012-scribehow_signup

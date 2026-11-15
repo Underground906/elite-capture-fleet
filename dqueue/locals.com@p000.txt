@@ -1,0 +1,5 @@
+#locals.com
+0001-locals_
+0002-blog_en
+0003-locals_site_coins
+0004-locals_site_creator-features

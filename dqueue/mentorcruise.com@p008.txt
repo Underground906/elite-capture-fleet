@@ -1,0 +1,13 @@
+#mentorcruise.com
+0097-mentorcruise_consultant_aicareer
+0098-mentorcruise_consulting-firms_abtesting
+0099-mentorcruise_consulting-firms_agenticai
+0100-mentorcruise_consulting-firms_agile
+0101-mentorcruise_consulting-firms_ai
+0102-mentorcruise_consulting-firms_aiagent
+0103-mentorcruise_courses_advertising
+0104-mentorcruise_courses_agiledevelopment
+0105-mentorcruise_courses_ai
+0106-mentorcruise_courses_algorithms
+0107-mentorcruise_courses_analytics
+0108-mentorcruise_experts_abtesting

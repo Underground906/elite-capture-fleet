@@ -1,0 +1,13 @@
+#scribe.com
+0134-scribe_optimize-lp_reduce-it-spend
+0135-scribe_optimize-lp_roi-business-case
+0136-scribe_optimize-lp_workflow-mining
+0137-scribe_osaic_getstarted
+0138-scribe_page-templates_30-60-90-day-template
+0139-scribe_page-templates_5s-process-improvement-template
+0140-scribe_page-templates_account-management-sop-template
+0141-scribe_page-templates_action-plan-template
+0142-scribe_page-templates_app-licensing-passwords-login-credentials-details-of-internal-infras
+0143-scribe_quiz_sop
+0144-scribehow_sidebar_popular-apps
+0145-scribehow_sidebar_recorder

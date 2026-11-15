@@ -1,0 +1,13 @@
+#vidyard.com
+0037-vidyard_pricing
+0038-vidyard_contact-us
+0039-secure_user_sign_in
+0040-auth_signup
+0041-trust_
+0042-vidyard_about
+0043-vidyard_accessibility
+0044-vidyard_aia-product-tour
+0045-vidyard_cam-test
+0046-vidyard_careers
+0047-vidyard_compare
+0048-vidyard_deib

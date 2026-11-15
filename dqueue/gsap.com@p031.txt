@@ -1,0 +1,13 @@
+#gsap.com
+0373-gsap_docs_v3_Plugins_ScrollTrigger_static-clearScrollMemory-
+0374-gsap_docs_v3_Plugins_ScrollTrigger_static-config-
+0375-gsap_docs_v3_Plugins_ScrollTrigger_static-create-
+0376-gsap_docs_v3_Plugins_ScrollTrigger_static-defaults-
+0377-gsap_docs_v3_Plugins_ScrollTrigger_static-getAll-
+0378-gsap_docs_v3_Plugins_ScrollTrigger_static-getById-
+0379-gsap_docs_v3_Plugins_ScrollTrigger_static-isInViewport-
+0380-gsap_docs_v3_Plugins_ScrollTrigger_static-isScrolling-
+0381-gsap_docs_v3_Plugins_ScrollTrigger_static-isTouch
+0382-gsap_docs_v3_Plugins_ScrollTrigger_static-killAll-
+0383-gsap_docs_v3_Plugins_ScrollTrigger_static-matchMedia-
+0384-gsap_docs_v3_Plugins_ScrollTrigger_static-maxScroll-

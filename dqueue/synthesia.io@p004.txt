@@ -1,0 +1,13 @@
+#synthesia.io
+0049-synthesia_responsible-ai
+0050-synthesia_research
+0051-synthesia_about
+0052-synthesia_ai-governance
+0053-synthesia_alternatives
+0054-synthesia_community
+0055-synthesia_customer-service
+0056-developers_docs
+0057-synthesia_enterprise
+0058-synthesia_newsroom
+0059-synthesia_partners
+0060-synthesia_powerpoint-to-video

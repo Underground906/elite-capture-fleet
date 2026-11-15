@@ -1,0 +1,13 @@
+#meilisearch.com
+0001-meilisearch_
+0002-meilisearch_pricing
+0003-meilisearch_blog
+0004-discord_
+0005-meilisearch_careers
+0006-meilisearch_cloud
+0007-meilisearch_comparisons
+0008-meilisearch_customers
+0009-meilisearch_docs
+0010-meilisearch_eu
+0011-meilisearch_integrations
+0012-meilisearch_launch-week

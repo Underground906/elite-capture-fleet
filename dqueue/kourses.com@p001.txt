@@ -1,0 +1,13 @@
+#kourses.com
+0013-kourses_private-communities
+0014-kourses_member-messaging
+0015-kourses_member-profiles
+0016-kourses_community-moderation
+0017-kourses_community-broadcasts
+0018-kourses_checkout-pages
+0019-kourses_multiple-order-bumps
+0020-kourses_one-click-upsells
+0021-kourses_flexible-payment-options
+0022-kourses_abandon-cart-recovery
+0023-kourses_sales-payment-management
+0024-kourses_coupons

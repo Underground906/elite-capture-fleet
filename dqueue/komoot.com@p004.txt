@@ -1,0 +1,10 @@
+#komoot.com
+0049-komoot_whats-new
+0050-komoot_account_gift
+0051-komoot_b2b_embed
+0052-komoot_community_guidelines
+0053-komoot_discover_bikepacking
+0054-komoot_discover_hiking-trails
+0055-komoot_discover_mountain-bike-trails
+0056-komoot_discover_road-cycling-routes
+0058-komoot_security_bug-bounty
