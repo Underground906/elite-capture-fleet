@@ -1,0 +1,8 @@
+3001	https://deeplearning.ai/
+3002	https://deeplearning.ai/courses
+3003	https://deeplearning.ai/community
+3004	https://deeplearning.ai/about
+3005	https://deeplearning.ai/forum/community-programs
+3006	https://deeplearning.ai/forum/mentors
+3007	https://deeplearning.ai/specializations/ai-for-good
+3008	https://deeplearning.ai/specializations/ai-for-medicine

@@ -1,4 +1,0 @@
-125	https://shop.alltrails.com/pages/eco-t-shirt-size-chart
-126	https://shop.alltrails.com/pages/flask-product-details
-127	https://shop.alltrails.com/pages/cup-product-details
-128	https://shop.alltrails.com/pages/washing-instructions

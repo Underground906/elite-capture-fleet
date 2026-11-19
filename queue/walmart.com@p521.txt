@@ -1,0 +1,16 @@
+4001	https://walmart.com/my-registries
+4002	https://walmart.com/orders
+4003	https://walmart.com/plus
+4004	https://walmart.com/cp/subscriptions/4191733
+4005	https://walmart.com/shop/discover-great-brands
+4006	https://walmart.com/all-departments
+4007	https://walmart.com/help
+4008	https://walmart.com/brand/branddirectory
+4009	https://walmart.com/store/directory
+4010	https://business.walmart.com/cp/about-walmart-business/6136230
+4011	https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+4012	https://walmart.com/shop/deals
+4013	https://walmart.com/c/auto-directory/shop-by-model
+4014	https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+4015	https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+4016	https://walmart.com/c/auto-directory/parts/acura/32cl

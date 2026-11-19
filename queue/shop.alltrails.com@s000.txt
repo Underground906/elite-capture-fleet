@@ -1,4 +1,0 @@
-1	https://shop.alltrails.com/
-2	https://shop.alltrails.com/collections/fall-gear-sale
-3	https://shop.alltrails.com/collections
-4	https://shop.alltrails.com/collections/all

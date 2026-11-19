@@ -1,0 +1,16 @@
+3001	https://alltrails.com/explore
+3002	https://alltrails.com/directory/countries
+3003	https://alltrails.com/directory/trail-features
+3004	https://alltrails.com/directory/cities/A/1
+3005	https://alltrails.com/directory/parks/A/1
+3006	https://alltrails.com/signup
+3007	https://alltrails.com/adv/custom-routes/new
+3008	https://alltrails.com/converter
+3009	https://alltrails.com/about
+3010	https://alltrails.com/careers
+3011	https://alltrails.com/press
+3012	https://alltrails.com/ambassadors
+3013	https://alltrails.com/affiliates
+3014	https://alltrails.com/community
+3015	https://alltrails.com/whats-new
+3016	https://alltrails.com/gift

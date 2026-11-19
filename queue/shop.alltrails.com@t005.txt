@@ -1,0 +1,2 @@
+21	https://shop.alltrails.com/account/login
+22	https://shop.alltrails.com/account/register

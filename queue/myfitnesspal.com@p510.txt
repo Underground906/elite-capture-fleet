@@ -1,0 +1,2 @@
+3001	https://myfitnesspal.com/api
+3002	https://myfitnesspal.com/account/create/welcome

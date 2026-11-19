@@ -1,0 +1,4 @@
+17	https://shop.alltrails.com/pages/hoodie-size-chart
+18	https://shop.alltrails.com/pages/contact
+19	https://shop.alltrails.com/cart
+20	https://shop.alltrails.com/search?q=hoodie

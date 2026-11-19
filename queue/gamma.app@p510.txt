@@ -1,0 +1,9 @@
+3001	https://gamma.app/
+3002	https://gamma.app/products/api
+3003	https://gamma.app/products/documents
+3004	https://gamma.app/integrations
+3005	https://gamma.app/integrations/chatgpt
+3006	https://gamma.app/solutions/consultants
+3007	https://gamma.app/solutions/educators
+3008	https://gamma.app/about
+3009	https://gamma.app/pricing

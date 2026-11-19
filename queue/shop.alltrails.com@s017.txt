@@ -1,4 +1,0 @@
-69	https://shop.alltrails.com/collections/accessories
-70	https://shop.alltrails.com/collections/drinkware
-71	https://shop.alltrails.com/collections/pet-gear
-72	https://shop.alltrails.com/collections/games-and-books

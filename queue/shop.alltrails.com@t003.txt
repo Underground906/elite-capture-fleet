@@ -1,0 +1,4 @@
+13	https://shop.alltrails.com/blogs/news
+14	https://shop.alltrails.com/blogs/member-deals/rumpl
+15	https://shop.alltrails.com/pages/faqs
+16	https://shop.alltrails.com/pages/shipping-returns

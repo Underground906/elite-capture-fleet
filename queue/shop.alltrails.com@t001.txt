@@ -1,0 +1,4 @@
+5	https://shop.alltrails.com/collections/tees
+6	https://shop.alltrails.com/collections/hoodies-sweatshirts
+7	https://shop.alltrails.com/collections/headwear
+8	https://shop.alltrails.com/collections/national-park-pass
