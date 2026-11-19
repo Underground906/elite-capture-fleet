@@ -1,0 +1,4 @@
+9	https://speak.com/course-categories/01-beginner
+10	https://speak.com/course-day-list/001-basics-0-day-0
+11	https://speak.com/course-list/01-basics-0
+12	https://speak.com/new-course-lists/01-basics-0

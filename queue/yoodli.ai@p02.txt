@@ -1,0 +1,4 @@
+9	https://yoodli.ai/blog
+10	https://yoodli.ai/coach-directory
+11	https://yoodli.ai/copyright
+12	https://yoodli.ai/courses

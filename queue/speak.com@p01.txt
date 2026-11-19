@@ -1,0 +1,4 @@
+5	https://speak.com/download
+6	https://speak.com/gift
+7	https://speak.com/install
+8	https://speak.com/conversation-lists/01-meeting-people

@@ -1,0 +1,4 @@
+13	https://yoodli.ai/faq
+14	https://yoodli.ai/feature-announcements
+15	https://yoodli.ai/glossary
+16	https://yoodli.ai/gong-real-call-integration

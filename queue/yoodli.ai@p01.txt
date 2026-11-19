@@ -1,0 +1,4 @@
+5	https://yoodli.ai/industries/education
+6	https://yoodli.ai/pricing
+7	https://yoodli.ai/case-studies
+8	https://yoodli.ai/about

@@ -1,0 +1,4 @@
+1	https://yoodli.ai/
+2	https://yoodli.ai/platform/ai-integrations
+3	https://yoodli.ai/solutions/learning-development
+4	https://yoodli.ai/use-cases/crucial-conversations

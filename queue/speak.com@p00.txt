@@ -1,0 +1,4 @@
+1	https://speak.com/
+2	https://speak.com/blog
+3	https://speak.com/b2b
+4	https://speak.com/chatgpt
