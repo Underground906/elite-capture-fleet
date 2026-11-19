@@ -1,0 +1,3 @@
+904	https://speak.com/course-categories/01-beginner
+905	https://speak.com/course-list/01-basics-0
+906	https://speak.com/single-pack-lists/01-business-annoying-1

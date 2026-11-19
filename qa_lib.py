@@ -1,8 +1,9 @@
 import re, json
 from pathlib import Path
 from PIL import Image
-APP_MODE = False
-WALL = re.compile(r'access denied|just a moment|human|robot|verification|unable to process|forbidden|attention required|are you a|captcha|403|blocked', re.I)
+import os
+APP_MODE = bool(os.environ.get('FLEET_ALLOW_LITTLE'))
+WALL = re.compile(r'access denied|just a moment|verify you are human|are you (a )?human|human verification|robot check|verification required|unable to process|forbidden|attention required|captcha|blocked', re.I)
 COOKIE = re.compile(r'cookie|consent|we value your privacy|accept all|privacy preferences', re.I)
 def qa(out):
     fails = []; png = out / 'page.png'

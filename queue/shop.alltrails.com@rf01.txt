@@ -1,0 +1,2 @@
+904	https://shop.alltrails.com/account/login
+905	https://shop.alltrails.com/account/register

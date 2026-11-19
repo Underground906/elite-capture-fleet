@@ -1,0 +1,2 @@
+900	https://yoodli.ai/about
+901	https://yoodli.ai/info-for-ai
