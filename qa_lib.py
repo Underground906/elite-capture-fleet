@@ -23,7 +23,7 @@ def qa(out):
     # cookie / consent box left on the page
     for e in els:
         st = e.get('style') or {}
-        if st.get('position') in ('fixed', 'sticky') and e['w'] >= 300 and e['h'] >= 60 and COOKIE.search(e.get('text') or ''):
+        if st.get('position') in ('fixed', 'sticky') and e['w'] >= 200 and e['h'] >= 12 and COOKIE.search(e.get('text') or ''):
             fails.append('cookie/consent box still on page'); break
     try:
         from clean_live import blank_bands

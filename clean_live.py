@@ -4,7 +4,7 @@ forces scroll-reveal / lazy content visible. Returns a dict of what was removed.
 CLEAN_JS = r"""
 () => {
   const rep = {removed: 0, kinds: [], revealed: 0};
-  const COOKIE = /cookie|consent|gdpr|privacy (settings|preferences|policy)|accept (all|cookies)|reject (all|cookies)|manage (preferences|cookies)|we use (cookies|tracking)|tracking technolog|datenschutz|cookie-einstellungen|alle akzeptieren|ablehnen|zustimmen/i;
+  const COOKIE = /cookie|cookies|consent|gdpr|privacy (settings|preferences|policy)|accept (all|cookies)|reject (all|cookies)|manage (preferences|cookies)|we use (cookies|tracking)|tracking technolog|datenschutz|cookie-einstellungen|alle akzeptieren|ablehnen|zustimmen/i;
   const SEL = ['#onetrust-consent-sdk','#onetrust-banner-sdk','#CybotCookiebotDialog','#CybotCookiebotDialogBodyUnderlay','#usercentrics-root','#usercentrics-cmp-ui',
     '#cookie-law-info-bar','#cookiebanner','#cookie-banner','#cookie-notice','#cookieConsent','#cookie_consent','#gdpr-cookie-notice','#truste-consent-track',
     '.cc-window','.cc-banner','.cookie-banner','.cookie-notice','.cookie-consent','.cookie-popup','.cookiebar','.cookie-bar','.cmp-container','.osano-cm-window',
@@ -18,7 +18,7 @@ CLEAN_JS = r"""
   const vw = innerWidth, vh = innerHeight;
   for (const el of Array.from(document.querySelectorAll('body *'))) {
     const cs = getComputedStyle(el); if (!['fixed', 'sticky', 'absolute'].includes(cs.position)) continue;
-    const r = el.getBoundingClientRect(); if (r.width < 200 || r.height < 40) continue;
+    const r = el.getBoundingClientRect(); if (r.width < 180 || r.height < 12) continue;
     const t = (el.innerText || '').slice(0, 800);
     if (cs.position !== 'absolute' && COOKIE.test(t) && r.height < vh * 0.9) { kill(el, 'fixed-text'); continue; }
     if (cs.position === 'absolute' && COOKIE.test(t) && t.length < 700 && r.height < 420 && parseInt(cs.zIndex || '0') > 100) { kill(el, 'abs-text'); continue; }
