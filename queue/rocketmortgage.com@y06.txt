@@ -1,0 +1,5 @@
+31	https://www.rocketmortgage.com/refinance-rates
+32	https://www.rocketmortgage.com/rate-updates
+33	https://www.rocketmortgage.com/mortgage-rates/30-year-mortgage-rates
+34	https://www.rocketmortgage.com/mortgage-rates/fha-loan-rates
+35	https://www.rocketmortgage.com/refinance-rates/fha-refinance-rates

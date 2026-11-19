@@ -38,6 +38,14 @@ CLEAN_JS = r"""
     const cs = getComputedStyle(el);
     if (cs.opacity === '0' && cs.display !== 'none' && el.getBoundingClientRect().height > 20 && !/modal|dialog|tooltip|popover|dropdown|menu|drawer|overlay|toast/i.test(el.className + ' ' + (el.getAttribute('role') || ''))) { el.style.setProperty('opacity', '1', 'important'); if (cs.transform !== 'none') el.style.setProperty('transform', 'none', 'important'); rep.revealed++; }
   }
+
+  // sticky / fixed top bars: pin them to the very top of the page so a full-page screenshot never shows a header in the middle
+  for (const el of Array.from(document.querySelectorAll('body *'))) {
+    const cs = getComputedStyle(el); if (cs.position !== 'fixed' && cs.position !== 'sticky') continue;
+    const r = el.getBoundingClientRect(); if (r.width < vw * 0.6 || r.height > 220) continue;
+    if (cs.position === 'fixed' || r.top < 200) { el.style.setProperty('position', 'absolute', 'important'); el.style.setProperty('top', '0px', 'important'); el.style.setProperty('left', '0px', 'important'); el.style.setProperty('transform', 'none', 'important'); rep.kinds.push('header-pinned'); }
+  }
+  window.scrollTo(0, 0);
   document.querySelectorAll('img[loading=lazy]').forEach(i => i.loading = 'eager');
   document.querySelectorAll('img[data-src]').forEach(i => { if (!i.src || i.src.startsWith('data:')) i.src = i.dataset.src; });
   return rep;

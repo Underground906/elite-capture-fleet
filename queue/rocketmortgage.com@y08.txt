@@ -1,0 +1,5 @@
+41	https://www.rocketmortgage.com/home-loans/one-plus
+42	https://www.rocketmortgage.com/home-loans/rate-and-term-refinance
+43	https://www.rocketmortgage.com/
+44	https://www.rocketmortgage.com/purchase
+45	https://www.rocketmortgage.com/refinance
