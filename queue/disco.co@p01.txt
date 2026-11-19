@@ -1,0 +1,4 @@
+5	https://disco.co/platform/create-programs
+6	https://disco.co/pricing
+7	https://disco.co/blog
+8	https://disco.co/blog/10-essential-features-for-modern-cohort-learning-platforms-in-2026

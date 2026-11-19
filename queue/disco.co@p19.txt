@@ -1,0 +1,4 @@
+77	https://disco.co/learning-community/examples
+78	https://disco.co/online-courses/examples
+79	https://disco.co/online-courses/how-to-create
+80	https://disco.co/product-updates/ai-generated-images

@@ -1,0 +1,4 @@
+45	https://disco.co/blog-category/cohorts
+46	https://disco.co/cohort-based-course-playbook-chapter/course-content-creation
+47	https://disco.co/cohort-based-course-playbook-chapter/create-a-cohort-based-course
+48	https://disco.co/comparison/circle

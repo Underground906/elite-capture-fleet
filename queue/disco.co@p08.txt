@@ -1,0 +1,4 @@
+33	https://disco.co/partnerships
+34	https://disco.co/product-updates
+35	https://disco.co/request-demo
+36	https://disco.co/run-learning-community

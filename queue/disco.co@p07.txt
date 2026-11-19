@@ -1,0 +1,4 @@
+29	https://disco.co/k-12-guide
+30	https://disco.co/manifesto
+31	https://disco.co/mcp
+32	https://disco.co/mobile

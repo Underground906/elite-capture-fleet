@@ -1,0 +1,4 @@
+73	https://disco.co/learning-community-directory-topics/artificial-intelligence-machine-learning
+74	https://disco.co/learning-community-directory/application
+75	https://disco.co/learning-community-directory/communities
+76	https://disco.co/learning-community/case-studies

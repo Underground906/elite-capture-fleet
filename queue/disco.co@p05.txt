@@ -1,0 +1,4 @@
+21	https://disco.co/customer-academy-platform
+22	https://disco.co/customer-education
+23	https://disco.co/customer-stories
+24	https://disco.co/disco-alternatives

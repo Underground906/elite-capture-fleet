@@ -1,0 +1,4 @@
+37	https://disco.co/security
+38	https://disco.co/the-virtual-academy-playbook
+39	https://disco.co/training-business-platform
+40	https://disco.co/training-businesses
