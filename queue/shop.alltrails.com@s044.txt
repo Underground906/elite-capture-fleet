@@ -1,0 +1,4 @@
+177	https://shop.alltrails.com/pages/allbirds-mens-sea-tee-details
+178	https://shop.alltrails.com/pages/allbirds-womens-shorts-details
+179	https://shop.alltrails.com/pages/hiking-kit-details
+180	https://shop.alltrails.com/pages/hiker-sock-details

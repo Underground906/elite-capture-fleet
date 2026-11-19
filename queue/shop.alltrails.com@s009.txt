@@ -1,0 +1,4 @@
+37	https://shop.alltrails.com/collections/alltrails-grand-trunk
+38	https://shop.alltrails.com/collections/blankets-towels
+39	https://shop.alltrails.com/collections/foliage-collection
+40	https://shop.alltrails.com/collections/treeline-collection

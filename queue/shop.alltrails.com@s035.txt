@@ -1,0 +1,4 @@
+141	https://shop.alltrails.com/pages/miir-shipping-returns
+142	https://shop.alltrails.com/pages/collaboration-shipping-returns
+143	https://shop.alltrails.com/pages/roo-double-details
+144	https://shop.alltrails.com/pages/roo-double-return-and-exchanges

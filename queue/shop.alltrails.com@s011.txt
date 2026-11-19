@@ -1,0 +1,4 @@
+45	https://shop.alltrails.com/collections/camp-essentials
+46	https://shop.alltrails.com/collections/gift-guide
+47	https://shop.alltrails.com/collections/everyday-adventurer
+48	https://shop.alltrails.com/collections/go-getter

@@ -1,0 +1,4 @@
+73	https://shop.alltrails.com/collections/cart-add-ons
+74	https://shop.alltrails.com/collections/alltrails-stio
+75	https://shop.alltrails.com/collections/featured-stio-products
+76	https://shop.alltrails.com/collections/collaborations

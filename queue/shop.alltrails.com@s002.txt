@@ -1,0 +1,4 @@
+9	https://shop.alltrails.com/pages/contact
+10	https://shop.alltrails.com/collections/best-sellers
+11	https://shop.alltrails.com/collections/tees
+12	https://shop.alltrails.com/collections/long-sleeves

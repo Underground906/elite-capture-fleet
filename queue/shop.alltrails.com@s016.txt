@@ -1,0 +1,4 @@
+65	https://shop.alltrails.com/collections/shop-all
+66	https://shop.alltrails.com/collections/final-haul
+67	https://shop.alltrails.com/collections/new-arrivals
+68	https://shop.alltrails.com/collections/all-apparel

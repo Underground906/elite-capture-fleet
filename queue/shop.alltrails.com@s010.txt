@@ -1,0 +1,4 @@
+41	https://shop.alltrails.com/collections/mountain-fog-collection
+42	https://shop.alltrails.com/collections/forest-friends-collection
+43	https://shop.alltrails.com/collections/alltrails-cotopaxi
+44	https://shop.alltrails.com/collections/gear-for-the-year-sale

@@ -1,0 +1,4 @@
+57	https://shop.alltrails.com/collections/trailhead-gear-series
+58	https://shop.alltrails.com/collections/bundle-and-save
+59	https://shop.alltrails.com/collections/bottoms
+60	https://shop.alltrails.com/collections/cozy-adventures-await

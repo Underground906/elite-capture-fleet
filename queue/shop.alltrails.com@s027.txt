@@ -1,0 +1,4 @@
+109	https://shop.alltrails.com/blogs/member-deals/matador
+110	https://shop.alltrails.com/blogs/member-deals/expedia
+111	https://shop.alltrails.com/blogs/member-deals/kavu
+112	https://shop.alltrails.com/blogs/member-deals/peakdesign

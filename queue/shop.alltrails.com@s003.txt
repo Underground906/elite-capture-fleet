@@ -1,0 +1,4 @@
+13	https://shop.alltrails.com/collections/hoodies-sweatshirts
+14	https://shop.alltrails.com/collections/headwear
+15	https://shop.alltrails.com/collections/alltrails-x-rumpl-blankets
+16	https://shop.alltrails.com/collections/alltrails-allbirds

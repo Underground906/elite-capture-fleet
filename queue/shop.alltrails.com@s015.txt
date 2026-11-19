@@ -1,0 +1,4 @@
+61	https://shop.alltrails.com/collections/employee-gift
+62	https://shop.alltrails.com/collections/holiday-gifting
+63	https://shop.alltrails.com/collections/toughcutie
+64	https://shop.alltrails.com/collections/earth-month-2025

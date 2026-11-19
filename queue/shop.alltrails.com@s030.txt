@@ -1,0 +1,4 @@
+121	https://shop.alltrails.com/blogs/member-deals
+122	https://shop.alltrails.com/pages/pullover-size-chart
+123	https://shop.alltrails.com/pages/faqs
+124	https://shop.alltrails.com/pages/shipping-returns

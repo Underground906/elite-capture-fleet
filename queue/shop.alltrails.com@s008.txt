@@ -1,0 +1,4 @@
+33	https://shop.alltrails.com/collections/superbloom-collection
+34	https://shop.alltrails.com/collections/sunglasses
+35	https://shop.alltrails.com/collections/alltrails-topo-designs
+36	https://shop.alltrails.com/collections/socks

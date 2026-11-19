@@ -1,0 +1,4 @@
+305	https://shop.alltrails.com/products/classic-crew-trail-sock-seafoam
+306	https://shop.alltrails.com/products/mountain-crew-trail-sock-forest
+307	https://shop.alltrails.com/products/alltrails-x-grand-trunk-compass-360-stool
+308	https://shop.alltrails.com/products/foliage-tee-heather-red

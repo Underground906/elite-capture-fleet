@@ -1,0 +1,4 @@
+5	https://shop.alltrails.com/cart
+6	https://shop.alltrails.com/search?q=hoodie
+7	https://shop.alltrails.com/account/login
+8	https://shop.alltrails.com/account/register
