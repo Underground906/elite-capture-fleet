@@ -28,13 +28,10 @@ JS = r"""
     'opacity','transform','transition','animationName','animationDuration','zIndex','overflow','objectFit',
     'backdropFilter','filter','mixBlendMode','cursor','fontVariantNumeric','whiteSpace'];
   const ownText = el => { let t=''; for (const c of el.childNodes) if (c.nodeType===3) t+=c.textContent; return t.replace(/\s+/g,' ').trim(); };
-  const _KG = Object.getOwnPropertyDescriptor(Element.prototype,'children').get, _TG = Object.getOwnPropertyDescriptor(Element.prototype,'tagName').get;
-  const KIDS = e => { try { return [..._KG.call(e)]; } catch(_) { return []; } };
-  const TAG = e => { try { return _TG.call(e).toLowerCase(); } catch(_) { return ''; } };
-  const shape = el => KIDS(el).slice(0,8).map(c=>TAG(c)+'('+KIDS(c).slice(0,6).map(TAG).join(',')+')').join('');
+  const shape = el => [...el.children].slice(0,8).map(c=>c.tagName.toLowerCase()+'('+[...c.children].slice(0,6).map(g=>g.tagName.toLowerCase()).join(',')+')').join('');
   function walk(el, depth, parent){
     if (el.nodeType!==1) return;
-    const tag = TAG(el);
+    const tag = el.tagName.toLowerCase();
     if (['script','style','noscript','template','meta','link','head'].includes(tag)) return;
     const cs = getComputedStyle(el); if (cs.display==='none') return;
     const r = el.getBoundingClientRect();
@@ -47,7 +44,7 @@ JS = r"""
         x: Math.round(r.left+scrollX), y: Math.round(r.top+scrollY), w: Math.round(r.width), h: Math.round(r.height),
         text: ownText(el).slice(0,4000), href: el.getAttribute('href')||'', src: el.currentSrc||el.getAttribute('src')||'',
         alt: el.getAttribute('alt')||'', type: el.getAttribute('type')||'', placeholder: el.getAttribute('placeholder')||'',
-        children: KIDS(el).length, shape: shape(el), style: s,
+        children: el.children.length, shape: shape(el), style: s,
         selected: el.getAttribute('aria-selected')==='true'||el.getAttribute('aria-pressed')==='true'||/\b(active|selected|is-active|current)\b/.test(el.className&&el.className.baseVal===undefined?el.className:'')};
       if (tag==='svg'){ rec.svg = el.outerHTML.slice(0,20000); rec.svg_parts = el.querySelectorAll('path,circle,rect,line,polyline,polygon').length;
         rec.svg_circles = el.querySelectorAll('circle').length; rec.svg_rects = el.querySelectorAll('rect').length;
@@ -56,7 +53,7 @@ JS = r"""
       out.push(rec);
     }
     if (tag==='svg') return;
-    for (const c of KIDS(el)) walk(c, depth+1, id);
+    for (const c of el.children) walk(c, depth+1, id);
     if (el.shadowRoot) for (const c of el.shadowRoot.children) walk(c, depth+1, id);
   }
   walk(document.body, 0, -1);
@@ -80,7 +77,7 @@ JS = r"""
   for (const el of document.querySelectorAll('*')) { const b=getComputedStyle(el).backgroundImage; if (b && b.includes('url(')) for (const m of b.matchAll(/url\(["']?([^"')]+)["']?\)/g)) assets.push({kind:'bg', url:m[0].length?new URL(m[1],location.href).href:''}); }
   for (const e of performance.getEntriesByType('resource')) if (/\.(woff2?|ttf|otf)(\?|$)/i.test(e.name)) assets.push({kind:'font', url:e.name});
   for (const e of performance.getEntriesByType('resource')) if (/\.(json|lottie|riv|splinecode|glb|gltf)(\?|$)/i.test(e.name)) assets.push({kind:'motion_or_3d', url:e.name});
-  const headings = [...document.querySelectorAll('h1,h2,h3')].slice(0,80).map(h=>({tag:String(h.tagName||h.nodeName||"").toLowerCase(), text:(h.innerText||'').trim().slice(0,200)}));
+  const headings = [...document.querySelectorAll('h1,h2,h3')].slice(0,80).map(h=>({tag:h.tagName.toLowerCase(), text:(h.innerText||'').trim().slice(0,200)}));
   return {url: location.href, title: document.title, lang: document.documentElement.lang, height: document.documentElement.scrollHeight,
           description: (document.querySelector('meta[name=description]')||{}).content||'',
           elements: out, keyframes, blocked_sheets: blocked, libs, gsap_tweens: gsapTweens, assets, headings,
@@ -317,56 +314,57 @@ def analyse(data, out):
 
 async def extract(browser, url, outdir, mobile=True, interact=True):
     out = Path(outdir); (out / 'crops').mkdir(parents=True, exist_ok=True); (out / 'icons').mkdir(exist_ok=True)
-    import time as _tm, sys as _sys; _t0 = _tm.time()
-    def _t(stage): print('  [stage %.0fs] %s %s' % (_tm.time() - _t0, stage, url), file=_sys.stderr, flush=True)
     ctx = await browser.new_context(viewport={'width': 1440, 'height': 900}, user_agent=UA, locale='en-US')
     pg = await ctx.new_page()
-    _t('goto')
     resp = await pg.goto(url, wait_until='domcontentloaded', timeout=60000)
     status = resp.status if resp else 0
-    for _ in range(8):                               # bot checks (Vercel checkpoint, Cloudflare, Akamai) often clear themselves
+    for _ in range(int(__import__('os').environ.get('ELITE_BOT_WAIT','8'))):                               # bot checks (Vercel checkpoint, Cloudflare, Akamai) often clear themselves
         t = await pg.title()
-        if not any(k in t for k in ('Checkpoint', 'Verification', 'Just a moment', 'Access Denied', 'Attention Required')): break
+        if not any(k in t for k in ('Checkpoint', 'Verification', 'Just a moment', 'Access Denied', 'Attention Required', 'blocked', 'human', 'Robot', 'robot')): break
         await pg.wait_for_timeout(4000)
-    _t('idle')
     try: await pg.wait_for_load_state('networkidle', timeout=12000)
     except Exception: pass
     await pg.evaluate("""()=>{for(const el of document.querySelectorAll('[id*=cookie i],[class*=cookie i],[id*=consent i],[class*=consent i],#onetrust-banner-sdk,.intercom-lightweight-app,#hubspot-messages-iframe-container'))
         if(getComputedStyle(el).position==='fixed'||getComputedStyle(el).position==='sticky') el.remove();}""")
-    _t('scroll')
-    for _ in range(60):
-        done = await pg.evaluate('()=>{window.scrollBy(0,800);return innerHeight+scrollY>=document.documentElement.scrollHeight-5}')
-        await pg.wait_for_timeout(220)
+    for _ in range(110):
+        done = await pg.evaluate('()=>{window.scrollBy(0,450);return innerHeight+scrollY>=document.documentElement.scrollHeight-5}')
+        await pg.wait_for_timeout(int(__import__('os').environ.get('ELITE_SCROLL_MS','380')))
         if done: break
     await pg.evaluate('()=>window.scrollTo(0,0)'); await pg.wait_for_timeout(1500)
     from elite_interact import clear_gates
-    _t('gates')
     try: gates = await clear_gates(pg, out)
     except Exception as e: gates = [{'error': str(e)[:120]}]
-    _t('dom')
     data = await pg.evaluate(JS)
-    _t('dom done %d' % len(data['elements']))
-    async def _iframe_probe():
+    if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
         best, best_n = None, 0
-        for fr in pg.frames[1:12]:
-            try: c = await asyncio.wait_for(fr.evaluate('()=>document.querySelectorAll("*").length'), timeout=8)
+        for fr in pg.frames[1:]:
+            try: c = await fr.evaluate('()=>document.querySelectorAll("*").length')
             except Exception: continue
             if c > best_n: best, best_n = fr, c
-        if best is None: return None
-        html = await asyncio.wait_for(best.content(), timeout=20); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
-        await pg.set_content(html, wait_until='load', timeout=20000); await pg.wait_for_timeout(2500)
-        d = await asyncio.wait_for(pg.evaluate(JS), timeout=60); d['url'] = url + '#iframe'
-        return d
-    if len(data['elements']) < 40 and len(pg.frames) > 1:       # wrapper page -> biggest iframe
-        _t('iframe probe %d frames' % len(pg.frames))
-        try:
-            d = await asyncio.wait_for(_iframe_probe(), timeout=120)
-            if d: data = d
-        except Exception as e: _t('iframe probe gave up: %s' % str(e)[:80])
-    _t('shot')
-    await pg.screenshot(path=str(out / 'page.png'), full_page=True)
-    (out / 'page.html').write_text(await pg.content(), encoding='utf-8')
-    _t('interact')
+        if best is not None:
+            html = await best.content(); (out / 'iframe_source.html').write_text(html, encoding='utf-8')
+            await pg.set_content(html, wait_until='load'); await pg.wait_for_timeout(2500)
+            data = await pg.evaluate(JS); data['url'] = url + '#iframe'
+    try:
+        from clean_live import clean_live
+        _cl = await clean_live(pg); (out / 'clean_live.json').write_text(json.dumps(_cl), encoding='utf-8')
+        await pg.evaluate('window.scrollTo(0,0)'); await pg.wait_for_timeout(500)
+    except Exception as _e: pass
+    await pg.screenshot(path=str(out / 'page.png'), full_page=True, timeout=150000)
+    if __import__('os').environ.get('FAST_FILE'):
+        (out / 'page.html').write_text(await pg.content(), encoding='utf-8')
+        (out / 'inline_stats.json').write_text(json.dumps({'fast_lane': True, 'renders_alone': True}), encoding='utf-8')
+    else:
+      try:
+          from inline_html import inline_page, verify_render
+          _st = await inline_page(pg, out)
+          try: _ok, _d = await verify_render(ctx, out)
+          except Exception as _e: _ok, _d = None, 'verify error ' + str(_e)[:80]
+          _st['renders_alone'] = _ok; _st['render_check'] = _d
+          (out / 'inline_stats.json').write_text(json.dumps(_st), encoding='utf-8')
+      except Exception as _e:
+          (out / 'page.html').write_text(await pg.content(), encoding='utf-8')
+          (out / 'inline_stats.json').write_text(json.dumps({'error': str(_e)[:200]}), encoding='utf-8')
     inter = flow = tool = None
     if interact and not data['url'].endswith('#iframe'):
         import copy as _copy
@@ -382,7 +380,6 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
             await pg.set_viewport_size({'width': 390, 'height': 844}); await pg.wait_for_timeout(1200)
             await pg.screenshot(path=str(out / 'page_mobile.png'), full_page=True)
         except Exception: pass
-    _t('analyse')
     await ctx.close()
 
     els, blocks, families, scale = analyse(data, out)
