@@ -1,0 +1,5 @@
+100	https://www.rocketclose.com/
+101	https://www.rocketclose.com/home-buyers-sellers/about-title-insurance
+102	https://www.rocketclose.com/home-buyers-sellers/choose-your-policy
+103	https://www.rocketclose.com/home-buyers-sellers/prepare-for-closing
+104	https://www.rocketclose.com/home-buyers-sellers/get-a-quote

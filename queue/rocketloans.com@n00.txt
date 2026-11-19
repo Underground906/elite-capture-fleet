@@ -1,0 +1,5 @@
+100	https://www.rocketloans.com/
+101	https://www.rocketloans.com/debt-consolidation-personal-loans
+102	https://www.rocketloans.com/home-improvement-personal-loans
+103	https://www.rocketloans.com/credit-card-consolidation-personal-loans
+104	https://www.rocketloans.com/other-uses-for-a-personal-loan

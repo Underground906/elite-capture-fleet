@@ -1,0 +1,5 @@
+110	https://www.rocketclose.com/commercial-title-services
+111	https://www.rocketclose.com/contact
+112	https://www.rocketclose.com/contact/team
+113	https://www.rocketclose.com/home-buyers-sellers/pay-earnest-money
+114	https://www.rocketclose.com/get-a-quote
