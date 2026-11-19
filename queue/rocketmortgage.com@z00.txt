@@ -1,0 +1,5 @@
+200	https://www.rocketmortgage.com/learn/preparing-to-buy
+201	https://www.rocketmortgage.com/learn/homeownership
+202	https://www.rocketmortgage.com/calculators/refinance-calculator
+203	https://www.rocketmortgage.com/calculators/mortgage-payoff-calculator
+204	https://www.rocketmortgage.com/learn/types-of-refinancing

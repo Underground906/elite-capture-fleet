@@ -1,0 +1,5 @@
+260	https://www.rocketmortgage.com/mortgage-rates/virginia-mortgage-rates
+261	https://www.rocketmortgage.com/mortgage-rates/west-virginia-mortgage-rates
+262	https://www.rocketmortgage.com/mortgage-rates/alaska-mortgage-rates
+263	https://www.rocketmortgage.com/mortgage-rates/california-mortgage-rates
+264	https://www.rocketmortgage.com/mortgage-rates/arizona-mortgage-rates

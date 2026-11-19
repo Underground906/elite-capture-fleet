@@ -1,0 +1,5 @@
+230	https://www.rocketmortgage.com/mortgage-rates/missouri-mortgage-rates
+231	https://www.rocketmortgage.com/mortgage-rates/north-dakota-mortgage-rates
+232	https://www.rocketmortgage.com/mortgage-rates/ohio-mortgage-rates
+233	https://www.rocketmortgage.com/mortgage-rates/nebraska-mortgage-rates
+234	https://www.rocketmortgage.com/mortgage-rates/wisconsin-mortgage-rates

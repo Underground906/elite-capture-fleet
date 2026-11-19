@@ -1,0 +1,5 @@
+250	https://www.rocketmortgage.com/mortgage-rates/georgia-mortgage-rates
+251	https://www.rocketmortgage.com/mortgage-rates/kentucky-mortgage-rates
+252	https://www.rocketmortgage.com/mortgage-rates/louisiana-mortgage-rates
+253	https://www.rocketmortgage.com/mortgage-rates/maryland-mortgage-rates
+254	https://www.rocketmortgage.com/mortgage-rates/north-carolina-mortgage-rates

@@ -1,0 +1,5 @@
+240	https://www.rocketmortgage.com/mortgage-rates/new-jersey-mortgage-rates
+241	https://www.rocketmortgage.com/mortgage-rates/new-york-mortgage-rates
+242	https://www.rocketmortgage.com/mortgage-rates/pennsylvania-mortgage-rates
+243	https://www.rocketmortgage.com/mortgage-rates/rhode-island-mortgage-rates
+244	https://www.rocketmortgage.com/mortgage-rates/vermont-mortgage-rates

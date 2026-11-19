@@ -1,0 +1,5 @@
+225	https://www.rocketmortgage.com/mortgage-rates/illinois-mortgage-rates
+226	https://www.rocketmortgage.com/mortgage-rates/iowa-mortgage-rates
+227	https://www.rocketmortgage.com/mortgage-rates/kansas-mortgage-rates
+228	https://www.rocketmortgage.com/mortgage-rates/minnesota-mortgage-rates
+229	https://www.rocketmortgage.com/mortgage-rates/michigan-mortgage-rates

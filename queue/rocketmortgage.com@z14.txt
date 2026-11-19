@@ -1,0 +1,5 @@
+270	https://www.rocketmortgage.com/mortgage-rates/new-mexico-mortgage-rates
+271	https://www.rocketmortgage.com/mortgage-rates/oregon-mortgage-rates
+272	https://www.rocketmortgage.com/mortgage-rates/utah-mortgage-rates
+273	https://www.rocketmortgage.com/mortgage-rates/washington-mortgage-rates
+274	https://www.rocketmortgage.com/mortgage-rates/wyoming-mortgage-rates

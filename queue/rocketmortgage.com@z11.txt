@@ -1,0 +1,5 @@
+255	https://www.rocketmortgage.com/mortgage-rates/mississippi-mortgage-rates
+256	https://www.rocketmortgage.com/mortgage-rates/oklahoma-mortgage-rates
+257	https://www.rocketmortgage.com/mortgage-rates/south-carolina-mortgage-rates
+258	https://www.rocketmortgage.com/mortgage-rates/tennessee-mortgage-rates
+259	https://www.rocketmortgage.com/mortgage-rates/texas-mortgage-rates

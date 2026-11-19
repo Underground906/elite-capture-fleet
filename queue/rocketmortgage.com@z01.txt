@@ -1,0 +1,5 @@
+205	https://www.rocketmortgage.com/home-loans/home-equity-loan
+206	https://www.rocketmortgage.com/calculators/debt-consolidation-calculator
+207	https://www.rocketmortgage.com/learn/home-equity
+208	https://www.rocketmortgage.com/learn/home-equity-loan
+209	https://www.rocketmortgage.com/learn/is-a-home-equity-loan-a-good-idea
