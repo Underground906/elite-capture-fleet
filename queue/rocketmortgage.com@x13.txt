@@ -1,0 +1,5 @@
+66	https://www.rocketmortgage.com/pre-sign?returnTo=https://rocket.com/mortgage/loan-router
+67	https://www.rocketmortgage.com/flightpath?si=31
+68	https://www.rocketmortgage.com/
+69	https://www.rocketmortgage.com/purchase
+70	https://www.rocketmortgage.com/refinance

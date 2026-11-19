@@ -1,0 +1,5 @@
+106	https://www.rocketmortgage.com/mortgage-rates/maryland-mortgage-rates
+107	https://www.rocketmortgage.com/mortgage-rates/north-carolina-mortgage-rates
+108	https://www.rocketmortgage.com/mortgage-rates/mississippi-mortgage-rates
+109	https://www.rocketmortgage.com/mortgage-rates/oklahoma-mortgage-rates
+110	https://www.rocketmortgage.com/mortgage-rates/south-carolina-mortgage-rates

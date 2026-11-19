@@ -1,0 +1,5 @@
+81	https://www.rocketmortgage.com/mortgage-rates/minnesota-mortgage-rates
+82	https://www.rocketmortgage.com/mortgage-rates/michigan-mortgage-rates
+83	https://www.rocketmortgage.com/mortgage-rates/missouri-mortgage-rates
+84	https://www.rocketmortgage.com/mortgage-rates/north-dakota-mortgage-rates
+85	https://www.rocketmortgage.com/mortgage-rates/ohio-mortgage-rates

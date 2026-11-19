@@ -1,0 +1,5 @@
+41	https://www.rocketmoney.com/learn/homeownership
+42	https://www.rocketmoney.com/learn/investing
+43	https://www.rocketmoney.com/learn/loans
+44	https://www.rocketmoney.com/learn/personal-finance
+45	https://www.rocketmoney.com/learn/debt-and-credit/building-credit

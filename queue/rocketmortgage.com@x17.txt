@@ -1,0 +1,5 @@
+86	https://www.rocketmortgage.com/mortgage-rates/nebraska-mortgage-rates
+87	https://www.rocketmortgage.com/mortgage-rates/wisconsin-mortgage-rates
+88	https://www.rocketmortgage.com/mortgage-rates/south-dakota-mortgage-rates
+89	https://www.rocketmortgage.com/mortgage-rates/connecticut-mortgage-rates
+90	https://www.rocketmortgage.com/mortgage-rates/massachusetts-mortgage-rates

@@ -1,0 +1,5 @@
+71	https://servicing.rocketmortgage.com/payments
+72	https://www.rocketmortgage.com/about
+73	https://www.rocketmortgage.com/faqs
+74	https://www.rocketmortgage.com/talk-to-us
+75	https://www.rocketmortgage.com/screenshare

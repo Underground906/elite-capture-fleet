@@ -1,0 +1,5 @@
+6	https://www.rocketmortgage.com/purchase/first-time-homebuyer
+7	https://www.rocketmortgage.com/redfin
+8	https://www.rocketmortgage.com/relocation
+9	https://www.rocketmortgage.com/calculators/home-affordability-calculator
+10	https://www.rocketmortgage.com/calculators/mortgage-calculator

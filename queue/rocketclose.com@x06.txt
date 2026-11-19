@@ -1,0 +1,5 @@
+31	https://www.rocketclose.com/learn/funding
+32	https://www.rocketclose.com/learn/funding-sellers
+33	https://www.rocketclose.com/learn/lc-borrower-paper-closing
+34	https://www.rocketclose.com/learn/lc-seller-paper-closing
+35	https://www.rocketclose.com/learn/nexsys-hybrid-closing

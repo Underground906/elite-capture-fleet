@@ -1,0 +1,5 @@
+91	https://www.rocketmortgage.com/mortgage-rates/maine-mortgage-rates
+92	https://www.rocketmortgage.com/mortgage-rates/new-hampshire-mortgage-rates
+93	https://www.rocketmortgage.com/mortgage-rates/new-jersey-mortgage-rates
+94	https://www.rocketmortgage.com/mortgage-rates/new-york-mortgage-rates
+95	https://www.rocketmortgage.com/mortgage-rates/pennsylvania-mortgage-rates

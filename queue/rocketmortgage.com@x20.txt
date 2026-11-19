@@ -1,0 +1,5 @@
+101	https://www.rocketmortgage.com/mortgage-rates/florida-mortgage-rates
+102	https://www.rocketmortgage.com/mortgage-rates/district-of-columbia-mortgage-rates
+103	https://www.rocketmortgage.com/mortgage-rates/georgia-mortgage-rates
+104	https://www.rocketmortgage.com/mortgage-rates/kentucky-mortgage-rates
+105	https://www.rocketmortgage.com/mortgage-rates/louisiana-mortgage-rates

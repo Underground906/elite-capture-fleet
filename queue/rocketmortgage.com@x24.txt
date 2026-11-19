@@ -1,0 +1,5 @@
+121	https://www.rocketmortgage.com/mortgage-rates/montana-mortgage-rates
+122	https://www.rocketmortgage.com/mortgage-rates/nevada-mortgage-rates
+123	https://www.rocketmortgage.com/mortgage-rates/new-mexico-mortgage-rates
+124	https://www.rocketmortgage.com/mortgage-rates/oregon-mortgage-rates
+125	https://www.rocketmortgage.com/mortgage-rates/utah-mortgage-rates

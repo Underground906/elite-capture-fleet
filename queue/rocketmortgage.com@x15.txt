@@ -1,0 +1,5 @@
+76	https://www.rocketmortgage.com/opt-out
+77	https://www.rocketmortgage.com/mortgage-rates/illinois-mortgage-rates
+78	https://www.rocketmortgage.com/mortgage-rates/indiana-mortgage-rates
+79	https://www.rocketmortgage.com/mortgage-rates/iowa-mortgage-rates
+80	https://www.rocketmortgage.com/mortgage-rates/kansas-mortgage-rates

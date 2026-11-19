@@ -1,0 +1,5 @@
+111	https://www.rocketmortgage.com/mortgage-rates/tennessee-mortgage-rates
+112	https://www.rocketmortgage.com/mortgage-rates/texas-mortgage-rates
+113	https://www.rocketmortgage.com/mortgage-rates/virginia-mortgage-rates
+114	https://www.rocketmortgage.com/mortgage-rates/west-virginia-mortgage-rates
+115	https://www.rocketmortgage.com/mortgage-rates/alaska-mortgage-rates

@@ -1,0 +1,5 @@
+1	https://www.rocketmoney.com/
+2	https://www.rocketmoney.com/careers
+3	https://www.rocketmoney.com/about
+4	https://www.rocketmoney.com/rowan
+5	https://www.rocketmoney.com/feature/manage-subscriptions

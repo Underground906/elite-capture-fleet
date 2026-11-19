@@ -1,0 +1,5 @@
+1	https://www.rocketmortgage.com/purchase/get-started
+2	https://www.rocketmortgage.com/calculators
+3	https://www.rocketmortgage.com/learn
+4	https://www.rocketmortgage.com/home-loans
+5	https://www.rocketmortgage.com/purchase/va-military-homebuyer

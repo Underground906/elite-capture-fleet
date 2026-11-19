@@ -1,0 +1,5 @@
+1	https://www.rocketclose.com/
+2	https://www.rocketclose.com/home-buyers-sellers/about-title-insurance
+3	https://www.rocketclose.com/home-buyers-sellers/choose-your-policy
+4	https://www.rocketclose.com/home-buyers-sellers/prepare-for-closing
+5	https://www.rocketclose.com/home-buyers-sellers/get-a-quote

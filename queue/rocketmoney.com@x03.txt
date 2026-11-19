@@ -1,0 +1,5 @@
+16	https://www.rocketmoney.com/compare/copilot
+17	https://www.rocketmoney.com/security
+18	https://www.rocketmoney.com/faq
+19	https://www.rocketmoney.com/affiliates
+20	https://www.rocketmoney.com/company-updates

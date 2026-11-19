@@ -1,0 +1,5 @@
+41	https://www.rocketmortgage.com/mortgage-rates
+42	https://www.rocketmortgage.com/refinance-rates
+43	https://www.rocketmortgage.com/rate-updates
+44	https://www.rocketmortgage.com/mortgage-rates/30-year-mortgage-rates
+45	https://www.rocketmortgage.com/mortgage-rates/fha-loan-rates

@@ -1,0 +1,5 @@
+56	https://www.rocketmortgage.com/home-loans/15-year-mortgage
+57	https://www.rocketmortgage.com/home-loans/30-year-mortgage
+58	https://www.rocketmortgage.com/home-loans/adjustable-rate-mortgage
+59	https://www.rocketmortgage.com/home-loans/bridge-loan
+60	https://www.rocketmortgage.com/home-loans/fha-loan

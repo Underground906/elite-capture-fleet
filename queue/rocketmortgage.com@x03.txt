@@ -1,0 +1,5 @@
+16	https://www.rocketmortgage.com/learn/moving-tips
+17	https://www.rocketmortgage.com/learn/preparing-to-buy
+18	https://www.rocketmortgage.com/learn/homeownership
+19	https://www.rocketmortgage.com/refinance/get-started
+20	https://www.rocketmortgage.com/refinance-calculators

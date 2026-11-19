@@ -1,0 +1,5 @@
+26	https://www.rocketclose.com/learn/alta-prelim
+27	https://www.rocketclose.com/learn/br-seller-paper-closing
+28	https://www.rocketclose.com/learn/buyer-paper-closing
+29	https://www.rocketclose.com/learn/creditor-checks
+30	https://www.rocketclose.com/learn/definitions

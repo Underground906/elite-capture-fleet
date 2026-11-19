@@ -1,0 +1,5 @@
+31	https://www.rocketmortgage.com/learn/refinance-mortgage-requirements
+32	https://www.rocketmortgage.com/home-equity
+33	https://www.rocketmortgage.com/home-loans/home-equity-loan
+34	https://www.rocketmortgage.com/home-loans/refinance-cash-out
+35	https://www.rocketmortgage.com/calculators/debt-consolidation-calculator

@@ -36,7 +36,7 @@ async def main():
     items = [(int(l.split('\t')[0]) if '\t' in l else k, l.split('\t')[-1]) for k, l in enumerate(lines, 1)]
     status = []
     async with async_playwright() as pw:
-        b = await pw.chromium.launch(headless=True, args=['--disable-blink-features=AutomationControlled'])
+        b = await pw.chromium.launch(**({'channel': os.environ['ELITE_CHANNEL']} if os.environ.get('ELITE_CHANNEL') else {}), headless=True, args=['--disable-blink-features=AutomationControlled'])
         for n, url in items:
             name = '%04d-%s' % (n, slug(url)); out = ROOT / 'work' / job / name; fails = []; t0 = time.time()
             try:

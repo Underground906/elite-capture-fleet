@@ -1,0 +1,5 @@
+96	https://www.rocketmortgage.com/mortgage-rates/rhode-island-mortgage-rates
+97	https://www.rocketmortgage.com/mortgage-rates/vermont-mortgage-rates
+98	https://www.rocketmortgage.com/mortgage-rates/arkansas-mortgage-rates
+99	https://www.rocketmortgage.com/mortgage-rates/alabama-mortgage-rates
+100	https://www.rocketmortgage.com/mortgage-rates/delaware-mortgage-rates

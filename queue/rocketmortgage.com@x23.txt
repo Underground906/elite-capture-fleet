@@ -1,0 +1,5 @@
+116	https://www.rocketmortgage.com/mortgage-rates/california-mortgage-rates
+117	https://www.rocketmortgage.com/mortgage-rates/arizona-mortgage-rates
+118	https://www.rocketmortgage.com/mortgage-rates/hawaii-mortgage-rates
+119	https://www.rocketmortgage.com/mortgage-rates/colorado-mortgage-rates
+120	https://www.rocketmortgage.com/mortgage-rates/idaho-mortgage-rates
