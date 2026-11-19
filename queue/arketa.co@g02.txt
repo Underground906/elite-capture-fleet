@@ -1,0 +1,5 @@
+310	https://www.arketa.com/features/staff-management
+311	https://www.arketa.com/business-type/solopreneur
+312	https://www.arketa.com/business-type/single-location
+313	https://www.arketa.com/business-type/multi-location
+314	https://www.arketa.com/business-type/personal-training

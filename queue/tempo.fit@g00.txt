@@ -1,0 +1,5 @@
+300	https://tempo.fit/shop
+301	https://apparel.tempo.fit/collections/featured
+302	https://apparel.tempo.fit/collections/women
+303	https://apparel.tempo.fit/collections/men
+304	https://apparel.tempo.fit/search

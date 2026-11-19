@@ -1,0 +1,5 @@
+310	https://tempo.fit/shop/collections/accessories
+311	https://apparel.tempo.fit/
+312	https://tempo.fit/our-story
+313	https://tempo.fit/blog
+314	https://tempo.fit/contact

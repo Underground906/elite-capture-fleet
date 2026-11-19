@@ -1,0 +1,5 @@
+300	https://www.arketa.com/about-us
+301	https://www.arketa.com/features
+302	https://www.arketa.com/business-type
+303	https://www.arketa.com/blog
+304	https://www.arketa.com/pricing

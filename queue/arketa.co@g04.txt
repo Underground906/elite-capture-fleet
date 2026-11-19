@@ -1,0 +1,5 @@
+320	https://www.arketa.com/compare/arketa-vs-glofox
+321	https://www.arketa.com/compare/arketa-vs-momence
+322	https://www.arketa.com/compare/arketa-vs-marianatek
+323	https://www.arketa.com/compare/arketa-vs-wellnessliving
+324	https://www.arketa.com/compare/arketa-vs-walla

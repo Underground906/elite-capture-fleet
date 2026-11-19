@@ -1,0 +1,5 @@
+315	https://www.arketa.com/business-type/spin
+316	https://www.arketa.com/migrations
+317	https://www.arketa.com/integrations-partners
+318	https://www.arketa.com/contact
+319	https://www.arketa.com/compare/arketa-vs-mindbody

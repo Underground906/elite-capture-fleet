@@ -1,0 +1,5 @@
+300	https://future.co/
+301	https://future.co/coaches
+302	https://future.co/blog
+303	https://future.co/survey/intro
+304	https://future.co/workouts

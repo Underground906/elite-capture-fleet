@@ -1,0 +1,5 @@
+320	https://tempo.fit/move
+321	https://tempo.fit/
+322	https://tempo.fit/shopping
+323	https://tempo.fit/tempo-training-plans
+324	https://www.tempo.fit/core

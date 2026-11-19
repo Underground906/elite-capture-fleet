@@ -1,0 +1,5 @@
+305	https://apparel.tempo.fit/cart
+306	https://tempo.fit/studio
+307	https://apparel.tempo.fit/pages/faq
+308	https://tempo.fit/move-gym
+309	https://tempo.fit/core-gym

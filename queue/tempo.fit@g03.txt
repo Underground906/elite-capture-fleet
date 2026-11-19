@@ -1,0 +1,5 @@
+315	https://tempo.fit/returns
+316	https://tempo.fit/membership-cancellation-policy
+317	https://tempo.fit/warranty
+318	https://tempo.fit/customize
+319	https://tempo.fit/core

@@ -1,0 +1,5 @@
+305	https://faq.future.co/
+306	https://future.co/about
+307	https://future.co/consumer-health-data-policy
+308	https://future.co/pro
+309	https://future.co/health-coach/transform
