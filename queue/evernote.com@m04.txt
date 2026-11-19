@@ -1,0 +1,5 @@
+320	https://dev.evernote.com/
+321	https://evernote.com/templates
+322	https://accounts.evernote.com/registration?website_id=f5182b29-91e4-4eb3-891d-ca99af9b8ef6&redirect_to=https%3A%2F%2Fevernote.com%2Fdownload-evernote
+323	https://mac.desktop.evernote.com/builds/Evernote-latest.dmg
+324	https://win.desktop.evernote.com/builds/Evernote-latest.exe
