@@ -54,7 +54,7 @@ async def main():
                     await inline_page(None, out, raw=raw, base=r.url, ctx=_Ctx())
                     await asyncio.wait_for(extract(b, (out / 'page.html').resolve().as_uri(), out, mobile=False, interact=False), timeout=240)
                     pj = json.load(open(out / 'page.json', encoding='utf-8')); pj['url'] = url; pj['http'] = r.status_code; json.dump(pj, open(out / 'page.json', 'w', encoding='utf-8'))
-                    qa_lib.APP_MODE = bool(re.search(r'/(cart|account|login|register|signin|sign-in)|size-chart|/collections/?$|/gift|/download|/install|/new-course-lists', url)); fails = qa_lib.qa(out)
+                    qa_lib.APP_MODE = bool(re.search(r'/(cart|account|login|register|signin|sign-in)|size-chart|/collections/?$|/gift|/download|/install|/new-course-lists|t_s=marketing_website', url)); fails = qa_lib.qa(out)
                 except Exception as e: fails = ['render error ' + str(e)[:80]]
             st = 'PASS' if not fails else ('NEEDS_BROWSER' if any('needs real browser' in f for f in fails) else 'FAILED')
             if out.exists():

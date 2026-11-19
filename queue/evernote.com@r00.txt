@@ -1,0 +1,4 @@
+500	https://evernote.com/ai-rewrite?t_s=marketing_website
+501	https://evernote.com/ai-text-to-voice?t_s=marketing_website
+502	https://evernote.com/ai-diagrams?t_s=marketing_website
+503	https://evernote.com/ai-detector?t_s=marketing_website
