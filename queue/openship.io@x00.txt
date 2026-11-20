@@ -1,0 +1,4 @@
+3000	https://openship.io/
+3001	https://openship.io/features
+3002	https://openship.io/apps
+3003	https://openship.io/mail

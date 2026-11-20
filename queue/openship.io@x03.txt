@@ -1,0 +1,4 @@
+3012	https://openship.io/docs/getting-started/quickstart
+3013	https://openship.io/features/compose-multi-service
+3014	https://openship.io/features/managed-databases
+3015	https://openship.io/features/domains-ssl

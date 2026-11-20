@@ -1,0 +1,4 @@
+3004	https://openship.io/download
+3005	https://openship.io/pricing
+3006	https://openship.io/migrate
+3007	https://openship.io/docs

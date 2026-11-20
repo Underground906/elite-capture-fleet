@@ -1,0 +1,4 @@
+3036	https://openship.io/docs/cli
+3037	https://openship.io/referrals
+3038	https://openship.io/trust
+3039	https://openship.io/about

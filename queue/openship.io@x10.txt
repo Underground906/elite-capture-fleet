@@ -1,0 +1,4 @@
+3040	https://openship.io/contact
+3041	https://openship.io/privacy
+3042	https://openship.io/terms
+3043	https://openship.io/sla

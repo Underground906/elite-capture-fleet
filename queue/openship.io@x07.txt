@@ -1,0 +1,4 @@
+3028	https://openship.io/apps?category=cms
+3029	https://openship.io/apps?category=automation
+3030	https://openship.io/apps?category=analytics
+3031	https://openship.io/apps?category=other

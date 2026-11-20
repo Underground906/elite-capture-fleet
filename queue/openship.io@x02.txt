@@ -1,0 +1,4 @@
+3008	https://openship.io/compare
+3009	https://openship.io/blog
+3010	https://openship.io/changelog
+3011	https://openship.io/support
