@@ -1,5 +1,5 @@
-3035	https://www.tidio.com/customers/
-3036	https://www.tidio.com/watch-demo/
-3037	https://www.tidio.com/customers/endeksa/
-3038	https://www.tidio.com/customers/integratec/
-3039	https://www.tidio.com/pricing/
+3035	https://www.tidio.com/customers/procosmet/
+3036	https://www.tidio.com/customers/adt-security/
+3037	https://www.tidio.com/customers/axioma/
+3038	https://trust.tidio.com/
+3039	https://www.tidioagents.ai/use-cases/back-office

@@ -1,5 +1,5 @@
-3005	https://www.tidio.com/ai-agent/lyro-guidance/
-3006	https://www.tidio.com/ai-agent/lyro-actions/
-3007	https://www.tidio.com/ai-agent/playground/
-3008	https://roi-calculator.tidio.com/
-3009	https://copilot.tidio.com/
+3005	https://www.tidio.com/blog/add-chat-to-website/
+3006	https://www.tidio.com/blog/ecommerce-chatbots/
+3007	https://www.tidio.com/blog/ecommerce-live-chat/
+3008	https://www.tidio.com/blog/sales-chatbot/
+3009	https://www.tidio.com/blog/real-estate-chatbots/

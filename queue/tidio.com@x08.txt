@@ -1,5 +1,5 @@
-3040	https://www.tidio.com/solutions/customer-service/
-3041	https://www.tidio.com/solutions/marketing-and-sales/
-3042	https://www.tidio.com/industry/ecommerce/
-3043	https://www.tidio.com/industry/services/
-3044	https://www.tidio.com/industry/education/
+3040	https://www.tidio.com/customers/suitor/
+3041	http://tidio.com/
+3042	https://partners.tidio.com/
+3043	https://www.tidio.com/book-a-phone/
+3044	https://help.tidio.com/hc/en-us/sections/5377985735708

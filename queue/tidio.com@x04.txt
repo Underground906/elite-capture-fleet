@@ -1,5 +1,5 @@
-3020	https://www.tidio.com/analytics/
-3021	https://www.tidio.com/vs/live-chat/
-3022	https://academy.tidio.com/course/customer-experiences
-3023	https://www.tidio.com/ticketing/
-3024	https://www.tidio.com/multichannel/
+3020	https://www.tidioagents.ai/request-a-call
+3021	https://www.tidio.com/integrations/aws-comprehend/
+3022	https://www.tidio.com/integrations/aws-kinesis/
+3023	https://www.tidio.com/integrations/aws-lambda/
+3024	https://www.tidio.com/integrations/aws-redshift/

@@ -1,5 +1,5 @@
-3030	https://www.tidio.com/blog/ecommerce-growth-strategy/
-3031	https://www.tidio.com/integrations/shopify/
-3032	https://www.tidio.com/integrations/wordpress/
-3033	https://www.tidio.com/integrations/whatsapp/
-3034	https://www.tidio.com/integrations/messenger/
+3030	https://www.tidio.com/integrations/accelevents/
+3031	https://www.tidio.com/integrations/act-on/
+3032	https://www.tidio.com/integrations/activecampaign/
+3033	https://www.tidio.com/panel/settings/download-app
+3034	https://www.tidio.com/customers/bella-sante/

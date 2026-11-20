@@ -1,5 +1,5 @@
-3015	https://www.tidio.com/flows/
-3016	https://www.tidio.com/integrations/
-3017	https://www.tidio.com/features/
-3018	https://www.tidio.com/shared-inbox/
-3019	https://www.tidio.com/visitors-list/
+3015	https://www.tidio.com/blog/best-chatbot-platforms/
+3016	https://www.tidio.com/blog/live-chat-statistics/
+3017	https://www.tidio.com/blog/helpdesk-software/
+3018	https://www.tidio.com/blog/chat-widgets/
+3019	https://www.tidio.com/
