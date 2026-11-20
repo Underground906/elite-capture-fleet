@@ -1,0 +1,5 @@
+615	https://www.arketa.com/business-type/group-fitness
+616	https://help.arketa.com/getting-started/welcome
+617	https://www.arketa.com/blog/category/product-updates
+618	https://www.arketa.com/blog/category/case-studies
+619	https://www.arketa.com/blog/category/community

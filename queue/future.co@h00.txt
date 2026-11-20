@@ -1,0 +1,5 @@
+1600	https://future.co/survey/intro
+1601	https://faq.future.co/
+1602	https://future.co/careers
+1603	https://future.co/blog/search
+1604	https://future.co/health-coach/transform

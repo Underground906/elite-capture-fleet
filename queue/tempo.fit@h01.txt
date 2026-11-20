@@ -1,0 +1,5 @@
+2605	https://support.tempo.fit/support/solutions
+2606	https://tempo.fit/move-gym
+2607	https://tempo.fit/core-gym
+2608	https://tempo.fit/shop/collections/accessories
+2609	https://apparel.tempo.fit/

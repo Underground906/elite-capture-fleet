@@ -1,0 +1,5 @@
+2620	https://tempo.fit/shop/product/pro-grip-collars-set-of-2
+2621	https://apparel.tempo.fit/products/harmony-longsleeve-gray
+2622	https://apparel.tempo.fit/products/competition-7-short-black
+2623	https://apparel.tempo.fit/products/pulse-longsleeve-black
+2624	https://apparel.tempo.fit/products/flux-sports-bra

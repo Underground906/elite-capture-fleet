@@ -1,0 +1,5 @@
+2610	https://tempo.fit/careers
+2611	https://tempo.fit/press
+2612	https://tempo.fit/blog
+2613	https://support.tempo.fit/
+2614	https://tempo.fit/move

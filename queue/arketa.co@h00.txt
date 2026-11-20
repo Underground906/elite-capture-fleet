@@ -1,0 +1,5 @@
+600	https://www.arketa.com/features/challenges-achievements
+601	https://www.arketa.com/features/referrals-reviews-loyalty
+602	https://www.arketa.com/features/branded-website
+603	https://www.arketa.com/features/ai-chatbot-phone-lines
+604	https://www.arketa.com/business-type/massage

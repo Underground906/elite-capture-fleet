@@ -1,0 +1,5 @@
+1615	https://future.co/workouts/weight-loss
+1616	https://future.co/workouts/recovery
+1617	https://future.co/workouts/muscle-groups
+1618	https://future.co/workouts/equipment
+1619	https://future.co/workouts/movement

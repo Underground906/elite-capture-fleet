@@ -1,0 +1,5 @@
+2630	https://support.tempo.fit/support/search/topics
+2631	https://support.tempo.fit/support/search/tickets
+2632	https://support.tempo.fit/support/solutions/151000217138
+2633	https://support.tempo.fit/support/solutions/articles/151000154602-cancellations-returns
+2634	https://support.tempo.fit/support/solutions/articles/151000154612-tempo-move-faqs

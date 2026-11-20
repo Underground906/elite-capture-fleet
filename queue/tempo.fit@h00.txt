@@ -1,0 +1,5 @@
+2600	https://apparel.tempo.fit/collections/featured
+2601	https://apparel.tempo.fit/collections/women
+2602	https://apparel.tempo.fit/collections/men
+2603	https://apparel.tempo.fit/search
+2604	https://support.tempo.fit/support/home
