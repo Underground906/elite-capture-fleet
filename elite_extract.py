@@ -316,6 +316,11 @@ async def extract(browser, url, outdir, mobile=True, interact=True):
     out = Path(outdir); (out / 'crops').mkdir(parents=True, exist_ok=True); (out / 'icons').mkdir(exist_ok=True)
     ctx = await browser.new_context(viewport={'width': 1440, 'height': 900}, user_agent=UA, locale='en-US')
     pg = await ctx.new_page()
+    if 'tonal.com' in url:                      # heavy video pages: block video/audio so the capture finishes
+        async def _nomedia(route):
+            await (route.abort() if route.request.resource_type == 'media' else route.continue_())
+        try: await pg.route('**/*', _nomedia)
+        except Exception: pass
     resp = await pg.goto(url, wait_until='domcontentloaded', timeout=60000)
     status = resp.status if resp else 0
     for _ in range(int(__import__('os').environ.get('ELITE_BOT_WAIT','8'))):                               # bot checks (Vercel checkpoint, Cloudflare, Akamai) often clear themselves

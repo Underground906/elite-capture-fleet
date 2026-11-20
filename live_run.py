@@ -41,7 +41,7 @@ async def main():
             name = '%04d-%s' % (n, slug(url)); out = ROOT / 'work' / job / name; fails = []; t0 = time.time()
             shutil.rmtree(out, ignore_errors=True); out.mkdir(parents=True, exist_ok=True)
             try:
-                await asyncio.wait_for(extract(b, url, out, mobile=False, interact=False), timeout=300)
+                await asyncio.wait_for(extract(b, url, out, mobile=False, interact=False), timeout=600)
                 qa_lib.APP_MODE = bool(re.search(r'/(cart|account|login|register|signin|sign-in)|size-chart|/collections/?$|/gift|/download|/install|/new-course-lists|t_s=marketing_website', url)); fails = qa_lib.qa(out)
             except Exception as e: fails = ['render error ' + str(e)[:80]]
             st = 'PASS' if not fails else ('NEEDS_BROWSER' if any('needs real browser' in f for f in fails) else 'FAILED')

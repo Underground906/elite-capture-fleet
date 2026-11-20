@@ -1,0 +1,3 @@
+5033	https://tonal.com/pages/about-us
+5034	https://tonal.com/pages/careers
+5035	https://tonal.com/pages/press

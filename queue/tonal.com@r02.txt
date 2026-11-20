@@ -1,0 +1,3 @@
+5006	https://tonal.com/pages/membership
+5007	https://tonal.com/pages/coaches
+5008	https://tonal.com/pages/workouts

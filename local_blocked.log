@@ -1,0 +1,1786 @@
+  [stage 4s] goto https://whoop.com/
+  [stage 9s] idle https://whoop.com/
+  [stage 22s] scroll https://whoop.com/
+  [stage 27s] gates https://whoop.com/
+  [stage 27s] dom https://whoop.com/
+  [stage 29s] dom done 668 https://whoop.com/
+  [stage 29s] shot https://whoop.com/
+  [stage 42s] interact https://whoop.com/
+  [stage 260s] analyse https://whoop.com/
+whoop.com 2001 25 ok https://whoop.com/
+low memory, waiting 305
+low memory, waiting 156
+low memory, waiting 417
+low memory, waiting 440
+low memory, waiting 307
+low memory, waiting 319
+low memory, waiting 245
+low memory, waiting 177
+low memory, waiting 358
+low memory, waiting 245
+low memory, waiting 323
+low memory, waiting 105
+low memory, waiting 378
+low memory, waiting 68
+low memory, waiting 272
+  [stage 1s] goto https://whoop.com/gb/en
+  [stage 6s] idle https://whoop.com/gb/en
+  [stage 12s] scroll https://whoop.com/gb/en
+  [stage 18s] gates https://whoop.com/gb/en
+  [stage 18s] dom https://whoop.com/gb/en
+  [stage 30s] dom done 668 https://whoop.com/gb/en
+  [stage 30s] shot https://whoop.com/gb/en
+  [stage 39s] interact https://whoop.com/gb/en
+  [stage 250s] analyse https://whoop.com/gb/en
+whoop.com 2002 25 ok https://whoop.com/gb/en
+low memory, waiting 363
+low memory, waiting 519
+  [stage 4s] goto https://whoop.com/gb/en/about
+  [stage 10s] idle https://whoop.com/gb/en/about
+  [stage 17s] scroll https://whoop.com/gb/en/about
+  [stage 20s] gates https://whoop.com/gb/en/about
+  [stage 20s] dom https://whoop.com/gb/en/about
+  [stage 22s] dom done 249 https://whoop.com/gb/en/about
+  [stage 22s] shot https://whoop.com/gb/en/about
+  [stage 26s] interact https://whoop.com/gb/en/about
+  [stage 73s] analyse https://whoop.com/gb/en/about
+whoop.com 2003 25 ok https://whoop.com/gb/en/about
+  [stage 0s] goto https://whoop.com/gb/en/advanced-labs
+  [stage 7s] idle https://whoop.com/gb/en/advanced-labs
+  [stage 14s] scroll https://whoop.com/gb/en/advanced-labs
+  [stage 19s] gates https://whoop.com/gb/en/advanced-labs
+  [stage 19s] dom https://whoop.com/gb/en/advanced-labs
+  [stage 20s] dom done 677 https://whoop.com/gb/en/advanced-labs
+  [stage 20s] shot https://whoop.com/gb/en/advanced-labs
+  [stage 26s] interact https://whoop.com/gb/en/advanced-labs
+  [stage 219s] analyse https://whoop.com/gb/en/advanced-labs
+whoop.com 2004 25 ok https://whoop.com/gb/en/advanced-labs
+  [stage 0s] goto https://join.whoop.com/upgrade
+  [stage 3s] idle https://join.whoop.com/upgrade
+  [stage 14s] scroll https://join.whoop.com/upgrade
+  [stage 16s] gates https://join.whoop.com/upgrade
+  [stage 16s] dom https://join.whoop.com/upgrade
+  [stage 16s] dom done 26 https://join.whoop.com/upgrade
+  [stage 19s] shot https://join.whoop.com/upgrade
+  [stage 19s] interact https://join.whoop.com/upgrade
+  [stage 19s] analyse https://join.whoop.com/upgrade
+whoop.com 2005 25 ok https://join.whoop.com/upgrade
+  [stage 0s] goto https://shop.whoop.com/
+  [stage 5s] idle https://shop.whoop.com/
+  [stage 14s] scroll https://shop.whoop.com/
+  [stage 17s] gates https://shop.whoop.com/
+  [stage 17s] dom https://shop.whoop.com/
+  [stage 20s] dom done 1152 https://shop.whoop.com/
+  [stage 20s] shot https://shop.whoop.com/
+  [stage 26s] interact https://shop.whoop.com/
+  [stage 269s] analyse https://shop.whoop.com/
+whoop.com 2006 25 ok https://shop.whoop.com/
+  [stage 0s] goto https://orderstatus.whoop.com/orderlookup
+  [stage 34s] idle https://orderstatus.whoop.com/orderlookup
+  [stage 46s] scroll https://orderstatus.whoop.com/orderlookup
+  [stage 47s] gates https://orderstatus.whoop.com/orderlookup
+  [stage 47s] dom https://orderstatus.whoop.com/orderlookup
+  [stage 47s] dom done 22 https://orderstatus.whoop.com/orderlookup
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+  [stage 1s] goto https://orderstatus.whoop.com/orderlookup
+  [stage 35s] idle https://orderstatus.whoop.com/orderlookup
+  [stage 47s] scroll https://orderstatus.whoop.com/orderlookup
+  [stage 49s] gates https://orderstatus.whoop.com/orderlookup
+  [stage 50s] dom https://orderstatus.whoop.com/orderlookup
+  [stage 50s] dom done 33 https://orderstatus.whoop.com/orderlookup
+whoop.com 2007 25 needs_fleet https://orderstatus.whoop.com/orderlookup
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+  [stage 1s] goto https://support.whoop.com/hc/en-us
+  [stage 7s] idle https://support.whoop.com/hc/en-us
+  [stage 15s] scroll https://support.whoop.com/hc/en-us
+  [stage 18s] gates https://support.whoop.com/hc/en-us
+  [stage 25s] dom https://support.whoop.com/hc/en-us
+  [stage 26s] dom done 208 https://support.whoop.com/hc/en-us
+  [stage 26s] shot https://support.whoop.com/hc/en-us
+  [stage 27s] interact https://support.whoop.com/hc/en-us
+  [stage 44s] analyse https://support.whoop.com/hc/en-us
+whoop.com 2008 25 ok https://support.whoop.com/hc/en-us
+  [stage 0s] goto https://app.whoop.com/referafriend
+  [stage 3s] idle https://app.whoop.com/referafriend
+  [stage 6s] scroll https://app.whoop.com/referafriend
+  [stage 8s] gates https://app.whoop.com/referafriend
+  [stage 8s] dom https://app.whoop.com/referafriend
+  [stage 8s] dom done 41 https://app.whoop.com/referafriend
+  [stage 8s] shot https://app.whoop.com/referafriend
+  [stage 8s] interact https://app.whoop.com/referafriend
+  [stage 10s] analyse https://app.whoop.com/referafriend
+whoop.com 2009 25 ok https://app.whoop.com/referafriend
+  [stage 0s] goto https://join.whoop.com/gift
+  [stage 6s] idle https://join.whoop.com/gift
+  [stage 18s] scroll https://join.whoop.com/gift
+  [stage 21s] gates https://join.whoop.com/gift
+  [stage 22s] dom https://join.whoop.com/gift
+  [stage 23s] dom done 487 https://join.whoop.com/gift
+  [stage 23s] shot https://join.whoop.com/gift
+  [stage 25s] interact https://join.whoop.com/gift
+  [stage 98s] analyse https://join.whoop.com/gift
+whoop.com 2010 25 ok https://join.whoop.com/gift
+  [stage 0s] goto https://whoop.com/gb/enundefined
+  [stage 3s] idle https://whoop.com/gb/enundefined
+  [stage 15s] scroll https://whoop.com/gb/enundefined
+  [stage 17s] gates https://whoop.com/gb/enundefined
+  [stage 17s] dom https://whoop.com/gb/enundefined
+  [stage 17s] dom done 182 https://whoop.com/gb/enundefined
+  [stage 17s] shot https://whoop.com/gb/enundefined
+  [stage 18s] interact https://whoop.com/gb/enundefined
+  [stage 20s] analyse https://whoop.com/gb/enundefined
+whoop.com 2011 25 ok https://whoop.com/gb/enundefined
+  [stage 0s] goto https://whoop.com/ae/en
+  [stage 34s] idle https://whoop.com/ae/en
+  [stage 46s] scroll https://whoop.com/ae/en
+  [stage 48s] gates https://whoop.com/ae/en
+  [stage 48s] dom https://whoop.com/ae/en
+  [stage 48s] dom done 23 https://whoop.com/ae/en
+== start 1 06 Nov 2026 00:56:30
+low memory, waiting 399
+low memory, waiting 402
+low memory, waiting 281
+low memory, waiting 196
+low memory, waiting 219
+low memory, waiting 473
+low memory, waiting 375
+low memory, waiting 397
+== start 1 Fri Nov  6 01:00:46 GMTST 2026
+low memory, waiting 294
+== relaunch Fri Nov  6 12:57:41 GMTST 2026 jobs: whoop.com@p510 alltrails.com@p510 hydrow.com@p510 walmart.com@p510 adobe.com@p510 gamma.app@p510 malt.com@p510 patreon.com@p510 getjobber.com@p510 lovable.dev@p510 deeplearning.ai@p510 ideogram.ai@p510 myfitnesspal.com@p510 genspark.ai@p510
+== start 1 Fri Nov  6 12:57:45 GMTST 2026
+  [stage 0s] goto https://whoop.com/gb/en/natural-cycles
+  [stage 6s] idle https://whoop.com/gb/en/natural-cycles
+  [stage 18s] scroll https://whoop.com/gb/en/natural-cycles
+  [stage 22s] gates https://whoop.com/gb/en/natural-cycles
+  [stage 23s] dom https://whoop.com/gb/en/natural-cycles
+  [stage 23s] dom done 422 https://whoop.com/gb/en/natural-cycles
+  [stage 23s] shot https://whoop.com/gb/en/natural-cycles
+  [stage 26s] interact https://whoop.com/gb/en/natural-cycles
+  [stage 58s] analyse https://whoop.com/gb/en/natural-cycles
+whoop.com 3001 26 ok https://whoop.com/gb/en/natural-cycles
+  [stage 0s] goto https://whoop.com/gb/en/membership
+  [stage 4s] idle https://whoop.com/gb/en/membership
+  [stage 16s] scroll https://whoop.com/gb/en/membership
+  [stage 21s] gates https://whoop.com/gb/en/membership
+  [stage 21s] dom https://whoop.com/gb/en/membership
+  [stage 22s] dom done 738 https://whoop.com/gb/en/membership
+  [stage 22s] shot https://whoop.com/gb/en/membership
+  [stage 24s] interact https://whoop.com/gb/en/membership
+  [stage 80s] analyse https://whoop.com/gb/en/membership
+whoop.com 3002 26 ok https://whoop.com/gb/en/membership
+  [stage 0s] goto https://whoop.com/gb/en/one
+  [stage 5s] idle https://whoop.com/gb/en/one
+  [stage 17s] scroll https://whoop.com/gb/en/one
+  [stage 21s] gates https://whoop.com/gb/en/one
+  [stage 21s] dom https://whoop.com/gb/en/one
+  [stage 21s] dom done 285 https://whoop.com/gb/en/one
+  [stage 21s] shot https://whoop.com/gb/en/one
+  [stage 22s] interact https://whoop.com/gb/en/one
+  [stage 59s] analyse https://whoop.com/gb/en/one
+whoop.com 3003 26 ok https://whoop.com/gb/en/one
+  [stage 0s] goto https://whoop.com/gb/en/peak
+  [stage 7s] idle https://whoop.com/gb/en/peak
+  [stage 15s] scroll https://whoop.com/gb/en/peak
+  [stage 19s] gates https://whoop.com/gb/en/peak
+  [stage 19s] dom https://whoop.com/gb/en/peak
+  [stage 20s] dom done 610 https://whoop.com/gb/en/peak
+  [stage 20s] shot https://whoop.com/gb/en/peak
+  [stage 22s] interact https://whoop.com/gb/en/peak
+  [stage 66s] analyse https://whoop.com/gb/en/peak
+whoop.com 3004 26 ok https://whoop.com/gb/en/peak
+  [stage 0s] goto https://whoop.com/gb/en/life
+  [stage 8s] idle https://whoop.com/gb/en/life
+  [stage 18s] scroll https://whoop.com/gb/en/life
+  [stage 22s] gates https://whoop.com/gb/en/life
+  [stage 22s] dom https://whoop.com/gb/en/life
+  [stage 22s] dom done 327 https://whoop.com/gb/en/life
+  [stage 22s] shot https://whoop.com/gb/en/life
+  [stage 23s] interact https://whoop.com/gb/en/life
+  [stage 60s] analyse https://whoop.com/gb/en/life
+whoop.com 3005 26 ok https://whoop.com/gb/en/life
+  [stage 0s] goto https://whoop.com/gb/en/gifting
+  [stage 6s] idle https://whoop.com/gb/en/gifting
+  [stage 14s] scroll https://whoop.com/gb/en/gifting
+  [stage 17s] gates https://whoop.com/gb/en/gifting
+  [stage 17s] dom https://whoop.com/gb/en/gifting
+  [stage 18s] dom done 360 https://whoop.com/gb/en/gifting
+  [stage 18s] shot https://whoop.com/gb/en/gifting
+  [stage 20s] interact https://whoop.com/gb/en/gifting
+  [stage 126s] analyse https://whoop.com/gb/en/gifting
+whoop.com 3006 26 ok https://whoop.com/gb/en/gifting
+  [stage 0s] goto https://whoop.com/gb/en/whoop-trials
+  [stage 6s] idle https://whoop.com/gb/en/whoop-trials
+  [stage 14s] scroll https://whoop.com/gb/en/whoop-trials
+  [stage 17s] gates https://whoop.com/gb/en/whoop-trials
+  [stage 17s] dom https://whoop.com/gb/en/whoop-trials
+  [stage 18s] dom done 351 https://whoop.com/gb/en/whoop-trials
+  [stage 18s] shot https://whoop.com/gb/en/whoop-trials
+  [stage 19s] interact https://whoop.com/gb/en/whoop-trials
+  [stage 144s] analyse https://whoop.com/gb/en/whoop-trials
+whoop.com 3007 26 ok https://whoop.com/gb/en/whoop-trials
+  [stage 0s] goto https://whoop.com/gb/en/family-membership
+  [stage 5s] idle https://whoop.com/gb/en/family-membership
+  [stage 14s] scroll https://whoop.com/gb/en/family-membership
+  [stage 18s] gates https://whoop.com/gb/en/family-membership
+  [stage 19s] dom https://whoop.com/gb/en/family-membership
+  [stage 19s] dom done 453 https://whoop.com/gb/en/family-membership
+  [stage 19s] shot https://whoop.com/gb/en/family-membership
+  [stage 21s] interact https://whoop.com/gb/en/family-membership
+  [stage 68s] analyse https://whoop.com/gb/en/family-membership
+whoop.com 3008 26 ok https://whoop.com/gb/en/family-membership
+  [stage 0s] goto https://join.whoop.com/upgrade
+  [stage 3s] idle https://join.whoop.com/upgrade
+  [stage 15s] scroll https://join.whoop.com/upgrade
+  [stage 17s] gates https://join.whoop.com/upgrade
+  [stage 17s] dom https://join.whoop.com/upgrade
+  [stage 17s] dom done 22 https://join.whoop.com/upgrade
+  [stage 17s] iframe probe 2 frames https://join.whoop.com/upgrade
+  [stage 80s] iframe probe gave up:  https://join.whoop.com/upgrade
+  [stage 80s] shot https://join.whoop.com/upgrade
+Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+  [stage 0s] goto https://join.whoop.com/upgrade
+  [stage 4s] idle https://join.whoop.com/upgrade
+  [stage 11s] scroll https://join.whoop.com/upgrade
+  [stage 12s] gates https://join.whoop.com/upgrade
+  [stage 12s] dom https://join.whoop.com/upgrade
+  [stage 13s] dom done 26 https://join.whoop.com/upgrade
+  [stage 13s] iframe probe 2 frames https://join.whoop.com/upgrade
+  [stage 16s] shot https://join.whoop.com/upgrade
+  [stage 16s] interact https://join.whoop.com/upgrade
+  [stage 16s] analyse https://join.whoop.com/upgrade
+whoop.com 3009 26 ok https://join.whoop.com/upgrade
+  [stage 0s] goto https://whoop.com/gb/en/how-it-works
+  [stage 6s] idle https://whoop.com/gb/en/how-it-works
+  [stage 12s] scroll https://whoop.com/gb/en/how-it-works
+  [stage 17s] gates https://whoop.com/gb/en/how-it-works
+  [stage 17s] dom https://whoop.com/gb/en/how-it-works
+  [stage 17s] dom done 442 https://whoop.com/gb/en/how-it-works
+  [stage 17s] shot https://whoop.com/gb/en/how-it-works
+  [stage 19s] interact https://whoop.com/gb/en/how-it-works
+  [stage 75s] analyse https://whoop.com/gb/en/how-it-works
+whoop.com 3010 26 ok https://whoop.com/gb/en/how-it-works
+  [stage 0s] goto https://whoop.com/gb/en/difference
+  [stage 4s] idle https://whoop.com/gb/en/difference
+  [stage 10s] scroll https://whoop.com/gb/en/difference
+  [stage 14s] gates https://whoop.com/gb/en/difference
+  [stage 14s] dom https://whoop.com/gb/en/difference
+  [stage 14s] dom done 297 https://whoop.com/gb/en/difference
+  [stage 14s] shot https://whoop.com/gb/en/difference
+  [stage 16s] interact https://whoop.com/gb/en/difference
+  [stage 52s] analyse https://whoop.com/gb/en/difference
+whoop.com 3011 26 ok https://whoop.com/gb/en/difference
+  [stage 2s] goto https://shop.whoop.com
+  [stage 7s] idle https://shop.whoop.com
+  [stage 19s] scroll https://shop.whoop.com
+  [stage 22s] gates https://shop.whoop.com
+  [stage 22s] dom https://shop.whoop.com
+  [stage 23s] dom done 1152 https://shop.whoop.com
+  [stage 23s] shot https://shop.whoop.com
+  [stage 25s] interact https://shop.whoop.com
+  [stage 267s] analyse https://shop.whoop.com
+whoop.com 3012 26 ok https://shop.whoop.com
+  [stage 0s] goto https://join.whoop.com
+  [stage 5s] idle https://join.whoop.com
+  [stage 17s] scroll https://join.whoop.com
+  [stage 22s] gates https://join.whoop.com
+  [stage 25s] dom https://join.whoop.com
+  [stage 26s] dom done 843 https://join.whoop.com
+  [stage 26s] shot https://join.whoop.com
+  [stage 28s] interact https://join.whoop.com
+  [stage 91s] analyse https://join.whoop.com
+whoop.com 3013 26 ok https://join.whoop.com
+  [stage 0s] goto https://whoop.com/gb/en/rejoin-whoop
+  [stage 6s] idle https://whoop.com/gb/en/rejoin-whoop
+  [stage 17s] scroll https://whoop.com/gb/en/rejoin-whoop
+  [stage 20s] gates https://whoop.com/gb/en/rejoin-whoop
+  [stage 20s] dom https://whoop.com/gb/en/rejoin-whoop
+  [stage 20s] dom done 236 https://whoop.com/gb/en/rejoin-whoop
+  [stage 20s] shot https://whoop.com/gb/en/rejoin-whoop
+  [stage 22s] interact https://whoop.com/gb/en/rejoin-whoop
+  [stage 24s] analyse https://whoop.com/gb/en/rejoin-whoop
+whoop.com 3014 26 ok https://whoop.com/gb/en/rejoin-whoop
+  [stage 0s] goto https://whoop.com/gb/en/labs-boston
+  [stage 8s] idle https://whoop.com/gb/en/labs-boston
+  [stage 15s] scroll https://whoop.com/gb/en/labs-boston
+  [stage 19s] gates https://whoop.com/gb/en/labs-boston
+  [stage 20s] dom https://whoop.com/gb/en/labs-boston
+  [stage 20s] dom done 420 https://whoop.com/gb/en/labs-boston
+  [stage 20s] shot https://whoop.com/gb/en/labs-boston
+  [stage 22s] interact https://whoop.com/gb/en/labs-boston
+  [stage 65s] analyse https://whoop.com/gb/en/labs-boston
+whoop.com 3015 26 ok https://whoop.com/gb/en/labs-boston
+  [stage 0s] goto https://whoop.com/gb/en/digital-whoop-labs
+  [stage 6s] idle https://whoop.com/gb/en/digital-whoop-labs
+  [stage 14s] scroll https://whoop.com/gb/en/digital-whoop-labs
+  [stage 17s] gates https://whoop.com/gb/en/digital-whoop-labs
+  [stage 17s] dom https://whoop.com/gb/en/digital-whoop-labs
+  [stage 18s] dom done 456 https://whoop.com/gb/en/digital-whoop-labs
+  [stage 18s] shot https://whoop.com/gb/en/digital-whoop-labs
+  [stage 20s] interact https://whoop.com/gb/en/digital-whoop-labs
+  [stage 207s] analyse https://whoop.com/gb/en/digital-whoop-labs
+whoop.com 3016 26 ok https://whoop.com/gb/en/digital-whoop-labs
+  [stage 0s] goto https://whoop.com/gb/en/research
+  [stage 7s] idle https://whoop.com/gb/en/research
+  [stage 16s] scroll https://whoop.com/gb/en/research
+  [stage 19s] gates https://whoop.com/gb/en/research
+  [stage 19s] dom https://whoop.com/gb/en/research
+  [stage 20s] dom done 454 https://whoop.com/gb/en/research
+  [stage 20s] shot https://whoop.com/gb/en/research
+  [stage 22s] interact https://whoop.com/gb/en/research
+  [stage 154s] analyse https://whoop.com/gb/en/research
+whoop.com 3017 26 ok https://whoop.com/gb/en/research
+low memory, waiting 276
+  [stage 0s] goto https://whoop.com/gb/en/bulk-buy
+  [stage 3s] idle https://whoop.com/gb/en/bulk-buy
+  [stage 15s] scroll https://whoop.com/gb/en/bulk-buy
+  [stage 17s] gates https://whoop.com/gb/en/bulk-buy
+  [stage 17s] dom https://whoop.com/gb/en/bulk-buy
+  [stage 17s] dom done 182 https://whoop.com/gb/en/bulk-buy
+  [stage 17s] shot https://whoop.com/gb/en/bulk-buy
+  [stage 18s] interact https://whoop.com/gb/en/bulk-buy
+  [stage 19s] analyse https://whoop.com/gb/en/bulk-buy
+whoop.com 3018 26 ok https://whoop.com/gb/en/bulk-buy
+  [stage 0s] goto https://join.whoop.com/gift
+  [stage 6s] idle https://join.whoop.com/gift
+  [stage 18s] scroll https://join.whoop.com/gift
+  [stage 21s] gates https://join.whoop.com/gift
+  [stage 21s] dom https://join.whoop.com/gift
+  [stage 22s] dom done 487 https://join.whoop.com/gift
+  [stage 22s] shot https://join.whoop.com/gift
+  [stage 23s] interact https://join.whoop.com/gift
+  [stage 84s] analyse https://join.whoop.com/gift
+whoop.com 3019 26 ok https://join.whoop.com/gift
+  [stage 0s] goto https://whoop.com/gb/en/corporate-gifting
+  [stage 5s] idle https://whoop.com/gb/en/corporate-gifting
+  [stage 15s] scroll https://whoop.com/gb/en/corporate-gifting
+  [stage 18s] gates https://whoop.com/gb/en/corporate-gifting
+  [stage 18s] dom https://whoop.com/gb/en/corporate-gifting
+  [stage 18s] dom done 316 https://whoop.com/gb/en/corporate-gifting
+  [stage 18s] shot https://whoop.com/gb/en/corporate-gifting
+  [stage 20s] interact https://whoop.com/gb/en/corporate-gifting
+  [stage 106s] analyse https://whoop.com/gb/en/corporate-gifting
+whoop.com 3020 26 ok https://whoop.com/gb/en/corporate-gifting
+  [stage 0s] goto https://whoop.com/gb/en/hero-discounts
+  [stage 7s] idle https://whoop.com/gb/en/hero-discounts
+  [stage 17s] scroll https://whoop.com/gb/en/hero-discounts
+  [stage 21s] gates https://whoop.com/gb/en/hero-discounts
+  [stage 21s] dom https://whoop.com/gb/en/hero-discounts
+  [stage 22s] dom done 373 https://whoop.com/gb/en/hero-discounts
+  [stage 22s] shot https://whoop.com/gb/en/hero-discounts
+  [stage 24s] interact https://whoop.com/gb/en/hero-discounts
+  [stage 34s] analyse https://whoop.com/gb/en/hero-discounts
+whoop.com 3021 26 ok https://whoop.com/gb/en/hero-discounts
+  [stage 0s] goto https://whoop.com/gb/en/healthcare-professionals
+  [stage 5s] idle https://whoop.com/gb/en/healthcare-professionals
+  [stage 15s] scroll https://whoop.com/gb/en/healthcare-professionals
+  [stage 18s] gates https://whoop.com/gb/en/healthcare-professionals
+  [stage 19s] dom https://whoop.com/gb/en/healthcare-professionals
+  [stage 19s] dom done 431 https://whoop.com/gb/en/healthcare-professionals
+  [stage 19s] shot https://whoop.com/gb/en/healthcare-professionals
+  [stage 21s] interact https://whoop.com/gb/en/healthcare-professionals
+  [stage 192s] analyse https://whoop.com/gb/en/healthcare-professionals
+whoop.com 3022 26 ok https://whoop.com/gb/en/healthcare-professionals
+  [stage 0s] goto https://whoop.com/gb/en/store-locator
+  [stage 6s] idle https://whoop.com/gb/en/store-locator
+  [stage 18s] scroll https://whoop.com/gb/en/store-locator
+  [stage 20s] gates https://whoop.com/gb/en/store-locator
+  [stage 20s] dom https://whoop.com/gb/en/store-locator
+  [stage 26s] dom done 4019 https://whoop.com/gb/en/store-locator
+  [stage 26s] shot https://whoop.com/gb/en/store-locator
+  [stage 28s] interact https://whoop.com/gb/en/store-locator
+  [stage 68s] analyse https://whoop.com/gb/en/store-locator
+whoop.com 3023 26 ok https://whoop.com/gb/en/store-locator
+  [stage 0s] goto https://whoop.com/gb/en/connected-care
+  [stage 3s] idle https://whoop.com/gb/en/connected-care
+  [stage 11s] scroll https://whoop.com/gb/en/connected-care
+  [stage 13s] gates https://whoop.com/gb/en/connected-care
+  [stage 13s] dom https://whoop.com/gb/en/connected-care
+  [stage 14s] dom done 187 https://whoop.com/gb/en/connected-care
+  [stage 14s] shot https://whoop.com/gb/en/connected-care
+  [stage 15s] interact https://whoop.com/gb/en/connected-care
+  [stage 16s] analyse https://whoop.com/gb/en/connected-care
+whoop.com 3024 26 ok https://whoop.com/gb/en/connected-care
+  [stage 0s] goto https://whoop.com/gb/en/thelocker
+  [stage 7s] idle https://whoop.com/gb/en/thelocker
+  [stage 19s] scroll https://whoop.com/gb/en/thelocker
+  [stage 23s] gates https://whoop.com/gb/en/thelocker
+  [stage 23s] dom https://whoop.com/gb/en/thelocker
+  [stage 24s] dom done 635 https://whoop.com/gb/en/thelocker
+  [stage 24s] shot https://whoop.com/gb/en/thelocker
+  [stage 28s] interact https://whoop.com/gb/en/thelocker
+  [stage 270s] analyse https://whoop.com/gb/en/thelocker
+whoop.com 3025 26 ok https://whoop.com/gb/en/thelocker
+  [stage 0s] goto https://whoop.com/gb/en/press-center
+  [stage 6s] idle https://whoop.com/gb/en/press-center
+  [stage 14s] scroll https://whoop.com/gb/en/press-center
+  [stage 17s] gates https://whoop.com/gb/en/press-center
+  [stage 17s] dom https://whoop.com/gb/en/press-center
+  [stage 17s] dom done 367 https://whoop.com/gb/en/press-center
+  [stage 17s] shot https://whoop.com/gb/en/press-center
+  [stage 19s] interact https://whoop.com/gb/en/press-center
+  [stage 31s] analyse https://whoop.com/gb/en/press-center
+whoop.com 3026 26 ok https://whoop.com/gb/en/press-center
+SITE DONE whoop.com@p510
+  [stage 0s] goto https://alltrails.com/explore
+  [stage 2s] idle https://alltrails.com/explore
+  [stage 6s] scroll https://alltrails.com/explore
+  [stage 8s] gates https://alltrails.com/explore
+  [stage 8s] dom https://alltrails.com/explore
+  [stage 8s] dom done 2 https://alltrails.com/explore
+  [stage 8s] iframe probe 2 frames https://alltrails.com/explore
+  [stage 12s] shot https://alltrails.com/explore
+  [stage 12s] interact https://alltrails.com/explore
+  [stage 12s] analyse https://alltrails.com/explore
+alltrails.com 3001 16 ok https://alltrails.com/explore
+  [stage 0s] goto https://alltrails.com/directory/countries
+  [stage 2s] idle https://alltrails.com/directory/countries
+  [stage 5s] scroll https://alltrails.com/directory/countries
+  [stage 7s] gates https://alltrails.com/directory/countries
+  [stage 7s] dom https://alltrails.com/directory/countries
+  [stage 7s] dom done 2 https://alltrails.com/directory/countries
+  [stage 7s] iframe probe 2 frames https://alltrails.com/directory/countries
+  [stage 11s] shot https://alltrails.com/directory/countries
+  [stage 11s] interact https://alltrails.com/directory/countries
+  [stage 11s] analyse https://alltrails.com/directory/countries
+alltrails.com 3002 16 ok https://alltrails.com/directory/countries
+  [stage 0s] goto https://alltrails.com/directory/trail-features
+  [stage 1s] idle https://alltrails.com/directory/trail-features
+  [stage 3s] scroll https://alltrails.com/directory/trail-features
+  [stage 5s] gates https://alltrails.com/directory/trail-features
+  [stage 5s] dom https://alltrails.com/directory/trail-features
+  [stage 5s] dom done 2 https://alltrails.com/directory/trail-features
+  [stage 5s] iframe probe 2 frames https://alltrails.com/directory/trail-features
+  [stage 9s] shot https://alltrails.com/directory/trail-features
+  [stage 9s] interact https://alltrails.com/directory/trail-features
+  [stage 9s] analyse https://alltrails.com/directory/trail-features
+alltrails.com 3003 16 ok https://alltrails.com/directory/trail-features
+  [stage 0s] goto https://alltrails.com/directory/cities/A/1
+  [stage 3s] idle https://alltrails.com/directory/cities/A/1
+  [stage 9s] scroll https://alltrails.com/directory/cities/A/1
+  [stage 10s] gates https://alltrails.com/directory/cities/A/1
+  [stage 10s] dom https://alltrails.com/directory/cities/A/1
+  [stage 10s] dom done 2 https://alltrails.com/directory/cities/A/1
+  [stage 10s] iframe probe 2 frames https://alltrails.com/directory/cities/A/1
+  [stage 14s] shot https://alltrails.com/directory/cities/A/1
+  [stage 14s] interact https://alltrails.com/directory/cities/A/1
+  [stage 14s] analyse https://alltrails.com/directory/cities/A/1
+alltrails.com 3004 16 ok https://alltrails.com/directory/cities/A/1
+  [stage 0s] goto https://alltrails.com/directory/parks/A/1
+  [stage 1s] idle https://alltrails.com/directory/parks/A/1
+  [stage 3s] scroll https://alltrails.com/directory/parks/A/1
+  [stage 5s] gates https://alltrails.com/directory/parks/A/1
+  [stage 5s] dom https://alltrails.com/directory/parks/A/1
+  [stage 5s] dom done 2 https://alltrails.com/directory/parks/A/1
+  [stage 5s] iframe probe 2 frames https://alltrails.com/directory/parks/A/1
+  [stage 9s] shot https://alltrails.com/directory/parks/A/1
+  [stage 9s] interact https://alltrails.com/directory/parks/A/1
+  [stage 9s] analyse https://alltrails.com/directory/parks/A/1
+alltrails.com 3005 16 ok https://alltrails.com/directory/parks/A/1
+  [stage 0s] goto https://alltrails.com/signup
+  [stage 1s] idle https://alltrails.com/signup
+  [stage 3s] scroll https://alltrails.com/signup
+  [stage 5s] gates https://alltrails.com/signup
+  [stage 5s] dom https://alltrails.com/signup
+  [stage 5s] dom done 2 https://alltrails.com/signup
+  [stage 5s] iframe probe 2 frames https://alltrails.com/signup
+  [stage 9s] shot https://alltrails.com/signup
+  [stage 9s] interact https://alltrails.com/signup
+  [stage 9s] analyse https://alltrails.com/signup
+alltrails.com 3006 16 ok https://alltrails.com/signup
+  [stage 0s] goto https://alltrails.com/adv/custom-routes/new
+  [stage 2s] idle https://alltrails.com/adv/custom-routes/new
+  [stage 5s] scroll https://alltrails.com/adv/custom-routes/new
+  [stage 7s] gates https://alltrails.com/adv/custom-routes/new
+  [stage 7s] dom https://alltrails.com/adv/custom-routes/new
+  [stage 7s] dom done 2 https://alltrails.com/adv/custom-routes/new
+  [stage 7s] iframe probe 2 frames https://alltrails.com/adv/custom-routes/new
+  [stage 11s] shot https://alltrails.com/adv/custom-routes/new
+  [stage 11s] interact https://alltrails.com/adv/custom-routes/new
+  [stage 11s] analyse https://alltrails.com/adv/custom-routes/new
+alltrails.com 3007 16 ok https://alltrails.com/adv/custom-routes/new
+  [stage 0s] goto https://alltrails.com/converter
+  [stage 1s] idle https://alltrails.com/converter
+  [stage 3s] scroll https://alltrails.com/converter
+  [stage 5s] gates https://alltrails.com/converter
+  [stage 5s] dom https://alltrails.com/converter
+  [stage 5s] dom done 2 https://alltrails.com/converter
+  [stage 5s] iframe probe 2 frames https://alltrails.com/converter
+  [stage 8s] shot https://alltrails.com/converter
+  [stage 8s] interact https://alltrails.com/converter
+  [stage 8s] analyse https://alltrails.com/converter
+alltrails.com 3008 16 ok https://alltrails.com/converter
+  [stage 0s] goto https://alltrails.com/about
+  [stage 1s] idle https://alltrails.com/about
+  [stage 3s] scroll https://alltrails.com/about
+  [stage 5s] gates https://alltrails.com/about
+  [stage 5s] dom https://alltrails.com/about
+  [stage 5s] dom done 2 https://alltrails.com/about
+  [stage 5s] iframe probe 2 frames https://alltrails.com/about
+  [stage 9s] shot https://alltrails.com/about
+  [stage 9s] interact https://alltrails.com/about
+  [stage 9s] analyse https://alltrails.com/about
+alltrails.com 3009 16 ok https://alltrails.com/about
+  [stage 0s] goto https://alltrails.com/careers
+  [stage 1s] idle https://alltrails.com/careers
+  [stage 4s] scroll https://alltrails.com/careers
+  [stage 5s] gates https://alltrails.com/careers
+  [stage 5s] dom https://alltrails.com/careers
+  [stage 5s] dom done 2 https://alltrails.com/careers
+  [stage 5s] iframe probe 2 frames https://alltrails.com/careers
+  [stage 9s] shot https://alltrails.com/careers
+  [stage 9s] interact https://alltrails.com/careers
+  [stage 9s] analyse https://alltrails.com/careers
+alltrails.com 3010 16 ok https://alltrails.com/careers
+  [stage 0s] goto https://alltrails.com/press
+  [stage 2s] idle https://alltrails.com/press
+  [stage 4s] scroll https://alltrails.com/press
+  [stage 5s] gates https://alltrails.com/press
+  [stage 6s] dom https://alltrails.com/press
+  [stage 6s] dom done 2 https://alltrails.com/press
+  [stage 6s] iframe probe 2 frames https://alltrails.com/press
+  [stage 9s] shot https://alltrails.com/press
+  [stage 9s] interact https://alltrails.com/press
+  [stage 9s] analyse https://alltrails.com/press
+alltrails.com 3011 16 ok https://alltrails.com/press
+  [stage 0s] goto https://alltrails.com/ambassadors
+  [stage 2s] idle https://alltrails.com/ambassadors
+  [stage 5s] scroll https://alltrails.com/ambassadors
+  [stage 6s] gates https://alltrails.com/ambassadors
+  [stage 6s] dom https://alltrails.com/ambassadors
+  [stage 6s] dom done 2 https://alltrails.com/ambassadors
+  [stage 6s] iframe probe 2 frames https://alltrails.com/ambassadors
+  [stage 9s] shot https://alltrails.com/ambassadors
+  [stage 10s] interact https://alltrails.com/ambassadors
+  [stage 10s] analyse https://alltrails.com/ambassadors
+alltrails.com 3012 16 ok https://alltrails.com/ambassadors
+  [stage 0s] goto https://alltrails.com/affiliates
+  [stage 3s] idle https://alltrails.com/affiliates
+  [stage 7s] scroll https://alltrails.com/affiliates
+  [stage 8s] gates https://alltrails.com/affiliates
+  [stage 8s] dom https://alltrails.com/affiliates
+  [stage 8s] dom done 2 https://alltrails.com/affiliates
+  [stage 8s] iframe probe 2 frames https://alltrails.com/affiliates
+  [stage 12s] shot https://alltrails.com/affiliates
+  [stage 12s] interact https://alltrails.com/affiliates
+  [stage 12s] analyse https://alltrails.com/affiliates
+alltrails.com 3013 16 ok https://alltrails.com/affiliates
+  [stage 0s] goto https://alltrails.com/community
+  [stage 1s] idle https://alltrails.com/community
+  [stage 3s] scroll https://alltrails.com/community
+  [stage 5s] gates https://alltrails.com/community
+  [stage 5s] dom https://alltrails.com/community
+  [stage 5s] dom done 2 https://alltrails.com/community
+  [stage 5s] iframe probe 2 frames https://alltrails.com/community
+  [stage 9s] shot https://alltrails.com/community
+  [stage 9s] interact https://alltrails.com/community
+  [stage 9s] analyse https://alltrails.com/community
+alltrails.com 3014 16 ok https://alltrails.com/community
+  [stage 0s] goto https://alltrails.com/whats-new
+  [stage 1s] idle https://alltrails.com/whats-new
+  [stage 4s] scroll https://alltrails.com/whats-new
+  [stage 6s] gates https://alltrails.com/whats-new
+  [stage 6s] dom https://alltrails.com/whats-new
+  [stage 6s] dom done 2 https://alltrails.com/whats-new
+  [stage 6s] iframe probe 2 frames https://alltrails.com/whats-new
+  [stage 9s] shot https://alltrails.com/whats-new
+  [stage 9s] interact https://alltrails.com/whats-new
+  [stage 9s] analyse https://alltrails.com/whats-new
+alltrails.com 3015 16 ok https://alltrails.com/whats-new
+  [stage 0s] goto https://alltrails.com/gift
+  [stage 1s] idle https://alltrails.com/gift
+  [stage 5s] scroll https://alltrails.com/gift
+  [stage 6s] gates https://alltrails.com/gift
+  [stage 6s] dom https://alltrails.com/gift
+  [stage 6s] dom done 2 https://alltrails.com/gift
+  [stage 6s] iframe probe 2 frames https://alltrails.com/gift
+  [stage 9s] shot https://alltrails.com/gift
+  [stage 10s] interact https://alltrails.com/gift
+  [stage 10s] analyse https://alltrails.com/gift
+alltrails.com 3016 16 ok https://alltrails.com/gift
+SITE DONE alltrails.com@p510
+  [stage 0s] goto https://tracking.hydrow.com/s
+  [stage 7s] idle https://tracking.hydrow.com/s
+  [stage 13s] scroll https://tracking.hydrow.com/s
+  [stage 15s] gates https://tracking.hydrow.com/s
+  [stage 19s] dom https://tracking.hydrow.com/s
+  [stage 19s] dom done 75 https://tracking.hydrow.com/s
+  [stage 19s] shot https://tracking.hydrow.com/s
+  [stage 19s] interact https://tracking.hydrow.com/s
+  [stage 21s] analyse https://tracking.hydrow.com/s
+hydrow.com 3001 1 ok https://tracking.hydrow.com/s
+SITE DONE hydrow.com@p510
+  [stage 0s] goto https://walmart.com/my-items
+  [stage 6s] idle https://walmart.com/my-items
+  [stage 18s] scroll https://walmart.com/my-items
+  [stage 20s] gates https://walmart.com/my-items
+  [stage 20s] dom https://walmart.com/my-items
+  [stage 22s] dom done 1028 https://walmart.com/my-items
+  [stage 22s] shot https://walmart.com/my-items
+  [stage 23s] interact https://walmart.com/my-items
+  [stage 244s] analyse https://walmart.com/my-items
+walmart.com 3001 18 ok https://walmart.com/my-items
+  [stage 0s] goto https://walmart.com/lists
+  [stage 5s] idle https://walmart.com/lists
+  [stage 17s] scroll https://walmart.com/lists
+  [stage 20s] gates https://walmart.com/lists
+  [stage 20s] dom https://walmart.com/lists
+  [stage 21s] dom done 1001 https://walmart.com/lists
+  [stage 21s] shot https://walmart.com/lists
+  [stage 22s] interact https://walmart.com/lists
+  [stage 244s] analyse https://walmart.com/lists
+walmart.com 3002 18 ok https://walmart.com/lists
+  [stage 0s] goto https://walmart.com/my-registries
+  [stage 2s] idle https://walmart.com/my-registries
+  [stage 14s] scroll https://walmart.com/my-registries
+  [stage 16s] gates https://walmart.com/my-registries
+  [stage 16s] dom https://walmart.com/my-registries
+  [stage 0s] goto https://walmart.com/my-registries
+  [stage 2s] idle https://walmart.com/my-registries
+  [stage 14s] scroll https://walmart.com/my-registries
+  [stage 16s] gates https://walmart.com/my-registries
+  [stage 16s] dom https://walmart.com/my-registries
+walmart.com 3003 18 needs_fleet https://walmart.com/my-registries
+  [stage 0s] goto https://walmart.com/orders
+  [stage 2s] idle https://walmart.com/orders
+  [stage 14s] scroll https://walmart.com/orders
+  [stage 16s] gates https://walmart.com/orders
+  [stage 16s] dom https://walmart.com/orders
+  [stage 0s] goto https://walmart.com/orders
+  [stage 2s] idle https://walmart.com/orders
+  [stage 14s] scroll https://walmart.com/orders
+  [stage 16s] gates https://walmart.com/orders
+  [stage 16s] dom https://walmart.com/orders
+walmart.com 3004 18 needs_fleet https://walmart.com/orders
+  [stage 0s] goto https://walmart.com/plus
+  [stage 2s] idle https://walmart.com/plus
+  [stage 14s] scroll https://walmart.com/plus
+  [stage 16s] gates https://walmart.com/plus
+  [stage 16s] dom https://walmart.com/plus
+  [stage 0s] goto https://walmart.com/plus
+  [stage 2s] idle https://walmart.com/plus
+  [stage 14s] scroll https://walmart.com/plus
+  [stage 15s] gates https://walmart.com/plus
+  [stage 15s] dom https://walmart.com/plus
+walmart.com 3005 18 needs_fleet https://walmart.com/plus
+  [stage 0s] goto https://walmart.com/cp/subscriptions/4191733
+  [stage 2s] idle https://walmart.com/cp/subscriptions/4191733
+  [stage 14s] scroll https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] gates https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] dom https://walmart.com/cp/subscriptions/4191733
+  [stage 0s] goto https://walmart.com/cp/subscriptions/4191733
+  [stage 2s] idle https://walmart.com/cp/subscriptions/4191733
+  [stage 14s] scroll https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] gates https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] dom https://walmart.com/cp/subscriptions/4191733
+walmart.com 3006 18 needs_fleet https://walmart.com/cp/subscriptions/4191733
+  [stage 0s] goto https://walmart.com/shop/discover-great-brands
+  [stage 2s] idle https://walmart.com/shop/discover-great-brands
+  [stage 14s] scroll https://walmart.com/shop/discover-great-brands
+  [stage 16s] gates https://walmart.com/shop/discover-great-brands
+  [stage 16s] dom https://walmart.com/shop/discover-great-brands
+  [stage 0s] goto https://walmart.com/shop/discover-great-brands
+  [stage 2s] idle https://walmart.com/shop/discover-great-brands
+  [stage 14s] scroll https://walmart.com/shop/discover-great-brands
+  [stage 16s] gates https://walmart.com/shop/discover-great-brands
+  [stage 16s] dom https://walmart.com/shop/discover-great-brands
+walmart.com 3007 18 needs_fleet https://walmart.com/shop/discover-great-brands
+  [stage 0s] goto https://walmart.com/all-departments
+  [stage 3s] idle https://walmart.com/all-departments
+  [stage 15s] scroll https://walmart.com/all-departments
+  [stage 17s] gates https://walmart.com/all-departments
+  [stage 17s] dom https://walmart.com/all-departments
+  [stage 0s] goto https://walmart.com/all-departments
+  [stage 2s] idle https://walmart.com/all-departments
+  [stage 14s] scroll https://walmart.com/all-departments
+  [stage 16s] gates https://walmart.com/all-departments
+  [stage 16s] dom https://walmart.com/all-departments
+walmart.com 3008 18 needs_fleet https://walmart.com/all-departments
+  [stage 0s] goto https://walmart.com/help
+  [stage 2s] idle https://walmart.com/help
+  [stage 14s] scroll https://walmart.com/help
+  [stage 16s] gates https://walmart.com/help
+  [stage 16s] dom https://walmart.com/help
+  [stage 0s] goto https://walmart.com/help
+  [stage 2s] idle https://walmart.com/help
+  [stage 14s] scroll https://walmart.com/help
+  [stage 16s] gates https://walmart.com/help
+  [stage 16s] dom https://walmart.com/help
+walmart.com 3009 18 needs_fleet https://walmart.com/help
+  [stage 0s] goto https://walmart.com/brand/branddirectory
+  [stage 1s] idle https://walmart.com/brand/branddirectory
+  [stage 13s] scroll https://walmart.com/brand/branddirectory
+  [stage 15s] gates https://walmart.com/brand/branddirectory
+  [stage 15s] dom https://walmart.com/brand/branddirectory
+  [stage 0s] goto https://walmart.com/brand/branddirectory
+  [stage 2s] idle https://walmart.com/brand/branddirectory
+  [stage 14s] scroll https://walmart.com/brand/branddirectory
+  [stage 15s] gates https://walmart.com/brand/branddirectory
+  [stage 16s] dom https://walmart.com/brand/branddirectory
+walmart.com 3010 18 needs_fleet https://walmart.com/brand/branddirectory
+  [stage 0s] goto https://walmart.com/store/directory
+  [stage 2s] idle https://walmart.com/store/directory
+  [stage 14s] scroll https://walmart.com/store/directory
+  [stage 15s] gates https://walmart.com/store/directory
+  [stage 16s] dom https://walmart.com/store/directory
+  [stage 0s] goto https://walmart.com/store/directory
+  [stage 2s] idle https://walmart.com/store/directory
+  [stage 14s] scroll https://walmart.com/store/directory
+  [stage 16s] gates https://walmart.com/store/directory
+  [stage 16s] dom https://walmart.com/store/directory
+walmart.com 3011 18 needs_fleet https://walmart.com/store/directory
+  [stage 0s] goto https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 2s] idle https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 14s] scroll https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] gates https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] dom https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 0s] goto https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 2s] idle https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 14s] scroll https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 15s] gates https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 15s] dom https://business.walmart.com/cp/about-walmart-business/6136230
+walmart.com 3012 18 needs_fleet https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 0s] goto https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 2s] idle https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 14s] scroll https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 16s] gates https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 16s] dom https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 0s] goto https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 3s] idle https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 15s] scroll https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 16s] gates https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 17s] dom https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+walmart.com 3013 18 needs_fleet https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 0s] goto https://walmart.com/shop/deals
+  [stage 2s] idle https://walmart.com/shop/deals
+  [stage 14s] scroll https://walmart.com/shop/deals
+  [stage 16s] gates https://walmart.com/shop/deals
+  [stage 16s] dom https://walmart.com/shop/deals
+  [stage 0s] goto https://walmart.com/shop/deals
+  [stage 2s] idle https://walmart.com/shop/deals
+  [stage 14s] scroll https://walmart.com/shop/deals
+  [stage 16s] gates https://walmart.com/shop/deals
+  [stage 16s] dom https://walmart.com/shop/deals
+walmart.com 3014 18 needs_fleet https://walmart.com/shop/deals
+  [stage 0s] goto https://walmart.com/c/auto-directory/shop-by-model
+  [stage 2s] idle https://walmart.com/c/auto-directory/shop-by-model
+  [stage 14s] scroll https://walmart.com/c/auto-directory/shop-by-model
+  [stage 16s] gates https://walmart.com/c/auto-directory/shop-by-model
+  [stage 16s] dom https://walmart.com/c/auto-directory/shop-by-model
+  [stage 0s] goto https://walmart.com/c/auto-directory/shop-by-model
+  [stage 2s] idle https://walmart.com/c/auto-directory/shop-by-model
+  [stage 14s] scroll https://walmart.com/c/auto-directory/shop-by-model
+  [stage 16s] gates https://walmart.com/c/auto-directory/shop-by-model
+  [stage 16s] dom https://walmart.com/c/auto-directory/shop-by-model
+walmart.com 3015 18 needs_fleet https://walmart.com/c/auto-directory/shop-by-model
+  [stage 0s] goto https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 2s] idle https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 14s] scroll https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] gates https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] dom https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 0s] goto https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 2s] idle https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 14s] scroll https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] gates https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] dom https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+walmart.com 3016 18 needs_fleet https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 0s] goto https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 2s] idle https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 14s] scroll https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] gates https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] dom https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 0s] goto https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 2s] idle https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 14s] scroll https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 15s] gates https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 15s] dom https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+walmart.com 3017 18 needs_fleet https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 0s] goto https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 2s] idle https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 14s] scroll https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] gates https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] dom https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 0s] goto https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 2s] idle https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 14s] scroll https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] gates https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] dom https://walmart.com/c/auto-directory/parts/acura/32cl
+walmart.com 3018 18 needs_fleet https://walmart.com/c/auto-directory/parts/acura/32cl
+SITE DONE walmart.com@p510
+  [stage 0s] goto https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 2s] idle https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 5s] scroll https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 7s] gates https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 7s] dom https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 7s] dom done 46 https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 7s] shot https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 7s] interact https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+  [stage 12s] analyse https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+adobe.com 3001 1 ok https://adobe.com/homepage/fragments/loggedout/redesign/default/customer-testimonials/customer-testimonials
+SITE DONE adobe.com@p510
+  [stage 0s] goto https://gamma.app/
+  [stage 7s] idle https://gamma.app/
+  [stage 19s] scroll https://gamma.app/
+  [stage 24s] gates https://gamma.app/
+  [stage 24s] dom https://gamma.app/
+  [stage 25s] dom done 844 https://gamma.app/
+  [stage 25s] shot https://gamma.app/
+  [stage 27s] interact https://gamma.app/
+  [stage 98s] analyse https://gamma.app/
+gamma.app 3001 9 ok https://gamma.app/
+  [stage 0s] goto https://gamma.app/products/api
+  [stage 3s] idle https://gamma.app/products/api
+  [stage 7s] scroll https://gamma.app/products/api
+  [stage 10s] gates https://gamma.app/products/api
+  [stage 10s] dom https://gamma.app/products/api
+  [stage 11s] dom done 324 https://gamma.app/products/api
+  [stage 11s] shot https://gamma.app/products/api
+  [stage 12s] interact https://gamma.app/products/api
+  [stage 75s] analyse https://gamma.app/products/api
+gamma.app 3002 9 ok https://gamma.app/products/api
+  [stage 0s] goto https://gamma.app/products/documents
+  [stage 5s] idle https://gamma.app/products/documents
+  [stage 17s] scroll https://gamma.app/products/documents
+  [stage 20s] gates https://gamma.app/products/documents
+  [stage 20s] dom https://gamma.app/products/documents
+  [stage 21s] dom done 259 https://gamma.app/products/documents
+  [stage 21s] shot https://gamma.app/products/documents
+  [stage 22s] interact https://gamma.app/products/documents
+  [stage 64s] analyse https://gamma.app/products/documents
+gamma.app 3003 9 ok https://gamma.app/products/documents
+  [stage 0s] goto https://gamma.app/integrations
+  [stage 3s] idle https://gamma.app/integrations
+  [stage 8s] scroll https://gamma.app/integrations
+  [stage 12s] gates https://gamma.app/integrations
+  [stage 12s] dom https://gamma.app/integrations
+  [stage 13s] dom done 840 https://gamma.app/integrations
+  [stage 13s] shot https://gamma.app/integrations
+  [stage 15s] interact https://gamma.app/integrations
+  [stage 43s] analyse https://gamma.app/integrations
+gamma.app 3004 9 ok https://gamma.app/integrations
+  [stage 0s] goto https://gamma.app/integrations/chatgpt
+  [stage 4s] idle https://gamma.app/integrations/chatgpt
+  [stage 9s] scroll https://gamma.app/integrations/chatgpt
+  [stage 12s] gates https://gamma.app/integrations/chatgpt
+  [stage 12s] dom https://gamma.app/integrations/chatgpt
+  [stage 12s] dom done 229 https://gamma.app/integrations/chatgpt
+  [stage 12s] shot https://gamma.app/integrations/chatgpt
+  [stage 13s] interact https://gamma.app/integrations/chatgpt
+  [stage 46s] analyse https://gamma.app/integrations/chatgpt
+gamma.app 3005 9 ok https://gamma.app/integrations/chatgpt
+  [stage 0s] goto https://gamma.app/solutions/consultants
+  [stage 7s] idle https://gamma.app/solutions/consultants
+  [stage 11s] scroll https://gamma.app/solutions/consultants
+  [stage 14s] gates https://gamma.app/solutions/consultants
+  [stage 15s] dom https://gamma.app/solutions/consultants
+  [stage 15s] dom done 450 https://gamma.app/solutions/consultants
+  [stage 15s] shot https://gamma.app/solutions/consultants
+  [stage 17s] interact https://gamma.app/solutions/consultants
+  [stage 43s] analyse https://gamma.app/solutions/consultants
+gamma.app 3006 9 ok https://gamma.app/solutions/consultants
+  [stage 0s] goto https://gamma.app/solutions/educators
+  [stage 4s] idle https://gamma.app/solutions/educators
+  [stage 8s] scroll https://gamma.app/solutions/educators
+  [stage 12s] gates https://gamma.app/solutions/educators
+  [stage 12s] dom https://gamma.app/solutions/educators
+  [stage 12s] dom done 441 https://gamma.app/solutions/educators
+  [stage 12s] shot https://gamma.app/solutions/educators
+  [stage 14s] interact https://gamma.app/solutions/educators
+  [stage 38s] analyse https://gamma.app/solutions/educators
+gamma.app 3007 9 ok https://gamma.app/solutions/educators
+  [stage 0s] goto https://gamma.app/about
+  [stage 6s] idle https://gamma.app/about
+  [stage 15s] scroll https://gamma.app/about
+  [stage 19s] gates https://gamma.app/about
+  [stage 19s] dom https://gamma.app/about
+  [stage 19s] dom done 341 https://gamma.app/about
+  [stage 19s] shot https://gamma.app/about
+  [stage 21s] interact https://gamma.app/about
+  [stage 58s] analyse https://gamma.app/about
+gamma.app 3008 9 ok https://gamma.app/about
+  [stage 0s] goto https://gamma.app/pricing
+  [stage 0s] goto https://gamma.app/pricing
+gamma.app 3009 9 needs_fleet https://gamma.app/pricing
+SITE DONE gamma.app@p510
+  [stage 0s] goto https://malt.com/
+  [stage 0s] goto https://malt.com/
+Traceback (most recent call last):
+  File "C:\Users\under\Downloads\UI_LIBRARY_V2\elite-fleet\elite_run.py", line 104, in <module>
+    asyncio.run(main(sys.argv[1:]))
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\under\Downloads\UI_LIBRARY_V2\elite-fleet\elite_run.py", line 99, in main
+    await run_site(pw, d)
+  File "C:\Users\under\Downloads\UI_LIBRARY_V2\elite-fleet\elite_run.py", line 89, in run_site
+    rclone('copyto', str(log), '%s/%s/%s' % (R2, domain, log.name))
+  File "C:\Users\under\Downloads\UI_LIBRARY_V2\elite-fleet\elite_run.py", line 33, in rclone
+    return subprocess.run([os.environ.get('ELITE_RCLONE', 'rclone'), *a], capture_output=True, text=True, timeout=900)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 550, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1209, in communicate
+    stdout, stderr = self._communicate(input, endtime, timeout)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\under\AppData\Local\Programs\Python\Python312\Lib\subprocess.py", line 1630, in _communicate
+    raise TimeoutExpired(self.args, orig_timeout)
+subprocess.TimeoutExpired: Command '['C:/Users/under/bin/rclone.exe', 'copyto', 'C:\\Users\\under\\Downloads\\UI_LIBRARY_V2\\elite-fleet\\work\\malt.com\\run.p510.jsonl', 'r2:enterprise-canon/ui-library-elite/malt.com/run.p510.jsonl']' timed out after 900 seconds
+== exited 1 Fri Nov  6 15:24:54 GMTST 2026, restarting
+== start 2 Fri Nov  6 15:25:55 GMTST 2026
+SITE DONE whoop.com@p510
+SITE DONE alltrails.com@p510
+SITE DONE hydrow.com@p510
+SITE DONE walmart.com@p510
+SITE DONE adobe.com@p510
+SITE DONE gamma.app@p510
+  [stage 0s] goto https://malt.com/freelancer
+  [stage 0s] goto https://malt.com/freelancer
+malt.com 3002 14 needs_fleet https://malt.com/freelancer
+  [stage 0s] goto https://malt.com/platform/analytics-reporting
+  [stage 0s] goto https://malt.com/platform/analytics-reporting
+malt.com 3003 14 needs_fleet https://malt.com/platform/analytics-reporting
+  [stage 0s] goto https://malt.com/platform/compliance
+  [stage 0s] goto https://malt.com/platform/compliance
+malt.com 3004 14 needs_fleet https://malt.com/platform/compliance
+  [stage 0s] goto https://malt.com/c/about-us
+  [stage 0s] goto https://malt.com/c/about-us
+malt.com 3005 14 needs_fleet https://malt.com/c/about-us
+  [stage 0s] goto https://malt.com/c/call-back
+  [stage 0s] goto https://malt.com/c/call-back
+malt.com 3006 14 needs_fleet https://malt.com/c/call-back
+  [stage 0s] goto https://malt.com/solutions/centralizing-independent-workforce
+  [stage 0s] goto https://malt.com/solutions/centralizing-independent-workforce
+malt.com 3007 14 needs_fleet https://malt.com/solutions/centralizing-independent-workforce
+  [stage 0s] goto https://malt.com/solutions/ceo-founders
+  [stage 0s] goto https://malt.com/solutions/ceo-founders
+malt.com 3008 14 needs_fleet https://malt.com/solutions/ceo-founders
+  [stage 0s] goto https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 0s] goto https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+malt.com 3009 14 needs_fleet https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 0s] goto https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 0s] goto https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+malt.com 3010 14 needs_fleet https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 0s] goto https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 0s] goto https://malt.com/a/freelance/business-consulting/ai-consultant
+malt.com 3011 14 needs_fleet https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 0s] goto https://malt.com/a/freelance/communication/copywriter
+  [stage 0s] goto https://malt.com/a/freelance/communication/copywriter
+malt.com 3012 14 needs_fleet https://malt.com/a/freelance/communication/copywriter
+  [stage 0s] goto https://malt.com/sitemap
+  [stage 0s] goto https://malt.com/sitemap
+malt.com 3013 14 needs_fleet https://malt.com/sitemap
+  [stage 0s] goto https://help.malt.com/kb/en
+  [stage 0s] goto https://help.malt.com/kb/en
+malt.com 3014 14 needs_fleet https://help.malt.com/kb/en
+SITE DONE malt.com@p510
+  [stage 0s] goto https://patreon.com/
+  [stage 0s] goto https://patreon.com/
+patreon.com 3001 19 needs_fleet https://patreon.com/
+  [stage 0s] goto https://patreon.com/collection/1334102
+  [stage 0s] goto https://patreon.com/collection/1334102
+patreon.com 3002 19 needs_fleet https://patreon.com/collection/1334102
+  [stage 0s] goto https://patreon.com/collection/1489797
+  [stage 0s] goto https://patreon.com/collection/1489797
+patreon.com 3003 19 needs_fleet https://patreon.com/collection/1489797
+  [stage 0s] goto https://patreon.com/create
+  [stage 0s] goto https://patreon.com/create
+patreon.com 3004 19 needs_fleet https://patreon.com/create
+  [stage 0s] goto https://patreon.com/pricing
+  [stage 0s] goto https://patreon.com/pricing
+patreon.com 3005 19 needs_fleet https://patreon.com/pricing
+  [stage 0s] goto https://patreon.com/creators/gaming
+  [stage 0s] goto https://patreon.com/creators/gaming
+patreon.com 3006 19 needs_fleet https://patreon.com/creators/gaming
+  [stage 0s] goto https://patreon.com/creators/music
+  [stage 0s] goto https://patreon.com/creators/music
+patreon.com 3007 19 needs_fleet https://patreon.com/creators/music
+  [stage 0s] goto https://patreon.com/product/create
+  [stage 0s] goto https://patreon.com/product/create
+patreon.com 3008 19 needs_fleet https://patreon.com/product/create
+  [stage 0s] goto https://patreon.com/product/digital-products
+  [stage 0s] goto https://patreon.com/product/digital-products
+patreon.com 3009 19 needs_fleet https://patreon.com/product/digital-products
+  [stage 0s] goto https://patreon.com/cw/PatreonforCreators
+  [stage 0s] goto https://patreon.com/cw/PatreonforCreators
+patreon.com 3010 19 needs_fleet https://patreon.com/cw/PatreonforCreators
+  [stage 0s] goto https://patreon.com/apps
+  [stage 0s] goto https://patreon.com/apps
+patreon.com 3011 19 needs_fleet https://patreon.com/apps
+  [stage 0s] goto https://patreon.com/mobile
+  [stage 0s] goto https://patreon.com/mobile
+patreon.com 3012 19 needs_fleet https://patreon.com/mobile
+  [stage 0s] goto https://patreon.com/cw/00Ambile
+  [stage 0s] goto https://patreon.com/cw/00Ambile
+patreon.com 3013 19 needs_fleet https://patreon.com/cw/00Ambile
+  [stage 0s] goto https://patreon.com/0073uv
+  [stage 0s] goto https://patreon.com/0073uv
+patreon.com 3014 19 needs_fleet https://patreon.com/0073uv
+  [stage 0s] goto https://patreon.com/events
+  [stage 0s] goto https://patreon.com/events
+patreon.com 3015 19 needs_fleet https://patreon.com/events
+  [stage 0s] goto https://patreon.com/press
+  [stage 0s] goto https://patreon.com/press
+patreon.com 3016 19 needs_fleet https://patreon.com/press
+  [stage 0s] goto https://patreon.com/stories
+  [stage 0s] goto https://patreon.com/stories
+patreon.com 3017 19 needs_fleet https://patreon.com/stories
+  [stage 0s] goto https://patreon.com/t
+  [stage 0s] goto https://patreon.com/t
+patreon.com 3018 19 needs_fleet https://patreon.com/t
+  [stage 0s] goto https://patreon.com/events/hot-topics-doubt
+  [stage 4s] idle https://patreon.com/events/hot-topics-doubt
+  [stage 12s] scroll https://patreon.com/events/hot-topics-doubt
+  [stage 14s] gates https://patreon.com/events/hot-topics-doubt
+  [stage 14s] dom https://patreon.com/events/hot-topics-doubt
+  [stage 14s] dom done 269 https://patreon.com/events/hot-topics-doubt
+  [stage 14s] shot https://patreon.com/events/hot-topics-doubt
+  [stage 16s] interact https://patreon.com/events/hot-topics-doubt
+  [stage 32s] analyse https://patreon.com/events/hot-topics-doubt
+patreon.com 3019 19 ok https://patreon.com/events/hot-topics-doubt
+SITE DONE patreon.com@p510
+  [stage 0s] goto https://getjobber.com/plus
+  [stage 5s] idle https://getjobber.com/plus
+  [stage 17s] scroll https://getjobber.com/plus
+  [stage 22s] gates https://getjobber.com/plus
+  [stage 33s] dom https://getjobber.com/plus
+  [stage 33s] dom done 59 https://getjobber.com/plus
+  [stage 33s] shot https://getjobber.com/plus
+  [stage 34s] interact https://getjobber.com/plus
+  [stage 35s] analyse https://getjobber.com/plus
+getjobber.com 3001 4 ok https://getjobber.com/plus
+  [stage 0s] goto https://getjobber.com/podcast
+  [stage 11s] idle https://getjobber.com/podcast
+  [stage 23s] scroll https://getjobber.com/podcast
+  [stage 39s] gates https://getjobber.com/podcast
+  [stage 39s] dom https://getjobber.com/podcast
+  [stage 41s] dom done 1547 https://getjobber.com/podcast
+  [stage 41s] shot https://getjobber.com/podcast
+  [stage 55s] interact https://getjobber.com/podcast
+  [stage 80s] analyse https://getjobber.com/podcast
+getjobber.com 3002 4 ok https://getjobber.com/podcast
+  [stage 0s] goto https://getjobber.com/sign-up
+  [stage 2s] idle https://getjobber.com/sign-up
+  [stage 14s] scroll https://getjobber.com/sign-up
+  [stage 17s] gates https://getjobber.com/sign-up
+  [stage 17s] dom https://getjobber.com/sign-up
+  [stage 17s] dom done 52 https://getjobber.com/sign-up
+  [stage 17s] shot https://getjobber.com/sign-up
+  [stage 17s] interact https://getjobber.com/sign-up
+  [stage 19s] analyse https://getjobber.com/sign-up
+getjobber.com 3003 4 ok https://getjobber.com/sign-up
+  [stage 0s] goto https://getjobber.com/security
+  [stage 6s] idle https://getjobber.com/security
+  [stage 18s] scroll https://getjobber.com/security
+  [stage 21s] gates https://getjobber.com/security
+  [stage 21s] dom https://getjobber.com/security
+  [stage 21s] dom done 76 https://getjobber.com/security
+  [stage 21s] shot https://getjobber.com/security
+  [stage 21s] interact https://getjobber.com/security
+  [stage 25s] analyse https://getjobber.com/security
+getjobber.com 3004 4 ok https://getjobber.com/security
+SITE DONE getjobber.com@p510
+  [stage 0s] goto https://lovable.dev/
+  [stage 1s] idle https://lovable.dev/
+  [stage 13s] scroll https://lovable.dev/
+  [stage 17s] gates https://lovable.dev/
+  [stage 17s] dom https://lovable.dev/
+  [stage 18s] dom done 602 https://lovable.dev/
+  [stage 18s] shot https://lovable.dev/
+  [stage 21s] interact https://lovable.dev/
+  [stage 66s] analyse https://lovable.dev/
+lovable.dev 3001 1 ok https://lovable.dev/
+SITE DONE lovable.dev@p510
+  [stage 0s] goto https://deeplearning.ai/
+  [stage 2s] idle https://deeplearning.ai/
+  [stage 7s] scroll https://deeplearning.ai/
+  [stage 12s] gates https://deeplearning.ai/
+  [stage 12s] dom https://deeplearning.ai/
+  [stage 13s] dom done 441 https://deeplearning.ai/
+  [stage 13s] shot https://deeplearning.ai/
+  [stage 14s] interact https://deeplearning.ai/
+  [stage 34s] analyse https://deeplearning.ai/
+deeplearning.ai 3001 8 ok https://deeplearning.ai/
+  [stage 0s] goto https://deeplearning.ai/courses
+  [stage 4s] idle https://deeplearning.ai/courses
+  [stage 8s] scroll https://deeplearning.ai/courses
+  [stage 19s] gates https://deeplearning.ai/courses
+  [stage 19s] dom https://deeplearning.ai/courses
+  [stage 25s] dom done 3479 https://deeplearning.ai/courses
+  [stage 25s] shot https://deeplearning.ai/courses
+  [stage 30s] interact https://deeplearning.ai/courses
+  [stage 90s] analyse https://deeplearning.ai/courses
+deeplearning.ai 3002 8 ok https://deeplearning.ai/courses
+  [stage 0s] goto https://deeplearning.ai/community
+  [stage 2s] idle https://deeplearning.ai/community
+  [stage 6s] scroll https://deeplearning.ai/community
+  [stage 9s] gates https://deeplearning.ai/community
+  [stage 9s] dom https://deeplearning.ai/community
+  [stage 9s] dom done 123 https://deeplearning.ai/community
+  [stage 9s] shot https://deeplearning.ai/community
+  [stage 10s] interact https://deeplearning.ai/community
+  [stage 17s] analyse https://deeplearning.ai/community
+deeplearning.ai 3003 8 ok https://deeplearning.ai/community
+  [stage 0s] goto https://deeplearning.ai/about
+  [stage 2s] idle https://deeplearning.ai/about
+  [stage 6s] scroll https://deeplearning.ai/about
+  [stage 16s] gates https://deeplearning.ai/about
+  [stage 16s] dom https://deeplearning.ai/about
+  [stage 17s] dom done 232 https://deeplearning.ai/about
+  [stage 17s] shot https://deeplearning.ai/about
+  [stage 20s] interact https://deeplearning.ai/about
+  [stage 76s] analyse https://deeplearning.ai/about
+deeplearning.ai 3004 8 ok https://deeplearning.ai/about
+  [stage 0s] goto https://deeplearning.ai/forum/community-programs
+  [stage 4s] idle https://deeplearning.ai/forum/community-programs
+  [stage 8s] scroll https://deeplearning.ai/forum/community-programs
+  [stage 11s] gates https://deeplearning.ai/forum/community-programs
+  [stage 11s] dom https://deeplearning.ai/forum/community-programs
+  [stage 11s] dom done 138 https://deeplearning.ai/forum/community-programs
+  [stage 11s] shot https://deeplearning.ai/forum/community-programs
+  [stage 12s] interact https://deeplearning.ai/forum/community-programs
+  [stage 19s] analyse https://deeplearning.ai/forum/community-programs
+deeplearning.ai 3005 8 ok https://deeplearning.ai/forum/community-programs
+  [stage 0s] goto https://deeplearning.ai/forum/mentors
+  [stage 2s] idle https://deeplearning.ai/forum/mentors
+  [stage 9s] scroll https://deeplearning.ai/forum/mentors
+  [stage 12s] gates https://deeplearning.ai/forum/mentors
+  [stage 12s] dom https://deeplearning.ai/forum/mentors
+  [stage 12s] dom done 135 https://deeplearning.ai/forum/mentors
+  [stage 12s] shot https://deeplearning.ai/forum/mentors
+  [stage 13s] interact https://deeplearning.ai/forum/mentors
+  [stage 20s] analyse https://deeplearning.ai/forum/mentors
+deeplearning.ai 3006 8 ok https://deeplearning.ai/forum/mentors
+  [stage 0s] goto https://deeplearning.ai/specializations/ai-for-good
+  [stage 2s] idle https://deeplearning.ai/specializations/ai-for-good
+  [stage 11s] scroll https://deeplearning.ai/specializations/ai-for-good
+  [stage 16s] gates https://deeplearning.ai/specializations/ai-for-good
+  [stage 16s] dom https://deeplearning.ai/specializations/ai-for-good
+  [stage 17s] dom done 599 https://deeplearning.ai/specializations/ai-for-good
+  [stage 17s] shot https://deeplearning.ai/specializations/ai-for-good
+  [stage 18s] interact https://deeplearning.ai/specializations/ai-for-good
+  [stage 127s] analyse https://deeplearning.ai/specializations/ai-for-good
+deeplearning.ai 3007 8 ok https://deeplearning.ai/specializations/ai-for-good
+  [stage 0s] goto https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 2s] idle https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 14s] scroll https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 18s] gates https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 18s] dom https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 19s] dom done 526 https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 19s] shot https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 20s] interact https://deeplearning.ai/specializations/ai-for-medicine
+  [stage 156s] analyse https://deeplearning.ai/specializations/ai-for-medicine
+deeplearning.ai 3008 8 ok https://deeplearning.ai/specializations/ai-for-medicine
+SITE DONE deeplearning.ai@p510
+  [stage 0s] goto https://ideogram.ai/contact-sales-form
+  [stage 1s] idle https://ideogram.ai/contact-sales-form
+  [stage 8s] scroll https://ideogram.ai/contact-sales-form
+  [stage 10s] gates https://ideogram.ai/contact-sales-form
+  [stage 16s] dom https://ideogram.ai/contact-sales-form
+  [stage 17s] dom done 535 https://ideogram.ai/contact-sales-form
+  [stage 17s] shot https://ideogram.ai/contact-sales-form
+  [stage 18s] interact https://ideogram.ai/contact-sales-form
+  [stage 222s] analyse https://ideogram.ai/contact-sales-form
+ideogram.ai 3001 2 ok https://ideogram.ai/contact-sales-form
+  [stage 0s] goto https://ideogram.ai/news
+  [stage 2s] idle https://ideogram.ai/news
+  [stage 14s] scroll https://ideogram.ai/news
+  [stage 17s] gates https://ideogram.ai/news
+  [stage 17s] dom https://ideogram.ai/news
+  [stage 17s] dom done 90 https://ideogram.ai/news
+  [stage 17s] shot https://ideogram.ai/news
+  [stage 17s] interact https://ideogram.ai/news
+  [stage 31s] analyse https://ideogram.ai/news
+ideogram.ai 3002 2 ok https://ideogram.ai/news
+SITE DONE ideogram.ai@p510
+  [stage 0s] goto https://myfitnesspal.com/api
+  [stage 2s] idle https://myfitnesspal.com/api
+  [stage 3s] scroll https://myfitnesspal.com/api
+  [stage 5s] gates https://myfitnesspal.com/api
+  [stage 5s] dom https://myfitnesspal.com/api
+  [stage 5s] dom done 32 https://myfitnesspal.com/api
+  [stage 5s] shot https://myfitnesspal.com/api
+  [stage 5s] interact https://myfitnesspal.com/api
+  [stage 7s] analyse https://myfitnesspal.com/api
+myfitnesspal.com 3001 2 ok https://myfitnesspal.com/api
+  [stage 0s] goto https://myfitnesspal.com/account/create/welcome
+  [stage 3s] idle https://myfitnesspal.com/account/create/welcome
+  [stage 6s] scroll https://myfitnesspal.com/account/create/welcome
+  [stage 8s] gates https://myfitnesspal.com/account/create/welcome
+  [stage 10s] dom https://myfitnesspal.com/account/create/welcome
+  [stage 10s] dom done 41 https://myfitnesspal.com/account/create/welcome
+  [stage 10s] shot https://myfitnesspal.com/account/create/welcome
+  [stage 10s] interact https://myfitnesspal.com/account/create/welcome
+  [stage 26s] analyse https://myfitnesspal.com/account/create/welcome
+myfitnesspal.com 3002 2 ok https://myfitnesspal.com/account/create/welcome
+SITE DONE myfitnesspal.com@p510
+  [stage 0s] goto https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 1s] idle https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 1s] scroll https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 3s] gates https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 3s] dom https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 3s] dom done 34 https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 3s] shot https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 3s] interact https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 6s] analyse https://genspark.ai/cdn-cgi/l/email-protection
+genspark.ai 3001 2 ok https://genspark.ai/cdn-cgi/l/email-protection
+  [stage 0s] goto https://genspark.ai/brand
+  [stage 3s] idle https://genspark.ai/brand
+  [stage 8s] scroll https://genspark.ai/brand
+  [stage 10s] gates https://genspark.ai/brand
+  [stage 10s] dom https://genspark.ai/brand
+  [stage 10s] dom done 68 https://genspark.ai/brand
+  [stage 10s] shot https://genspark.ai/brand
+  [stage 10s] interact https://genspark.ai/brand
+  [stage 22s] analyse https://genspark.ai/brand
+genspark.ai 3002 2 ok https://genspark.ai/brand
+SITE DONE genspark.ai@p510
+FINISHED
+== relaunch 11/07/2026 14:29:14 jobs: walmart/patreon/malt p520
+== start 1 Sat Nov  7 14:29:14 GMTST 2026
+  [stage 0s] goto https://walmart.com/my-registries
+  [stage 3s] idle https://walmart.com/my-registries
+  [stage 15s] scroll https://walmart.com/my-registries
+  [stage 17s] gates https://walmart.com/my-registries
+  [stage 17s] dom https://walmart.com/my-registries
+  [stage 0s] goto https://walmart.com/my-registries
+  [stage 2s] idle https://walmart.com/my-registries
+  [stage 14s] scroll https://walmart.com/my-registries
+  [stage 15s] gates https://walmart.com/my-registries
+  [stage 16s] dom https://walmart.com/my-registries
+walmart.com 4001 16 needs_fleet https://walmart.com/my-registries
+  [stage 0s] goto https://walmart.com/orders
+  [stage 2s] idle https://walmart.com/orders
+  [stage 14s] scroll https://walmart.com/orders
+  [stage 16s] gates https://walmart.com/orders
+  [stage 16s] dom https://walmart.com/orders
+  [stage 0s] goto https://walmart.com/orders
+  [stage 4s] idle https://walmart.com/orders
+  [stage 16s] scroll https://walmart.com/orders
+  [stage 17s] gates https://walmart.com/orders
+  [stage 18s] dom https://walmart.com/orders
+walmart.com 4002 16 needs_fleet https://walmart.com/orders
+  [stage 0s] goto https://walmart.com/plus
+  [stage 3s] idle https://walmart.com/plus
+== relaunch 11/07/2026 14:30:51 p521 (built-in getters fix)
+== start 1 Sat Nov  7 14:30:51 GMTST 2026
+  [stage 0s] goto https://walmart.com/my-registries
+  [stage 2s] idle https://walmart.com/my-registries
+  [stage 14s] scroll https://walmart.com/my-registries
+  [stage 16s] gates https://walmart.com/my-registries
+  [stage 16s] dom https://walmart.com/my-registries
+  [stage 16s] dom done 25 https://walmart.com/my-registries
+  [stage 16s] iframe probe 8 frames https://walmart.com/my-registries
+  [stage 19s] shot https://walmart.com/my-registries
+  [stage 19s] interact https://walmart.com/my-registries
+  [stage 19s] analyse https://walmart.com/my-registries
+walmart.com 4001 16 ok https://walmart.com/my-registries
+  [stage 0s] goto https://walmart.com/orders
+  [stage 3s] idle https://walmart.com/orders
+  [stage 15s] scroll https://walmart.com/orders
+  [stage 17s] gates https://walmart.com/orders
+  [stage 17s] dom https://walmart.com/orders
+  [stage 17s] dom done 25 https://walmart.com/orders
+  [stage 17s] iframe probe 8 frames https://walmart.com/orders
+  [stage 19s] shot https://walmart.com/orders
+  [stage 20s] interact https://walmart.com/orders
+  [stage 20s] analyse https://walmart.com/orders
+walmart.com 4002 16 ok https://walmart.com/orders
+  [stage 0s] goto https://walmart.com/plus
+  [stage 2s] idle https://walmart.com/plus
+  [stage 14s] scroll https://walmart.com/plus
+  [stage 16s] gates https://walmart.com/plus
+  [stage 16s] dom https://walmart.com/plus
+  [stage 16s] dom done 25 https://walmart.com/plus
+  [stage 16s] iframe probe 8 frames https://walmart.com/plus
+  [stage 18s] shot https://walmart.com/plus
+  [stage 19s] interact https://walmart.com/plus
+  [stage 19s] analyse https://walmart.com/plus
+walmart.com 4003 16 ok https://walmart.com/plus
+  [stage 0s] goto https://walmart.com/cp/subscriptions/4191733
+  [stage 2s] idle https://walmart.com/cp/subscriptions/4191733
+  [stage 14s] scroll https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] gates https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] dom https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] dom done 25 https://walmart.com/cp/subscriptions/4191733
+  [stage 16s] iframe probe 8 frames https://walmart.com/cp/subscriptions/4191733
+  [stage 19s] shot https://walmart.com/cp/subscriptions/4191733
+  [stage 19s] interact https://walmart.com/cp/subscriptions/4191733
+  [stage 19s] analyse https://walmart.com/cp/subscriptions/4191733
+walmart.com 4004 16 ok https://walmart.com/cp/subscriptions/4191733
+  [stage 0s] goto https://walmart.com/shop/discover-great-brands
+  [stage 2s] idle https://walmart.com/shop/discover-great-brands
+  [stage 14s] scroll https://walmart.com/shop/discover-great-brands
+  [stage 16s] gates https://walmart.com/shop/discover-great-brands
+  [stage 16s] dom https://walmart.com/shop/discover-great-brands
+  [stage 16s] dom done 25 https://walmart.com/shop/discover-great-brands
+  [stage 16s] iframe probe 8 frames https://walmart.com/shop/discover-great-brands
+  [stage 19s] shot https://walmart.com/shop/discover-great-brands
+  [stage 19s] interact https://walmart.com/shop/discover-great-brands
+  [stage 19s] analyse https://walmart.com/shop/discover-great-brands
+walmart.com 4005 16 ok https://walmart.com/shop/discover-great-brands
+  [stage 0s] goto https://walmart.com/all-departments
+  [stage 2s] idle https://walmart.com/all-departments
+  [stage 14s] scroll https://walmart.com/all-departments
+  [stage 16s] gates https://walmart.com/all-departments
+  [stage 16s] dom https://walmart.com/all-departments
+  [stage 16s] dom done 25 https://walmart.com/all-departments
+  [stage 16s] iframe probe 8 frames https://walmart.com/all-departments
+  [stage 18s] shot https://walmart.com/all-departments
+  [stage 18s] interact https://walmart.com/all-departments
+  [stage 18s] analyse https://walmart.com/all-departments
+walmart.com 4006 16 ok https://walmart.com/all-departments
+  [stage 0s] goto https://walmart.com/help
+  [stage 2s] idle https://walmart.com/help
+  [stage 14s] scroll https://walmart.com/help
+  [stage 16s] gates https://walmart.com/help
+  [stage 16s] dom https://walmart.com/help
+  [stage 16s] dom done 25 https://walmart.com/help
+  [stage 16s] iframe probe 8 frames https://walmart.com/help
+  [stage 19s] shot https://walmart.com/help
+  [stage 19s] interact https://walmart.com/help
+  [stage 19s] analyse https://walmart.com/help
+walmart.com 4007 16 ok https://walmart.com/help
+  [stage 0s] goto https://walmart.com/brand/branddirectory
+  [stage 2s] idle https://walmart.com/brand/branddirectory
+  [stage 14s] scroll https://walmart.com/brand/branddirectory
+  [stage 16s] gates https://walmart.com/brand/branddirectory
+  [stage 16s] dom https://walmart.com/brand/branddirectory
+  [stage 16s] dom done 25 https://walmart.com/brand/branddirectory
+  [stage 16s] iframe probe 8 frames https://walmart.com/brand/branddirectory
+  [stage 19s] shot https://walmart.com/brand/branddirectory
+  [stage 19s] interact https://walmart.com/brand/branddirectory
+  [stage 19s] analyse https://walmart.com/brand/branddirectory
+walmart.com 4008 16 ok https://walmart.com/brand/branddirectory
+  [stage 0s] goto https://walmart.com/store/directory
+  [stage 2s] idle https://walmart.com/store/directory
+  [stage 14s] scroll https://walmart.com/store/directory
+  [stage 16s] gates https://walmart.com/store/directory
+  [stage 16s] dom https://walmart.com/store/directory
+  [stage 16s] dom done 25 https://walmart.com/store/directory
+  [stage 16s] iframe probe 8 frames https://walmart.com/store/directory
+  [stage 18s] shot https://walmart.com/store/directory
+  [stage 18s] interact https://walmart.com/store/directory
+  [stage 18s] analyse https://walmart.com/store/directory
+walmart.com 4009 16 ok https://walmart.com/store/directory
+  [stage 0s] goto https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 2s] idle https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 14s] scroll https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] gates https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] dom https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] dom done 10 https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 16s] iframe probe 8 frames https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 19s] shot https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 19s] interact https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 19s] analyse https://business.walmart.com/cp/about-walmart-business/6136230
+walmart.com 4010 16 ok https://business.walmart.com/cp/about-walmart-business/6136230
+  [stage 0s] goto https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 3s] idle https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 15s] scroll https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 16s] gates https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 16s] dom https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 17s] dom done 25 https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 17s] iframe probe 8 frames https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 19s] shot https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 19s] interact https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 19s] analyse https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+walmart.com 4011 16 ok https://walmart.com/help/article/responsible-disclosure-and-accessibility-policies/0f173dab8bd942da84b1cd7ab5ffc3cb
+  [stage 0s] goto https://walmart.com/shop/deals
+  [stage 2s] idle https://walmart.com/shop/deals
+  [stage 14s] scroll https://walmart.com/shop/deals
+  [stage 16s] gates https://walmart.com/shop/deals
+  [stage 16s] dom https://walmart.com/shop/deals
+  [stage 16s] dom done 25 https://walmart.com/shop/deals
+  [stage 16s] iframe probe 8 frames https://walmart.com/shop/deals
+  [stage 19s] shot https://walmart.com/shop/deals
+  [stage 19s] interact https://walmart.com/shop/deals
+  [stage 19s] analyse https://walmart.com/shop/deals
+walmart.com 4012 16 ok https://walmart.com/shop/deals
+  [stage 0s] goto https://walmart.com/c/auto-directory/shop-by-model
+  [stage 3s] idle https://walmart.com/c/auto-directory/shop-by-model
+  [stage 15s] scroll https://walmart.com/c/auto-directory/shop-by-model
+  [stage 17s] gates https://walmart.com/c/auto-directory/shop-by-model
+  [stage 17s] dom https://walmart.com/c/auto-directory/shop-by-model
+  [stage 17s] dom done 25 https://walmart.com/c/auto-directory/shop-by-model
+  [stage 17s] iframe probe 8 frames https://walmart.com/c/auto-directory/shop-by-model
+  [stage 19s] shot https://walmart.com/c/auto-directory/shop-by-model
+  [stage 20s] interact https://walmart.com/c/auto-directory/shop-by-model
+  [stage 20s] analyse https://walmart.com/c/auto-directory/shop-by-model
+walmart.com 4013 16 ok https://walmart.com/c/auto-directory/shop-by-model
+  [stage 0s] goto https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 2s] idle https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 14s] scroll https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] gates https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] dom https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] dom done 25 https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 16s] iframe probe 8 frames https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 19s] shot https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 19s] interact https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 19s] analyse https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+walmart.com 4014 16 ok https://walmart.com/browse/auto-tires/tire-rollbacks/91083_1077064_7859837_1532564
+  [stage 0s] goto https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 2s] idle https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 14s] scroll https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] gates https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] dom https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] dom done 25 https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 16s] iframe probe 8 frames https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 19s] shot https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 19s] interact https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 19s] analyse https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+walmart.com 4015 16 ok https://walmart.com/browse/2-in-1-hair-body-care/best-rated/1005862_8779108/Y3VzdG9tZXJfcmF0aW5nOjQgLSA1IFN0YXJz
+  [stage 0s] goto https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 2s] idle https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 14s] scroll https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] gates https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] dom https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] dom done 25 https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 16s] iframe probe 8 frames https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 19s] shot https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 19s] interact https://walmart.com/c/auto-directory/parts/acura/32cl
+  [stage 19s] analyse https://walmart.com/c/auto-directory/parts/acura/32cl
+walmart.com 4016 16 ok https://walmart.com/c/auto-directory/parts/acura/32cl
+SITE DONE walmart.com@p521
+  [stage 0s] goto https://patreon.com/
+  [stage 2s] idle https://patreon.com/
+  [stage 14s] scroll https://patreon.com/
+  [stage 18s] gates https://patreon.com/
+  [stage 18s] dom https://patreon.com/
+  [stage 19s] dom done 374 https://patreon.com/
+  [stage 19s] shot https://patreon.com/
+  [stage 23s] interact https://patreon.com/
+  [stage 89s] analyse https://patreon.com/
+patreon.com 4001 18 ok https://patreon.com/
+  [stage 0s] goto https://patreon.com/collection/1334102
+  [stage 1s] idle https://patreon.com/collection/1334102
+  [stage 8s] scroll https://patreon.com/collection/1334102
+  [stage 10s] gates https://patreon.com/collection/1334102
+  [stage 11s] dom https://patreon.com/collection/1334102
+  [stage 11s] dom done 837 https://patreon.com/collection/1334102
+  [stage 11s] shot https://patreon.com/collection/1334102
+  [stage 12s] interact https://patreon.com/collection/1334102
+  [stage 93s] analyse https://patreon.com/collection/1334102
+patreon.com 4002 18 ok https://patreon.com/collection/1334102
+  [stage 0s] goto https://patreon.com/collection/1489797
+  [stage 2s] idle https://patreon.com/collection/1489797
+  [stage 7s] scroll https://patreon.com/collection/1489797
+  [stage 9s] gates https://patreon.com/collection/1489797
+  [stage 9s] dom https://patreon.com/collection/1489797
+  [stage 9s] dom done 337 https://patreon.com/collection/1489797
+  [stage 9s] shot https://patreon.com/collection/1489797
+  [stage 10s] interact https://patreon.com/collection/1489797
+  [stage 72s] analyse https://patreon.com/collection/1489797
+patreon.com 4003 18 ok https://patreon.com/collection/1489797
+  [stage 0s] goto https://patreon.com/create
+  [stage 1s] idle https://patreon.com/create
+  [stage 13s] scroll https://patreon.com/create
+  [stage 14s] gates https://patreon.com/create
+  [stage 15s] dom https://patreon.com/create
+  [stage 15s] dom done 103 https://patreon.com/create
+  [stage 15s] shot https://patreon.com/create
+  [stage 15s] interact https://patreon.com/create
+  [stage 71s] analyse https://patreon.com/create
+patreon.com 4004 18 ok https://patreon.com/create
+  [stage 0s] goto https://patreon.com/pricing
+  [stage 3s] idle https://patreon.com/pricing
+  [stage 15s] scroll https://patreon.com/pricing
+  [stage 18s] gates https://patreon.com/pricing
+  [stage 18s] dom https://patreon.com/pricing
+  [stage 19s] dom done 361 https://patreon.com/pricing
+  [stage 19s] shot https://patreon.com/pricing
+  [stage 36s] interact https://patreon.com/pricing
+  [stage 91s] analyse https://patreon.com/pricing
+patreon.com 4005 18 ok https://patreon.com/pricing
+  [stage 0s] goto https://patreon.com/creators/gaming
+  [stage 3s] idle https://patreon.com/creators/gaming
+  [stage 15s] scroll https://patreon.com/creators/gaming
+  [stage 18s] gates https://patreon.com/creators/gaming
+  [stage 18s] dom https://patreon.com/creators/gaming
+  [stage 19s] dom done 302 https://patreon.com/creators/gaming
+  [stage 19s] shot https://patreon.com/creators/gaming
+  [stage 37s] interact https://patreon.com/creators/gaming
+  [stage 161s] analyse https://patreon.com/creators/gaming
+patreon.com 4006 18 ok https://patreon.com/creators/gaming
+  [stage 0s] goto https://patreon.com/creators/music
+  [stage 5s] idle https://patreon.com/creators/music
+  [stage 17s] scroll https://patreon.com/creators/music
+  [stage 21s] gates https://patreon.com/creators/music
+  [stage 21s] dom https://patreon.com/creators/music
+  [stage 21s] dom done 305 https://patreon.com/creators/music
+  [stage 21s] shot https://patreon.com/creators/music
+  [stage 44s] interact https://patreon.com/creators/music
+  [stage 222s] analyse https://patreon.com/creators/music
+patreon.com 4007 18 ok https://patreon.com/creators/music
+  [stage 0s] goto https://patreon.com/product/create
+  [stage 3s] idle https://patreon.com/product/create
+  [stage 15s] scroll https://patreon.com/product/create
+  [stage 19s] gates https://patreon.com/product/create
+  [stage 19s] dom https://patreon.com/product/create
+  [stage 20s] dom done 332 https://patreon.com/product/create
+  [stage 20s] shot https://patreon.com/product/create
+  [stage 22s] interact https://patreon.com/product/create
+  [stage 93s] analyse https://patreon.com/product/create
+patreon.com 4008 18 ok https://patreon.com/product/create
+  [stage 0s] goto https://patreon.com/product/digital-products
+  [stage 2s] idle https://patreon.com/product/digital-products
+  [stage 8s] scroll https://patreon.com/product/digital-products
+  [stage 11s] gates https://patreon.com/product/digital-products
+  [stage 11s] dom https://patreon.com/product/digital-products
+  [stage 12s] dom done 444 https://patreon.com/product/digital-products
+  [stage 12s] shot https://patreon.com/product/digital-products
+  [stage 14s] interact https://patreon.com/product/digital-products
+  [stage 87s] analyse https://patreon.com/product/digital-products
+patreon.com 4009 18 ok https://patreon.com/product/digital-products
+  [stage 0s] goto https://patreon.com/cw/PatreonforCreators
+  [stage 2s] idle https://patreon.com/cw/PatreonforCreators
+  [stage 14s] scroll https://patreon.com/cw/PatreonforCreators
+  [stage 17s] gates https://patreon.com/cw/PatreonforCreators
+  [stage 17s] dom https://patreon.com/cw/PatreonforCreators
+  [stage 22s] dom done 4014 https://patreon.com/cw/PatreonforCreators
+  [stage 22s] shot https://patreon.com/cw/PatreonforCreators
+  [stage 25s] interact https://patreon.com/cw/PatreonforCreators
+  [stage 167s] analyse https://patreon.com/cw/PatreonforCreators
+patreon.com 4010 18 ok https://patreon.com/cw/PatreonforCreators
+  [stage 0s] goto https://patreon.com/apps
+  [stage 2s] idle https://patreon.com/apps
+  [stage 14s] scroll https://patreon.com/apps
+  [stage 18s] gates https://patreon.com/apps
+  [stage 18s] dom https://patreon.com/apps
+  [stage 18s] dom done 508 https://patreon.com/apps
+  [stage 18s] shot https://patreon.com/apps
+  [stage 30s] interact https://patreon.com/apps
+  [stage 173s] analyse https://patreon.com/apps
+patreon.com 4011 18 ok https://patreon.com/apps
+  [stage 0s] goto https://patreon.com/mobile
+  [stage 22s] idle https://patreon.com/mobile
+  [stage 34s] scroll https://patreon.com/mobile
+  [stage 36s] gates https://patreon.com/mobile
+  [stage 36s] dom https://patreon.com/mobile
+  [stage 36s] dom done 196 https://patreon.com/mobile
+  [stage 36s] shot https://patreon.com/mobile
+  [stage 1s] goto https://patreon.com/mobile
+  [stage 23s] idle https://patreon.com/mobile
+  [stage 35s] scroll https://patreon.com/mobile
+  [stage 36s] gates https://patreon.com/mobile
+  [stage 37s] dom https://patreon.com/mobile
+  [stage 37s] dom done 196 https://patreon.com/mobile
+  [stage 37s] shot https://patreon.com/mobile
+patreon.com 4012 18 needs_fleet https://patreon.com/mobile
+  [stage 0s] goto https://patreon.com/cw/00Ambile
+  [stage 3s] idle https://patreon.com/cw/00Ambile
+  [stage 12s] scroll https://patreon.com/cw/00Ambile
+  [stage 14s] gates https://patreon.com/cw/00Ambile
+  [stage 16s] dom https://patreon.com/cw/00Ambile
+  [stage 16s] dom done 115 https://patreon.com/cw/00Ambile
+  [stage 16s] shot https://patreon.com/cw/00Ambile
+  [stage 16s] interact https://patreon.com/cw/00Ambile
+  [stage 57s] analyse https://patreon.com/cw/00Ambile
+patreon.com 4013 18 ok https://patreon.com/cw/00Ambile
+  [stage 0s] goto https://patreon.com/0073uv
+  [stage 9s] idle https://patreon.com/0073uv
+  [stage 18s] scroll https://patreon.com/0073uv
+  [stage 24s] gates https://patreon.com/0073uv
+  [stage 24s] dom https://patreon.com/0073uv
+  [stage 27s] dom done 1761 https://patreon.com/0073uv
+  [stage 27s] shot https://patreon.com/0073uv
+  [stage 36s] interact https://patreon.com/0073uv
+  [stage 277s] analyse https://patreon.com/0073uv
+patreon.com 4014 18 ok https://patreon.com/0073uv
+  [stage 0s] goto https://patreon.com/events
+  [stage 4s] idle https://patreon.com/events
+  [stage 16s] scroll https://patreon.com/events
+  [stage 18s] gates https://patreon.com/events
+  [stage 18s] dom https://patreon.com/events
+  [stage 18s] dom done 213 https://patreon.com/events
+  [stage 18s] shot https://patreon.com/events
+  [stage 28s] interact https://patreon.com/events
+  [stage 44s] analyse https://patreon.com/events
+patreon.com 4015 18 ok https://patreon.com/events
+  [stage 0s] goto https://patreon.com/press
+  [stage 3s] idle https://patreon.com/press
+  [stage 15s] scroll https://patreon.com/press
+  [stage 17s] gates https://patreon.com/press
+  [stage 17s] dom https://patreon.com/press
+  [stage 18s] dom done 257 https://patreon.com/press
+  [stage 18s] shot https://patreon.com/press
+  [stage 27s] interact https://patreon.com/press
+  [stage 42s] analyse https://patreon.com/press
+patreon.com 4016 18 ok https://patreon.com/press
+  [stage 0s] goto https://patreon.com/stories
+  [stage 4s] idle https://patreon.com/stories
+  [stage 16s] scroll https://patreon.com/stories
+  [stage 21s] gates https://patreon.com/stories
+  [stage 21s] dom https://patreon.com/stories
+  [stage 24s] dom done 2355 https://patreon.com/stories
+  [stage 24s] shot https://patreon.com/stories
+  [stage 27s] interact https://patreon.com/stories
+  [stage 214s] analyse https://patreon.com/stories
+patreon.com 4017 18 ok https://patreon.com/stories
+  [stage 0s] goto https://patreon.com/t
+  [stage 6s] idle https://patreon.com/t
+  [stage 10s] scroll https://patreon.com/t
+  [stage 11s] gates https://patreon.com/t
+  [stage 12s] dom https://patreon.com/t
+  [stage 12s] dom done 137 https://patreon.com/t
+  [stage 12s] shot https://patreon.com/t
+  [stage 12s] interact https://patreon.com/t
+  [stage 74s] analyse https://patreon.com/t
+patreon.com 4018 18 ok https://patreon.com/t
+SITE DONE patreon.com@p521
+  [stage 0s] goto https://malt.com/
+  [stage 4s] idle https://malt.com/
+  [stage 9s] scroll https://malt.com/
+  [stage 17s] gates https://malt.com/
+  [stage 19s] dom https://malt.com/
+  [stage 21s] dom done 793 https://malt.com/
+  [stage 21s] shot https://malt.com/
+  [stage 25s] interact https://malt.com/
+  [stage 81s] analyse https://malt.com/
+malt.com 4001 14 ok https://malt.com/
+  [stage 0s] goto https://malt.com/freelancer
+  [stage 3s] idle https://malt.com/freelancer
+  [stage 11s] scroll https://malt.com/freelancer
+  [stage 15s] gates https://malt.com/freelancer
+  [stage 15s] dom https://malt.com/freelancer
+  [stage 15s] dom done 423 https://malt.com/freelancer
+  [stage 15s] shot https://malt.com/freelancer
+  [stage 17s] interact https://malt.com/freelancer
+  [stage 54s] analyse https://malt.com/freelancer
+malt.com 4002 14 ok https://malt.com/freelancer
+  [stage 0s] goto https://malt.com/platform/analytics-reporting
+  [stage 4s] idle https://malt.com/platform/analytics-reporting
+  [stage 9s] scroll https://malt.com/platform/analytics-reporting
+  [stage 13s] gates https://malt.com/platform/analytics-reporting
+  [stage 13s] dom https://malt.com/platform/analytics-reporting
+  [stage 14s] dom done 388 https://malt.com/platform/analytics-reporting
+  [stage 14s] shot https://malt.com/platform/analytics-reporting
+  [stage 14s] interact https://malt.com/platform/analytics-reporting
+  [stage 35s] analyse https://malt.com/platform/analytics-reporting
+malt.com 4003 14 ok https://malt.com/platform/analytics-reporting
+  [stage 0s] goto https://malt.com/platform/compliance
+  [stage 4s] idle https://malt.com/platform/compliance
+  [stage 10s] scroll https://malt.com/platform/compliance
+  [stage 14s] gates https://malt.com/platform/compliance
+  [stage 14s] dom https://malt.com/platform/compliance
+  [stage 15s] dom done 432 https://malt.com/platform/compliance
+  [stage 15s] shot https://malt.com/platform/compliance
+  [stage 16s] interact https://malt.com/platform/compliance
+  [stage 53s] analyse https://malt.com/platform/compliance
+malt.com 4004 14 ok https://malt.com/platform/compliance
+  [stage 0s] goto https://malt.com/c/about-us
+  [stage 5s] idle https://malt.com/c/about-us
+  [stage 17s] scroll https://malt.com/c/about-us
+  [stage 22s] gates https://malt.com/c/about-us
+  [stage 22s] dom https://malt.com/c/about-us
+  [stage 22s] dom done 427 https://malt.com/c/about-us
+  [stage 22s] shot https://malt.com/c/about-us
+  [stage 24s] interact https://malt.com/c/about-us
+  [stage 90s] analyse https://malt.com/c/about-us
+malt.com 4005 14 ok https://malt.com/c/about-us
+  [stage 0s] goto https://malt.com/c/call-back
+  [stage 3s] idle https://malt.com/c/call-back
+  [stage 7s] scroll https://malt.com/c/call-back
+  [stage 10s] gates https://malt.com/c/call-back
+  [stage 10s] dom https://malt.com/c/call-back
+  [stage 11s] dom done 288 https://malt.com/c/call-back
+  [stage 11s] shot https://malt.com/c/call-back
+  [stage 11s] interact https://malt.com/c/call-back
+  [stage 29s] analyse https://malt.com/c/call-back
+malt.com 4006 14 ok https://malt.com/c/call-back
+  [stage 0s] goto https://malt.com/solutions/centralizing-independent-workforce
+  [stage 2s] idle https://malt.com/solutions/centralizing-independent-workforce
+  [stage 6s] scroll https://malt.com/solutions/centralizing-independent-workforce
+  [stage 12s] gates https://malt.com/solutions/centralizing-independent-workforce
+  [stage 12s] dom https://malt.com/solutions/centralizing-independent-workforce
+  [stage 13s] dom done 398 https://malt.com/solutions/centralizing-independent-workforce
+  [stage 13s] shot https://malt.com/solutions/centralizing-independent-workforce
+  [stage 14s] interact https://malt.com/solutions/centralizing-independent-workforce
+  [stage 32s] analyse https://malt.com/solutions/centralizing-independent-workforce
+malt.com 4007 14 ok https://malt.com/solutions/centralizing-independent-workforce
+  [stage 0s] goto https://malt.com/solutions/ceo-founders
+  [stage 4s] idle https://malt.com/solutions/ceo-founders
+  [stage 9s] scroll https://malt.com/solutions/ceo-founders
+  [stage 14s] gates https://malt.com/solutions/ceo-founders
+  [stage 14s] dom https://malt.com/solutions/ceo-founders
+  [stage 15s] dom done 394 https://malt.com/solutions/ceo-founders
+  [stage 15s] shot https://malt.com/solutions/ceo-founders
+  [stage 17s] interact https://malt.com/solutions/ceo-founders
+  [stage 35s] analyse https://malt.com/solutions/ceo-founders
+malt.com 4008 14 ok https://malt.com/solutions/ceo-founders
+  [stage 0s] goto https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 2s] idle https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 14s] scroll https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 16s] gates https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 16s] dom https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 16s] dom done 8 https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 16s] iframe probe 2 frames https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 19s] shot https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 19s] interact https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 19s] analyse https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+malt.com 4009 14 ok https://malt.com/s/tags/ai-agent-69cf759aaff77f733a6b296a
+  [stage 0s] goto https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 2s] idle https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 14s] scroll https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 16s] gates https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 16s] dom https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 16s] dom done 8 https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 16s] iframe probe 2 frames https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 19s] shot https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 19s] interact https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 19s] analyse https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+malt.com 4010 14 ok https://malt.com/s/tags/intelligence-artificielle-602fdd438754972435c21501
+  [stage 0s] goto https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 7s] idle https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 12s] scroll https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 16s] gates https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 16s] dom https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 18s] dom done 984 https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 18s] shot https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 19s] interact https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 247s] analyse https://malt.com/a/freelance/business-consulting/ai-consultant
+malt.com 4011 14 ok https://malt.com/a/freelance/business-consulting/ai-consultant
+  [stage 0s] goto https://malt.com/a/freelance/communication/copywriter
+  [stage 4s] idle https://malt.com/a/freelance/communication/copywriter
+  [stage 10s] scroll https://malt.com/a/freelance/communication/copywriter
+  [stage 15s] gates https://malt.com/a/freelance/communication/copywriter
+  [stage 15s] dom https://malt.com/a/freelance/communication/copywriter
+  [stage 17s] dom done 1217 https://malt.com/a/freelance/communication/copywriter
+  [stage 17s] shot https://malt.com/a/freelance/communication/copywriter
+  [stage 18s] interact https://malt.com/a/freelance/communication/copywriter
+  [stage 250s] analyse https://malt.com/a/freelance/communication/copywriter
+malt.com 4012 14 ok https://malt.com/a/freelance/communication/copywriter
+  [stage 0s] goto https://malt.com/sitemap
+  [stage 6s] idle https://malt.com/sitemap
+  [stage 10s] scroll https://malt.com/sitemap
+  [stage 12s] gates https://malt.com/sitemap
+  [stage 12s] dom https://malt.com/sitemap
+  [stage 13s] dom done 300 https://malt.com/sitemap
+  [stage 13s] shot https://malt.com/sitemap
+  [stage 13s] interact https://malt.com/sitemap
+  [stage 51s] analyse https://malt.com/sitemap
+malt.com 4013 14 ok https://malt.com/sitemap
+  [stage 0s] goto https://help.malt.com/kb/en
+  [stage 3s] idle https://help.malt.com/kb/en
+  [stage 5s] scroll https://help.malt.com/kb/en
+  [stage 6s] gates https://help.malt.com/kb/en
+  [stage 7s] dom https://help.malt.com/kb/en
+  [stage 7s] dom done 39 https://help.malt.com/kb/en
+  [stage 7s] iframe probe 3 frames https://help.malt.com/kb/en
+  [stage 10s] shot https://help.malt.com/kb/en
+  [stage 10s] interact https://help.malt.com/kb/en
+  [stage 10s] analyse https://help.malt.com/kb/en
+malt.com 4014 14 ok https://help.malt.com/kb/en
+SITE DONE malt.com@p521
+FINISHED
