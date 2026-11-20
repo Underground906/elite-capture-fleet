@@ -1,0 +1,5 @@
+3005	https://tonal.com/collections/performance-shop
+3006	https://tonal.com/pages/membership
+3007	https://tonal.com/pages/coaches
+3008	https://tonal.com/pages/workouts
+3009	https://tonal.com/pages/training-programs

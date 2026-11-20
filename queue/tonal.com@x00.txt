@@ -1,0 +1,5 @@
+3000	https://tonal.com/products/tonal-2
+3001	https://tonal.com/products/tonal-1-certified-refurbished
+3002	https://tonal.com/pages/meet-tonal
+3003	https://tonal.com/products/tonal-2-glacier
+3004	https://tonal.com/collections/accessories

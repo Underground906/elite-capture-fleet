@@ -1,0 +1,5 @@
+3010	https://tonal.com/pages/personalized-training
+3011	https://tonal.com/pages/installation
+3012	https://tonal.com/pages/equipment-overview
+3013	https://tonal.com/pages/member-stories
+3014	https://tonal.com/blogs/all
