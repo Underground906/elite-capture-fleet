@@ -1,0 +1,5 @@
+3005	https://www.tidio.com/ai-agent/lyro-guidance/
+3006	https://www.tidio.com/ai-agent/lyro-actions/
+3007	https://www.tidio.com/ai-agent/playground/
+3008	https://roi-calculator.tidio.com/
+3009	https://copilot.tidio.com/

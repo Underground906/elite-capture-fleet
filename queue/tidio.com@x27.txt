@@ -1,0 +1,5 @@
+3135	https://www.tidio.com/integrations/category/ai-llms/
+3136	https://www.tidio.com/integrations/category/api/
+3137	https://www.tidio.com/integrations/category/advertising/
+3138	https://www.tidio.com/integrations/category/analytics/
+3139	https://www.tidio.com/integrations/category/cms/

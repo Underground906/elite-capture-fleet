@@ -1,0 +1,5 @@
+3050	https://help.tidio.com/hc/en-us
+3051	https://www.tidio.com/blog/
+3052	https://www.tidio.com/partners/
+3053	https://www.tidio.com/resources/
+3054	https://www.tidio.com/resources/ebooks/ecommerce-ai-agents/

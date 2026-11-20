@@ -1,0 +1,5 @@
+3000	https://www.tidioagents.ai/
+3001	https://www.tidio.com/ai-agent/
+3002	https://www.tidio.com/ai-agent/trust-and-quality/
+3003	https://www.tidio.com/ai-agent/build-and-integrate/
+3004	https://www.tidio.com/ai-agent/product-recommendations/

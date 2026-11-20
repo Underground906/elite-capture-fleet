@@ -1,0 +1,5 @@
+3060	https://www.tidio.com/resources/podcasts/
+3061	https://www.tidio.com/resources/webinars/
+3062	https://www.tidio.com/vs/manychat/
+3063	https://www.tidio.com/vs/intercom/
+3064	https://www.tidio.com/vs/zendesk/

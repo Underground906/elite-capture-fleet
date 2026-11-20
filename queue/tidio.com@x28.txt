@@ -1,0 +1,2 @@
+3140	https://academy.tidio.com/reset-password
+3141	https://academy.tidio.com/register

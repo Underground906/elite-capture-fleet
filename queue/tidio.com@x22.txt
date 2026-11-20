@@ -1,0 +1,5 @@
+3110	https://www.tidioagents.ai/about
+3111	https://www.tidioagents.ai/how-it-works
+3112	https://www.tidioagents.ai/area-of-expertise
+3113	https://www.tidioagents.ai/case-studies
+3114	https://www.tidioagents.ai/industries

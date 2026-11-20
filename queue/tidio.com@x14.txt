@@ -1,0 +1,5 @@
+3070	https://www.tidio.com/vs/freshdesk/
+3071	https://www.tidio.com/vs/help-scout/
+3072	https://help.tidio.com/hc/en-us/sections/5377985735708-Install-Tidio
+3073	https://help.tidio.com/hc/en-us/sections/16681312167708-Get-Started
+3074	https://help.tidio.com/hc/en-us/sections/5744791598876-Widget-Customization

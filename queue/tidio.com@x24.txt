@@ -1,0 +1,5 @@
+3120	https://www.tidio.com/integrations/15five/
+3121	https://www.tidio.com/integrations/2checkout/
+3122	https://www.tidio.com/integrations/adp/
+3123	https://www.tidio.com/integrations/aws-bedrock/
+3124	https://www.tidio.com/integrations/aws-cloudfront/

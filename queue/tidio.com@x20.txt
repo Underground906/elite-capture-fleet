@@ -1,0 +1,5 @@
+3100	https://www.tidio.com/llm-info/
+3101	https://help.tidio.com/
+3102	https://developers.tidio.com/
+3103	https://status.tidio.com/
+3104	https://updates.tidio.com/en

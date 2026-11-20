@@ -1,0 +1,5 @@
+3080	https://help.tidio.com/hc/en-us/sections/5378011044252-Integrations
+3081	https://help.tidio.com/hc/en-us/sections/5378029354012-Billing-Subscription
+3082	https://help.tidio.com/hc/en-us/sections/5378054692252-Mobile-Desktop-App
+3083	https://www.tidio.com/faq/
+3084	https://www.tidio.com/blog/ai-chatbot/

@@ -1,0 +1,5 @@
+3040	https://www.tidio.com/solutions/customer-service/
+3041	https://www.tidio.com/solutions/marketing-and-sales/
+3042	https://www.tidio.com/industry/ecommerce/
+3043	https://www.tidio.com/industry/services/
+3044	https://www.tidio.com/industry/education/

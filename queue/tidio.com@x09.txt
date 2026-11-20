@@ -1,0 +1,5 @@
+3045	https://www.tidio.com/industry/finance/
+3046	https://www.tidio.com/industry/saas/
+3047	https://www.tidio.com/industry/travel/
+3048	https://academy.tidio.com/
+3049	https://www.tidio.com/resources/comparisons/

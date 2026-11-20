@@ -1,0 +1,5 @@
+3095	https://www.tidio.com/contact/
+3096	https://careers.tidio.com/
+3097	https://www.tidio.com/security/
+3098	https://www.tidio.com/reviews/
+3099	https://www.tidio.com/newsroom/

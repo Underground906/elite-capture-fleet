@@ -1,0 +1,5 @@
+3010	https://www.tidio.com/customers/cove/
+3011	https://www.tidio.com/tidio-premium/
+3012	https://www.tidio.com/contact-sales/
+3013	https://www.tidio.com/live-chat/
+3014	https://www.tidio.com/help-desk/
